@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Obsidian workspace state (machine-specific, don't commit)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Obsidian plugins (install locally, not tracked)
+.obsidian/plugins/
+
+# Temporary & lock files
+*.tmp
+*.lock
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+# Editor artifacts
+.vscode/
+*.swp
+*.swo
+
+# Node (if any scripts are added later)
+node_modules/
+npm-debug.log*
