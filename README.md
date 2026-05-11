@@ -170,18 +170,6 @@ The `.md` files are plain Markdown and render correctly on GitHub, in VS Code, o
 
 ---
 
-## `.gitignore` Suggestion
-
-```
-.DS_Store
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-```
-
-The rest of `.obsidian/` (themes, graph settings, plugins) is worth committing so your classmates get your setup when they clone the repo.
-
----
-
 ## Contributing
 
 Found an error, want to add a chapter, or have a better practice question? Pull requests are welcome. If you're in the same class, feel free to fork this and add your own annotations on top.
