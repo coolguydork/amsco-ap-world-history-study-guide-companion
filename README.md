@@ -2,7 +2,7 @@
 
 > Free, open-source AP World History study notes, Cornell Notes PDFs, PowerPoint review slides, and practice questions — built from the **AMSCO *AP World History: Modern*** textbook. Covers all AP exam essay types: **SAQ, LEQ, DBQ, CCOT**. Organized for use as an **Obsidian vault** with wikilinks and graph view.
 
-**Keywords:** AP World History notes · APWH study guide · AMSCO AP World History · AP World History Obsidian vault · AP World History Cornell notes · AP World History flashcards · AP World History review · AP World History Unit 1 · AP World History Period 1 · 1200–1450 · The Global Tapestry · AP World History practice questions · AP World History MCQ · AP World History SAQ · AP World History DBQ · AP World History LEQ · CCOT · AP exam prep · free AP notes
+**Keywords:** AP World History notes · APWH study guide · AMSCO AP World History · AP World History Obsidian vault · AP World History Cornell notes · AP World History flashcards · AP World History review · AP World History Unit 1 · AP World History Unit 2 · AP World History Period 1 · 1200–1450 · The Global Tapestry · Networks of Exchange · Silk Roads · Mongol Empire · Indian Ocean trade · AP World History practice questions · AP World History MCQ · AP World History SAQ · AP World History DBQ · AP World History LEQ · CCOT · AP exam prep · free AP notes
 
 ---
 
@@ -34,6 +34,23 @@ All six chapters are fully complete with notes, slides, Cornell PDFs, and practi
 **Unit 1 bonus files:**
 - `Unit-1-Overview.md` — synthesis hub with comparison tables, causation chains, and AP essay traps
 - `Unit1-Review.pptx` — 20-slide exam review deck (trade networks, Mongol impact, feudalism comparison, CCOT, top 10 AP topics, Unit 2 preview)
+
+---
+
+## Unit 2: Networks of Exchange (c. 1200–1450) — AP Period 1 ✅ Complete
+
+All four chapters are fully complete with notes, slides, Cornell PDFs, and practice questions.
+
+| Chapter | Topic | Key Themes |
+|---------|-------|------------|
+| Ch 7 | The Silk Roads | Pax Mongolica · caravanserai · bills of exchange · diasporic communities · Marco Polo · Ibn Battuta · Black Death transmission |
+| Ch 8 | The Mongol Empire and the Making of the Modern World | Genghis Khan · four khanates · Yuan Dynasty · Golden Horde · direct vs. tributary rule · technology diffusion · Black Death |
+| Ch 9 | Exchange in the Indian Ocean Region | Monsoon winds · dhow · Swahili Coast · Kilwa · Malacca Sultanate · Zheng He · Islam via merchant diasporas |
+| Ch 10 | Exchange in the Americas, Africa, and Europe | Mali Empire · Mansa Musa · Trans-Saharan trade · Aztec markets · Inca mit'a · Cahokia · Black Death in Europe · feudalism's decline |
+
+**Unit 2 bonus files:**
+- `Unit-2-Overview.md` — synthesis hub with three-network comparison table, Mongol paradox analysis, causation chains, and AP essay traps
+- `Unit2-Review.pptx` — 20-slide exam review deck (three networks comparison, Mongol effect, chapter reviews, Islam spread routes, technology transfer, key people, Black Death, CCOT, causation chains, common traps, essay bank, Unit 3 preview)
 
 ---
 
@@ -74,7 +91,25 @@ AP World History Study/
 ├── Unit-1-Ch-4/              ← Africa
 ├── Unit-1-Ch-5/              ← The Americas
 ├── Unit-1-Ch-6/              ← Europe
-└── ...                       ← Units 2–9 coming soon
+│
+├── Unit-2-Overview.md        ← Unit 2 synthesis hub
+├── Unit2-Review.pptx         ← 20-slide consolidated Unit 2 review deck
+│
+├── Unit-2-Ch-7/              ← The Silk Roads
+│   ├── 00-Overview.md
+│   ├── 01-Key-Terms.md
+│   ├── 02-Key-People-and-Groups.md
+│   ├── 03-Themes-and-Causation.md
+│   ├── 04-Timeline.md
+│   ├── 05-Practice-Questions.md
+│   ├── 06-Connections.md
+│   ├── Ch7-Silk-Roads.pptx
+│   └── Ch7-Cornell-Notes.pdf
+│
+├── Unit-2-Ch-8/              ← The Mongol Empire
+├── Unit-2-Ch-9/              ← Indian Ocean Exchange
+├── Unit-2-Ch-10/             ← Americas, Africa & Europe
+└── ...                       ← Units 3–9 coming soon
 ```
 
 Each chapter's seven note files:
@@ -114,8 +149,8 @@ The `.md` files are plain Markdown and render correctly on GitHub, in VS Code, o
 
 ### Unit-Level Exam Review
 
-- `Unit-1-Overview.md` — comparison tables, causation chains, top AP essay traps, cross-regional comparisons, all in one place
-- `Unit1-Review.pptx` — 20 slides covering trade networks, Mongol impact, social hierarchies, CCOT continuities vs. changes, top 10 high-frequency AP exam topics, and a Unit 2 preview
+- `Unit-1-Overview.md` / `Unit1-Review.pptx` — synthesis hub + 20-slide deck covering the Global Tapestry, trade networks, Mongol impact, social hierarchies, CCOT, and a Unit 2 preview
+- `Unit-2-Overview.md` / `Unit2-Review.pptx` — synthesis hub + 20-slide deck covering three-network comparison, Mongol paradox, chapter reviews, Islam spread routes, technology transfer, causation chains, common AP traps, essay bank, and a Unit 3 preview
 
 ---
 
@@ -124,7 +159,7 @@ The `.md` files are plain Markdown and render correctly on GitHub, in VS Code, o
 | Unit | AP Period | Date Range | Chapters | Status |
 |------|-----------|------------|----------|--------|
 | Unit 1: The Global Tapestry | Period 1 | c. 1200–1450 | Ch 1–6 | ✅ Complete |
-| Unit 2: Networks of Exchange | Period 1 | c. 1200–1450 | — | Coming soon |
+| Unit 2: Networks of Exchange | Period 1 | c. 1200–1450 | Ch 7–10 | ✅ Complete |
 | Unit 3: Land-Based Empires | Period 2 | c. 1450–1750 | — | Coming soon |
 | Unit 4: Transoceanic Interconnections | Period 2 | c. 1450–1750 | — | Coming soon |
 | Unit 5: Revolutions | Period 3 | c. 1750–1900 | — | Coming soon |
