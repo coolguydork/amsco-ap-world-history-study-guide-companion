@@ -1,30 +1,35 @@
 # AP World History: Modern — Study Vault
 
-A structured Obsidian knowledge base and slide deck collection for the **AMSCO *AP World History: Modern*** textbook. Each chapter gets its own folder containing seven interlinked Markdown notes and an accompanying PowerPoint presentation.
+A structured Obsidian knowledge base, slide deck collection, and Cornell Notes library for the **AMSCO *AP World History: Modern*** textbook. Each chapter gets its own folder with seven interlinked Markdown notes, a chapter slide deck, and a Cornell Notes PDF for active recall practice.
 
 ---
 
 ## Using This Vault
 
-**Obsidian** is the recommended way to read these notes. Open the root of this repo as your vault — the `[[wikilinks]]` between files will become a navigable graph, and the `#tags`, callout blocks, and YAML frontmatter will all render correctly.
+**Obsidian** is the recommended way to read these notes. Open the root of this folder as your vault — the `[[wikilinks]]` between files will become a navigable graph, and the `#tags`, callout blocks, and YAML frontmatter will all render correctly.
 
 If you don't have Obsidian: the `.md` files are plain Markdown and readable in any editor, GitHub, or VS Code.
 
 **Slides** (`.pptx`) open in PowerPoint, Keynote (via import), or Google Slides. They're designed for review sessions, not just passive reading — use them to quiz yourself on the visuals.
 
+**Cornell Notes PDFs** follow the classic Cornell method: cue questions on the left, detailed notes on the right, and a blank summary strip at the bottom you fill in yourself after reviewing each page.
+
 ---
 
-## Repo Structure
+## Vault Structure
 
 ```
 AP World History Study/
-├── Unit-1-Ch-1/          ← Developments in East Asia
-├── Unit-1-Ch-2/          ← Developments in Dar al-Islam
-├── Unit-1-Ch-3/          ← Developments in South & Southeast Asia
-├── Unit-1-Ch-4/          ← State Building in Africa
-├── Unit-1-Ch-5/          ← State Building in the Americas
-├── Unit-1-Ch-6/          ← Developments in Europe
-└── ...                   ← Future chapters added here
+├── Unit-1-Overview.md        ← Unit 1 synthesis hub (start here for exam review)
+├── Unit1-Review.pptx         ← 20-slide consolidated Unit 1 review deck
+│
+├── Unit-1-Ch-1/              ← Developments in East Asia
+├── Unit-1-Ch-2/              ← Developments in Dar al-Islam
+├── Unit-1-Ch-3/              ← Developments in South & Southeast Asia
+├── Unit-1-Ch-4/              ← State Building in Africa
+├── Unit-1-Ch-5/              ← State Building in the Americas
+├── Unit-1-Ch-6/              ← Developments in Europe
+└── ...                       ← Future units added here
 ```
 
 Each chapter folder contains:
@@ -39,6 +44,7 @@ Each chapter folder contains:
 | `05-Practice-Questions.md` | 10 AP-style MCQs (with answers + explanations), 2 SAQ prompts, and 1 DBQ outline |
 | `06-Connections.md` | Cross-chapter `[[wikilinks]]` — what this chapter builds on, what it sets up, and comparative civilizations |
 | `ChN-Title.pptx` | 15-slide visual presentation covering all major topics in the chapter |
+| `ChN-Cornell-Notes.pdf` | 7-page Cornell Notes PDF for active recall practice |
 
 ---
 
@@ -61,35 +67,35 @@ Every note uses Obsidian callout blocks to flag exam-relevant content:
 
 ## How to Study With This
 
-**Active recall first.** Before opening a note, try to answer from memory:
-- What are the 3 most important events in this chapter?
-- What caused the major changes? What did they lead to?
-- How does this chapter compare to a contemporary civilization?
+**Suggested study flow for each chapter:**
 
-**Then use the notes to fill gaps** — don't read passively.
+1. **Cornell Notes PDF first** — read through the pre-filled cues and notes, then cover the right column and self-quiz using the cue questions. Write your own summary in the blank strip at the bottom of each page.
+2. **Chapter slides** — use the `.pptx` to do a fast visual pass; each slide is a testable concept cluster.
+3. **Obsidian notes** — dive into `03-Themes-and-Causation.md` for causation depth, and attempt the essay prompts in `05-Practice-Questions.md` before reading the guidance.
+4. **`06-Connections.md`** — after finishing a chapter, review how it links forward and backward. This is the key to long-essay complexity points.
 
-**For essay practice:**
-1. Open `05-Practice-Questions.md` and attempt the SAQ or DBQ prompt before reading the guidance
-2. Use `03-Themes-and-Causation.md` to build out your causation argument
-3. Use `06-Connections.md` to add complexity (cross-period or cross-regional comparisons)
+**For unit-level exam review:**
 
-**Graph view in Obsidian** — once you have multiple chapters loaded, the `[[wikilinks]]` in `06-Connections.md` will create a visual map of how concepts connect across the course. This is especially useful for identifying patterns the AP exam tests across periods.
+- Open `Unit-1-Overview.md` as a synthesis hub — it has comparison tables, causation chains, and AP essay traps all in one place.
+- Run through `Unit1-Review.pptx` slide by slide; cover the content on each card and try to reconstruct it from memory before reading.
+
+**Graph view in Obsidian** — once you have multiple chapters loaded, the `[[wikilinks]]` in `06-Connections.md` will create a visual map of how concepts connect across the course. This is especially useful for spotting the cross-regional comparison patterns the AP exam loves.
 
 ---
 
 ## Coverage
 
-| Unit | Period | Chapters |
-|------|--------|----------|
-| Unit 1: The Global Tapestry | c. 1200–1450 | Ch 1–6 |
-| Unit 2: Networks of Exchange | c. 1200–1450 | Coming soon |
-| Unit 3: Land-Based Empires | c. 1450–1750 | Coming soon |
-| Unit 4: Transoceanic Interconnections | c. 1450–1750 | Coming soon |
-| Unit 5: Revolutions | c. 1750–1900 | Coming soon |
-| Unit 6: Consequences of Industrialization | c. 1750–1900 | Coming soon |
-| Unit 7: Global Conflict | c. 1900–present | Coming soon |
-| Unit 8: Cold War and Decolonization | c. 1900–present | Coming soon |
-| Unit 9: Globalization | c. 1900–present | Coming soon |
+| Unit | Period | Chapters | Status |
+|------|--------|----------|--------|
+| Unit 1: The Global Tapestry | c. 1200–1450 | Ch 1–6 | ✅ Complete — notes, slides, Cornell PDFs, overview, unit review deck |
+| Unit 2: Networks of Exchange | c. 1200–1450 | — | Coming soon |
+| Unit 3: Land-Based Empires | c. 1450–1750 | — | Coming soon |
+| Unit 4: Transoceanic Interconnections | c. 1450–1750 | — | Coming soon |
+| Unit 5: Revolutions | c. 1750–1900 | — | Coming soon |
+| Unit 6: Consequences of Industrialization | c. 1750–1900 | — | Coming soon |
+| Unit 7: Global Conflict | c. 1900–present | — | Coming soon |
+| Unit 8: Cold War and Decolonization | c. 1900–present | — | Coming soon |
+| Unit 9: Globalization | c. 1900–present | — | Coming soon |
 
 ---
 
