@@ -2,8 +2,6 @@
 
 > Free, open-source AP World History study notes, Cornell Notes PDFs, PowerPoint review slides, and practice questions — built from the **AMSCO *AP World History: Modern*** textbook. Covers all AP exam essay types: **SAQ, LEQ, DBQ, CCOT**. Organized for use as an **Obsidian vault** with wikilinks and graph view.
 
-**Keywords:** AP World History notes · APWH study guide · AMSCO AP World History · AP World History Obsidian vault · AP World History Cornell notes · AP World History flashcards · AP World History review · AP World History Unit 1 · AP World History Unit 2 · AP World History Period 1 · 1200–1450 · The Global Tapestry · Networks of Exchange · Silk Roads · Mongol Empire · Indian Ocean trade · AP World History practice questions · AP World History MCQ · AP World History SAQ · AP World History DBQ · AP World History LEQ · CCOT · AP exam prep · free AP notes
-
 ---
 
 ## What's in This Repo
@@ -173,3 +171,8 @@ The `.md` files are plain Markdown and render correctly on GitHub, in VS Code, o
 ## Contributing
 
 Found an error, want to add a chapter, or have a better practice question? Pull requests are welcome. If you're in the same class, feel free to fork this and add your own annotations on top.
+
+---
+
+**Keywords:** AP World History notes · APWH study guide · AMSCO AP World History · AP World History Obsidian vault · AP World History Cornell notes · AP World History flashcards · AP World History review · AP World History Unit 1 · AP World History Unit 2 · AP World History Period 1 · 1200–1450 · The Global Tapestry · Networks of Exchange · Silk Roads · Mongol Empire · Indian Ocean trade · AP World History practice questions · AP World History MCQ · AP World History SAQ · AP World History DBQ · AP World History LEQ · CCOT · AP exam prep · free AP notes
+
