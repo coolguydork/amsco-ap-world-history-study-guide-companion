@@ -170,14 +170,6 @@ The `.md` files are plain Markdown and render correctly on GitHub, in VS Code, o
 
 ---
 
-## GitHub Topics (add these to the repo settings)
-
-To make this repo even easier to find, add these topics in **Settings → About → Topics**:
-
-`ap-world-history` · `apwh` · `ap-exam` · `study-notes` · `obsidian` · `cornell-notes` · `amsco` · `history` · `high-school` · `exam-prep` · `flashcards` · `dbq` · `saq` · `leq`
-
----
-
 ## `.gitignore` Suggestion
 
 ```
