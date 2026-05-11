@@ -1,18 +1,52 @@
-# AP World History: Modern — Study Vault
+# AP World History: Modern — Free Study Vault (AMSCO, Obsidian, Cornell Notes, Slides)
 
-A structured Obsidian knowledge base, slide deck collection, and Cornell Notes library for the **AMSCO *AP World History: Modern*** textbook. Each chapter gets its own folder with seven interlinked Markdown notes, a chapter slide deck, and a Cornell Notes PDF for active recall practice.
+> Free, open-source AP World History study notes, Cornell Notes PDFs, PowerPoint review slides, and practice questions — built from the **AMSCO *AP World History: Modern*** textbook. Covers all AP exam essay types: **SAQ, LEQ, DBQ, CCOT**. Organized for use as an **Obsidian vault** with wikilinks and graph view.
+
+**Keywords:** AP World History notes · APWH study guide · AMSCO AP World History · AP World History Obsidian vault · AP World History Cornell notes · AP World History flashcards · AP World History review · AP World History Unit 1 · AP World History Period 1 · 1200–1450 · The Global Tapestry · AP World History practice questions · AP World History MCQ · AP World History SAQ · AP World History DBQ · AP World History LEQ · CCOT · AP exam prep · free AP notes
 
 ---
 
-## Using This Vault
+## What's in This Repo
 
-**Obsidian** is the recommended way to read these notes. Open the root of this folder as your vault — the `[[wikilinks]]` between files will become a navigable graph, and the `#tags`, callout blocks, and YAML frontmatter will all render correctly.
+For every chapter of the AMSCO AP World History textbook, this vault provides:
 
-If you don't have Obsidian: the `.md` files are plain Markdown and readable in any editor, GitHub, or VS Code.
+- **Seven interlinked Markdown notes** (Obsidian-compatible, with wikilinks, tags, and callout blocks)
+- **A 15-slide chapter PowerPoint review deck** (.pptx, works in PowerPoint, Google Slides, or Keynote)
+- **A 7-page Cornell Notes PDF** (cue questions + notes pre-filled; blank summary strip for self-testing)
+- **AP-style practice questions** — 10 MCQs with answer keys, 2 SAQ prompts, and 1 DBQ outline per chapter
+- **Unit-level synthesis materials** — a master overview Markdown file and a 20-slide consolidated unit review deck
 
-**Slides** (`.pptx`) open in PowerPoint, Keynote (via import), or Google Slides. They're designed for review sessions, not just passive reading — use them to quiz yourself on the visuals.
+---
 
-**Cornell Notes PDFs** follow the classic Cornell method: cue questions on the left, detailed notes on the right, and a blank summary strip at the bottom you fill in yourself after reviewing each page.
+## Unit 1: The Global Tapestry (c. 1200–1450) — AP Period 1 ✅ Complete
+
+All six chapters are fully complete with notes, slides, Cornell PDFs, and practice questions.
+
+| Chapter | Topic | Key Themes |
+|---------|-------|------------|
+| Ch 1 | Developments in East Asia | Song Dynasty · Yuan Dynasty · Ming Dynasty · Confucianism · Zheng He's voyages · civil service exam · gunpowder · paper money |
+| Ch 2 | Developments in Dar al-Islam | Abbasid Caliphate · Mongol sack of Baghdad (1258) · Ibn Battuta · Sufism · trans-Saharan trade · Delhi Sultanate · Mali · Ottoman rise |
+| Ch 3 | Developments in South & Southeast Asia | Delhi Sultanate · Indian Ocean trade · Khmer Empire · Srivijaya · Majapahit · Hindu-Buddhist syncretism · monsoon winds |
+| Ch 4 | State Building in Africa | Mali Empire · Mansa Musa · Trans-Saharan gold-salt trade · Swahili Coast · Great Zimbabwe · Ethiopia · Islam in Africa |
+| Ch 5 | State Building in the Americas | Aztec/Mexica Empire · Inca Empire · Mississippian culture · Cahokia · American isolation · mit'a · tribute systems |
+| Ch 6 | Developments in Europe | Feudalism · Catholic Church · The Crusades · Black Death · Magna Carta · Parliament · Hundred Years' War · rising monarchies |
+
+**Unit 1 bonus files:**
+- `Unit-1-Overview.md` — synthesis hub with comparison tables, causation chains, and AP essay traps
+- `Unit1-Review.pptx` — 20-slide exam review deck (trade networks, Mongol impact, feudalism comparison, CCOT, top 10 AP topics, Unit 2 preview)
+
+---
+
+## AP Exam Content Covered
+
+This vault is specifically designed around the **College Board AP World History: Modern** curriculum framework. Every note targets:
+
+- **AP Thematic Learning Objectives (TLOs):** Governance · Economic Systems · Cultural Developments & Interactions · Social Structures · Technology & Environment · Human Migration
+- **Historical Thinking Skills:** Causation · Continuity and Change Over Time (CCOT) · Comparison · Contextualization · Argumentation
+- **Essay types:** Short Answer Questions (SAQ) · Long Essay Questions (LEQ) · Document-Based Questions (DBQ)
+- **Key Concepts from the AP Course and Exam Description (CED)** — flagged in every chapter overview
+
+> [!exam-tip callouts] appear throughout the notes to flag content that frequently shows up on AP free-response and multiple-choice questions.
 
 ---
 
@@ -20,88 +54,96 @@ If you don't have Obsidian: the `.md` files are plain Markdown and readable in a
 
 ```
 AP World History Study/
+├── README.md
 ├── Unit-1-Overview.md        ← Unit 1 synthesis hub (start here for exam review)
 ├── Unit1-Review.pptx         ← 20-slide consolidated Unit 1 review deck
 │
-├── Unit-1-Ch-1/              ← Developments in East Asia
-├── Unit-1-Ch-2/              ← Developments in Dar al-Islam
-├── Unit-1-Ch-3/              ← Developments in South & Southeast Asia
-├── Unit-1-Ch-4/              ← State Building in Africa
-├── Unit-1-Ch-5/              ← State Building in the Americas
-├── Unit-1-Ch-6/              ← Developments in Europe
-└── ...                       ← Future units added here
+├── Unit-1-Ch-1/              ← East Asia (Song, Yuan, Ming)
+│   ├── 00-Overview.md
+│   ├── 01-Key-Terms.md
+│   ├── 02-Key-People-and-Groups.md
+│   ├── 03-Themes-and-Causation.md
+│   ├── 04-Timeline.md
+│   ├── 05-Practice-Questions.md
+│   ├── 06-Connections.md
+│   ├── Ch1-East-Asia.pptx
+│   └── Ch1-Cornell-Notes.pdf
+│
+├── Unit-1-Ch-2/              ← Dar al-Islam
+├── Unit-1-Ch-3/              ← South & Southeast Asia
+├── Unit-1-Ch-4/              ← Africa
+├── Unit-1-Ch-5/              ← The Americas
+├── Unit-1-Ch-6/              ← Europe
+└── ...                       ← Units 2–9 coming soon
 ```
 
-Each chapter folder contains:
+Each chapter's seven note files:
 
 | File | Contents |
 |------|----------|
-| `00-Overview.md` | Chapter summary, AMSCO learning objectives, AP key concepts, and thematic preview |
-| `01-Key-Terms.md` | 15–25 vocabulary terms with definitions, historical significance, and `[[wikilinks]]` |
-| `02-Key-People-and-Groups.md` | Key individuals, civilizations, and movements — focused on causation and AP impact, not biography |
+| `00-Overview.md` | Chapter summary, AMSCO learning objectives, AP key concepts (from CED), and thematic preview |
+| `01-Key-Terms.md` | 15–25 vocabulary terms with plain-language definitions, historical significance, and `[[wikilinks]]` |
+| `02-Key-People-and-Groups.md` | Key individuals, civilizations, empires, and movements — focused on causation and AP impact |
 | `03-Themes-and-Causation.md` | Content analyzed through AP's six thematic lenses with explicit cause-and-effect chains |
 | `04-Timeline.md` | Chronological table of 10–20 events with continuity vs. change annotations |
-| `05-Practice-Questions.md` | 10 AP-style MCQs (with answers + explanations), 2 SAQ prompts, and 1 DBQ outline |
-| `06-Connections.md` | Cross-chapter `[[wikilinks]]` — what this chapter builds on, what it sets up, and comparative civilizations |
-| `ChN-Title.pptx` | 15-slide visual presentation covering all major topics in the chapter |
-| `ChN-Cornell-Notes.pdf` | 7-page Cornell Notes PDF for active recall practice |
+| `05-Practice-Questions.md` | 10 AP-style MCQs with answers and explanations · 2 SAQ prompts · 1 DBQ outline |
+| `06-Connections.md` | Cross-chapter `[[wikilinks]]` — prior knowledge, forward connections, and comparative civilizations |
 
 ---
 
-## AP Exam Callouts
+## How to Use This Vault
 
-Every note uses Obsidian callout blocks to flag exam-relevant content:
+### Option 1: Obsidian (recommended)
 
-```
-> [!exam-tip]
-> Content that appears frequently on the AP exam.
+1. Download [Obsidian](https://obsidian.md) (free)
+2. Clone or download this repo
+3. Open the folder as an Obsidian vault
+4. The `[[wikilinks]]` become a navigable graph — use graph view to see how concepts connect across chapters
 
-> [!tip]
-> Study strategies and connections to watch for.
+### Option 2: GitHub / any Markdown reader
 
-> [!warning]
-> Common misconceptions or oversimplifications to avoid.
-```
+The `.md` files are plain Markdown and render correctly on GitHub, in VS Code, or any Markdown editor. You won't get clickable wikilinks, but all the content is there.
 
----
+### Suggested Study Flow Per Chapter
 
-## How to Study With This
+1. **Cornell Notes PDF** — read the pre-filled cues and notes. Cover the right column and self-quiz on each cue question. Write your own summary in the blank strip at the bottom.
+2. **Chapter `.pptx`** — fast visual pass; each slide is a testable concept cluster.
+3. **`03-Themes-and-Causation.md`** — go deep on causation before attempting essays.
+4. **`05-Practice-Questions.md`** — attempt the SAQ or DBQ prompt *before* reading the guidance. This is where real exam prep happens.
+5. **`06-Connections.md`** — link backward and forward. AP essay complexity points come from cross-period and cross-regional connections.
 
-**Suggested study flow for each chapter:**
+### Unit-Level Exam Review
 
-1. **Cornell Notes PDF first** — read through the pre-filled cues and notes, then cover the right column and self-quiz using the cue questions. Write your own summary in the blank strip at the bottom of each page.
-2. **Chapter slides** — use the `.pptx` to do a fast visual pass; each slide is a testable concept cluster.
-3. **Obsidian notes** — dive into `03-Themes-and-Causation.md` for causation depth, and attempt the essay prompts in `05-Practice-Questions.md` before reading the guidance.
-4. **`06-Connections.md`** — after finishing a chapter, review how it links forward and backward. This is the key to long-essay complexity points.
-
-**For unit-level exam review:**
-
-- Open `Unit-1-Overview.md` as a synthesis hub — it has comparison tables, causation chains, and AP essay traps all in one place.
-- Run through `Unit1-Review.pptx` slide by slide; cover the content on each card and try to reconstruct it from memory before reading.
-
-**Graph view in Obsidian** — once you have multiple chapters loaded, the `[[wikilinks]]` in `06-Connections.md` will create a visual map of how concepts connect across the course. This is especially useful for spotting the cross-regional comparison patterns the AP exam loves.
+- `Unit-1-Overview.md` — comparison tables, causation chains, top AP essay traps, cross-regional comparisons, all in one place
+- `Unit1-Review.pptx` — 20 slides covering trade networks, Mongol impact, social hierarchies, CCOT continuities vs. changes, top 10 high-frequency AP exam topics, and a Unit 2 preview
 
 ---
 
-## Coverage
+## Coverage Roadmap
 
-| Unit | Period | Chapters | Status |
-|------|--------|----------|--------|
-| Unit 1: The Global Tapestry | c. 1200–1450 | Ch 1–6 | ✅ Complete — notes, slides, Cornell PDFs, overview, unit review deck |
-| Unit 2: Networks of Exchange | c. 1200–1450 | — | Coming soon |
-| Unit 3: Land-Based Empires | c. 1450–1750 | — | Coming soon |
-| Unit 4: Transoceanic Interconnections | c. 1450–1750 | — | Coming soon |
-| Unit 5: Revolutions | c. 1750–1900 | — | Coming soon |
-| Unit 6: Consequences of Industrialization | c. 1750–1900 | — | Coming soon |
-| Unit 7: Global Conflict | c. 1900–present | — | Coming soon |
-| Unit 8: Cold War and Decolonization | c. 1900–present | — | Coming soon |
-| Unit 9: Globalization | c. 1900–present | — | Coming soon |
+| Unit | AP Period | Date Range | Chapters | Status |
+|------|-----------|------------|----------|--------|
+| Unit 1: The Global Tapestry | Period 1 | c. 1200–1450 | Ch 1–6 | ✅ Complete |
+| Unit 2: Networks of Exchange | Period 1 | c. 1200–1450 | — | Coming soon |
+| Unit 3: Land-Based Empires | Period 2 | c. 1450–1750 | — | Coming soon |
+| Unit 4: Transoceanic Interconnections | Period 2 | c. 1450–1750 | — | Coming soon |
+| Unit 5: Revolutions | Period 3 | c. 1750–1900 | — | Coming soon |
+| Unit 6: Consequences of Industrialization | Period 3 | c. 1750–1900 | — | Coming soon |
+| Unit 7: Global Conflict | Period 4 | c. 1900–present | — | Coming soon |
+| Unit 8: Cold War and Decolonization | Period 4 | c. 1900–present | — | Coming soon |
+| Unit 9: Globalization | Period 4 | c. 1900–present | — | Coming soon |
+
+---
+
+## GitHub Topics (add these to the repo settings)
+
+To make this repo even easier to find, add these topics in **Settings → About → Topics**:
+
+`ap-world-history` · `apwh` · `ap-exam` · `study-notes` · `obsidian` · `cornell-notes` · `amsco` · `history` · `high-school` · `exam-prep` · `flashcards` · `dbq` · `saq` · `leq`
 
 ---
 
 ## `.gitignore` Suggestion
-
-If you want to keep the repo clean, add a `.gitignore` with:
 
 ```
 .DS_Store
@@ -109,4 +151,10 @@ If you want to keep the repo clean, add a `.gitignore` with:
 .obsidian/workspace-mobile.json
 ```
 
-The rest of `.obsidian/` (themes, graph settings, plugins) is worth committing so your setup is reproducible.
+The rest of `.obsidian/` (themes, graph settings, plugins) is worth committing so your classmates get your setup when they clone the repo.
+
+---
+
+## Contributing
+
+Found an error, want to add a chapter, or have a better practice question? Pull requests are welcome. If you're in the same class, feel free to fork this and add your own annotations on top.
