@@ -82,7 +82,7 @@ tags: [apwh, unit-1, period-1, key-people, dar-al-islam]
 
 - Islamic scholars advanced mathematics (algebra, developed by al-Khwarizmi), astronomy, medicine (Ibn Sina's *Canon of Medicine*), and philosophy during the Abbasid golden age
 - These scholars preserved Greek learning and made original contributions; their work was later translated into Latin and became the basis of the European university curriculum
-- The destruction of Baghdad in 1258 caused a significant (though not total) disruption of this intellectual tradition
+- The Mongol sack of Baghdad in 1258 caused significant disruption to this intellectual tradition; popular accounts describe books thrown into the Tigris River, but historians note that many scholars and manuscripts survived — the impact was severe but not a total erasure of Islamic learning
 
 ---
 

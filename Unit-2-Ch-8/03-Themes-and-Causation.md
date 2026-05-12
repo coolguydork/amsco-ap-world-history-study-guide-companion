@@ -14,7 +14,7 @@ tags: [apwh, unit-2, period-1, mongols, themes, causation, CCOT]
 
 ## Governance
 
-The Mongol Empire represents one of the most dramatic examples of conquerors adapting to the governance needs of settled civilizations. Genghis Khan's initial approach was military: rule by terror, tribute extraction, and elimination of resistance. But as the empire expanded, Mongol rulers faced the administrative reality that destroying cities was less profitable than taxing them. Kublai Khan in China adopted the Chinese bureaucratic system, using Confucian examinations (partially) and Chinese administrative terminology to run the Yuan Dynasty. The Ilkhanate rulers converted to Islam and adapted Persian administrative traditions. This pattern — military conquest followed by cultural and administrative adaptation — is a recurring theme in AP World History (compare the Abbasid adoption of Persian governance, or later the Ottoman system). The flip side is that Mongol rule often *blocked* local political development: Russian princes were subordinated to the Golden Horde for two centuries, and Russian political culture was arguably shaped by this experience toward centralized, autocratic forms.
+The Mongol Empire represents one of the most dramatic examples of conquerors adapting to the governance needs of settled civilizations. Genghis Khan's initial approach was military: rule by terror, tribute extraction, and elimination of resistance. But as the empire expanded, Mongol rulers faced the administrative reality that destroying cities was less profitable than taxing them. Kublai Khan in China adopted elements of Chinese administrative terminology and structure to run the Yuan Dynasty, but it is important not to overstate this: the Yuan *suspended* the civil service examinations for most of the early Yuan period and only partially restored them after 1315. High government positions were dominated by ethnic Mongols and their Central Asian allies, with Han Chinese largely excluded from top roles — a deliberate ethnic hierarchy that was a source of deep Chinese resentment and contributed to the Ming rebellion. The Ilkhanate rulers converted to Islam and adapted Persian administrative traditions. This pattern — military conquest followed by cultural and administrative adaptation — is a recurring theme in AP World History (compare the Abbasid adoption of Persian governance, or later the Ottoman system). The flip side is that Mongol rule often *blocked* local political development: Russian princes were subordinated to the Golden Horde for two centuries, and Russian political culture was arguably shaped by this experience toward centralized, autocratic forms.
 
 ## Economic Systems
 
@@ -49,9 +49,9 @@ Pax Mongolica: unified Eurasia enables safe travel and trade
         ↓
 Technology, religion, and disease travel the same routes
         ↓
-Black Death: plague kills 1/3 of Europe, destabilizes Middle East and China
+Black Death: plague kills ~1/3 of Europe, severe mortality in Middle East; in China, epidemics compounded other pressures
         ↓
-Yuan collapse (1368), Ilkhanate collapse, Golden Horde decline
+Yuan collapse (1368): caused primarily by peasant rebellions, economic mismanagement (hyperinflation), Yellow River flooding, and loss of legitimacy — plague was one contributing factor, not the primary cause; Ilkhanate collapse, Golden Horde decline follow similar multi-causal patterns
         ↓
 Overland Silk Road destabilized → maritime routes become dominant
         ↓

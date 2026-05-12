@@ -33,8 +33,8 @@ tags: [apwh, unit-2, period-1, indian-ocean, key-people, merchants, rulers]
 **Region:** China → Southeast Asia → Indian Ocean → East Africa
 
 - Chinese Muslim admiral who commanded seven massive naval expeditions (1405–1433) on behalf of the Yongle Emperor of the Ming Dynasty, visiting ports across Southeast Asia, India, the Persian Gulf, and East Africa
-- His fleet — hundreds of ships, including massive "treasure ships" reportedly nine times the size of Columbus's *Santa María* — was the largest naval force in the world at the time; it demonstrated Chinese technological superiority and political ambition
-- The voyages' primary purpose was diplomatic (collecting tribute, asserting Ming prestige) rather than commercial; when the Yongle Emperor died, the Confucian bureaucracy reversed the policy, restricting maritime expeditions and eventually burning the fleet records — the abrupt end of Chinese maritime power created a vacuum that Europeans would eventually fill
+- His fleet — hundreds of ships, including massive "treasure ships" — was the largest naval force in the world at the time; it demonstrated Chinese technological superiority and political ambition. The treasure ships' exact dimensions are debated: traditional accounts describe them as extraordinarily large, but modern historians' estimates range from around 200 to 400+ feet — even the lower estimates dwarf contemporary European vessels
+- The voyages' primary purpose was diplomatic (collecting tribute, asserting Ming prestige) rather than commercial; after the Yongle Emperor died, a faction of Confucian bureaucrats opposed to the expense reversed the policy and restricted maritime expeditions. The claim that fleet records were deliberately burned is a traditional narrative, though the historical evidence for a deliberate, systematic burning is less clear-cut than often presented — the end result was that records and momentum were lost, and Chinese state maritime activity ceased
 
 ## Indian Ocean Merchants (Hindu and Jain Traders of Gujarat and the Malabar Coast)
 **Time Period:** c. 1200–1450 and beyond

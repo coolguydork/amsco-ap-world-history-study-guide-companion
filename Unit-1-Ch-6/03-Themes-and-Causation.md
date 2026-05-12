@@ -52,7 +52,7 @@ The three-field system, horse collar, and iron plow improved agricultural produc
 
 ## 🚶 Human Migration and Cultural Interaction
 
-The [[Crusades]] (1095–1291) sent hundreds of thousands of Europeans into the Middle East, creating sustained contact between Latin Christian, Eastern Orthodox, and Islamic civilizations. This interaction transferred knowledge (Arabic numerals, advances in medicine and mathematics), goods (spices, textiles), and ideas back to Europe. Jewish communities in Europe faced persecution and expulsion as scapegoating intensified during the Crusades and the Black Death. The fall of the [[Byzantine Empire]] in 1453 triggered a westward migration of Greek scholars into Italy, directly fueling the Italian Renaissance.
+The [[Crusades]] (1095–1291) sent hundreds of thousands of Europeans into the Middle East, creating sustained contact between Latin Christian, Eastern Orthodox, and Islamic civilizations. This interaction transferred knowledge (Arabic numerals, advances in medicine and mathematics), goods (spices, textiles), and ideas back to Europe. Jewish communities in Europe faced persecution and expulsion as scapegoating intensified during the Crusades and the Black Death. The fall of the [[Byzantine Empire]] in 1453 accelerated a westward migration of Greek scholars and manuscripts into Italy. However, the Italian Renaissance had already been developing since the early 14th century (Petrarch, Dante, Boccaccio) — 1453 intensified an existing intellectual movement rather than causing it.
 
 ---
 

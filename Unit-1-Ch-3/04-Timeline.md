@@ -14,7 +14,8 @@ tags: [apwh, unit-1, period-1, timeline, south-asia, southeast-asia]
 | c. 1190s | Prithviraj Chauhan defeated by Muhammad of Ghur | Northern India | Last major Hindu resistance before Delhi Sultanate founding |
 | 1206 | Delhi Sultanate founded (Qutb-ud-din Aibak) | India | **Change:** First permanent Muslim political power in South Asia |
 | c. 1200 | Khmer Empire at its height under Jayavarman VII | Cambodia | Construction of Angkor Thom (Buddhist); empire at maximum territorial extent |
-| 1215 | Pagan (Burma) begins declining after Mongol raids | Burma | **Change:** Weakening of one major mainland Southeast Asian Buddhist state |
+| c. 1267 | Samudra Pasai (northern Sumatra) founded as first Islamic sultanate in SE Asia | SE Asia | **Change:** Earliest Islamic political authority in Southeast Asia, over a century before Malacca |
+| 1277–1287 | Mongol invasions of Pagan (Burma) | Burma | **Change:** Pagan kingdom destabilized; declines rapidly after Mongol raids; new Shan and Mon states emerge |
 | c. 1250s | Theravada Buddhism spreads from Sri Lanka to mainland SE Asia | SE Asia | **Continuity and change:** Displaces Hindu-Mahayana synthesis in Thailand, Burma |
 | 1275–1292 | Mongol invasions of Southeast Asia (Burma, Java, Vietnam, Champa) | SE Asia | All ultimately repelled; demonstrates limits of Mongol maritime power |
 | 1293 | Majapahit Empire founded in Java | Indonesia | Last great Hindu-Buddhist maritime empire of SE Asia |

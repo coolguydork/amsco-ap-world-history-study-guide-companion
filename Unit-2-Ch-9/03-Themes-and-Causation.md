@@ -22,7 +22,7 @@ The Indian Ocean network operated on sophisticated commercial principles. Goods 
 
 ## Cultural Developments & Religion
 
-The Indian Ocean was the most effective vehicle for Islamic diffusion in the period c. 1200–1450. Arab and Persian Muslim merchants established communities in every major port they visited; local rulers who converted to Islam gained commercial advantages (Muslim merchants preferred to do business with fellow Muslims) as well as political prestige (membership in a transregional community of faith). Islam spread into East Africa (Swahili coast), South Asia (the Malabar Coast, Gujarat, Bengal), and Southeast Asia (Malacca, Java, Sumatra) primarily through this merchant-led, voluntary conversion process — not through conquest. This stands in sharp contrast to the forced conversion narrative that stereotypes Islamic expansion. The Indian Ocean network also transmitted artistic and architectural styles: Swahili stone mosques blend African and Arabic traditions; Southeast Asian Hindu-Buddhist temples incorporate Indian Ocean artistic influences.
+The Indian Ocean was the most effective vehicle for Islamic diffusion in the period c. 1200–1450. Arab and Persian Muslim merchants established communities in every major port they visited; local rulers who converted to Islam gained commercial advantages (Muslim merchants preferred to do business with fellow Muslims) as well as political prestige (membership in a transregional community of faith). Islam spread into East Africa (Swahili coast) and maritime Southeast Asia (Malacca, Java, Sumatra) primarily through this merchant-led, voluntary conversion process. South Asia is more complex: while Muslim merchants and Sufi missionaries were major agents of Islamic diffusion along the coastal regions (Malabar Coast, Gujarat, Bengal), the Delhi Sultanate's military conquest of northern India from 1206 onward was also a significant factor in the spread of Islam in the subcontinent. The Indian Ocean trade story should not erase the role of conquest in South Asian Islamicization — both channels were operating simultaneously. The Indian Ocean network also transmitted artistic and architectural styles: Swahili stone mosques blend African and Arabic traditions; Southeast Asian Hindu-Buddhist temples incorporate Indian Ocean artistic influences.
 
 ## Social Structures
 
@@ -55,5 +55,5 @@ Port cities grow wealthy from taxing trade (Kilwa, Malacca, Calicut)
         ↓
 Ming Zheng He voyages (1405–1433) assert Chinese presence → withdrawal creates vacuum
         ↓
-Portuguese enter Indian Ocean (1498) → disrupt Muslim-dominated trade system (Unit 3)
+Portuguese enter Indian Ocean (1498) → aggressively challenge Muslim-dominated trade system through military force (they faced significant resistance from Arab, Indian, and local merchants and rulers, and did not simply "enter" a vacuum) (Unit 3)
 ```

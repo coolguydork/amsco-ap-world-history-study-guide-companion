@@ -9,7 +9,7 @@ tags: [apwh, unit-1, period-1, key-terms, africa]
 
 ## Vocabulary
 
-**Mali Empire** — A powerful West African empire (c. 1235–1600) that controlled the gold-salt trade across the Sahara; successor to the Ghana Empire. (Significance: the wealthiest state in the world at its height; Mansa Musa's hajj put Mali on European maps; patron of Islamic scholarship in Timbuktu.)
+**Mali Empire** — A powerful West African empire (c. 1235–1600) that controlled the gold-salt trade across the Sahara; successor to the Ghana Empire. (Significance: one of the wealthiest states in the world at its height — its gold resources made it extraordinarily prosperous by any regional standard; Mansa Musa's hajj put Mali on European maps; patron of Islamic scholarship in Timbuktu.)
 
 **Mansa Musa** — Emperor (mansa) of Mali (r. 1312–1337) whose 1324–1325 hajj to Mecca became legendary for its scale and wealth; he distributed so much gold that he depressed Egyptian gold prices for a decade. (Significance: the most famous African ruler in world history; his pilgrimage demonstrated Mali's extraordinary wealth and connected West Africa to the Mediterranean Islamic world. See [[02-Key-People-and-Groups#Mansa Musa]].)
 
@@ -25,7 +25,7 @@ tags: [apwh, unit-1, period-1, key-terms, africa]
 
 **Kilwa** — The most powerful of the Swahili city-states (in present-day Tanzania), controlling the gold trade from the Zimbabwe Plateau to Indian Ocean merchants. (Significance: Ibn Battuta visited Kilwa and called it "one of the most beautiful cities in the world"; its ruins show the sophistication of East African Islamic urban culture.)
 
-**Great Zimbabwe** — A stone-walled royal enclosure on the Zimbabwe Plateau in southern Africa (c. 1100–1450), capital of a powerful trading state that exported gold to the Swahili Coast. (Significance: demonstrates complex state formation in southern Africa without Islamic or other external influence; its stone construction without mortar is an architectural achievement; shows Africa's connection to Indian Ocean trade.)
+**Great Zimbabwe** — A stone-walled royal enclosure on the Zimbabwe Plateau in southern Africa (c. 1100–1450), capital of a powerful state that controlled gold production and exported it via the Swahili Coast to Indian Ocean trade networks. (Significance: demonstrates indigenous African state formation and architectural achievement — the massive dry-stone walls were built without mortar by local Shona-speaking peoples; Chinese porcelain and glass beads found at the site confirm active participation in long-distance Indian Ocean trade, making it incorrect to describe the state as isolated from external networks.)
 
 **Swahili** — A Bantu language with significant Arabic loanwords, the *lingua franca* of East Africa's coastal trading world; also refers to the mixed Afro-Islamic culture of the East African coast. (Significance: demonstrates how trade creates cultural synthesis; Swahili identity blended African, Arab, Persian, and Indian elements.)
 

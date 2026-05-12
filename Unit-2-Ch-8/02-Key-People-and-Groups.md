@@ -42,7 +42,7 @@ tags: [apwh, unit-2, period-1, mongols, key-people, rulers, empire]
 
 - Grandson of Genghis Khan; founded the **Yuan Dynasty** in China (1271); completed the conquest of the Song Dynasty (1279); received Marco Polo at his court at Khanbaliq (Beijing)
 - Attempted two invasions of Japan (1274, 1281), both repelled by a combination of Japanese resistance and typhoon storms — the "divine winds" (*kamikaze*) that became legendary in Japanese culture
-- Adopted significant elements of Chinese governance (Confucian bureaucracy, Chinese administrative terminology) while maintaining Mongol supremacy; his court was a cosmopolitan meeting point of Chinese, Persian, Central Asian, and European cultures
+- Adopted Chinese administrative terminology and some governance structures, but the Yuan did not restore Confucian civil service examinations in full — the exams were suspended for decades and only partially revived after 1315. Top positions remained dominated by Mongols and their Central Asian allies, making it more accurate to say the Yuan adapted Chinese administrative *forms* while maintaining Mongol ethnic supremacy in practice; his court was a cosmopolitan meeting point of Chinese, Persian, Central Asian, and European cultures
 
 ## Batu Khan and the Golden Horde
 **Time Period:** Mid-13th century onward

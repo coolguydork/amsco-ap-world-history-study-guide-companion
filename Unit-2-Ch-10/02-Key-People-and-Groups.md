@@ -56,7 +56,7 @@ tags: [apwh, unit-2, period-1, trans-saharan, americas, europe, key-people, rule
 **Time Period:** c. 900–1400
 **Region:** Eastern North America (modern Illinois, surrounding regions)
 
-- Cahokia (near modern St. Louis) was the largest pre-Columbian city north of Mexico, with a population of 20,000–30,000 at its peak around 1100 CE — larger than contemporary London
+- Cahokia (near modern St. Louis) was the largest pre-Columbian city north of Mexico; population estimates at its peak (c. 1100 CE) range from about 10,000 to 20,000 — comparable in scale to many European cities of the same era, though the specific comparison to London depends on which estimates you use for both cities
 - The Mississippian culture traded widely along river networks, exchanging copper, shells, obsidian, and ceremonial objects across vast distances; evidence of this trade network is found in archaeological sites from the Gulf Coast to the Great Lakes
 - Cahokia's decline (c. 1300–1400) is debated — possible causes include environmental degradation, political instability, and the collapse of trade relationships; its decline before European contact illustrates that American civilizations also experienced rise and fall independent of any external influence
 

@@ -31,7 +31,7 @@ tags: [apwh, unit-1, period-1, key-people, africa]
 
 ---
 
-### Musa Traore / Mali Administrators
+### Mali Provincial Governors and Administrators
 **Period:** 13th–14th century | **Region:** Mali Empire
 
 - Mali's administrative system relied on provincial governors (farari) who were often members of the royal family or loyal military commanders

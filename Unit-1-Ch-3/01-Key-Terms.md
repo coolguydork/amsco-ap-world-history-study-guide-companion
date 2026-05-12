@@ -9,7 +9,7 @@ tags: [apwh, unit-1, period-1, key-terms, south-asia, southeast-asia]
 
 ## Vocabulary
 
-**Delhi Sultanate** — A series of Muslim dynasties (1206–1526) that ruled northern India from the city of Delhi; founded by Turkish military commanders who had served Mahmud of Ghazni. (Significance: first major Islamic political power in South Asia; introduced Persian-Islamic governance, art, and architecture to India; predecessor to the Mughal Empire.)
+**Delhi Sultanate** — A series of Muslim dynasties (1206–1526) that ruled northern India from the city of Delhi; founded by Qutb-ud-din Aibak, a Turkish military commander (mamluk) who had served Muhammad of Ghur (of the Ghurid dynasty). (Significance: first major Islamic political power in South Asia; introduced Persian-Islamic governance, art, and architecture to India; predecessor to the Mughal Empire.)
 
 **Hinduism** — The dominant religion of the Indian subcontinent, characterized by a vast pantheon, the caste system (varna), concepts of karma and dharma, and texts including the Vedas, Upanishads, and Bhagavad Gita. (Significance: provided the cultural and social framework that Delhi Sultanate rulers had to accommodate; persisted among the vast majority of India's population despite Muslim rule.)
 
@@ -31,7 +31,7 @@ tags: [apwh, unit-1, period-1, key-terms, south-asia, southeast-asia]
 
 **Wet-Rice Agriculture** — The cultivation of rice in flooded paddy fields; the economic foundation of most Southeast Asian states. (Significance: enabled large sedentary populations, state revenue collection through rice taxation, and the corvée labor systems that built great monuments like Angkor Wat.)
 
-**Malacca (Melaka)** — A strategically located port city-state on the Malay Peninsula, founded c. 1400; its ruler converted to Islam around 1414, making it the first major Islamic polity in Southeast Asia. (Significance: became the dominant entrepôt of Southeast Asian trade and the base from which Islam spread throughout maritime Southeast Asia. See [[02-Key-People-and-Groups#Malacca]].)
+**Malacca (Melaka)** — A strategically located port city-state on the Malay Peninsula, founded c. 1400; its ruler converted to Islam around 1414. (Note: Samudra Pasai in northern Sumatra, founded c. 1267, was the first Islamic sultanate in Southeast Asia; Malacca became the most commercially dominant and influential center for Islam's spread across maritime Southeast Asia.) (Significance: became the dominant entrepôt of Southeast Asian trade and the base from which Islam spread throughout maritime Southeast Asia. See [[02-Key-People-and-Groups#Malacca]].)
 
 **Vijayanagara Empire** — A Hindu empire (1336–1646) in southern India that resisted the Delhi Sultanate's expansion and became a center of Hindu culture and the Telugu language. (Significance: demonstrates the limits of Delhi Sultanate power and the resilience of Hindu political authority in South Asia.)
 

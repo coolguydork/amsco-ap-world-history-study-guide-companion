@@ -40,7 +40,7 @@ tags: [apwh, unit-1, period-1, key-people, east-asia]
 **Period:** 1371–1433 | **Region:** China, Indian Ocean
 
 - Muslim Chinese admiral who commanded seven massive naval expeditions (1405–1433) on behalf of the Yongle Emperor
-- His fleet of "treasure ships" — some over 400 feet long — dwarfed contemporary European vessels and visited Southeast Asia, India, Arabia, and the Swahili Coast of Africa
+- His fleet of "treasure ships" dwarfed contemporary European vessels; traditional accounts describe the largest ships at over 400 feet, though modern historians debate the actual dimensions — more conservative estimates place them at around 200–250 feet, still far larger than anything Europe had deployed at the time
 - The voyages were ended after his death due to Confucian scholar-bureaucrats' opposition to "maritime adventurism"; China turned inward, a pivotal moment of historical contingency
 
 > [!exam-tip]
@@ -69,7 +69,7 @@ tags: [apwh, unit-1, period-1, key-people, east-asia]
 ### Korean Goryeo Dynasty (918–1392)
 **Period:** 918–1392 | **Region:** Korea
 
-- Adopted Chinese-style civil service examinations and Neo-Confucian philosophy while developing a distinct Korean Buddhist culture
+- Buddhism remained the dominant state religion for most of Goryeo's history; Neo-Confucianism gained influence only in the late Goryeo period (late 14th century) and became fully dominant under the successor Joseon Dynasty (1392–1897). The Goryeo court adopted Chinese-style civil service examinations and engaged Neo-Confucian ideas, but it would be an overstatement to characterize the dynasty as Neo-Confucian overall
 - Developed celadon pottery and woodblock printing (the Tripitaka Koreana, 1251) reflecting the syncretic blending of Chinese and Korean traditions
 - Became a vassal state of the Mongol Yuan Dynasty, demonstrating the reach of Mongol imperial power into East Asia
 

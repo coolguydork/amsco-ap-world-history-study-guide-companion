@@ -206,7 +206,7 @@ D) The conversion of West African rulers to Islam disrupted relationships with C
 **Possible Groupings:**
 - Group 1: Political power derived from trade control (Mali rulers taxing gold trade; Venetian merchant oligarchs governing commercial republic)
 - Group 2: Cultural/religious diffusion via trade (Islam spreading to Mali via trans-Saharan merchants; Catholic Church's commercial connections via Italian city-states)
-- Group 3: Disruption and resilience (Black Death disrupting European trade; Mongol invasion disrupting trans-Saharan connections through North Africa)
+- Group 3: Disruption and resilience (Black Death disrupting European trade and demographics; internal succession conflicts weakening Mali's control over trans-Saharan routes). Note: the Mongols did not significantly disrupt trans-Saharan trade — they never reached West Africa, and the Mamluks in Egypt successfully halted Mongol westward expansion at Ain Jalut (1260), protecting North Africa's connections to the Saharan network
 
 **Outside Evidence:**
 - Mansa Musa's hajj as demonstration of trade-based wealth and Islamic identity

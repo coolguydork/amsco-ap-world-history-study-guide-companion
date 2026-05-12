@@ -25,7 +25,7 @@ tags: [apwh, unit-1, period-1, timeline, americas, aztec, inca]
 | 1427 | Triple Alliance formed (Mexica, Texcoco, Tlacopan) | Mesoamerica | **Change:** Aztec Empire formally established; begins rapid expansion |
 | 1427–1440 | Itzcoatl conquers Tepanec; rewrites Aztec history | Mesoamerica | Aztec dominance in Valley of Mexico secured; historical revision centralizes Mexica identity |
 | 1438 | Pachacuti begins his reign | South America | **Change/Turning point:** The Inca Empire begins its dramatic expansion under its greatest ruler |
-| 1438–1471 | Pachacuti conquers Titicaca basin, Chimú, and more | South America | Tawantinsuyu expands from regional to continental empire in one generation |
+| 1438–1471 | Pachacuti expands Tawantinsuyu: conquers Titicaca basin and beyond | South America | Dramatic Inca expansion under its greatest ruler; the Chimú (northern coast) were conquered c. 1470 under Tupac Inca Yupanqui, Pachacuti's son and co-ruler |
 | c. 1440 | Aztec Flower Wars institutionalized | Mesoamerica | Ritualized warfare for sacrifice victims becomes regular practice |
 | 1440–1469 | Moctezuma I expands Aztec tribute system | Mesoamerica | Aztec Empire reaches Gulf Coast and Oaxaca; tribute extraction maximized |
 | c. 1450 | Machu Picchu constructed | South America | Royal Inca estate demonstrates architectural mastery; symbol of Inca civilization |

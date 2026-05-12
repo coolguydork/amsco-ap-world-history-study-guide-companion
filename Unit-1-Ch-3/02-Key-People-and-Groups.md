@@ -60,7 +60,7 @@ tags: [apwh, unit-1, period-1, key-people, south-asia, southeast-asia]
 ### Malacca (Melaka) Sultanate
 **Period:** c. 1400–1511 | **Region:** Malay Peninsula, Southeast Asia
 
-- Founded around 1400 by a prince from the Hindu Majapahit Empire; the ruler converted to Islam around 1414, making Malacca the first major Islamic polity in maritime Southeast Asia
+- Founded around 1400 by a prince from Palembang (with ties to Srivijaya traditions); the ruler converted to Islam around 1414. While Samudra Pasai (northern Sumatra, c. 1267) was the first Islamic sultanate in the region, Malacca became by far the most commercially powerful and the primary vehicle for Islam's spread across maritime Southeast Asia
 - Became the most important entrepôt in Asia, where Chinese, Indian, Arab, Javanese, and Malay merchants exchanged goods; traders used a *lingua franca* called Malay that had some 84 different languages spoken in the port
 - The conversion of Malacca accelerated the Islamicization of Southeast Asia as local rulers along trade routes followed Malacca's example
 

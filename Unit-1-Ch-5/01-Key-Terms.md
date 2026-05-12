@@ -9,7 +9,7 @@ tags: [apwh, unit-1, period-1, key-terms, americas, aztec, inca, maya]
 
 ## Vocabulary
 
-**Aztec (Mexica) Empire** — A powerful Mesoamerican empire (c. 1345–1521) centered at Tenochtitlan (present-day Mexico City), founded by the Mexica people who migrated from the north; governed through a triple alliance with Texcoco and Tlacopan. (Significance: the dominant political force in Mesoamerica at the time of Spanish contact; its tribute system, religious practices, and urban sophistication astonished European observers.)
+**Aztec (Mexica) Empire** — A powerful Mesoamerican empire (c. 1428–1521) centered at Tenochtitlan (present-day Mexico City); the city itself was founded in 1325, but the empire proper emerged with the Triple Alliance of 1428 under Itzcoatl; governed through a confederation of the Mexica, Texcoco, and Tlacopan. (Significance: the dominant political force in Mesoamerica at the time of Spanish contact; its tribute system, religious practices, and urban sophistication astonished European observers.)
 
 **Tenochtitlan** — The capital city of the Aztec Empire, built on an island in Lake Texcoco; by 1500 it had a population of 200,000–300,000, making it one of the world's largest cities. (Significance: demonstrates the scale of Aztec urban achievement; connected to the mainland by causeways; organized around the great Templo Mayor pyramid; destroyed and rebuilt as Mexico City by the Spanish.)
 
@@ -35,7 +35,7 @@ tags: [apwh, unit-1, period-1, key-terms, americas, aztec, inca, maya]
 
 **Machu Picchu** — An Inca mountain citadel built c. 1450 by Pachacuti, likely as a royal estate and religious site; located in the Peruvian Andes at 7,970 feet elevation. (Significance: demonstrates Inca architectural mastery — perfectly fitted stone without mortar, built on a steep mountain ridge; now Peru's most famous archaeological site.)
 
-**Mit'a Road System** — The Inca road network covering over 25,000 miles of paved paths, rope bridges, and tunnels connecting the empire; maintained by mit'a labor. (Significance: arguably the greatest infrastructure achievement in the pre-Columbian Americas; allowed the rapid movement of armies, information (via relay runners, *chasquis*), and goods across a vast, geographically diverse empire.)
+**Inca Road System (Qhapaq Ñan)** — The Inca road network covering over 25,000 miles of paved paths, rope bridges, and tunnels connecting the empire; built and maintained through mit'a labor obligations. (Significance: arguably the greatest infrastructure achievement in the pre-Columbian Americas; allowed the rapid movement of armies, information (via relay runners, *chasquis*), and goods across a vast, geographically diverse empire. Note: the road system and the mit'a are distinct — mit'a was the labor tax used to construct and maintain roads, temples, and other state projects.)
 
 **Maya** — A Mesoamerican civilization with roots before 1000 BCE; by 1200–1450, Classic Maya cities had collapsed, but Maya peoples maintained distinct communities and states in Yucatán and highland Guatemala. (Significance: Aztec civilization built on Mesoamerican foundations laid by the Maya, including the ritual calendar, ballgame, and writing system; Maya continuity after the "collapse" is itself historically significant.)
 
