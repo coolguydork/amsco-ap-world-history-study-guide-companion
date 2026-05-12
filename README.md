@@ -13,6 +13,18 @@ For every chapter of the AMSCO AP World History textbook, this vault provides:
 
 ---
 
+## Do You Still Need to Read the Textbook?
+
+**Short answer: yes, if you're aiming for a 5.**
+
+These materials cover everything the AP exam tests — all key terms, people, causation chains, thematic analysis, and essay practice are built around the College Board framework. A student who engages actively with the Cornell Notes, Anki decks, and practice questions will be well-prepared to pass and score well.
+
+Where the textbook still adds real value is in the *texture* of the history — the specific examples, primary source excerpts, and narrative context that make it easier to write convincingly in free-response answers. A student who only knows "Mansa Musa's hajj caused gold inflation in Cairo" as a fact will handle an MCQ fine, but may struggle to write a nuanced DBQ paragraph compared to someone who's read the actual account and has a richer mental picture.
+
+The honest framing: **these materials are structured exam-prep scaffolding built around the AMSCO textbook, not a replacement for it.** Depth of understanding shows in essay writing — and that depth comes from the reading. Use this vault to organize, review, and practice; use the textbook to build the understanding that makes the practice meaningful.
+
+---
+
 ## Accuracy
 
 All notes, slides, Cornell PDFs, and Anki decks have been reviewed for factual accuracy against current scholarship. Corrections applied in May 2026 include: Zheng He ship-size hedging (400 ft claim is contested; 200–300 ft is the conservative scholarly range), Delhi Sultanate founder corrected to Muhammad of Ghur, Malacca "first Islamic polity" nuanced to acknowledge Samudra Pasai (c. 1267), Mali wealth claim hedged to "one of the wealthiest," Aztec empire founding corrected to c. 1428 (Triple Alliance), Cahokia population range adjusted to 10,000–20,000, trans-Saharan camel corrected to dromedary (not Bactrian), and Muslim merchant "dominance" language softened to "prominent" across all formats. Found an error we missed? Open an issue or PR.
