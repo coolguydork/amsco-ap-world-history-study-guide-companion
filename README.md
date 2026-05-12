@@ -165,7 +165,7 @@ The `.md` files are plain Markdown and render correctly on GitHub, in VS Code, o
 ### Option 3: Anki (spaced repetition)
 
 1. Download [Anki](https://apps.ankiweb.net/) (free desktop app) or [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) (iOS)
-2. Open Anki → File → Import → select any `.apkg` from the `anki/` folder
+2. Open Anki → File → Import → select any `.apkg` from the relevant chapter folder
 3. Each deck contains cards for key terms, people, causation chains, and AP exam tips from that chapter
 4. Cards use spaced repetition — review daily in the weeks before the exam for maximum retention
 
