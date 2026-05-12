@@ -7,8 +7,15 @@ For every chapter of the AMSCO AP World History textbook, this vault provides:
 - **Seven interlinked Markdown notes** (Obsidian-compatible, with wikilinks, tags, and callout blocks)
 - **A 15-slide chapter PowerPoint review deck** (.pptx, works in PowerPoint, Google Slides, or Keynote)
 - **A 7-page Cornell Notes PDF** (cue questions + notes pre-filled; blank summary strip for self-testing)
+- **An Anki flashcard deck** (.apkg, importable directly into [Anki](https://apps.ankiweb.net/)) — key terms, people, causation chains, and AP exam tips
 - **AP-style practice questions** — 10 MCQs with answer keys, 2 SAQ prompts, and 1 DBQ outline per chapter
 - **Unit-level synthesis materials** — a master overview Markdown file and a 20-slide consolidated unit review deck
+
+---
+
+## Accuracy
+
+All notes, slides, Cornell PDFs, and Anki decks have been reviewed for factual accuracy against current scholarship. Corrections applied in May 2026 include: Zheng He ship-size hedging (400 ft claim is contested; 200–300 ft is the conservative scholarly range), Delhi Sultanate founder corrected to Muhammad of Ghur, Malacca "first Islamic polity" nuanced to acknowledge Samudra Pasai (c. 1267), Mali wealth claim hedged to "one of the wealthiest," Aztec empire founding corrected to c. 1428 (Triple Alliance), Cahokia population range adjusted to 10,000–20,000, trans-Saharan camel corrected to dromedary (not Bactrian), and Muslim merchant "dominance" language softened to "prominent" across all formats. Found an error we missed? Open an issue or PR.
 
 ---
 
@@ -78,9 +85,10 @@ AP World History Study/
 │   ├── 05-Practice-Questions.md
 │   ├── 06-Connections.md
 │   ├── Ch1-East-Asia.pptx
-│   └── Ch1-Cornell-Notes.pdf
+│   ├── Ch1-Cornell-Notes.pdf
+│   └── Anki-Unit-1-Ch-1.apkg
 │
-├── Unit-1-Ch-2/              ← Dar al-Islam
+├── Unit-1-Ch-2/              ← Dar al-Islam          (same structure: 7 .md + .pptx + .pdf + .apkg)
 ├── Unit-1-Ch-3/              ← South & Southeast Asia
 ├── Unit-1-Ch-4/              ← Africa
 ├── Unit-1-Ch-5/              ← The Americas
@@ -98,7 +106,8 @@ AP World History Study/
 │   ├── 05-Practice-Questions.md
 │   ├── 06-Connections.md
 │   ├── Ch7-Silk-Roads.pptx
-│   └── Ch7-Cornell-Notes.pdf
+│   ├── Ch7-Cornell-Notes.pdf
+│   └── Anki-Unit-2-Ch-7.apkg
 │
 ├── Unit-2-Ch-8/              ← The Mongol Empire
 ├── Unit-2-Ch-9/              ← Indian Ocean Exchange
@@ -140,6 +149,13 @@ The `.md` files are plain Markdown and render correctly on GitHub, in VS Code, o
 3. **`03-Themes-and-Causation.md`** — go deep on causation before attempting essays.
 4. **`05-Practice-Questions.md`** — attempt the SAQ or DBQ prompt *before* reading the guidance. This is where real exam prep happens.
 5. **`06-Connections.md`** — link backward and forward. AP essay complexity points come from cross-period and cross-regional connections.
+
+### Option 3: Anki (spaced repetition)
+
+1. Download [Anki](https://apps.ankiweb.net/) (free desktop app) or [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) (iOS)
+2. Open Anki → File → Import → select any `.apkg` from the `anki/` folder
+3. Each deck contains cards for key terms, people, causation chains, and AP exam tips from that chapter
+4. Cards use spaced repetition — review daily in the weeks before the exam for maximum retention
 
 ### Unit-Level Exam Review
 
