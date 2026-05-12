@@ -7,7 +7,7 @@ For every chapter of the AMSCO AP World History textbook, this vault provides:
 - **Seven interlinked Markdown notes** (Obsidian-compatible, with wikilinks, tags, and callout blocks)
 - **A 15-slide chapter PowerPoint review deck** (.pptx, works in PowerPoint, Google Slides, or Keynote)
 - **A 7-page Cornell Notes PDF** (cue questions + notes pre-filled; blank summary strip for self-testing)
-- **An Anki flashcard deck** (.apkg, importable directly into [Anki](https://apps.ankiweb.net/)) — key terms, people, causation chains, and AP exam tips
+- **An Anki flashcard deck** (.apkg, importable directly into [Anki](https://apps.ankiweb.net/)) — key terms, people, causation chains, and AP exam tips — one deck per chapter, all 10 chapters covered
 - **AP-style practice questions** — 10 MCQs with answer keys, 2 SAQ prompts, and 1 DBQ outline per chapter
 - **Unit-level synthesis materials** — a master overview Markdown file and a 20-slide consolidated unit review deck
 
@@ -88,7 +88,7 @@ AP World History Study/
 │   ├── Ch1-Cornell-Notes.pdf
 │   └── Anki-Unit-1-Ch-1.apkg
 │
-├── Unit-1-Ch-2/              ← Dar al-Islam          (same structure: 7 .md + .pptx + .pdf + .apkg)
+├── Unit-1-Ch-2/              ← Dar al-Islam
 ├── Unit-1-Ch-3/              ← South & Southeast Asia
 ├── Unit-1-Ch-4/              ← Africa
 ├── Unit-1-Ch-5/              ← The Americas
