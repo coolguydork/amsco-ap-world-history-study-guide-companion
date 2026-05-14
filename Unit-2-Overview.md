@@ -21,12 +21,12 @@ Unit 2 asks a single powerful question: *How were the world's civilizations conn
 
 ## Chapters in This Unit
 
-| Chapter | Trade Network | Core Theme |
+| Topic | Trade Network | Core Theme |
 |---------|--------------|------------|
-| [[Unit-2-Ch-7/00-Overview\|Ch7: The Silk Roads]] | Overland Eurasia | Trade, cultural diffusion, plague, Pax Mongolica |
-| [[Unit-2-Ch-8/00-Overview\|Ch8: The Mongol Empire]] | Empire enabling all networks | Conquest, integration, Black Death, unintended consequences |
-| [[Unit-2-Ch-9/00-Overview\|Ch9: Indian Ocean Exchange]] | Maritime Indian Ocean | Monsoon trade, Islam, Swahili coast, Zheng He |
-| [[Unit-2-Ch-10/00-Overview\|Ch10: Americas, Africa & Europe]] | Trans-Saharan + regional networks | Gold-salt trade, Mali, Black Death in Europe, Americas' isolation |
+| [[Unit-2.1/00-Overview\|Ch7: The Silk Roads]] | Overland Eurasia | Trade, cultural diffusion, plague, Pax Mongolica |
+| [[Unit-2.2/00-Overview\|Ch8: The Mongol Empire]] | Empire enabling all networks | Conquest, integration, Black Death, unintended consequences |
+| [[Unit-2.3/00-Overview\|Ch9: Indian Ocean Exchange]] | Maritime Indian Ocean | Monsoon trade, Islam, Swahili coast, Zheng He |
+| [[Unit-2.4/00-Overview\|Ch10: Americas, Africa & Europe]] | Trans-Saharan + regional networks | Gold-salt trade, Mali, Black Death in Europe, Americas' isolation |
 
 ---
 
@@ -61,7 +61,7 @@ Unit 2's networks produced multiple forms of human movement: voluntary merchant 
 
 ---
 
-## AP Exam: Cross-Chapter Comparisons (High-Yield)
+## AP Exam: Cross-Topic Comparisons (High-Yield)
 
 | Concept | Silk Roads (Ch7) | Indian Ocean (Ch9) | Trans-Saharan (Ch10) |
 |---------|-----------------|-------------------|----------------------|
@@ -126,20 +126,20 @@ Americas remain isolated → catastrophic vulnerability when contact begins 1492
 
 ## Obsidian Graph Links
 
-### Chapter Overviews
-- [[Unit-2-Ch-7/00-Overview|Ch7: The Silk Roads]]
-- [[Unit-2-Ch-8/00-Overview|Ch8: The Mongol Empire]]
-- [[Unit-2-Ch-9/00-Overview|Ch9: Indian Ocean Exchange]]
-- [[Unit-2-Ch-10/00-Overview|Ch10: Americas, Africa & Europe]]
+### Topic Overviews
+- [[Unit-2.1/00-Overview|Ch7: The Silk Roads]]
+- [[Unit-2.2/00-Overview|Ch8: The Mongol Empire]]
+- [[Unit-2.3/00-Overview|Ch9: Indian Ocean Exchange]]
+- [[Unit-2.4/00-Overview|Ch10: Americas, Africa & Europe]]
 
 ### Key Cross-Unit Concepts Linking Unit 1 and Unit 2
-- [[Unit-1-Ch-1/00-Overview|Ch1: East Asia]] → [[Unit-2-Ch-7/00-Overview|Silk Roads]] → [[Unit-2-Ch-8/00-Overview|Mongol Yuan Dynasty]]
-- [[Unit-1-Ch-2/00-Overview|Ch2: Dar al-Islam]] → [[Unit-2-Ch-7/00-Overview|Silk Roads]] → [[Unit-2-Ch-9/00-Overview|Indian Ocean trade]]
-- [[Unit-1-Ch-4/00-Overview|Ch4: Africa]] → [[Unit-2-Ch-9/00-Overview|Swahili coast]] → [[Unit-2-Ch-10/00-Overview|Trans-Saharan trade]]
-- [[Unit-1-Ch-5/00-Overview|Ch5: Americas]] → [[Unit-2-Ch-10/00-Overview|Americas' exchange networks]] → Columbian Exchange (Unit 3)
-- [[Unit-1-Ch-6/00-Overview|Ch6: Europe]] → [[Unit-2-Ch-10/00-Overview|Italian city-states / Black Death]] → Age of Exploration (Unit 3)
+- [[Unit-1.1/00-Overview|Ch1: East Asia]] → [[Unit-2.1/00-Overview|Silk Roads]] → [[Unit-2.2/00-Overview|Mongol Yuan Dynasty]]
+- [[Unit-1.2/00-Overview|Ch2: Dar al-Islam]] → [[Unit-2.1/00-Overview|Silk Roads]] → [[Unit-2.3/00-Overview|Indian Ocean trade]]
+- [[Unit-1.4/00-Overview|Ch4: Africa]] → [[Unit-2.3/00-Overview|Swahili coast]] → [[Unit-2.4/00-Overview|Trans-Saharan trade]]
+- [[Unit-1.5/00-Overview|Ch5: Americas]] → [[Unit-2.4/00-Overview|Americas' exchange networks]] → Columbian Exchange (Unit 3)
+- [[Unit-1.6/00-Overview|Ch6: Europe]] → [[Unit-2.4/00-Overview|Italian city-states / Black Death]] → Age of Exploration (Unit 3)
 
 ### Key Concepts Across Unit 2
-- [[Unit-2-Ch-7/01-Key-Terms|Pax Mongolica]] · [[Unit-2-Ch-8/01-Key-Terms|Mongol Empire]] · [[Unit-2-Ch-7/01-Key-Terms|Bubonic plague]]
-- [[Unit-2-Ch-9/01-Key-Terms|Indian Ocean trade]] · [[Unit-2-Ch-9/01-Key-Terms|Monsoon winds]] · [[Unit-2-Ch-9/02-Key-People-and-Groups|Zheng He]]
-- [[Unit-2-Ch-10/01-Key-Terms|Trans-Saharan trade]] · [[Unit-2-Ch-10/02-Key-People-and-Groups|Mansa Musa]] · [[Unit-2-Ch-10/01-Key-Terms|Americas isolation]]
+- [[Unit-2.1/01-Key-Terms|Pax Mongolica]] · [[Unit-2.2/01-Key-Terms|Mongol Empire]] · [[Unit-2.1/01-Key-Terms|Bubonic plague]]
+- [[Unit-2.3/01-Key-Terms|Indian Ocean trade]] · [[Unit-2.3/01-Key-Terms|Monsoon winds]] · [[Unit-2.3/02-Key-People-and-Groups|Zheng He]]
+- [[Unit-2.4/01-Key-Terms|Trans-Saharan trade]] · [[Unit-2.4/02-Key-People-and-Groups|Mansa Musa]] · [[Unit-2.4/01-Key-Terms|Americas isolation]]

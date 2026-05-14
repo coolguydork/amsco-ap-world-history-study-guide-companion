@@ -5,7 +5,7 @@ period: 4
 tags: [apwh, unit-4, period-4, connections, graph-view]
 ---
 
-# Cross-Chapter Connections — Unit 4: Transoceanic Interconnections
+# Cross-Topic Connections — Unit 4: Transoceanic Interconnections
 
 #apwh #unit-4 #period-4
 

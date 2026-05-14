@@ -21,14 +21,14 @@ Between 1200 and 1450, the world was defined by **interconnection** — not isol
 
 ## Chapters in This Unit
 
-| Chapter | Region | Core Theme |
+| Topic | Region | Core Theme |
 |---------|--------|------------|
-| [[Unit-1-Ch-1/00-Overview\|Ch1: East Asia]] | China, Korea, Japan | Song commercial revolution; Mongol conquest; Ming restoration |
-| [[Unit-1-Ch-2/00-Overview\|Ch2: Dar al-Islam]] | Middle East, Central Asia, N. Africa, S. Asia | Islamic expansion; Abbasid collapse; Mongol disruption; regional sultanates |
-| [[Unit-1-Ch-3/00-Overview\|Ch3: South & Southeast Asia]] | India, SE Asia | Hindu-Buddhist synthesis; Delhi Sultanate; maritime trade networks |
-| [[Unit-1-Ch-4/00-Overview\|Ch4: Africa]] | Sub-Saharan Africa, Swahili Coast | Trans-Saharan trade; Mali & Great Zimbabwe; Islam in Africa |
-| [[Unit-1-Ch-5/00-Overview\|Ch5: The Americas]] | Mesoamerica, Andes, North America | Aztec/Mexica rise; Inca consolidation; Mississippi culture |
-| [[Unit-1-Ch-6/00-Overview\|Ch6: Europe]] | Western & Eastern Europe | Feudalism; Catholic Church; Black Death; rising monarchies |
+| [[Unit-1.1/00-Overview\|Ch1: East Asia]] | China, Korea, Japan | Song commercial revolution; Mongol conquest; Ming restoration |
+| [[Unit-1.2/00-Overview\|Ch2: Dar al-Islam]] | Middle East, Central Asia, N. Africa, S. Asia | Islamic expansion; Abbasid collapse; Mongol disruption; regional sultanates |
+| [[Unit-1.3/00-Overview\|Ch3: South & Southeast Asia]] | India, SE Asia | Hindu-Buddhist synthesis; Delhi Sultanate; maritime trade networks |
+| [[Unit-1.4/00-Overview\|Ch4: Africa]] | Sub-Saharan Africa, Swahili Coast | Trans-Saharan trade; Mali & Great Zimbabwe; Islam in Africa |
+| [[Unit-1.5/00-Overview\|Ch5: The Americas]] | Mesoamerica, Andes, North America | Aztec/Mexica rise; Inca consolidation; Mississippi culture |
+| [[Unit-1.6/00-Overview\|Ch6: Europe]] | Western & Eastern Europe | Feudalism; Catholic Church; Black Death; rising monarchies |
 
 ---
 
@@ -140,15 +140,15 @@ These topics appear disproportionately on AP exams — know them cold:
 
 ## Obsidian Graph Links
 
-### Chapter Overviews
-- [[Unit-1-Ch-1/00-Overview|Ch1: East Asia]]
-- [[Unit-1-Ch-2/00-Overview|Ch2: Dar al-Islam]]
-- [[Unit-1-Ch-3/00-Overview|Ch3: South & Southeast Asia]]
-- [[Unit-1-Ch-4/00-Overview|Ch4: Africa]]
-- [[Unit-1-Ch-5/00-Overview|Ch5: The Americas]]
-- [[Unit-1-Ch-6/00-Overview|Ch6: Europe]]
+### Topic Overviews
+- [[Unit-1.1/00-Overview|Ch1: East Asia]]
+- [[Unit-1.2/00-Overview|Ch2: Dar al-Islam]]
+- [[Unit-1.3/00-Overview|Ch3: South & Southeast Asia]]
+- [[Unit-1.4/00-Overview|Ch4: Africa]]
+- [[Unit-1.5/00-Overview|Ch5: The Americas]]
+- [[Unit-1.6/00-Overview|Ch6: Europe]]
 
 ### Key Cross-Unit Concepts
-- [[Unit-1-Ch-1/01-Key-Terms|Silk Roads]] · [[Unit-1-Ch-2/01-Key-Terms|Dar al-Islam]] · [[Unit-1-Ch-4/01-Key-Terms|Trans-Saharan Trade]]
-- [[Unit-1-Ch-1/02-Key-People-and-Groups|Zheng He]] · [[Unit-1-Ch-2/02-Key-People-and-Groups|Mongols]] · [[Unit-1-Ch-6/02-Key-People-and-Groups|Catholic Church]]
-- [[Unit-1-Ch-1/06-Connections|Ch1 Connections]] · [[Unit-1-Ch-6/06-Connections|Ch6 Connections]]
+- [[Unit-1.1/01-Key-Terms|Silk Roads]] · [[Unit-1.2/01-Key-Terms|Dar al-Islam]] · [[Unit-1.4/01-Key-Terms|Trans-Saharan Trade]]
+- [[Unit-1.1/02-Key-People-and-Groups|Zheng He]] · [[Unit-1.2/02-Key-People-and-Groups|Mongols]] · [[Unit-1.6/02-Key-People-and-Groups|Catholic Church]]
+- [[Unit-1.1/06-Connections|Ch1 Connections]] · [[Unit-1.6/06-Connections|Ch6 Connections]]

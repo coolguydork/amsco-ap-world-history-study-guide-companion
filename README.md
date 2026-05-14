@@ -33,14 +33,14 @@ All notes, slides, Cornell PDFs, and Anki decks have been reviewed for factual a
 
 All six chapters are fully complete with notes, slides, Cornell PDFs, and practice questions.
 
-| Chapter | Topic | Key Themes |
+| Topic | Title | Key Themes |
 |---------|-------|------------|
-| Ch 1 | Developments in East Asia | Song Dynasty · Yuan Dynasty · Ming Dynasty · Confucianism · Zheng He's voyages · civil service exam · gunpowder · paper money |
-| Ch 2 | Developments in Dar al-Islam | Abbasid Caliphate · Mongol sack of Baghdad (1258) · Ibn Battuta · Sufism · trans-Saharan trade · Delhi Sultanate · Mali · Ottoman rise |
-| Ch 3 | Developments in South & Southeast Asia | Delhi Sultanate · Indian Ocean trade · Khmer Empire · Srivijaya · Majapahit · Hindu-Buddhist syncretism · monsoon winds |
-| Ch 4 | State Building in Africa | Mali Empire · Mansa Musa · Trans-Saharan gold-salt trade · Swahili Coast · Great Zimbabwe · Ethiopia · Islam in Africa |
-| Ch 5 | State Building in the Americas | Aztec/Mexica Empire · Inca Empire · Mississippian culture · Cahokia · American isolation · mit'a · tribute systems |
-| Ch 6 | Developments in Europe | Feudalism · Catholic Church · The Crusades · Black Death · Magna Carta · Parliament · Hundred Years' War · rising monarchies |
+| Unit 1.1 | Developments in East Asia | Song Dynasty · Yuan Dynasty · Ming Dynasty · Confucianism · Zheng He's voyages · civil service exam · gunpowder · paper money |
+| Unit 1.2 | Developments in Dar al-Islam | Abbasid Caliphate · Mongol sack of Baghdad (1258) · Ibn Battuta · Sufism · trans-Saharan trade · Delhi Sultanate · Mali · Ottoman rise |
+| Unit 1.3 | Developments in South & Southeast Asia | Delhi Sultanate · Indian Ocean trade · Khmer Empire · Srivijaya · Majapahit · Hindu-Buddhist syncretism · monsoon winds |
+| Unit 1.4 | State Building in Africa | Mali Empire · Mansa Musa · Trans-Saharan gold-salt trade · Swahili Coast · Great Zimbabwe · Ethiopia · Islam in Africa |
+| Unit 1.5 | State Building in the Americas | Aztec/Mexica Empire · Inca Empire · Mississippian culture · Cahokia · American isolation · mit'a · tribute systems |
+| Unit 1.6 | Developments in Europe | Feudalism · Catholic Church · The Crusades · Black Death · Magna Carta · Parliament · Hundred Years' War · rising monarchies |
 
 **Unit 1 bonus files:**
 - `Unit-1-Overview.md` — synthesis hub with comparison tables, causation chains, and AP essay traps
@@ -52,12 +52,12 @@ All six chapters are fully complete with notes, slides, Cornell PDFs, and practi
 
 All four chapters are fully complete with notes, slides, Cornell PDFs, and practice questions.
 
-| Chapter | Topic | Key Themes |
+| Topic | Title | Key Themes |
 |---------|-------|------------|
-| Ch 7 | The Silk Roads | Pax Mongolica · caravanserai · bills of exchange · diasporic communities · Marco Polo · Ibn Battuta · Black Death transmission |
-| Ch 8 | The Mongol Empire and the Making of the Modern World | Genghis Khan · four khanates · Yuan Dynasty · Golden Horde · direct vs. tributary rule · technology diffusion · Black Death |
-| Ch 9 | Exchange in the Indian Ocean Region | Monsoon winds · dhow · Swahili Coast · Kilwa · Malacca Sultanate · Zheng He · Islam via merchant diasporas |
-| Ch 10 | Exchange in the Americas, Africa, and Europe | Mali Empire · Mansa Musa · Trans-Saharan trade · Aztec markets · Inca mit'a · Cahokia · Black Death in Europe · feudalism's decline |
+| Unit 2.1 | The Silk Roads | Pax Mongolica · caravanserai · bills of exchange · diasporic communities · Marco Polo · Ibn Battuta · Black Death transmission |
+| Unit 2.2 | The Mongol Empire and the Making of the Modern World | Genghis Khan · four khanates · Yuan Dynasty · Golden Horde · direct vs. tributary rule · technology diffusion · Black Death |
+| Unit 2.3 | Exchange in the Indian Ocean Region | Monsoon winds · dhow · Swahili Coast · Kilwa · Malacca Sultanate · Zheng He · Islam via merchant diasporas |
+| Unit 2.4 | Exchange in the Americas, Africa, and Europe | Mali Empire · Mansa Musa · Trans-Saharan trade · Aztec markets · Inca mit'a · Cahokia · Black Death in Europe · feudalism's decline |
 
 **Unit 2 bonus files:**
 - `Unit-2-Overview.md` — synthesis hub with three-network comparison table, Mongol paradox analysis, causation chains, and AP essay traps
@@ -86,7 +86,7 @@ AP World History Study/
 ├── Unit-1-Overview.md        ← Unit 1 synthesis hub (start here for exam review)
 ├── Unit1-Review.pptx         ← 20-slide consolidated Unit 1 review deck
 │
-├── Unit-1-Ch-1/              ← East Asia (Song, Yuan, Ming)
+├── Unit-1.1/              ← East Asia (Song, Yuan, Ming)
 │   ├── 00-Overview.md
 │   ├── 01-Key-Terms.md
 │   ├── 02-Key-People-and-Groups.md
@@ -96,18 +96,18 @@ AP World History Study/
 │   ├── 06-Connections.md
 │   ├── Ch1-East-Asia.pptx
 │   ├── Ch1-Cornell-Notes.pdf
-│   └── Anki-Unit-1-Ch-1.apkg
+│   └── Anki-Unit-1.1.apkg
 │
-├── Unit-1-Ch-2/              ← Dar al-Islam
-├── Unit-1-Ch-3/              ← South & Southeast Asia
-├── Unit-1-Ch-4/              ← Africa
-├── Unit-1-Ch-5/              ← The Americas
-├── Unit-1-Ch-6/              ← Europe
+├── Unit-1.2/              ← Dar al-Islam
+├── Unit-1.3/              ← South & Southeast Asia
+├── Unit-1.4/              ← Africa
+├── Unit-1.5/              ← The Americas
+├── Unit-1.6/              ← Europe
 │
 ├── Unit-2-Overview.md        ← Unit 2 synthesis hub
 ├── Unit2-Review.pptx         ← 20-slide consolidated Unit 2 review deck
 │
-├── Unit-2-Ch-7/              ← The Silk Roads
+├── Unit-2.1/              ← The Silk Roads
 │   ├── 00-Overview.md
 │   ├── 01-Key-Terms.md
 │   ├── 02-Key-People-and-Groups.md
@@ -117,11 +117,11 @@ AP World History Study/
 │   ├── 06-Connections.md
 │   ├── Ch7-Silk-Roads.pptx
 │   ├── Ch7-Cornell-Notes.pdf
-│   └── Anki-Unit-2-Ch-7.apkg
+│   └── Anki-Unit-2.1.apkg
 │
-├── Unit-2-Ch-8/              ← The Mongol Empire
-├── Unit-2-Ch-9/              ← Indian Ocean Exchange
-├── Unit-2-Ch-10/             ← Americas, Africa & Europe
+├── Unit-2.2/              ← The Mongol Empire
+├── Unit-2.3/              ← Indian Ocean Exchange
+├── Unit-2.4/             ← Americas, Africa & Europe
 └── ...                       ← Units 3–9 coming soon
 ```
 
@@ -129,7 +129,7 @@ Each chapter's seven note files:
 
 | File | Contents |
 |------|----------|
-| `00-Overview.md` | Chapter summary, AMSCO learning objectives, AP key concepts (from CED), and thematic preview |
+| `00-Overview.md` | Topic summary, AMSCO learning objectives, AP key concepts (from CED), and thematic preview |
 | `01-Key-Terms.md` | 15–25 vocabulary terms with plain-language definitions, historical significance, and `[[wikilinks]]` |
 | `02-Key-People-and-Groups.md` | Key individuals, civilizations, empires, and movements — focused on causation and AP impact |
 | `03-Themes-and-Causation.md` | Content analyzed through AP's six thematic lenses with explicit cause-and-effect chains |
@@ -152,10 +152,8 @@ Each chapter's seven note files:
 
 The `.md` files are plain Markdown and render correctly on GitHub, in VS Code, or any Markdown editor. You won't get clickable wikilinks, but all the content is there.
 
-### Suggested Study Flow Per Chapter
-
-1. **Cornell Notes PDF** — read the pre-filled cues and notes. Cover the right column and self-quiz on each cue question. Write your own summary in the blank strip at the bottom.
-2. **Chapter `.pptx`** — fast visual pass; each slide is a testable concept cluster.
+### Suggested Study Flow Per Unit 1.1. **Cornell Notes PDF** — read the pre-filled cues and notes. Cover the right column and self-quiz on each cue question. Write your own summary in the blank strip at the bottom.
+2. **Topic `.pptx`** — fast visual pass; each slide is a testable concept cluster.
 3. **`03-Themes-and-Causation.md`** — go deep on causation before attempting essays.
 4. **`05-Practice-Questions.md`** — attempt the SAQ or DBQ prompt *before* reading the guidance. This is where real exam prep happens.
 5. **`06-Connections.md`** — link backward and forward. AP essay complexity points come from cross-period and cross-regional connections.
@@ -164,8 +162,7 @@ The `.md` files are plain Markdown and render correctly on GitHub, in VS Code, o
 
 1. Download [Anki](https://apps.ankiweb.net/) (free desktop app) or [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) (iOS)
 2. Open Anki → File → Import → select any `.apkg` from the relevant chapter folder
-3. Each deck contains cards for key terms, people, causation chains, and AP exam tips from that chapter
-4. Cards use spaced repetition — review daily in the weeks before the exam for maximum retention
+3. Each deck contains cards for key terms, people, causation chains, and AP exam tips from that Unit 1.4. Cards use spaced repetition — review daily in the weeks before the exam for maximum retention
 
 ### Unit-Level Exam Review
 
@@ -178,8 +175,8 @@ The `.md` files are plain Markdown and render correctly on GitHub, in VS Code, o
 
 | Unit | AP Period | Date Range | Chapters | Status |
 |------|-----------|------------|----------|--------|
-| Unit 1: The Global Tapestry | Period 1 | c. 1200–1450 | Ch 1–6 | ✅ Complete |
-| Unit 2: Networks of Exchange | Period 1 | c. 1200–1450 | Ch 7–10 | ✅ Complete |
+| Unit 1: The Global Tapestry | Period 1 | c. 1200–1450 | Unit 1.1–6 | ✅ Complete |
+| Unit 2: Networks of Exchange | Period 1 | c. 1200–1450 | Unit 2.1–10 | ✅ Complete |
 | Unit 3: Land-Based Empires | Period 2 | c. 1450–1750 | — | Coming soon |
 | Unit 4: Transoceanic Interconnections | Period 2 | c. 1450–1750 | — | Coming soon |
 | Unit 5: Revolutions | Period 3 | c. 1750–1900 | — | Coming soon |

@@ -14,11 +14,11 @@ Unit 3 examines how powerful land-based empires rose, expanded, and administered
 
 ## The Three Chapters at a Glance
 
-| Chapter | Title | Core Focus |
+| Topic | Title | Core Focus |
 |---|---|---|
-| [[Unit-3-Ch-11/00-Overview\|Ch 11]] | Land-Based Empires Expand | Rise of the Ottoman, Safavid, Mughal, Qing, and Russian empires |
-| [[Unit-3-Ch-12/00-Overview\|Ch 12]] | Administering Land-Based Empires | Bureaucracy, military systems, art, architecture, and legitimacy |
-| [[Unit-3-Ch-13/00-Overview\|Ch 13]] | Belief Systems in the Early Modern World | Islam, Christianity (Reformation), Sikhism, syncretism, and empire |
+| [[Unit-3.1/00-Overview\|Unit 3.1]] | Land-Based Empires Expand | Rise of the Ottoman, Safavid, Mughal, Qing, and Russian empires |
+| [[Unit-3.2/00-Overview\|Unit 3.2]] | Administering Land-Based Empires | Bureaucracy, military systems, art, architecture, and legitimacy |
+| [[Unit-3.3/00-Overview\|Unit 3.3]] | Belief Systems in the Early Modern World | Islam, Christianity (Reformation), Sikhism, syncretism, and empire |
 
 ## AP Key Concepts (KC) Covered
 
@@ -42,9 +42,9 @@ Unit 3 bridges the medieval world of Unit 1–2 (the Mongol networks, the Islami
 
 ## Key Vocabulary Preview
 
-[[Unit-3-Ch-11/01-Key-Terms|Ch 11 Key Terms]] · [[Unit-3-Ch-12/01-Key-Terms|Ch 12 Key Terms]] · [[Unit-3-Ch-13/01-Key-Terms|Ch 13 Key Terms]]
+[[Unit-3.1/01-Key-Terms|Unit 3.1 Key Terms]] · [[Unit-3.2/01-Key-Terms|Unit 3.2 Key Terms]] · [[Unit-3.3/01-Key-Terms|Unit 3.3 Key Terms]]
 
 ## Connections to Other Units
 
-- **Builds on:** [[Unit-1-Ch-1/00-Overview|Unit 1]] (Islamic empires, Mongol legacy), [[Unit-2-Ch-7/00-Overview|Unit 2]] (Silk Roads, Indian Ocean trade)
+- **Builds on:** [[Unit-1.1/00-Overview|Unit 1]] (Islamic empires, Mongol legacy), [[Unit-2.1/00-Overview|Unit 2]] (Silk Roads, Indian Ocean trade)
 - **Sets up:** [[Unit-4/00-Overview|Unit 4]] (European maritime expansion, Atlantic slave trade, Columbian Exchange)
