@@ -2,48 +2,45 @@
 unit: 2
 topic: 2.4
 period: 1
-tags: [apwh, unit-2, period-1, trans-saharan, americas, europe, connections, cross-chapter, graph]
+tags: [apwh, unit-2, period-1, trans-saharan, west-africa, mali, connections, cross-chapter, graph]
 ---
 
-# Unit 2.4: Connections — Exchange in the Americas, Africa, and Europe
+# Unit 2.4: Connections — Trans-Saharan Trade Routes (c. 1200–1450)
 
 > [!tip]
-> Unit 2.4 closes Unit 2 by covering the networks not addressed in the Silk Roads and Indian Ocean chapters. Its Obsidian connections link backward to Unit 1 regional chapters and forward to the explosive changes of Unit 3 (Age of Exploration, Columbian Exchange).
+> This topic is the third of Unit 2's three major trade networks. Its Obsidian connections link backward to Unit 1's Africa chapter (1.5) and forward to the Portuguese maritime contact that disrupted the trans-Saharan network in Unit 4. The Mali Empire's rise here sets up Songhai's dominance in Unit 3 and the Atlantic trade's redirection of West African gold in Unit 4.
 
 ---
 
-## Concepts This Topic Builds On (From Unit 1)
+## Concepts This Topic Builds On (From Earlier Topics)
 
-- [[../Unit-1.4/00-Overview|Ch4: Africa]] — The Mali Empire and Trans-Saharan trade introduced in Ch4 are developed fully here; Great Zimbabwe's gold connection to the Indian Ocean is also deepened
-- [[../Unit-1.5/00-Overview|Ch5: The Americas]] — Aztec and Inca state-building introduced in Ch5 is here contextualized within the exchange networks those states created and depended on; Cahokia and Mississippian trade networks add North America to the picture
-- [[../Unit-1.6/00-Overview|Ch6: Europe]] — European feudalism and the Catholic Church (Ch6) provide context for understanding why the Black Death was so socially disruptive; Italian city-states begin to emerge in Ch6's commercial revival narrative
-- [[../Unit-2.1/01-Key-Terms|Silk Roads (Ch7)]] — The Trans-Saharan network connects to the Silk Roads through North African intermediaries; the Black Death that devastated Europe (Ch10) traveled via the Silk Roads (Ch7) — these are the same historical event seen from different ends of the network
-
----
-
-## Concepts This Topic Sets Up (For Later Units)
-
-- **Unit 3 — Portuguese Exploration:** Portuguese maritime probing of the West African coast (1420s–1490s) was aimed directly at accessing the trans-Saharan gold trade by sea, bypassing Muslim middlemen. The Mali/Songhai gold wealth described in Ch10 is the commercial motivation for Portuguese exploration.
-- **Unit 3 — Columbian Exchange:** The Americas' biological isolation (described in Ch10) is the essential context for understanding why the Columbian Exchange was catastrophic. The introduction of Old World diseases to populations with zero immunity is the direct consequence of the isolation maintained through Ch10.
-- **Unit 3 — Atlantic Slave Trade:** The trans-Saharan slave trade described in Ch10 (enslaved East and West Africans sold northward into the Islamic world) established infrastructure, commercial relationships, and precedents that would be redirected by Portuguese traders into the Atlantic slave trade of Unit 4.
-- **Unit 3 — Italian City-States and the Renaissance:** The commercial wealth of Venice, Genoa, and Florence (Ch10) funded the Italian Renaissance; the financial innovations they developed funded exploration and colonization. The Renaissance is a cultural consequence of the commercial recovery traced in Ch10.
+- [[../Unit-1.5/00-Overview|Unit 1.5: Developments In Africa]] — Mali, Mansa Musa, Timbuktu, and the gold-salt trade introduced there are fully developed here; the trans-Saharan network is the economic spine of everything covered in 1.5
+- [[../Unit-1.2/00-Overview|Unit 1.2: Developments in Dar al-Islam]] — Islam's spread into West Africa via trans-Saharan trade is the continuation of the broader Islamic expansion covered in 1.2; shared Islamic commercial law (*hisba*) made Muslim-to-Muslim trust networks possible across the Sahara
+- [[../Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]] — Trans-Saharan trade follows the same logic as the Silk Roads: complementary resources, merchant diasporas, political taxation of transit commerce; compare the two networks' mechanisms and what they transmitted
+- [[../Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]] — West African gold moved through *both* trans-Saharan routes (northward) and Indian Ocean routes via the Swahili Coast (eastward); the two networks were not rivals but complementary channels for the same underlying commodity
 
 ---
 
-## Comparative Civilizations / Contrast Points
+## Concepts This Topic Sets Up (For Later Topics)
 
-- **Trans-Saharan trade vs. Indian Ocean trade ([[../Unit-2.3/00-Overview|Ch9]]):** Both spread Islam via merchant diasporas; both connected African states to broader networks; but Trans-Saharan carried gold overland by camel while Indian Ocean carried gold by sea — geography determined transport technology
-- **Mali Empire vs. Italian city-states:** Both derived political power from trade control; both produced sophisticated cultural achievements (Timbuktu's Islamic scholarship / Italian Renaissance art); both declined as Portuguese maritime trade bypassed their networks — parallel trajectories despite utterly different contexts
-- **Inca redistribution system vs. Mongol yam system:** Both were state-controlled communication and distribution systems across vast empires; the Inca mit'a and road system parallel the Mongol yam in their ambition; both demonstrate that pre-modern states could achieve enormous administrative reach without modern technology
-- **Americas' isolation vs. Old World connectivity:** The most important comparison in Unit 2: while the Old World's networks were transmitting goods, ideas, religion, and disease, the Americas were developing entirely in isolation. This context makes 1492 the most consequential date in Unit 3 — not because Europeans were superior, but because the Americas had no biological defenses against Old World pathogens.
+- **Unit 4.2 — Portuguese Exploration:** Portugal's maritime probing of the West African coast beginning in the 1440s–1480s was aimed directly at accessing West African gold by sea, bypassing the Saharan routes and their North African Muslim middlemen. The trans-Saharan gold wealth described here is the commercial motivation for Portuguese exploration.
+- **Unit 4.5 — Maritime Empires Develop / Atlantic Trade:** The redirection of West African gold toward the Atlantic economy — made possible by Portuguese maritime contact — is the direct long-term consequence of trans-Saharan trade's commercial significance. The Atlantic slave trade also used coastal infrastructure initially developed by trans-Saharan commerce.
+- **Unit 3.1 / 3.2 — Songhai Empire:** Songhai, which will eventually replace Mali as the dominant Sahelian power, is the forward extension of the same political logic: control the trade route chokepoints, fund an army with the revenues, govern a vast multi-ethnic empire. Unit 3's land-based empires include Songhai as the last of the great West African trade empires.
+
+---
+
+## Comparative Contrast Points
+
+- **Trans-Saharan vs. Indian Ocean ([[../Unit-2.3/00-Overview|Unit 2.3]]):** Both networks spread Islam via merchant diasporas, connected Africa to broader Eurasian commerce, and produced sophisticated port/city cultures. Key difference: Trans-Saharan used camels across land; Indian Ocean used dhows across water — geography determined transport technology and the character of exchange.
+- **Mali Empire vs. Mongol Empire ([[../Unit-2.2/00-Overview|Unit 2.2]]):** Both empires were built on the control of long-distance trade routes; both patronized religious and scholarly culture; both declined partially due to internal succession disputes. Key difference: the Mongols conquered and governed diverse populations through military domination, while Mali built power through commercial taxation rather than territorial conquest of producers.
+- **Trans-Saharan Islam vs. Indian Ocean Islam:** Islam spread through both networks via merchant diasporas rather than military conquest. Compare the results: West African Islam was characterized by elite conversion and syncretism with indigenous practices; Southeast Asian Islam (Indian Ocean) followed a similar elite-first pattern; both show Islam's flexibility as it moved along commercial networks far from its Arabian heartland.
 
 ---
 
 ## High-Yield Cross-Topic Links
 
-- [[01-Key-Terms|Mansa Musa]] → [[../Unit-1.4/02-Key-People-and-Groups|Mali Empire (Ch4)]] → [[../Unit-2.3/01-Key-Terms|Indian Ocean gold trade]] (West African and East African gold both entered Indian Ocean network)
-- [[01-Key-Terms|Trans-Saharan slave trade]] → Unit 4 Atlantic slave trade (same infrastructure, redirected westward by Portuguese)
-- [[01-Key-Terms|Americas' isolation]] → Unit 3 Columbian Exchange (biological consequences of isolation end catastrophically with contact)
-- [[01-Key-Terms|Italian city-states]] → Unit 3 Renaissance (commercial wealth funds Italian Renaissance) → Unit 3 Age of Exploration (Italian financial innovations fund Spanish/Portuguese exploration)
-- [[01-Key-Terms|Black Death in Europe]] → [[../Unit-2.1/01-Key-Terms|Silk Roads (Ch7)]] (same event, different geographic vantage point) → [[../Unit-1.6/00-Overview|Ch6: Europe]] (social consequences in European feudalism)
-- [[01-Key-Terms|Inca road system]] → Inca conquest of the Andes → Unit 3 Spanish conquest of Inca (road system used by Spanish to rapidly control conquered territory)
+- [[01-Key-Terms#Mali Empire|Mali Empire]] → [[../Unit-1.5/02-Key-People-and-Groups|Mansa Musa (Unit 1.5)]] → [[../Unit-4.2/00-Overview|Portuguese exploration of West Africa (Unit 4.2)]]
+- [[01-Key-Terms#Trans-Saharan Trade Routes|Trans-Saharan gold]] → [[../Unit-2.3/01-Key-Terms|Indian Ocean gold trade (Unit 2.3)]] (both channels for the same West African gold production)
+- [[01-Key-Terms#Islam in West Africa|Islam via trans-Saharan trade]] → [[../Unit-1.2/03-Themes-and-Causation|Islam's spread (Unit 1.2)]] (same religion, different mechanism — trade vs. caliphate expansion)
+- [[01-Key-Terms#Griots|Griots and oral tradition]] → contrast with [[../Unit-2.5/00-Overview|Cultural Consequences of Connectivity (Unit 2.5)]] (written vs. oral transmission of cultural memory)
+- [[01-Key-Terms#Enslaved Peoples in the Trans-Saharan Trade|Trans-Saharan slave trade]] → [[../Unit-4.5/00-Overview|Atlantic slave trade (Unit 4.5)]] (distinct systems, but West African infrastructure later redirected by Portuguese)

@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.4
-period: 4
-tags: [apwh, unit-4, period-4, timeline, maritime-empires]
+period: 2
+tags: [apwh, unit-4, period-2, timeline, maritime-empires]
 ---
 
-# Timeline — Unit 4.4: (4.4): Maritime Empires Established
+# Timeline — Unit 4.4: (4.4): Maritime Empires Link Regions
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 > [!tip] Big Picture
 > Topic 4.4 covers the *establishment* phase of maritime empires — roughly 1488–1565. These decades saw the most dramatic territorial and commercial expansion in European history to that point, fueled by the technologies of 4.1 and the motivations of 4.2.

@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.4
-period: 4
-tags: [apwh, unit-4, period-4, vocabulary, maritime-empires]
+period: 2
+tags: [apwh, unit-4, period-2, vocabulary, maritime-empires]
 ---
 
-# Key Terms — Unit 4.4: (4.4): Maritime Empires Established
+# Key Terms — Unit 4.4: (4.4): Maritime Empires Link Regions
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 1. **Estado da India** — The Portuguese "State of India," the network of fortified trading posts and sea lanes controlled by Portugal in the Indian Ocean. (Enabled Portugal to dominate the spice trade for nearly a century through commercial coercion rather than territorial conquest.)
 

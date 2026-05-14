@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.7
-period: 4
-tags: [apwh, unit-4, period-4, timeline, social-hierarchy]
+period: 2
+tags: [apwh, unit-4, period-2, timeline, social-hierarchy]
 ---
 
 # Timeline — Unit 4.7: (4.7): Changing Social Hierarchies
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 > [!tip] Big Picture
 > Social hierarchy changes in this period were *caused* by the economic and demographic developments of Topics 4.3–4.5. They set the stage for the social conflicts and independence movements of Unit 5. This is a topic about long-term structural change, not dramatic events.

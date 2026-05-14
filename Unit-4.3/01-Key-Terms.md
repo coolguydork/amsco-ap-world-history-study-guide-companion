@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.3
-period: 4
-tags: [apwh, unit-4, period-4, vocabulary, columbian-exchange]
+period: 2
+tags: [apwh, unit-4, period-2, vocabulary, columbian-exchange]
 ---
 
 # Key Terms — Unit 4.3: (4.3): The Columbian Exchange
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 1. **Columbian Exchange** — The transfer of crops, animals, diseases, and peoples between the Eastern and Western Hemispheres following Columbus's 1492 voyage. (Most transformative biological event in recorded history; reshaped global demography and ecology.)
 

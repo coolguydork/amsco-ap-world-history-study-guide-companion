@@ -1,17 +1,19 @@
 ---
 unit: 4
 topic: 4.6
-period: 4
-tags: [apwh, unit-4, period-4, vocabulary, resistance, challenges]
+period: 2
+tags: [apwh, unit-4, period-2, vocabulary, resistance, challenges]
 ---
 
 # Key Terms — Unit 4.6: (4.6): Internal and External Challenges to State Power
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 1. **Pueblo Revolt (1680)** — A successful uprising of Pueblo peoples in New Mexico against Spanish colonial rule, driving Spanish settlers out for 12 years. (Demonstrates Indigenous peoples' capacity for organized, successful resistance; forced Spanish to moderate some colonial policies.)
 
-2. **Tupac Amaru II (1780–1781)** — A major Indigenous rebellion in the Andes led by José Gabriel Condorcanqui (who took the name of the last Inca ruler), the largest anti-colonial revolt in Latin American history before independence. (Killed ~100,000 people; ultimately suppressed; accelerated creole desire for independence from Spain.)
+2. **Maratha Confederacy** — A Hindu warrior confederacy that rose in the Deccan plateau of India in the 1640s–1680s, mounting sustained military resistance against Mughal expansion under Shivaji (r. 1674–1680). (Significance: the most effective internal challenge to Mughal authority in the Unit 4 period; Shivaji's guerrilla tactics, use of mountain forts, and appeals to Hindu identity weakened Mughal control of the Deccan and foreshadowed the empire's post-Aurangzeb fragmentation; belongs squarely within 1450–1750.)
+
+> [!tip] **Forward connection:** Tupac Amaru II (1780–1781), the largest pre-independence rebellion in Latin America, falls *after* 1750 and belongs to Unit 5–6 content on reactions to Bourbon Reforms. Do not use it as a Unit 4 example.
 
 3. **Maroon communities** — Independent settlements of escaped enslaved Africans, established in remote areas of Jamaica, Suriname, Brazil (Quilombo dos Palmares), and elsewhere. (Evidence of sustained, successful resistance; some maroon communities signed peace treaties with colonial governments.)
 
@@ -21,7 +23,9 @@ tags: [apwh, unit-4, period-4, vocabulary, resistance, challenges]
 
 6. **Protestant Reformation** — The 16th-century religious movement that challenged Catholic Church authority and split Western Christianity into Catholic and Protestant branches. (Intensified European interstate conflict by adding religious justification to political competition; England and the Dutch Republic used Protestantism as a rationale for challenging Catholic Spain and Portugal.)
 
-7. **Seven Years' War (1756–1763)** — A global conflict between European powers involving colonial possessions in North America, the Caribbean, India, and Europe. (Reshuffled colonial territories; Britain emerged dominant; its debt contributed to the American Revolution.)
+7. **English Civil War and Glorious Revolution (1642–1688)** — A sequence of internal political crises in England: the Civil War (1642–1651) ended in the execution of Charles I and a republican interregnum; the Glorious Revolution (1688) established parliamentary supremacy over the monarchy. (Significance: a prime example of *internal* challenge to state power within a maritime empire; established constitutional constraints on royal authority; directly shaped English colonial policy and the political culture that American colonists later invoked; falls within 1450–1750.)
+
+> [!tip] **Forward connection:** The Seven Years' War (1756–1763) falls *after* 1750 and belongs to Unit 5–6 content on European imperial competition and Enlightenment-era reform. Do not use it as a Unit 4 example.
 
 8. **Dutch Golden Age** — The period of Dutch commercial, cultural, and military dominance in the 17th century, fueled by VOC profits and North Sea trade. (Dutch Republic replaced Portugal as the primary commercial power in the Indian Ocean and briefly rivaled Spain in the Atlantic.)
 

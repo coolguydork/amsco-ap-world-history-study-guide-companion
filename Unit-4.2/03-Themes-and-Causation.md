@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.2
-period: 4
-tags: [apwh, unit-4, period-4, themes, causation]
+period: 2
+tags: [apwh, unit-4, period-2, themes, causation]
 ---
 
 # Themes and Causation — Unit 4.2: (4.2): Exploration
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 

@@ -5,13 +5,15 @@ period: 2
 tags: [apwh, unit-3, period-2, land-based-empires, gunpowder-empires]
 ---
 
-# Unit 3.1: Empires Expand
+# Unit 3.1: European, East Asian, and Gunpowder Empires Expand
 
 #apwh #unit-3 #period-2 #gunpowder-empires
 
 ## Topic Summary
 
-Between 1450 and 1750, a new category of empire reshaped Afro-Eurasia: the **gunpowder empire**. These states — the [[01-Key-Terms#Ottoman Empire|Ottoman]], [[01-Key-Terms#Safavid Empire|Safavid]], [[01-Key-Terms#Mughal Empire|Mughal]], and [[01-Key-Terms#Qing Dynasty|Qing]] — used firearms and cannons to conquer vast territories, then built administrative systems to govern diverse, multiethnic populations. At the same time, the [[01-Key-Terms#Russian Empire|Russian Empire]] expanded eastward across the Eurasian steppe, and the [[01-Key-Terms#Songhai Empire|Songhai Empire]] reached its peak in West Africa before collapsing under Moroccan gunpowder assault. This chapter establishes *who* these empires were and *how* they came to power.
+Between 1450 and 1750, a new category of empire reshaped Afro-Eurasia: the **gunpowder empire**. These states — the [[01-Key-Terms#Ottoman Empire|Ottoman]], [[01-Key-Terms#Safavid Empire|Safavid]], [[01-Key-Terms#Mughal Empire|Mughal]], and [[01-Key-Terms#Qing Dynasty|Qing]] — used firearms and cannons to conquer vast territories, then built administrative systems to govern diverse, multiethnic populations. At the same time, the [[01-Key-Terms#Russian Empire|Russian Empire]] expanded eastward across the Eurasian steppe, absorbing nomadic peoples and eventually stretching to the Pacific. European states were still relatively peripheral during this period — the dominant powers of 1450–1750 were in the Middle East, South Asia, East Asia, and Eastern Europe, not western Europe.
+
+AMSCO 3.1 also emphasizes that these empires did not simply rise — they also began to show the strains that would eventually lead to decline. The Ottoman Empire faced internal fragmentation after Suleiman I; the Safavid state collapsed in 1722 under Afghan invasion; the Mughal Empire fractured after Aurangzeb's overextension; the Qing would face European pressure in the 19th century. Understanding both the rise and the seeds of decline is essential for AP causation analysis.
 
 ## AMSCO Learning Objectives
 
@@ -37,9 +39,21 @@ Between 1450 and 1750, a new category of empire reshaped Afro-Eurasia: the **gun
 > [!exam-tip]
 > The AP exam frequently asks you to compare **two** of these empires. Practice pairing: Ottoman vs. Mughal (both Muslim, different contexts), or Qing vs. Ottoman (both used existing administrative structures). Know what makes each unique AND what they share.
 
+## Seeds of Decline
+
+AMSCO 3.1 explicitly covers not just expansion but the beginning of decline. Key patterns to know:
+- **Ottoman:** Suleiman's death (1566) began a long era of weaker sultans and janissary interference; the failed Siege of Vienna (1683) marked the military high-water mark
+- **Safavid:** Shah Abbas I's reforms strengthened the state, but the dynasty relied heavily on one capable ruler; Afghan tribes sacked Isfahan and ended the dynasty in 1722
+- **Mughal:** Aurangzeb's religious reversals and military overextension sparked Maratha revolts; the empire fragmented rapidly after 1707
+- **Qing:** Kangxi and Qianlong presided over expansion, but costs of frontier wars and growing corruption planted seeds of 19th-century crisis
+
+## Supplementary Comparison: Songhai Empire
+
+The Songhai Empire (West Africa) is not one of AMSCO's five central empires for this topic but is useful as a comparison case: it also used gunpowder to expand (or succumbed to it — Morocco's firearms destroyed Songhai at the Battle of Tondibi in 1591), and it demonstrates that gunpowder's military effects reached beyond Eurasia. See [[02-Key-People-and-Groups#Songhai Empire]] for details, but do not prioritize it over the five main empires above.
+
 ## Big Picture Placement
 
-This chapter falls at the opening of AP Period 3 (1450–1750). The Mongol Empire's collapse in the 1300s left a power vacuum across Eurasia; the gunpowder empires of Unit 3 filled that vacuum. Meanwhile, European states were small and peripheral — the real powerhouses of this era were in the Middle East, South Asia, East Asia, and Eastern Europe.
+This topic falls at the opening of AMSCO Unit 3 / AP Period 2 (1450–1750). The Mongol Empire's collapse in the 1300s left a power vacuum across Eurasia; the gunpowder empires filled that vacuum. Unlike the Mongols, who conquered through sheer cavalry mobility, these empires combined firearms technology with sophisticated administrative and religious legitimation strategies — a more durable but ultimately still finite formula for power.
 
 > [!tip]
-> Think of this chapter as answering: **"Who ran the world between 1450 and 1750 — and how did they get there?"**
+> Think of this topic as answering: **"Who ran the world between 1450 and 1750, how did they get there — and what were their weaknesses?"**

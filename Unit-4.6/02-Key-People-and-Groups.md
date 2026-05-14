@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.6
-period: 4
-tags: [apwh, unit-4, period-4, people, resistance]
+period: 2
+tags: [apwh, unit-4, period-2, people, resistance]
 ---
 
 # Key People and Groups — Unit 4.6: (4.6): Internal and External Challenges to State Power
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 
@@ -20,12 +20,14 @@ tags: [apwh, unit-4, period-4, people, resistance]
 
 ---
 
-### Tupac Amaru II (1738–1781)
-- **Region:** Andes (present-day Peru)
-- **Period:** Late 18th century
-- Born José Gabriel Condorcanqui, a mestizo who claimed descent from the last Inca ruler; led the largest Indigenous rebellion in Latin American history (1780–1781).
-- His revolt was driven by abuse of the mita system, new taxes, and creole resentment of Spanish administration.
-- Ultimately captured and brutally executed; his revolt accelerated Spanish reform of colonial administration and later inspired independence movements.
+### Shivaji and the Maratha Confederacy
+- **Region:** Deccan Plateau, India
+- **Period:** Mid-to-late 17th century
+- Shivaji (1630–1680) founded the Maratha kingdom in 1674, challenging Mughal authority through guerrilla warfare, strategic use of mountain forts, and appeals to Hindu identity and regional pride.
+- His tactics — mobile cavalry raids, fortified hilltop strongholds, refusal of pitched battle against superior Mughal forces — were devastatingly effective against Aurangzeb's armies.
+- The Maratha Confederacy became the most significant internal challenge to Mughal power in the 1450–1750 period, weakening the empire structurally and foreshadowing its post-1707 disintegration.
+
+> [!tip] **Chronological note:** Tupac Amaru II (1780–1781) is outside AMSCO Unit 4's 1450–1750 scope and belongs in Units 5–6. Do not use it as a Unit 4 resistance example.
 
 ---
 
@@ -58,7 +60,7 @@ tags: [apwh, unit-4, period-4, people, resistance]
 - **Region:** Spanish Americas
 - **Period:** 17th–18th century
 - Born in the Americas to European parents, creoles were excluded from the highest colonial offices and increasingly resentful of metropolitan control and mercantilist trade restrictions.
-- Their grievances — intensified by events like the Tupac Amaru II revolt — contributed directly to the independence movements of the early 19th century.
+- Their grievances accumulated throughout the 17th–18th centuries; by 1750 the structural conditions for independence movements were forming, with the full rupture coming in Units 5–6.
 
 > [!exam-tip]
 > **Nzinga** and **Zumbi of Palmares** are excellent examples for AP essays requiring evidence of resistance *outside* the Spanish Americas. They demonstrate that challenges to colonial power occurred across multiple regions and contexts.

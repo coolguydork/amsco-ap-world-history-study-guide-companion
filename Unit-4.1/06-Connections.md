@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.1
-period: 4
-tags: [apwh, unit-4, period-4, connections, graph-view]
+period: 2
+tags: [apwh, unit-4, period-2, connections, graph-view]
 ---
 
 # Cross-Topic Connections — Unit 4.1: (4.1): Technological Innovations
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 
@@ -24,7 +24,7 @@ tags: [apwh, unit-4, period-4, connections, graph-view]
 ## 2. Sets Up (Later Topics and Units)
 
 - **[[Exploration: Causes and Events]]** ([[Unit-4.2]]) — Technology is the direct prerequisite for exploration; 4.2 picks up where 4.1 ends.
-- **[[Maritime Empires Established]]** ([[Unit-4.4]]) — Gunpowder and ship technology are what allowed tiny Portugal to establish trading-post empires around the Indian Ocean rim.
+- **[[Maritime Empires Link Regions]]** ([[Unit-4.4]]) — Gunpowder and ship technology are what allowed tiny Portugal to establish trading-post empires around the Indian Ocean rim.
 - **[[Joint-Stock Companies and VOC]]** ([[Unit-4.5]]) — The financial innovation of 4.1 directly enables the institutional innovations of 4.5.
 - **[[Scientific Revolution]]** (Unit 5) — The printing press and the empirical habits cultivated by navigation contributed to the Scientific Revolution and Enlightenment of the 17th–18th centuries.
 - **[[Industrialization]]** (Unit 5–6) — The commercial capitalism seeded by joint-stock companies and double-entry bookkeeping is a direct ancestor of industrial capitalism.

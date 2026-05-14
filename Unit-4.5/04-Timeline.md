@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.5
-period: 4
-tags: [apwh, unit-4, period-4, timeline, slave-trade, silver-trade]
+period: 2
+tags: [apwh, unit-4, period-2, timeline, slave-trade, silver-trade]
 ---
 
-# Timeline — Unit 4.5: (4.5): Maritime Empires Maintained and Developed
+# Timeline — Unit 4.5: (4.5): Maritime Empires Develop
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 > [!tip] Big Picture
 > Topic 4.5 covers the *peak and maturation* of Atlantic and Asian maritime empires — roughly 1550–1750. The key developments are the rise of the plantation complex, the Atlantic slave trade, the global silver trade, and the emergence of Dutch and English commercial empires challenging Iberian dominance.

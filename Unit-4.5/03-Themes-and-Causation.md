@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.5
-period: 4
-tags: [apwh, unit-4, period-4, themes, causation]
+period: 2
+tags: [apwh, unit-4, period-2, themes, causation]
 ---
 
-# Themes and Causation — Unit 4.5: (4.5): Maritime Empires Maintained and Developed
+# Themes and Causation — Unit 4.5: (4.5): Maritime Empires Develop
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 

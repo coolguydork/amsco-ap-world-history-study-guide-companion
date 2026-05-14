@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.3
-period: 4
-tags: [apwh, unit-4, period-4, timeline, columbian-exchange]
+period: 2
+tags: [apwh, unit-4, period-2, timeline, columbian-exchange]
 ---
 
 # Timeline — Unit 4.3: (4.3): The Columbian Exchange
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 > [!tip] Big Picture
 > The Columbian Exchange unfolded over centuries, not years. Its most dramatic effects (disease, demographic collapse) were felt almost immediately after 1492; its slower effects (crop adoption, population growth in Eurasia) played out over the 17th–18th centuries. Both timelines matter for AP essays.

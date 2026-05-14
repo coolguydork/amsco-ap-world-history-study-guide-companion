@@ -1,13 +1,14 @@
 ---
+type: synthesis
 unit: 4
 chapter: practice-questions
-period: 4
-tags: [apwh, unit-4, period-4, practice, MCQ, SAQ, DBQ]
+period: 2
+tags: [apwh, unit-4, period-2, practice, MCQ, SAQ, DBQ]
 ---
 
 # Practice Questions — Unit 4: Transoceanic Interconnections
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 

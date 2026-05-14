@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.7
-period: 4
-tags: [apwh, unit-4, period-4, people, social-hierarchy]
+period: 2
+tags: [apwh, unit-4, period-2, people, social-hierarchy]
 ---
 
 # Key People and Groups — Unit 4.7: (4.7): Changing Social Hierarchies
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 
@@ -63,5 +63,41 @@ tags: [apwh, unit-4, period-4, people, social-hierarchy]
 - Could own property, run businesses, and in some contexts serve in colonial militias.
 - Their existence demonstrated the casta system's complexity and the limits of a simple binary racial order.
 
+---
+
+### Manchu Bannermen and Han Chinese Elite (Qing Dynasty)
+- **Region:** China
+- **Period:** 17th–18th century
+- The Qing conquest imposed a Manchu ethnic hierarchy: Manchu bannermen received privileged administrative and military positions; Han Chinese were required to adopt the Manchu queue (braid) as a mark of submission, with "shave the head or lose the head" as the stark choice
+- Qing rulers simultaneously preserved Manchu cultural distinctiveness (language schools, endogamous marriage rules) while relying on Han scholar-gentry officials to administer the empire — a dual-track governance that required constant management of ethnic tension
+- Han elites who cooperated with Qing rule gained access to the civil service examination system, creating a layer of Han collaboration within an ethnic hierarchy
+
+---
+
+### Ottoman Millet Communities
+- **Region:** Ottoman Empire (Anatolia, Balkans, Middle East)
+- **Period:** 15th–18th century
+- The millet system organized non-Muslim subjects — Greek Orthodox, Armenian Christian, Jewish, and Catholic communities — into semi-autonomous religious communities (*millets*) with their own courts, schools, and charitable institutions, governed by their own religious leaders
+- Non-Muslims paid the jizya tax and were theoretically barred from military service and certain offices, but could achieve significant wealth and influence in commerce and skilled trades
+- The system provided stability by giving minorities controlled autonomy rather than forcing assimilation — a distinct approach to religious diversity compared to Spanish America's forced conversion
+
+---
+
+### Russian Serfs and Service Nobility
+- **Region:** Russia
+- **Period:** 17th–18th century
+- Russian serfdom intensified in this period: the Law Code of 1649 (Sobornoye Ulozheniye) permanently bound serfs to the land and their noble lords, creating a hereditary unfree labor class comparable to — and in some ways harsher than — western European medieval serfdom at the moment western Europe was abandoning it
+- Peter the Great's Table of Ranks (1722) created a formal service nobility ranked by military and civil achievement rather than birth alone — an attempt to modernize the social hierarchy and make the elite more responsive to state service
+- The gap between the privileged nobility and the serf majority was one of the most extreme social divides in the period and would generate recurring revolts (Stenka Razin, 1670; Pugachev, 1773–1775 — the latter after 1750)
+
+---
+
+### Mughal Mansabdars and Non-Muslim Subjects
+- **Region:** Indian subcontinent
+- **Period:** 16th–18th century
+- The **mansabdar system** (formalized under Akbar) ranked imperial officials on a numeric scale (mansab) combining civil and military command; rank was granted by the emperor and not automatically hereditary, creating a meritocratic element within an imperial hierarchy
+- Under Akbar, non-Muslims (Hindus, Jains, Christians) could hold high mansab ranks; under Aurangzeb, the jizya tax was reimposed and temple destructions signaled a shift toward Sunni Muslim privilege within the hierarchy
+- The Mughal social hierarchy was thus not static — it shifted significantly between rulers based on religious policy, illustrating that hierarchy is a political choice, not a fixed structure
+
 > [!exam-tip]
-> **Sor Juana Inés de la Cruz** is a sophisticated AP example of gender within colonial hierarchy. Her case shows that social constraints on women were real but not absolute — exceptional circumstances (religious vocation, extraordinary talent) could create limited space for female intellectual achievement.
+> AP essays on social hierarchies often focus only on the Americas. Strengthen your argument by **adding one non-Atlantic example**: Ottoman millet (religious hierarchy), Qing bannermen (ethnic hierarchy), or Russian serfdom (class hierarchy). These demonstrate that changing social structures was a global pattern, not uniquely a colonial Americas phenomenon.

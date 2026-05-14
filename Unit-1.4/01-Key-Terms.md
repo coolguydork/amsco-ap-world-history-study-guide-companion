@@ -5,7 +5,7 @@ period: 1
 tags: [apwh, unit-1, period-1, key-terms, americas, aztec, inca, maya]
 ---
 
-# Unit 1.4: Key Terms — State Building in the Americas (1200–1450)
+# Unit 1.4: Key Terms — Developments in the Americas (1200–1450)
 
 ## Vocabulary
 
@@ -38,6 +38,12 @@ tags: [apwh, unit-1, period-1, key-terms, americas, aztec, inca, maya]
 **Inca Road System (Qhapaq Ñan)** — The Inca road network covering over 25,000 miles of paved paths, rope bridges, and tunnels connecting the empire; built and maintained through mit'a labor obligations. (Significance: arguably the greatest infrastructure achievement in the pre-Columbian Americas; allowed the rapid movement of armies, information (via relay runners, *chasquis*), and goods across a vast, geographically diverse empire. Note: the road system and the mit'a are distinct — mit'a was the labor tax used to construct and maintain roads, temples, and other state projects.)
 
 **Maya** — A Mesoamerican civilization with roots before 1000 BCE; by 1200–1450, Classic Maya cities had collapsed, but Maya peoples maintained distinct communities and states in Yucatán and highland Guatemala. (Significance: Aztec civilization built on Mesoamerican foundations laid by the Maya, including the ritual calendar, ballgame, and writing system; Maya continuity after the "collapse" is itself historically significant.)
+
+**Mississippian Culture** — A network of chiefdoms in the eastern and central Mississippi River Valley (c. 800–1600 CE) characterized by platform mound construction, maize agriculture, and hierarchical political organization. (Significance: the most politically complex North American societies before European contact; demonstrates that state-like structures emerged independently in North America; represented on the AP exam primarily through Cahokia.)
+
+**Cahokia** — The largest Mississippian urban center, located near present-day St. Louis; at its peak (c. 1050–1100), home to an estimated 10,000–20,000 people and dominated by Monks Mound, the largest pre-Columbian earthwork north of Mexico. (Significance: evidence of urban planning, long-distance trade, and social stratification in North America; declined by 1300, likely due to environmental degradation and political fragmentation.)
+
+**Ancestral Puebloans (Anasazi)** — Indigenous peoples of the American Southwest (modern Arizona, New Mexico, Utah, Colorado) who built multi-story stone complexes at Chaco Canyon and Mesa Verde between c. 900–1300 CE. (Significance: Chaco Canyon served as a regional ceremonial and trade hub; their dispersal in the 13th century, likely due to drought and resource depletion, illustrates environmental limits on complex societies.)
 
 > [!exam-tip]
 > The AP exam frequently compares the Aztec and Inca empires. Key comparison points: **tribute vs. mita** (extraction methods), **urban centralization (Aztec) vs. road network administration (Inca)**, **writing vs. quipu**, and **religious sacrifice (Aztec) vs. ancestor veneration (Inca)**. Practice writing a paragraph comparing these two civilizations.

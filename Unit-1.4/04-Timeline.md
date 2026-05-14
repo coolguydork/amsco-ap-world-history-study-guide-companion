@@ -5,7 +5,7 @@ period: 1
 tags: [apwh, unit-1, period-1, timeline, americas, aztec, inca]
 ---
 
-# Unit 1.4: Timeline — State Building in the Americas (1200–1450)
+# Unit 1.4: Timeline — Developments in the Americas (1200–1450)
 
 > **Big Picture:** The Americas in 1200–1450 are entirely disconnected from Eurasian trade networks, yet independently developing two of the most impressive imperial systems in world history. The Aztec and Inca empires parallel Eurasian developments in state complexity, religious legitimation of power, and monumental construction — demonstrating universal patterns of human state-building. Everything in this timeline happens without knowledge of or connection to anything happening in Eurasia during the same period.
 

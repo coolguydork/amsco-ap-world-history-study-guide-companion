@@ -91,7 +91,12 @@ tags: [apwh, unit-3, period-2, key-people]
 
 ---
 
-## Songhai Empire
+---
+
+## Supplementary Comparison: Songhai Empire
+
+> [!warning]
+> Songhai is **not** one of AMSCO 3.1's five central empires (Ottoman, Safavid, Mughal, Qing, Russian). It is included here as a useful comparison case — gunpowder reached West Africa too — but prioritize the five main empires above for AP exam preparation.
 
 ### Sunni Ali — r. 1464–1492 | West Africa
 - Military genius who transformed Songhai from a regional power into the largest empire in West African history by capturing Timbuktu and Djenné

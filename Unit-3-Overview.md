@@ -1,12 +1,12 @@
 ---
 unit: 3
-period: 3
-tags: [apwh, unit-3, period-3, land-based-empires]
+period: 2
+tags: [apwh, unit-3, period-2, land-based-empires]
 ---
 
 # Unit 3 Overview: Land-Based Empires (c. 1450–1750)
 
-#apwh #unit-3 #period-3
+#apwh #unit-3 #period-2
 
 ## What This Unit Covers
 

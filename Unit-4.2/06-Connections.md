@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.2
-period: 4
-tags: [apwh, unit-4, period-4, connections, graph-view]
+period: 2
+tags: [apwh, unit-4, period-2, connections, graph-view]
 ---
 
 # Cross-Topic Connections — Unit 4.2: (4.2): Exploration
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 
@@ -24,7 +24,7 @@ tags: [apwh, unit-4, period-4, connections, graph-view]
 ## 2. Sets Up (Later Topics and Units)
 
 - **[[Columbian Exchange]]** ([[Unit-4.3]]) — Exploration made the exchange possible; 4.3 traces its biological and demographic consequences.
-- **[[Maritime Empires Established]]** ([[Unit-4.4]]) — Conquest and the feitoria model explored here become full empires in 4.4.
+- **[[Maritime Empires Link Regions]]** ([[Unit-4.4]]) — Conquest and the feitoria model explored here become full empires in 4.4.
 - **[[Atlantic Slave Trade]]** ([[Unit-4.5]]) — Portuguese exploration of West Africa directly established the relationships that fueled the slave trade.
 - **[[Atlantic Revolutions]]** (Unit 5) — Spanish colonial rule established in 4.2 is the system that creoles revolt against in Unit 5.
 - **[[Decolonization]]** (Unit 9) — The colonial structures created here are ultimately dismantled in the 20th century.

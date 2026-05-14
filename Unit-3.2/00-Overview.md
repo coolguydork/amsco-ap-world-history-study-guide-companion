@@ -5,7 +5,7 @@ period: 2
 tags: [apwh, unit-3, period-2, administration, culture, architecture]
 ---
 
-# Unit 3.2: Empires: Administration
+# Unit 3.2: Empires: Administrations
 
 #apwh #unit-3 #period-2 #administration
 

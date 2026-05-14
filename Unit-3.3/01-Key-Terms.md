@@ -33,6 +33,20 @@ tags: [apwh, unit-3, period-2, key-terms, religion, belief-systems]
 
 ---
 
+**Wars of Religion** — A series of European conflicts driven by the Protestant-Catholic split, including the French Wars of Religion (1562–1598) and the Thirty Years' War (1618–1648). (Significance: the Thirty Years' War killed approximately a third of the population of the Holy Roman Empire — the most destructive European conflict before the World Wars; its resolution at the Peace of Westphalia (1648) established the principle of state sovereignty and ended the papacy's claim to authority over secular rulers.)
+
+**Peace of Westphalia (1648)** — The treaties ending the Thirty Years' War, establishing state sovereignty as the foundational principle of the European state system. (Significance: a landmark in political history — by affirming that each ruler determined the religion of his state (*cuius regio, eius religio*), it implicitly accepted permanent religious division in Europe and reduced the Church's political authority; one of the founding documents of the modern international system.)
+
+**Eastern Orthodox Christianity** — The branch of Christianity that separated from Roman Catholicism in the Great Schism of 1054, centered historically in Constantinople; after 1453, its institutional center shifted to Moscow. (Significance: the dominant Christian tradition in Russia, Greece, and much of Eastern Europe; distinct from both Catholicism and Protestantism; used by Russian tsars to claim the "Third Rome" inheritance and legitimate their authority as defenders of true Christianity.)
+
+**"Third Rome" Ideology** — The claim, developed in Russia after 1453, that Moscow had inherited the spiritual and imperial mantle of Rome and Constantinople as the center of true (Orthodox) Christianity. (Significance: provided ideological justification for Russian imperial expansion and tsarist autocracy; tied Russian political authority to religious mission; explains why Russian rulers styled themselves "Tsar" — derived from "Caesar.")
+
+**Scientific Revolution** — The transformation of European intellectual life between c. 1543 and 1700, in which observation, mathematics, and experimentation replaced Aristotelian philosophy and scriptural authority as the basis for understanding the natural world. (Significance: one of AMSCO 3.3's required topics; the Scientific Revolution challenged the Catholic Church's authority, contributed to the Enlightenment, and laid the intellectual foundations for European technological and eventually military advantages; Copernicus → Galileo → Newton is the core sequence.)
+
+**Heliocentrism** — The astronomical model, developed by Copernicus (1543) and defended by Galileo, that places the sun at the center of the solar system rather than the earth. (Significance: directly challenged the Catholic Church's geocentric cosmology; Galileo's trial (1633) became the defining symbol of the conflict between empirical science and religious authority; eventually accepted as correct, contributing to the Church's loss of intellectual authority.)
+
+**Empiricism / Scientific Method** — The philosophical principle, championed by Francis Bacon and others, that knowledge should be derived from observation and experiment rather than received authority or abstract reasoning. (Significance: the epistemological foundation of the Scientific Revolution; in the long term, empiricism would undermine faith-based claims to authority and contribute to Enlightenment secularism; Bacon's *Novum Organum* (1620) is a key text.)
+
 ## Islam: Expansion and Division
 
 **Sufism** — Islamic mystical tradition emphasizing direct personal experience of God through prayer, meditation, music, and the guidance of a spiritual master (sheikh). (Significance: Sufi missionaries were the primary agents of Islam's spread into sub-Saharan Africa, South Asia, and Southeast Asia — their accessible, emotionally engaging approach was often more effective than formal legal Islam; Sufi orders (tariqas) were also important social networks in Islamic cities.)

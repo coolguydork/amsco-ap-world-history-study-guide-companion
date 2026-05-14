@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.7
-period: 4
-tags: [apwh, unit-4, period-4, vocabulary, social-hierarchy, race]
+period: 2
+tags: [apwh, unit-4, period-2, vocabulary, social-hierarchy, race]
 ---
 
 # Key Terms — Unit 4.7: (4.7): Changing Social Hierarchies
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 1. **Casta system** — The Spanish colonial racial hierarchy that classified people by degree of European, Indigenous, and African ancestry, determining legal status and social position. (Formalized racial inequality; produced dozens of named categories for mixed-race individuals.)
 

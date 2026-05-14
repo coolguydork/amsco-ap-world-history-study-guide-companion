@@ -1,13 +1,14 @@
 ---
+type: synthesis
 unit: 4
 chapter: timeline
-period: 4
-tags: [apwh, unit-4, period-4, timeline, chronology]
+period: 2
+tags: [apwh, unit-4, period-2, timeline, chronology]
 ---
 
 # Timeline — Unit 4: Transoceanic Interconnections (1450–1750)
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 > [!tip] Big Picture
 > Unit 4 (1450–1750) marks the first time all inhabited continents were connected in a single, sustained global network. It follows the Mongol-facilitated Afro-Eurasian exchange of Unit 3 and sets the stage for the Industrial Revolution and Atlantic revolutions of Units 5–6. The key shift: Europe — previously a peripheral civilization — becomes the organizing hub of global commerce, violence, and cultural exchange.

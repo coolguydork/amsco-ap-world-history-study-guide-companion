@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.8
-period: 4
-tags: [apwh, unit-4, period-4, timeline, CCOT]
+period: 2
+tags: [apwh, unit-4, period-2, timeline, CCOT]
 ---
 
 # Timeline — Unit 4.8: (4.8): Continuity and Change — Unit 4 Master Timeline
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 > [!tip] Big Picture
 > This is a synthesis timeline for the entire Unit 4 period (1450–1750). Use it to review the full arc of the unit and to identify where major turning points occurred — critical for CCOT essays.

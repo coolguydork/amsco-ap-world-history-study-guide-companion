@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.2
-period: 4
-tags: [apwh, unit-4, period-4, people, exploration]
+period: 2
+tags: [apwh, unit-4, period-2, people, exploration]
 ---
 
 # Key People and Groups — Unit 4.2: (4.2): Exploration
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 

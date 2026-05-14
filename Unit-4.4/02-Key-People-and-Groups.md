@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.4
-period: 4
-tags: [apwh, unit-4, period-4, people, maritime-empires]
+period: 2
+tags: [apwh, unit-4, period-2, people, maritime-empires]
 ---
 
-# Key People and Groups — Unit 4.4: (4.4): Maritime Empires Established
+# Key People and Groups — Unit 4.4: (4.4): Maritime Empires Link Regions
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 

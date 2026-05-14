@@ -1,13 +1,14 @@
 ---
+type: synthesis
 unit: 4
 chapter: key-people-and-groups
-period: 4
-tags: [apwh, unit-4, period-4, people, empires]
+period: 2
+tags: [apwh, unit-4, period-2, people, empires]
 ---
 
 # Key People and Groups — Unit 4: Transoceanic Interconnections
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 

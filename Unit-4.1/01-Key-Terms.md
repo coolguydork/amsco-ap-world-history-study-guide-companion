@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.1
-period: 4
-tags: [apwh, unit-4, period-4, vocabulary, technology]
+period: 2
+tags: [apwh, unit-4, period-2, vocabulary, technology]
 ---
 
 # Key Terms — Unit 4.1: (4.1): Technological Innovations
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 1. **Caravel** — A small, maneuverable Portuguese sailing ship with lateen sails and a shallow draft, ideal for coastal exploration and ocean crossings. (Its design made long-distance Atlantic exploration feasible for the first time.)
 

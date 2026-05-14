@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.6
-period: 4
-tags: [apwh, unit-4, period-4, themes, causation, resistance]
+period: 2
+tags: [apwh, unit-4, period-2, themes, causation, resistance]
 ---
 
 # Themes and Causation — Unit 4.6: (4.6): Internal and External Challenges to State Power
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 

@@ -2,16 +2,16 @@
 unit: 4
 topic: 4.3
 title: "The Columbian Exchange"
-period: 4
-tags: [apwh, unit-4, period-4, columbian-exchange, 4-3]
+period: 2
+tags: [apwh, unit-4, period-2, columbian-exchange, 4-3]
 ---
 
 # Unit 4.3: The Columbian Exchange
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ## AP Exam Period
-**Period 4: 1450–1750**
+**Period 2: 1450–1750**
 
 ## Summary
 

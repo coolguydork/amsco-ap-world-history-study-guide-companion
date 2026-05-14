@@ -5,7 +5,7 @@ period: 1
 tags: [apwh, unit-1, period-1, practice, mcq, saq, dbq, africa]
 ---
 
-# Unit 1.5: Practice Questions — State Building in Africa (1200–1450)
+# Unit 1.5: Practice Questions — Developments In Africa (1200–1450)
 
 ## Multiple Choice Questions
 

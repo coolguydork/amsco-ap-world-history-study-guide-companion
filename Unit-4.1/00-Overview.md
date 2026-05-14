@@ -2,16 +2,16 @@
 unit: 4
 topic: 4.1
 title: "Technological Innovations from 1450 to 1750"
-period: 4
-tags: [apwh, unit-4, period-4, technology, exploration, 4-1]
+period: 2
+tags: [apwh, unit-4, period-2, technology, exploration, 4-1]
 ---
 
 # Unit 4.1: Technological Innovations from 1450 to 1750
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ## AP Exam Period
-**Period 4: 1450–1750**
+**Period 2: 1450–1750**
 
 ## Summary
 

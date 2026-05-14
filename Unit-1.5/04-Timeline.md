@@ -5,7 +5,7 @@ period: 1
 tags: [apwh, unit-1, period-1, timeline, africa]
 ---
 
-# Unit 1.5: Timeline — State Building in Africa (1200–1450)
+# Unit 1.5: Timeline — Developments In Africa (1200–1450)
 
 > **Big Picture:** Africa in 1200–1450 is not an isolated backwater but an active participant in global trade and intellectual networks. West Africa controls the gold supply for the medieval Mediterranean. East Africa is a sophisticated Islamic commercial zone integrated into the Indian Ocean network. Ethiopian Christianity maintains an independent theological tradition. Southern Africa builds the Great Zimbabwe. This is a period of African state formation, commercial integration, and cultural flowering.
 

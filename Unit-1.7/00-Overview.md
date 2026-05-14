@@ -15,13 +15,27 @@ tags: [apwh, unit-1, period-1, comparison, synthesis, global-tapestry]
 - Explain similarities and differences in how societies were organized and governed during this period.
 - Use historical reasoning skills — especially comparison and continuity and change over time (CCOT) — to craft evidence-based arguments about the period.
 
-## AP Key Concepts
+## AMSCO 1.7 Comparative Claims (c. 1200–1450)
 
-- **KC-1.1:** Big Geography and the Peopling of the Earth
-- **KC-1.2:** The Neolithic Revolution and Early Agricultural Societies
-- **KC-1.3:** The Development and Interactions of Early Agricultural, Pastoral, and Urban Societies
-- **KC-2.1 / 2.2:** Organization of and Interactions Between States and Societies (foundational to what Unit 1 inherits)
-- **KC-3.1:** Expansion and Intensification of Communication and Exchange Networks (sets the stage)
+These are the five comparative frameworks AMSCO uses to organize Topic 1.7. Each is a lens for writing comparative arguments across the regions of Unit 1.
+
+**1. State-Building and New Empires**
+Multiple regions saw the emergence or consolidation of new imperial states in this period — the Aztec, Inca, Mali, Delhi Sultanate, and Yuan Dynasty all rose or expanded between 1200 and 1450. Compare how different empires justified and organized their authority: bureaucratic administration (China), tributary extraction (Aztec), road-based integration (Inca), and Islamic legitimacy (Delhi, Mali).
+
+**2. Role of Religion in State-Building**
+Rulers across all six regions used religion to legitimize their authority. Comparison: Mandate of Heaven (China), divine kingship (Aztec, Inca), Islamic caliphate/sultan legitimacy (Dar al-Islam, Mali), Christian kingship (Europe, Ethiopia), Hinduism/Buddhism (South/SE Asia). Key insight: religion served governance everywhere, but the specific claim — cosmic order, divine descent, prophetic lineage — varied.
+
+**3. State-Building Through Trade**
+Several states in this period built power on commercial wealth rather than conquest: Mali (gold-salt trade), Swahili city-states (Indian Ocean trade), Italian city-states (Mediterranean trade), Malacca (SE Asian maritime trade). Compare the political structures these trade-based states created and how they differed from agrarian empires.
+
+**4. Nomadic Peoples and Their Impact**
+Nomadic and semi-nomadic peoples — Mongols, Turks, Berbers, and others — played a decisive role in reshaping political orders during 1200–1450. The Mongol conquests destroyed the Abbasid Caliphate and unified much of Eurasia; Turkic rulers founded the Delhi Sultanate and Mamluk Egypt; Berber traders sustained trans-Saharan commerce. Compare how nomadic groups destabilized, replaced, or were absorbed by sedentary states.
+
+**5. Patriarchy and Gender Across Regions**
+Patriarchal social structures — male dominance in politics, religion, and family life — were nearly universal during this period, but their form and intensity varied. Chinese foot-binding intensified gender hierarchy under the Song; Islamic law defined women's property and inheritance rights differently than European feudal custom; West African queen mothers held recognized political roles; Inca *acllaconas* occupied a distinct spiritual-labor category. Comparison here shows both the breadth of patriarchy and its significant regional variations.
+
+> [!warning]
+> These are **not AP Key Concepts from the CED** — they are AMSCO's comparative organizing topics for Unit 1.7. The actual AP CED key concepts tested through this unit are KC-1.2 and KC-1.3, which cover state-building and cultural/economic exchange in the 1200–1450 period. Do not confuse pre-1200 foundational concepts with the content this topic addresses.
 
 ## Summary
 

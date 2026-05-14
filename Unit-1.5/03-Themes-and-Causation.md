@@ -5,7 +5,7 @@ period: 1
 tags: [apwh, unit-1, period-1, themes, causation, africa]
 ---
 
-# Unit 1.5: Themes and Causation — State Building in Africa (1200–1450)
+# Unit 1.5: Themes and Causation — Developments In Africa (1200–1450)
 
 ## Governance
 

@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.8
-period: 4
-tags: [apwh, unit-4, period-4, vocabulary, CCOT]
+period: 2
+tags: [apwh, unit-4, period-2, vocabulary, CCOT]
 ---
 
 # Key Terms — Unit 4.8: (4.8): Continuity and Change
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 1. **CCOT (Continuity and Change Over Time)** — An AP essay format asking students to analyze what changed and what stayed the same across a given time period. (Core skill for Unit 4 essays; requires identifying *both* continuity and change, not just listing changes.)
 

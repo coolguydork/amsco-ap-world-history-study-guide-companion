@@ -2,16 +2,16 @@
 unit: 4
 topic: 4.2
 title: "Exploration: Causes and Events from 1450 to 1750"
-period: 4
-tags: [apwh, unit-4, period-4, exploration, 4-2]
+period: 2
+tags: [apwh, unit-4, period-2, exploration, 4-2]
 ---
 
 # Unit 4.2: Exploration — Causes and Events
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ## AP Exam Period
-**Period 4: 1450–1750**
+**Period 2: 1450–1750**
 
 ## Summary
 

@@ -12,7 +12,7 @@ tags:
   - mesoamerica
 ---
 
-# Unit 1.4: State Building in the Americas (1200–1450)
+# Unit 1.4: Developments in the Americas (1200–1450)
 
 **AMSCO Unit:** Unit 1 — The Global Tapestry
 **AP Exam Period:** Period 1 (1200–1450)
@@ -20,14 +20,14 @@ tags:
 
 ## Summary
 
-The Americas between 1200 and 1450 witnessed the rise of two of the most impressive imperial systems in world history, entirely independent of Eurasian developments: the Aztec (Mexica) Empire in Mesoamerica and the Inca Empire in the Andes. The Aztec Empire, founded at Tenochtitlan in 1325, built a sophisticated tribute state drawing on deep Mesoamerican traditions of urban civilization dating back to the Olmec and Maya. The Inca Empire, consolidated in the 15th century under Pachacuti, created the largest empire in the pre-Columbian Americas, stretching along the entire Pacific coast of South America and governed through an extraordinary road system and administrative apparatus. These civilizations were technologically sophisticated, economically complex, and culturally rich — yet they developed in complete isolation from Eurasian trade networks, making them among history's most dramatic examples of independent human achievement.
+The Americas between 1200 and 1450 were home to a remarkable diversity of civilizations — from large imperial states to decentralized chiefdoms and city-states — all developing entirely independently of Eurasian trade networks. In North America, the **Mississippian culture** built a network of chiefdoms centered on platform mounds, with the urban center of **Cahokia** (near modern St. Louis) reaching a population of perhaps 10,000–20,000 by 1100 CE before declining. In the American Southwest, the **Ancestral Puebloans** (Anasazi) constructed sophisticated cliff dwellings and multi-story stone complexes at **Chaco Canyon** and **Mesa Verde**, organized around ritual and trade before their dispersal in the 13th century. In Mesoamerica, **Maya city-states** maintained sophisticated writing, astronomy, and long-distance trade despite the collapse of the Classic Maya heartland — Maya civilization showed remarkable continuity and regional diversity throughout this period. Further north in Mesoamerica, the **Aztec (Mexica) Empire** rose rapidly after founding Tenochtitlan (c. 1325) and by the early 15th century had built a powerful tribute state drawing on deep Mesoamerican traditions. In South America, the **Inca Empire**, consolidated under Pachacuti (c. 1438), created the largest empire in the pre-Columbian Americas through an extraordinary road system, mit'a labor obligations, and an administrative apparatus that governed vast environmental and ethnic diversity. Together, these societies illustrate that complex civilization, statecraft, and urban life were achieved independently across the hemisphere.
 
 ## AMSCO Learning Objectives
 
-- Explain how and why the Aztec and Inca empires developed and expanded between 1200 and 1450
-- Analyze the diversity of state structures in the pre-Columbian Americas
+- Explain the diversity of state structures and civilizations in the pre-Columbian Americas, including North America, Mesoamerica, and South America
+- Analyze how Mississippian, Ancestral Puebloan, Maya, Aztec, and Inca societies organized political authority, labor, and religion
 - Evaluate the role of religion, tribute, and technology in American state formation
-- Explain continuity in Mesoamerican civilization from the Maya through the Aztec
+- Explain continuity and change in Mesoamerican civilization from the Maya through the Aztec
 
 ## AP World History Key Concepts
 

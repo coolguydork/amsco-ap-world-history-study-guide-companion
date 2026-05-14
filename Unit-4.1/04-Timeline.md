@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.1
-period: 4
-tags: [apwh, unit-4, period-4, timeline, technology]
+period: 2
+tags: [apwh, unit-4, period-2, timeline, technology]
 ---
 
 # Timeline — Unit 4.1: (4.1): Technological Innovations
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 > [!tip] Big Picture
 > Topic 4.1 focuses on the *tools* that made Period 4 possible. These technologies were not new in 1450 — most had existed for centuries — but their combination and state-sponsored deployment in Atlantic Europe between 1415 and 1500 triggered a global transformation. This chapter sets up every subsequent Unit 4 topic.

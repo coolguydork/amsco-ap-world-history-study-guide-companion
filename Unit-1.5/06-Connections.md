@@ -5,7 +5,7 @@ period: 1
 tags: [apwh, unit-1, period-1, connections, africa]
 ---
 
-# Unit 1.5: Cross-Topic Connections — State Building in Africa
+# Unit 1.5: Cross-Topic Connections — Developments In Africa
 
 ## Concepts This Topic Builds On
 

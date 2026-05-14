@@ -2,16 +2,16 @@
 unit: 4
 topic: 4.6
 title: "Internal and External Challenges to State Power (1450–1750)"
-period: 4
-tags: [apwh, unit-4, period-4, resistance, challenges, 4-6]
+period: 2
+tags: [apwh, unit-4, period-2, resistance, challenges, 4-6]
 ---
 
 # Unit 4.6: Internal and External Challenges to State Power
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ## AP Exam Period
-**Period 4: 1450–1750**
+**Period 2: 1450–1750**
 
 ## Summary
 

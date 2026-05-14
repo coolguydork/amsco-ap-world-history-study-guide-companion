@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.5
-period: 4
-tags: [apwh, unit-4, period-4, people, slave-trade, empires]
+period: 2
+tags: [apwh, unit-4, period-2, people, slave-trade, empires]
 ---
 
-# Key People and Groups — Unit 4.5: (4.5): Maritime Empires Maintained and Developed
+# Key People and Groups — Unit 4.5: (4.5): Maritime Empires Develop
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 

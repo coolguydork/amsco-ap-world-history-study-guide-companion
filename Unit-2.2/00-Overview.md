@@ -5,7 +5,7 @@ period: 1
 tags: [apwh, unit-2, period-1, mongols, empire, pax-mongolica, exchange]
 ---
 
-# Unit 2.2: The Mongol Empire and the Making of the Modern World (c. 1206–1368)
+# Unit 2.2: The Mongol Empire and the Modern World (c. 1206–1368)
 
 **AMSCO Unit:** Unit 2 — Networks of Exchange
 **AP Exam Period:** Period 1 (c. 1200–1450)

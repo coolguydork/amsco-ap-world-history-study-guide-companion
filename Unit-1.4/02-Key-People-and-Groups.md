@@ -5,7 +5,7 @@ period: 1
 tags: [apwh, unit-1, period-1, key-people, americas, aztec, inca, maya]
 ---
 
-# Unit 1.4: Key People and Groups — State Building in the Americas (1200–1450)
+# Unit 1.4: Key People and Groups — Developments in the Americas (1200–1450)
 
 ## Individuals and Groups
 
@@ -90,3 +90,15 @@ tags: [apwh, unit-1, period-1, key-people, americas, aztec, inca, maya]
 - Cahokia was the largest pre-Columbian city north of Mexico, with a population estimated at 10,000–20,000 at its height (c. 1100 CE)
 - Built a massive earthen platform mound (Monks Mound) larger at its base than the Great Pyramid of Egypt; organized a complex chiefdom society based on maize agriculture
 - Had declined and largely been abandoned by 1350, possibly due to climate change, agricultural exhaustion, or political upheaval — before Europeans arrived
+
+---
+
+### Ancestral Puebloans (Anasazi)
+**Period:** c. 900–1300 | **Region:** American Southwest (modern Arizona, New Mexico, Utah, Colorado)
+
+- Built elaborate multi-story stone and adobe complexes at Chaco Canyon (a major regional ceremonial and trade hub) and Mesa Verde (famous cliff dwellings cut into canyon walls)
+- Chaco Canyon served as a center of turquoise trade and ritual activity connecting communities across hundreds of miles; demonstrates long-distance exchange networks within North America
+- Dispersed from their major centers by c. 1300, likely due to prolonged drought and resource depletion; their descendants are the modern Pueblo peoples of the Southwest
+
+> [!exam-tip]
+> The AP exam uses Mississippian culture and Ancestral Puebloans to demonstrate that **complex, organized societies existed across North America** — not just in Mesoamerica and the Andes. Be ready to contrast these decentralized chiefdom/community structures with the tributary empires of the Aztec and Inca.

@@ -2,7 +2,7 @@
 
 ## What's in This Repo
 
-For every chapter of the AMSCO AP World History textbook, this vault provides:
+For Units 1–4 of the AMSCO *AP World History: Modern* textbook (AP Periods 1–2, c. 1200–1750), this vault provides:
 
 - **Seven interlinked Markdown notes** (Obsidian-compatible, with wikilinks, tags, and callout blocks)
 - **A 15-slide chapter PowerPoint review deck** (.pptx, works in PowerPoint, Google Slides, or Keynote)
@@ -38,8 +38,8 @@ All seven chapters are fully complete with notes, slides, Cornell PDFs, and prac
 | Unit 1.1 | Developments in East Asia | Song Dynasty · Yuan Dynasty · Ming Dynasty · Confucianism · civil service exam · gunpowder · paper money · regional East Asian system |
 | Unit 1.2 | Developments in Dar al-Islam | Abbasid Caliphate · Mongol sack of Baghdad (1258) · Ibn Battuta · Sufism · trans-Saharan trade · Delhi Sultanate · Mali · Ottoman rise |
 | Unit 1.3 | Developments in South & Southeast Asia | Delhi Sultanate · Indian Ocean trade · Khmer Empire · Srivijaya · Majapahit · Hindu-Buddhist syncretism · monsoon winds |
-| Unit 1.4 | State Building in the Americas | Aztec/Mexica Empire · Inca Empire · Mississippian culture · Cahokia · American isolation · mit'a · tribute systems |
-| Unit 1.5 | State Building in Africa | Mali Empire · Mansa Musa · Trans-Saharan gold-salt trade · Swahili Coast · Great Zimbabwe · Ethiopia · Islam in Africa |
+| Unit 1.4 | Developments in the Americas | Aztec/Mexica Empire · Inca Empire · Mississippian culture · Cahokia · American isolation · mit'a · tribute systems |
+| Unit 1.5 | Developments In Africa | Mali Empire · Mansa Musa · Trans-Saharan gold-salt trade · Swahili Coast · Great Zimbabwe · Ethiopia · Islam in Africa |
 | Unit 1.6 | Developments in Europe | Feudalism · Catholic Church · The Crusades · Black Death · Magna Carta · Parliament · Hundred Years' War · rising monarchies |
 | Unit 1.7 | Comparison in the Period from c. 1200 to c. 1450 | Regional comparison · governance structures · economic systems · social hierarchies · cultural diffusion · AP essay synthesis |
 
@@ -56,8 +56,8 @@ All seven chapters are fully complete with notes, slides, Cornell PDFs, and prac
 | Topic | Title | Key Themes |
 |---------|-------|------------|
 | Unit 2.1 | The Silk Roads | Pax Mongolica · caravanserai · bills of exchange · diasporic communities · Marco Polo · Ibn Battuta · Black Death transmission |
-| Unit 2.2 | The Mongol Empire and the Making of the Modern World | Genghis Khan · four khanates · Yuan Dynasty · Golden Horde · direct vs. tributary rule · technology diffusion · Black Death |
-| Unit 2.3 | Exchange in the Indian Ocean Region | Monsoon winds · dhow · Swahili Coast · Kilwa · Malacca Sultanate · Zheng He · Islam via merchant diasporas |
+| Unit 2.2 | The Mongol Empire and the Modern World | Genghis Khan · four khanates · Yuan Dynasty · Golden Horde · direct vs. tributary rule · technology diffusion · Black Death |
+| Unit 2.3 | Exchange in the Indian Ocean | Monsoon winds · dhow · Swahili Coast · Kilwa · Malacca Sultanate · Zheng He · Islam via merchant diasporas |
 | Unit 2.4 | Trans-Saharan Trade Routes | Mali Empire · Mansa Musa · gold-salt trade · dromedary camel · Berber/Tuareg traders · Islam in West Africa · Taghaza salt mines |
 | Unit 2.5 | Cultural Consequences of Connectivity | Spread of Buddhism · Islam · Christianity · Hinduism · art and architecture · syncretism · diasporic cultural exchange |
 | Unit 2.6 | Environmental Consequences of Connectivity | Black Death · Mongol plague transmission · agricultural diffusion · deforestation · Columbian Exchange precursors |
@@ -132,7 +132,7 @@ AP World History Study/
 ├── Unit-2.7/              ← Comparison of Economic Exchange
 │
 ├── Unit-3.1/              ← Land-Based Empires Expand
-├── Unit-3.2/              ← Empires: Administration
+├── Unit-3.2/              ← Empires: Administrations
 ├── Unit-3.3/              ← Empires: Belief Systems
 ├── Unit-3.4/              ← Comparison in Land-Based Empires
 │

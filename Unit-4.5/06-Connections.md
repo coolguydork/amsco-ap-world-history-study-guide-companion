@@ -1,19 +1,19 @@
 ---
 unit: 4
 topic: 4.5
-period: 4
-tags: [apwh, unit-4, period-4, connections, graph-view]
+period: 2
+tags: [apwh, unit-4, period-2, connections, graph-view]
 ---
 
-# Cross-Topic Connections — Unit 4.5: (4.5): Maritime Empires Maintained and Developed
+# Cross-Topic Connections — Unit 4.5: (4.5): Maritime Empires Develop
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 
 ## 1. Builds On (Earlier Units)
 
-- **[[Maritime Empires Established]]** ([[Unit-4.4]]) — 4.5 develops the systems established in 4.4: plantation complex, silver trade, and joint-stock companies expand what was begun earlier.
+- **[[Maritime Empires Link Regions]]** ([[Unit-4.4]]) — 4.5 develops the systems established in 4.4: plantation complex, silver trade, and joint-stock companies expand what was begun earlier.
 - **[[Columbian Exchange]]** ([[Unit-4.3]]) — Demographic collapse created the labor vacuum that the Atlantic slave trade filled.
 - **[[Indian Ocean Trade Network]]** (Unit 2) — VOC and EIC competed for control of an existing system; understanding 4.5 requires knowing what the Portuguese were displacing.
 - **[[African Kingdoms and Trans-Saharan Trade]]** (Unit 2) — West African states' existing commercial experience made them effective (if morally compromised) participants in the slave trade.

@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.2
-period: 4
-tags: [apwh, unit-4, period-4, vocabulary, exploration]
+period: 2
+tags: [apwh, unit-4, period-2, vocabulary, exploration]
 ---
 
 # Key Terms — Unit 4.2: (4.2): Exploration
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 1. **Treaty of Tordesillas (1494)** — A papal-mediated agreement dividing the non-European world between Spain (west) and Portugal (east) along a line in the Atlantic. (Attempted to prevent conflict between the two Iberian powers; gave Portugal Brazil and Asia, Spain the Americas.)
 

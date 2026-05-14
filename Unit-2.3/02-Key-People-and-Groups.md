@@ -31,6 +31,7 @@ tags: [apwh, unit-2, period-1, indian-ocean, key-people, merchants, rulers]
 ## Zheng He (1371–1433)
 **Time Period:** Early 15th century
 **Region:** China → Southeast Asia → Indian Ocean → East Africa
+*(Primary coverage: [[Unit-1.1/02-Key-People-and-Groups]]; covered here for his role in Indian Ocean exchange)*
 
 - Chinese Muslim admiral who commanded seven massive naval expeditions (1405–1433) on behalf of the Yongle Emperor of the Ming Dynasty, visiting ports across Southeast Asia, India, the Persian Gulf, and East Africa
 - His fleet — hundreds of ships, including massive "treasure ships" — was the largest naval force in the world at the time; it demonstrated Chinese technological superiority and political ambition. The treasure ships' exact dimensions are debated: traditional accounts describe them as extraordinarily large, but modern historians' estimates range from around 200 to 400+ feet — even the lower estimates dwarf contemporary European vessels

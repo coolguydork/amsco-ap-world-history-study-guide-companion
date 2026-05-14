@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.8
-period: 4
-tags: [apwh, unit-4, period-4, connections, graph-view, synthesis]
+period: 2
+tags: [apwh, unit-4, period-2, connections, graph-view, synthesis]
 ---
 
 # Cross-Topic Connections — Unit 4.8: (4.8): Continuity and Change
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 > [!tip] This file is the master connections hub for Unit 4. Use it to navigate the full graph view.
 
@@ -17,8 +17,8 @@ tags: [apwh, unit-4, period-4, connections, graph-view, synthesis]
 
 - **[[Technological Innovations]]** ([[Unit-4.1]]) → enables → **[[Exploration]]** ([[Unit-4.2]])
 - **[[Exploration]]** → triggers → **[[Columbian Exchange]]** ([[Unit-4.3]])
-- **[[Columbian Exchange]]** → causes → **[[Maritime Empires Established]]** ([[Unit-4.4]])
-- **[[Maritime Empires Established]]** → develops into → **[[Maritime Empires Maintained]]** ([[Unit-4.5]])
+- **[[Columbian Exchange]]** → causes → **[[Maritime Empires Link Regions]]** ([[Unit-4.4]])
+- **[[Maritime Empires Link Regions]]** → develops into → **[[Maritime Empires Develop]]** ([[Unit-4.5]])
 - **[[Columbian Exchange]]** (demographic collapse) → causes → **[[Atlantic Slave Trade]]** ([[Unit-4.5]])
 - **[[Maritime Empires]]** → provokes → **[[Challenges to State Power]]** ([[Unit-4.6]])
 - **[[Atlantic Slave Trade]]** → creates → **[[Changing Social Hierarchies]]** ([[Unit-4.7]])

@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.5
-period: 4
-tags: [apwh, unit-4, period-4, vocabulary, silver-trade, slave-trade]
+period: 2
+tags: [apwh, unit-4, period-2, vocabulary, silver-trade, slave-trade]
 ---
 
-# Key Terms — Unit 4.5: (4.5): Maritime Empires Maintained and Developed
+# Key Terms — Unit 4.5: (4.5): Maritime Empires Develop
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 1. **VOC (Dutch East India Company)** — The *Vereenigde Oost-Indische Compagnie*, founded in 1602; the world's first publicly traded joint-stock company, which dominated Southeast Asian spice trade. (Model for modern corporations; could declare war, mint coins, and sign treaties — quasi-governmental power.)
 
@@ -39,5 +39,20 @@ tags: [apwh, unit-4, period-4, vocabulary, silver-trade, slave-trade]
 
 15. **Creole** — A person of European descent born in the Americas. (Over time, creoles developed distinct identities and grievances against peninsulares, eventually driving independence movements.)
 
+## Belief Systems and Religious Syncretism
+
+16. **Missionary Orders** — Catholic religious organizations (Jesuits, Franciscans, Dominicans, Augustinians) that accompanied European maritime expansion to convert indigenous and enslaved peoples to Christianity. (Significance: the primary institutional vehicle for Christianity's spread in the Americas, Africa, and Asia; missions served simultaneously as religious institutions, educational centers, and tools of colonial control.)
+
+17. **Religious Syncretism (Colonial)** — The blending of Catholic Christianity with indigenous or African spiritual traditions under colonial conditions. (Significance: one of the most important cultural outcomes of maritime empire expansion; produced enduring hybrid traditions — Virgin of Guadalupe (Mexico), Candomblé (Brazil), Vodou (Haiti), Filipino folk Catholicism; represented indigenous and enslaved peoples' negotiation of spiritual meaning within imposed religious frameworks.)
+
+18. **Virgin of Guadalupe** — A Catholic apparition, according to tradition appearing to the indigenous Juan Diego in 1531 near Mexico City, whose image combined Catholic Marian iconography with imagery associated with the Aztec goddess Tonantzin. (Significance: the most iconic example of religious syncretism in the Americas; became the primary symbol of Mexican Catholic identity, blending European and indigenous spiritual traditions.)
+
+19. **Forced Conversion** — The compelled adoption of Christianity by indigenous peoples under Spanish and Portuguese colonial rule, often accompanying the destruction of indigenous temples, sacred objects, and religious specialists. (Significance: a systematic tool of colonial control; contrasted with the more accommodating Jesuit approach in Asia; the tension between forced conversion and sincere conversion was a persistent debate within the Catholic Church.)
+
+20. **Candomblé / Vodou** — Syncretic religions developed by enslaved Africans in Brazil and Haiti respectively, blending West African spiritual traditions (Yoruba, Fon, Dahomey orishas) with Catholic saints and ritual forms under conditions of enslavement. (Significance: examples of cultural resistance and adaptation under extreme coercion; African spiritual beliefs survived enslavement by being encoded within nominally Catholic practice; belong to Unit 4's maritime empire social consequences, not Unit 3's land-based empire belief systems.)
+
 > [!exam-tip]
 > Know **three key facts about the Atlantic slave trade** for any essay: approximately 12.5 million transported, ~2 million died in the Middle Passage, and the trade peaked in the 18th century (not the 16th). Students often misplace the chronological peak.
+
+> [!exam-tip]
+> For belief-system questions: the AP exam may ask you to explain **how maritime empire expansion affected indigenous or African spiritual traditions**. Key answer: forced conversion + syncretism = partial survival of pre-contact traditions encoded within Catholic practice. This is both cultural change AND continuity.

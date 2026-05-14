@@ -1,19 +1,19 @@
 ---
 unit: 4
 topic: 4.6
-period: 4
-tags: [apwh, unit-4, period-4, connections, graph-view]
+period: 2
+tags: [apwh, unit-4, period-2, connections, graph-view]
 ---
 
 # Cross-Topic Connections — Unit 4.6: (4.6): Internal and External Challenges to State Power
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 
 ## 1. Builds On (Earlier Units)
 
-- **[[Maritime Empires Established]]** ([[Unit-4.4]]) and **[[Maritime Empires Maintained]]** ([[Unit-4.5]]) — Resistance is a direct response to the empires built in 4.4 and 4.5; you cannot understand 4.6 without knowing what people were resisting.
+- **[[Maritime Empires Link Regions]]** ([[Unit-4.4]]) and **[[Maritime Empires Develop]]** ([[Unit-4.5]]) — Resistance is a direct response to the empires built in 4.4 and 4.5; you cannot understand 4.6 without knowing what people were resisting.
 - **[[Mongol Resistance and State Fragility]]** (Unit 2–3) — Empires have always faced internal and external challenges; the Mongol Empire's fragmentation is a useful precedent.
 - **[[Protestant Reformation]]** (Unit 3) — Religious division within Europe fueled inter-imperial competition and gave Protestant powers (Dutch, English) ideological motivation to challenge Catholic Spain and Portugal.
 

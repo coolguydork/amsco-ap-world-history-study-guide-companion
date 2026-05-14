@@ -51,9 +51,18 @@ tags: [apwh, unit-1, period-1, key-people, east-asia]
 ### Yongle Emperor (Zhu Di)
 **Period:** 1402–1424 | **Region:** China
 
-- Third Ming emperor who moved the capital to Beijing and commissioned construction of the Forbidden City
-- Sponsored Zheng He's voyages and reasserted the tribute system across Southeast Asia
-- Ordered the compilation of the massive Yongle Encyclopedia, reflecting the dynasty's commitment to preserving classical Chinese knowledge
+- Third Ming emperor who moved the capital to Beijing and commissioned construction of the Forbidden City, a monument to centralized imperial authority
+- Expanded the tribute system across Southeast Asia and sponsored Zheng He's voyages as diplomatic extensions of Ming prestige (see [[Unit-2.3/02-Key-People-and-Groups]] for full Zheng He coverage)
+- Ordered the compilation of the Yongle Encyclopedia (~22,000 volumes), reflecting the dynasty's ambition to systematize and preserve all classical Chinese knowledge
+
+---
+
+### Dai Viet (Vietnamese Kingdom)
+**Period:** c. 939–1804 | **Region:** Southeast Asia (modern Vietnam)
+
+- Maintained political independence from China despite lying directly on its southern border, having expelled Chinese rule in 938 CE
+- Adopted Chinese-style Confucian governance, the civil service examination, and Chinese written script while preserving the Vietnamese spoken language and distinct cultural identity — a nuanced example of Sinification
+- Successfully repelled three Mongol invasion attempts (1258, 1285, 1288) through guerrilla tactics and naval ambushes, one of the few polities to do so
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.8
-period: 4
-tags: [apwh, unit-4, period-4, CCOT, synthesis]
+period: 2
+tags: [apwh, unit-4, period-2, CCOT, synthesis]
 ---
 
 # Key People and Groups — Unit 4.8: (4.8): Continuity and Change
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 > [!tip] Note
 > Topic 4.8 is a synthesis chapter — the key "people and groups" here are the *analytical categories* that help you see change and continuity. Use this file to review how each major group experienced the period as a whole.

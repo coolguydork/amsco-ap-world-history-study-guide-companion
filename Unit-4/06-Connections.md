@@ -1,13 +1,14 @@
 ---
+type: synthesis
 unit: 4
 chapter: connections
-period: 4
-tags: [apwh, unit-4, period-4, connections, graph-view]
+period: 2
+tags: [apwh, unit-4, period-2, connections, graph-view]
 ---
 
 # Cross-Topic Connections — Unit 4: Transoceanic Interconnections
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 > [!tip] Obsidian Graph View
 > This file is designed to power the Obsidian graph view. Follow the [[wikilinks]] to see how Unit 4 connects across the full AP World History timeline.

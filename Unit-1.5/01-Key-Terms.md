@@ -5,7 +5,7 @@ period: 1
 tags: [apwh, unit-1, period-1, key-terms, africa]
 ---
 
-# Unit 1.5: Key Terms — State Building in Africa (1200–1450)
+# Unit 1.5: Key Terms — Developments In Africa (1200–1450)
 
 ## Vocabulary
 
@@ -38,6 +38,14 @@ tags: [apwh, unit-1, period-1, key-terms, africa]
 **Gold-Salt Trade** — The fundamental economic exchange of the trans-Saharan network: West Africa had abundant gold but scarce salt; the Sahara had vast salt deposits; North Africa had manufactured goods and access to Mediterranean markets. (Significance: the economic foundation of West African empire-building, including Ghana, Mali, and later Songhai.)
 
 **Ibn Battuta in East Africa** — The Moroccan traveler visited the Swahili Coast cities (including Kilwa) in 1331 and described them as sophisticated Islamic urban centers comparable to cities in the Islamic heartland. (Significance: his account is the most detailed 14th-century source on Swahili city-states; demonstrates East Africa's full integration into the Islamic world.)
+
+**Kinship Systems** — Social organization based on lineage, clan membership, and family ties rather than territorial or governmental authority; the foundation of social order in stateless African societies. (Significance: the majority of sub-Saharan Africans in this period lived in kinship-organized communities, not imperial states; kinship determined land rights, dispute resolution, marriage patterns, and religious obligation.)
+
+**Age Grades** — A system of social organization in which groups of people born within the same period pass through life stages together, with collective duties and rituals at each stage. (Significance: common across many African societies; created cross-cutting bonds of solidarity that transcended individual kinship groups and organized communal labor and defense.)
+
+**Religious Syncretism (African Islam)** — The blending of Islamic practices with indigenous African spiritual traditions in states like Mali, producing a hybrid religious practice where rulers performed both Islamic prayers and traditional African rituals. (Significance: illustrates how Islam spread along trade networks by accommodating local customs; explains why West African Islam looked different from Arabian Islam and why it spread so effectively.)
+
+**Queen Mothers / Women's Political Authority** — In many West and Central African societies, senior women — particularly mothers or sisters of rulers — held recognized formal roles in governance, ritual, and succession disputes. (Significance: demonstrates that African gender structures allowed for female political participation in ways not always found in comparable Eurasian monarchies; complicates generalizations about patriarchy.)
 
 > [!exam-tip]
 > African states are heavily tested in the AP exam, but often through unfamiliar primary sources. Know the THREE main African trading networks: **trans-Saharan** (West Africa), **Indian Ocean** (East Africa), and the internal networks connecting them. Also know the distinction between Islamic-influenced states (Mali, Swahili) and independent traditions (Great Zimbabwe, Ethiopia).

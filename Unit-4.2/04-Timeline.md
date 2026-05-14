@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.2
-period: 4
-tags: [apwh, unit-4, period-4, timeline, exploration]
+period: 2
+tags: [apwh, unit-4, period-2, timeline, exploration]
 ---
 
 # Timeline — Unit 4.2: (4.2): Exploration
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 > [!tip] Big Picture
 > Topic 4.2 covers the explosive burst of European exploration between 1488 and 1600 that permanently connected all inhabited continents. Every event in this timeline was made possible by the technologies of 4.1 ([[Unit-4.1]]) and each one cascades into the economic, social, and demographic consequences explored in Topics 4.3–4.8.

@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.3
-period: 4
-tags: [apwh, unit-4, period-4, connections, graph-view]
+period: 2
+tags: [apwh, unit-4, period-2, connections, graph-view]
 ---
 
 # Cross-Topic Connections — Unit 4.3: (4.3): The Columbian Exchange
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 

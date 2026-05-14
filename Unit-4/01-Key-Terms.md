@@ -1,13 +1,14 @@
 ---
+type: synthesis
 unit: 4
 chapter: key-terms
-period: 4
-tags: [apwh, unit-4, period-4, vocabulary]
+period: 2
+tags: [apwh, unit-4, period-2, vocabulary]
 ---
 
 # Key Terms — Unit 4: Transoceanic Interconnections
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ## Vocabulary List
 

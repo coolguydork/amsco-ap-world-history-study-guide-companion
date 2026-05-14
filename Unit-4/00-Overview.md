@@ -1,16 +1,17 @@
 ---
+type: synthesis
 unit: 4
 chapter: overview
-period: 4
-tags: [apwh, unit-4, period-4, transoceanic, 1450-1750]
+period: 2
+tags: [apwh, unit-4, period-2, transoceanic, 1450-1750]
 ---
 
 # Unit 4: Transoceanic Interconnections (1450–1750)
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ## AP Exam Period
-**Period 4: 1450–1750**
+**Period 2: 1450–1750**
 
 ## Summary
 

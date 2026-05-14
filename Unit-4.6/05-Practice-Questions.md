@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.6
-period: 4
-tags: [apwh, unit-4, period-4, practice, MCQ, SAQ]
+period: 2
+tags: [apwh, unit-4, period-2, practice, MCQ, SAQ]
 ---
 
 # Practice Questions — Unit 4.6: (4.6): Internal and External Challenges to State Power
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 
@@ -80,9 +80,9 @@ tags: [apwh, unit-4, period-4, practice, MCQ, SAQ]
 
 ---
 
-**6–10.** *(Additional questions on Tupac Amaru II, Nzinga, Dutch commercial competition, Seven Years' War, and creole grievances.)*
+**6–10.** *(Additional questions on the Maratha Confederacy, Nzinga of Ndongo, Dutch commercial competition, the English Civil War/Glorious Revolution, and maroon community treaties.)*
 
-> [!tip] Write your own MCQs using the key terms list as a guide.
+> [!tip] Write your own MCQs using the key terms list as a guide. Avoid using Tupac Amaru II (1780–1781) or the Seven Years' War (1756–1763) as examples — both fall after 1750 and belong to Units 5–6.
 
 ---
 
@@ -97,7 +97,7 @@ tags: [apwh, unit-4, period-4, practice, MCQ, SAQ]
 **Part C:** Evaluate the effectiveness of Indigenous resistance in limiting Spanish colonial power.
 
 > [!tip] Top-Score Guidance
-> - **Part A:** Choose a specific example: Pueblo Revolt (1680), Mixtón War, Tupac Amaru I (1572) or II (1780), or cultural/religious resistance.
+> - **Part A:** Choose a specific in-range example: Pueblo Revolt (1680), Mixtón War (1540s), Tupac Amaru I (1572), maroon communities (Quilombo dos Palmares, c.1600–1694), or cultural/religious resistance. Note: Tupac Amaru *II* (1780) is after 1750 and outside this topic's scope.
 > - **Part B:** Forced labor (encomienda/mita), religious suppression, land theft, epidemic disease — be specific.
 > - **Part C:** Balanced answer: resistance achieved some concessions (Spain modified New Mexico policies) but rarely reversed colonial rule entirely. The Pueblo Revolt is the strongest example of genuine short-term success.
 

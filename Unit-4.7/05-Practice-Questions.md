@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.7
-period: 4
-tags: [apwh, unit-4, period-4, practice, MCQ, SAQ]
+period: 2
+tags: [apwh, unit-4, period-2, practice, MCQ, SAQ]
 ---
 
 # Practice Questions — Unit 4.7: (4.7): Changing Social Hierarchies
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 

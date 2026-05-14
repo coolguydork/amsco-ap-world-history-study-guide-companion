@@ -1,13 +1,13 @@
 ---
 unit: 4
 topic: 4.8
-period: 4
-tags: [apwh, unit-4, period-4, CCOT, themes, synthesis]
+period: 2
+tags: [apwh, unit-4, period-2, CCOT, themes, synthesis]
 ---
 
 # Themes and Causation — Unit 4.8: (4.8): Continuity and Change
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 

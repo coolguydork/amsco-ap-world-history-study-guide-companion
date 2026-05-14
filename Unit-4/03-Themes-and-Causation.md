@@ -1,13 +1,14 @@
 ---
+type: synthesis
 unit: 4
 chapter: themes-and-causation
-period: 4
-tags: [apwh, unit-4, period-4, themes, causation, CCOT]
+period: 2
+tags: [apwh, unit-4, period-2, themes, causation, CCOT]
 ---
 
 # Themes and Causation — Unit 4: Transoceanic Interconnections
 
-#apwh #unit-4 #period-4
+#apwh #unit-4 #period-2
 
 ---
 

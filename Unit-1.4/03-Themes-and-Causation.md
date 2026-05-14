@@ -5,7 +5,7 @@ period: 1
 tags: [apwh, unit-1, period-1, themes, causation, americas, aztec, inca]
 ---
 
-# Unit 1.4: Themes and Causation — State Building in the Americas (1200–1450)
+# Unit 1.4: Themes and Causation — Developments in the Americas (1200–1450)
 
 ## Governance
 

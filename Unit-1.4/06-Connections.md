@@ -5,7 +5,7 @@ period: 1
 tags: [apwh, unit-1, period-1, connections, americas, aztec, inca]
 ---
 
-# Unit 1.4: Cross-Topic Connections — State Building in the Americas
+# Unit 1.4: Cross-Topic Connections — Developments in the Americas
 
 ## Concepts This Topic Builds On
 

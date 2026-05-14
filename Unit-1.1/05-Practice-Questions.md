@@ -47,15 +47,15 @@ The voyages described in this passage are best understood as an example of which
 
 ---
 
-**4.** The decision to end Zheng He's voyages in the 1430s most directly reflects which of the following tensions within Chinese society?
+**4.** The Dai Viet kingdom's relationship with China between 1200 and 1450 is best described as an example of which of the following?
 
-- A) Between Buddhist monks and Confucian scholars over state funding
-- B) Between the Yongle Emperor and regional warlords over tax revenue
-- C) Between Confucian scholar-gentry values and maritime commercial expansion
-- D) Between northern and southern China over control of the imperial treasury
+- A) Direct Mongol conquest and absorption into the Yuan Empire
+- B) Selective Sinification — adopting Chinese cultural institutions while maintaining political independence
+- C) Complete rejection of Chinese cultural influence in favor of Indian Ocean trade networks
+- D) Tributary subordination in which Vietnam surrendered sovereignty in exchange for trade rights
 
-**Correct Answer: C**
-*Confucian scholar-officials viewed maritime trade as beneath the dignity of the empire and fiscally irresponsible. Their political influence over the court led to the cancellation of further voyages after 1433.*
+**Correct Answer: B**
+*Dai Viet adopted Confucian governance, civil service exams, and Chinese script while remaining politically independent and successfully repelling Mongol invasions. This selective borrowing illustrates the limits and nuances of Sinification.*
 
 ---
 
@@ -153,19 +153,19 @@ These Yuan policies most directly caused which of the following?
 ---
 
 ### SAQ 2
-*Use the following image description: A Ming Dynasty map showing Zheng He's routes across the Indian Ocean, with treasure ships dwarfing European caravels.*
+*"The states of East and Southeast Asia in the period 1200–1450 demonstrate both the reach and the limits of Chinese cultural influence."*
 
-**a)** Explain ONE purpose of Zheng He's voyages as reflected in the image.
+**a)** Describe ONE way in which a neighboring state (Korea, Japan, or Vietnam) adopted Chinese cultural or political practices in this period.
 
-**b)** Explain ONE reason why the Ming court ended the voyages after 1433.
+**b)** Describe ONE way in which a neighboring state resisted or modified Chinese cultural influence, preserving distinct traditions.
 
-**c)** Explain ONE long-term consequence of the decision to end the voyages.
+**c)** Explain how the concept of Sinification helps historians understand the relationship between China and its neighbors during this period.
 
 > [!tip]
 > **Top-scoring response would include:**
-> - (a) Extension of the tributary system, diplomatic prestige, or collection of exotic goods for the emperor
-> - (b) Confucian scholar-gentry opposition, cost, or the death of Zheng He and the Yongle Emperor's successors' different priorities
-> - (c) Reduced Chinese influence in Indian Ocean trade, allowing Arab/Indian merchants to dominate; or the historical counterfactual of what might have happened had China continued exploration
+> - (a) Korea's civil service exams and Buddhist-Confucian synthesis; Japan's adoption of Chinese writing, Buddhism, and court culture; Vietnam's adoption of Confucian governance and written Chinese
+> - (b) Japan's development of a warrior-based shogunate rather than a civil bureaucracy; Vietnam's preservation of spoken Vietnamese and national independence; Korea's use of the hangul writing system (though 15th century, broader pattern applies)
+> - (c) Sinification was selective and uneven — states borrowed what served their purposes and resisted what did not; proximity and political relationship with China shaped the degree of influence
 
 ---
 

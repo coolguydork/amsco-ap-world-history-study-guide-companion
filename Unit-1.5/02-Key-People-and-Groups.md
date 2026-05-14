@@ -5,7 +5,7 @@ period: 1
 tags: [apwh, unit-1, period-1, key-people, africa]
 ---
 
-# Unit 1.5: Key People and Groups — State Building in Africa (1200–1450)
+# Unit 1.5: Key People and Groups — Developments In Africa (1200–1450)
 
 ## Individuals and Groups
 
