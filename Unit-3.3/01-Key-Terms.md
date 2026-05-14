@@ -35,7 +35,7 @@ tags: [apwh, unit-3, period-2, key-terms, religion, belief-systems]
 
 **Wars of Religion** — A series of European conflicts driven by the Protestant-Catholic split, including the French Wars of Religion (1562–1598) and the Thirty Years' War (1618–1648). (Significance: the Thirty Years' War killed approximately a third of the population of the Holy Roman Empire — the most destructive European conflict before the World Wars; its resolution at the Peace of Westphalia (1648) established the principle of state sovereignty and ended the papacy's claim to authority over secular rulers.)
 
-**Peace of Westphalia (1648)** — The treaties ending the Thirty Years' War, establishing state sovereignty as the foundational principle of the European state system. (Significance: a landmark in political history — by affirming that each ruler determined the religion of his state (*cuius regio, eius religio*), it implicitly accepted permanent religious division in Europe and reduced the Church's political authority; one of the founding documents of the modern international system.)
+**Peace of Westphalia (1648)** — The treaties ending the Thirty Years' War, establishing state sovereignty as the foundational principle of the European state system. (Significance: a landmark in political history — it extended and modified the earlier principle of *cuius regio, eius religio* [originally established at the **Peace of Augsburg, 1555**], now adding Calvinism to the recognized faiths and reducing the papacy's claim to political authority over secular rulers; one of the founding documents of the modern international system. **Exam note:** The phrase *cuius regio, eius religio* — "whose realm, his religion" — originates at Augsburg 1555, not Westphalia; Westphalia built on and expanded it.)
 
 **Eastern Orthodox Christianity** — The branch of Christianity that separated from Roman Catholicism in the Great Schism of 1054, centered historically in Constantinople; after 1453, its institutional center shifted to Moscow. (Significance: the dominant Christian tradition in Russia, Greece, and much of Eastern Europe; distinct from both Catholicism and Protestantism; used by Russian tsars to claim the "Third Rome" inheritance and legitimate their authority as defenders of true Christianity.)
 
@@ -55,7 +55,12 @@ tags: [apwh, unit-3, period-2, key-terms, religion, belief-systems]
 
 **Sharia** — Islamic religious law derived from the Quran and the hadith (sayings of the Prophet), interpreted and administered by the ulama (religious scholars). (Significance: in Islamic empires, sharia governed personal status (marriage, divorce, inheritance) and sometimes criminal law; the relationship between sharia and secular (imperial) law was a constant point of negotiation in the Ottoman, Mughal, and Safavid empires.)
 
-**Wahhabi Movement** — A strict, puritan reformist movement within Sunni Islam founded by Muhammad ibn Abd al-Wahhab in Arabia in the 18th century, allied with the Saudi tribal leader Muhammad ibn Saud. (Significance: a late-Unit-3 / early-Unit-4 development; Wahhabism rejected Sufism, Shia practices, and perceived innovations in Islam; it became the theological basis for the modern Saudi Arabian state and remains influential globally — a long-term consequence of the religious debates of this period.)
+**Wahhabi Movement** — A strict, puritan reformist movement within Sunni Islam founded by Muhammad ibn Abd al-Wahhab (c. 1703–1792) in Arabia, allied with the Saudi tribal leader Muhammad ibn Saud.
+
+> [!warning] **Out-of-Period Content — Unit 5/6**
+> Muhammad ibn Abd al-Wahhab was born in 1703 — well after the 1750 boundary of this unit. **Do not use Wahhabism as an example on any AP question about the 1450–1750 period.** It belongs to Unit 5 (1750–1900) as part of the Islamic reform movements that emerged in response to European pressure. It is introduced here only because it grew out of the **internal theological debates within Islam** that began in this period (Sunni vs. Shia, Sufism vs. legal orthodoxy). Keep it as background context only.
+
+(Significance: Wahhabism rejected Sufism, Shia practices, and perceived innovations in Islam; became the theological basis for the modern Saudi Arabian state and remains influential globally.)
 
 ---
 

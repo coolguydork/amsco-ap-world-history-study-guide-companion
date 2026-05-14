@@ -80,9 +80,72 @@ tags: [apwh, unit-4, period-2, practice, MCQ, SAQ]
 
 ---
 
-**6–10.** *(Additional questions on the Maratha Confederacy, Nzinga of Ndongo, Dutch commercial competition, the English Civil War/Glorious Revolution, and maroon community treaties.)*
+---
 
-> [!tip] Write your own MCQs using the key terms list as a guide. Avoid using Tupac Amaru II (1780–1781) or the Seven Years' War (1756–1763) as examples — both fall after 1750 and belong to Units 5–6.
+**6.** The Maratha Confederacy, which challenged Mughal authority in 17th–18th century India, is best understood as an example of which of the following?
+
+- A) The spread of Hindu nationalism as a response to Mughal cultural policies
+- B) Internal fragmentation of a land-based empire driven by religious and regional resistance
+- C) European-backed rebellion against Mughal power to gain trade advantages
+- D) The Mughal Empire's deliberate decentralization of authority to manage a large territory
+
+**✅ Correct Answer: B**
+*The Maratha Confederacy arose from a combination of Aurangzeb's reversal of Akbar's religious tolerance (re-imposing the jizya tax on non-Muslims, destroying Hindu temples) and Mughal overextension. It represents internal challenge driven by both religious resentment and regional political ambition — a classic pattern in how empires unravel from within.*
+
+---
+
+**7.** Use the following excerpt to answer the question.
+
+> *"I shall never be a vassal to the King of Portugal nor enter into alliance with him… I and my people are free."*
+> — Queen Nzinga of Ndongo (Mbundu kingdom, West-Central Africa), c. 1626
+
+The strategy described by Queen Nzinga most closely resembles which of the following?
+
+- A) An appeal to European legal frameworks to protect African sovereignty
+- B) Diplomatic resistance combined with military alliances to limit colonial penetration
+- C) Total military rejection of European contact and trade
+- D) Acceptance of nominal Portuguese authority in exchange for commercial partnerships
+
+**✅ Correct Answer: B**
+*Nzinga pursued a sophisticated multi-pronged strategy: she negotiated with the Portuguese, allied with their Dutch rivals, adopted Christianity when politically useful, and built military coalitions with neighboring kingdoms. Her resistance was diplomatic and adaptive — not a total rejection of contact, but a determined defense of sovereignty through any available means.*
+
+---
+
+**8.** The Dutch East India Company (VOC) successfully displaced the Portuguese in the Indian Ocean trade network in the 17th century primarily because:
+
+- A) Portugal had abandoned Indian Ocean trade to focus on Atlantic commerce
+- B) The VOC combined joint-stock financing, military force, and monopoly control of key spice-producing islands
+- C) Dutch navigational technology was significantly superior to Portuguese technology
+- D) The VOC formed alliances with the Mughal Empire that gave it exclusive access to South Asian ports
+
+**✅ Correct Answer: B**
+*The VOC's innovation was organizational and financial, not just military. Joint-stock financing allowed it to sustain a large permanent fleet; its seizure of the Banda Islands (nutmeg) and Malacca gave it monopoly control over the most valuable spices. Portugal had established the system; the Dutch militarized and financialized it.*
+
+---
+
+**9.** The English Civil War (1642–1651) and the Glorious Revolution (1688) together represent which of the following patterns in 17th-century European political history?
+
+- A) The collapse of monarchical authority in England and its replacement by a republican system
+- B) A long-term shift in England toward parliamentary sovereignty and limits on royal power
+- C) Religious conflict between Protestantism and Catholicism that permanently divided English society
+- D) English resistance to the same process of absolutism that was succeeding in France under Louis XIV
+
+**✅ Correct Answer: B**
+*Both events mark steps in the same long-term process: constraining the English monarch. The Civil War ended with Charles I's execution; the Glorious Revolution ended with William and Mary accepting the Bill of Rights (1689), formally establishing parliamentary supremacy. Answer D has some merit but B is more precise and complete — the core lesson is the development of constitutional limits on the crown.*
+
+---
+
+**10.** The treaties between colonial governments and maroon communities — such as the 1739 treaty between Jamaica and the Leeward Maroons — are significant in the history of slavery and resistance primarily because they:
+
+- A) Ended slavery in British Caribbean colonies decades before abolition
+- B) Demonstrated that enslaved people could successfully negotiate for freedom and de facto territorial autonomy
+- C) Required maroon communities to integrate into colonial society and abandon African cultural practices
+- D) Were universally honored by colonial governments, providing lasting protection for maroon settlements
+
+**✅ Correct Answer: B**
+*The Jamaican Maroon treaty of 1739 granted the Leeward Maroons formal freedom and recognized their territory in exchange for an agreement not to harbor new runaways. It is significant because it proves that organized resistance could extract real concessions — legal recognition of a free Black community within a slave colony. However, Answer C is the key trap: the treaties often required maroons to return future runaways, a deeply controversial compromise. Answer D is false — many treaties were later violated by colonial governments.*
+
+> [!tip] Avoid using Tupac Amaru II (1780–1781) or the Seven Years' War (1756–1763) as examples — both fall after 1750 and belong to Units 5–6.
 
 ---
 
