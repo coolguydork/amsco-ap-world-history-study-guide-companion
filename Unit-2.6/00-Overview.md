@@ -36,4 +36,4 @@ Trade networks that connected Afro-Eurasian populations also connected their dis
 
 ## Related Topics
 
-See also: [[Unit-2.1-Silk-Roads]], [[Unit-2.2-Mongol-Empire]], [[Unit-1.6-Medieval-Europe]], [[Unit-4.6-Columbian-Exchange]], [[Unit-5-Renaissance-Exploration]]
+See also: [[Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]], [[Unit-2.2/00-Overview|Unit 2.2: The Mongol Empire and the Modern World]], [[Unit-1.6/00-Overview|Unit 1.6: Developments in Europe]], [[Unit-4.3/00-Overview|Unit 4.3: Columbian Exchange]]
