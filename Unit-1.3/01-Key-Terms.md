@@ -35,7 +35,7 @@ tags: [apwh, unit-1, period-1, key-terms, south-asia, southeast-asia]
 
 **Vijayanagara Empire** — A Hindu empire (1336–1646) in southern India that resisted the Delhi Sultanate's expansion and became a center of Hindu culture and the Telugu language. (Significance: demonstrates the limits of Delhi Sultanate power and the resilience of Hindu political authority in South Asia.)
 
-**Indian Ocean Trade Network** — The web of maritime commerce connecting East Africa, the Arabian Peninsula, South Asia, and Southeast Asia via monsoon wind patterns. (Significance: the most extensive and economically vital trade network in the world before 1500; connected all the regions studied in Unit 1. See [[Unit-2-Ch-3/01-Key-Terms|Unit 2 Indian Ocean notes]].)
+**Indian Ocean Trade Network** — The web of maritime commerce connecting East Africa, the Arabian Peninsula, South Asia, and Southeast Asia via monsoon wind patterns. (Significance: the most extensive and economically vital trade network in the world before 1500; connected all the regions studied in Unit 1. See [[Unit-2.3/01-Key-Terms|Unit 2 Indian Ocean notes]].)
 
 **Monsoon** — Seasonal wind patterns that reverse direction twice a year, enabling predictable sailing across the Indian Ocean; the foundation of Indian Ocean trade logistics. (Significance: made the Indian Ocean uniquely navigable for ancient and medieval sailors; defined the rhythms of trade, migration, and cultural exchange across Afro-Asia.)
 

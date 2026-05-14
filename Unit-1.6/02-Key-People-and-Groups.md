@@ -67,7 +67,7 @@ tags: [apwh, unit-1, period-1, europe, medieval, people, groups]
 
 - Though the Mongols did not conquer Western Europe, their trade networks (the Pax Mongolica) facilitated the spread of the [[Black Death]] along the Silk Roads into Europe after 1347
 - Mongol raids devastated Eastern Europe (Poland, Hungary, Russia), disrupting the Byzantine Empire's eastern flank
-- See [[Unit-1-Ch-8]] for deeper coverage of the Mongol Empire
+- See [[Unit-2.2]] for deeper coverage of the Mongol Empire
 
 ---
 

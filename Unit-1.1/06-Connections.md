@@ -16,8 +16,8 @@ tags: [apwh, unit-1, period-1, connections, east-asia]
 ## Concepts This Topic Sets Up
 
 - [[Unit-1.6/00-Overview|Unit 2 — Mongol Empire]] — The Yuan Dynasty is the eastern anchor of the Mongol world system; Mongol rule in China connects directly to the Mongol chapters
-- [[Unit-1-Ch-7/00-Overview|Unit 2 — Silk Roads]] — Song and Ming China are the eastern terminus of Silk Road trade; Chinese silk, porcelain, and paper money circulate westward
-- [[Unit-2-Ch-3/00-Overview|Unit 3 — Land-Based Empires]] — The Ming Dynasty is the template for comparison with the Ottoman, Safavid, and Mughal empires in Unit 3
+- [[Unit-2.1/00-Overview|Unit 2 — Silk Roads]] — Song and Ming China are the eastern terminus of Silk Road trade; Chinese silk, porcelain, and paper money circulate westward
+- [[Unit-3.1/00-Overview|Unit 3 — Land-Based Empires]] — The Ming Dynasty is the template for comparison with the Ottoman, Safavid, and Mughal empires in Unit 3
 - European Age of Exploration (Unit 4) — The *end* of Zheng He's voyages creates a vacuum in Indian Ocean diplomacy that Portuguese and later Dutch traders move into by the 1490s–1500s
 - Gunpowder Empires (Unit 3) — Chinese gunpowder spreads westward and enables the Ottoman, Safavid, and Mughal "gunpowder empires"
 
