@@ -23,12 +23,13 @@ Between 1200 and 1450, the world was defined by **interconnection** — not isol
 
 | Topic | Region | Core Theme |
 |---------|--------|------------|
-| [[Unit-1.1/00-Overview|Unit 1.1: Developments in East Asia]] | China, Korea, Japan | Song commercial revolution; Mongol conquest; Ming restoration |
-| [[Unit-1.2/00-Overview|Unit 1.2: Developments in Dar al-Islam]] | Middle East, Central Asia, N. Africa, S. Asia | Islamic expansion; Abbasid collapse; Mongol disruption; regional sultanates |
-| [[Unit-1.3/00-Overview|Unit 1.3: Developments in South and Southeast Asia]] | India, SE Asia | Hindu-Buddhist synthesis; Delhi Sultanate; maritime trade networks |
-| [[Unit-1.4/00-Overview|Unit 1.4: Developments in Africa]] | Sub-Saharan Africa, Swahili Coast | Trans-Saharan trade; Mali & Great Zimbabwe; Islam in Africa |
-| [[Unit-1.5/00-Overview|Unit 1.5: Developments in the Americas]] | Mesoamerica, Andes, North America | Aztec/Mexica rise; Inca consolidation; Mississippi culture |
-| [[Unit-1.6/00-Overview|Unit 1.6: Developments in Europe]] | Western & Eastern Europe | Feudalism; Catholic Church; Black Death; rising monarchies |
+| [[Unit-1.1/00-Overview\|Unit 1.1: Developments in East Asia]] | China, Korea, Japan | Song commercial revolution; Mongol conquest; Ming restoration |
+| [[Unit-1.2/00-Overview\|Unit 1.2: Developments in Dar al-Islam]] | Middle East, Central Asia, N. Africa, S. Asia | Islamic expansion; Abbasid collapse; Mongol disruption; regional sultanates |
+| [[Unit-1.3/00-Overview\|Unit 1.3: Developments in South and Southeast Asia]] | India, SE Asia | Hindu-Buddhist synthesis; Delhi Sultanate; maritime trade networks |
+| [[Unit-1.4/00-Overview\|Unit 1.4: Developments in the Americas]] | Mesoamerica, Andes, North America | Aztec/Mexica rise; Inca consolidation; Mississippian culture |
+| [[Unit-1.5/00-Overview\|Unit 1.5: Developments in Africa]] | Sub-Saharan Africa, Swahili Coast | Trans-Saharan trade; Mali & Great Zimbabwe; Islam in Africa |
+| [[Unit-1.6/00-Overview\|Unit 1.6: Developments in Europe]] | Western & Eastern Europe | Feudalism; Catholic Church; Black Death; rising monarchies |
+| [[Unit-1.7/00-Overview\|Unit 1.7: Comparison in the Period c. 1200–1450]] | Cross-regional | AP synthesis; comparing governance, economic systems, social structures across regions |
 
 ---
 
@@ -144,11 +145,12 @@ These topics appear disproportionately on AP exams — know them cold:
 - [[Unit-1.1/00-Overview|Unit 1.1: Developments in East Asia]]
 - [[Unit-1.2/00-Overview|Unit 1.2: Developments in Dar al-Islam]]
 - [[Unit-1.3/00-Overview|Unit 1.3: Developments in South and Southeast Asia]]
-- [[Unit-1.4/00-Overview|Unit 1.4: Developments in Africa]]
-- [[Unit-1.5/00-Overview|Unit 1.5: Developments in the Americas]]
+- [[Unit-1.4/00-Overview|Unit 1.4: Developments in the Americas]]
+- [[Unit-1.5/00-Overview|Unit 1.5: Developments in Africa]]
 - [[Unit-1.6/00-Overview|Unit 1.6: Developments in Europe]]
+- [[Unit-1.7/00-Overview|Unit 1.7: Comparison in the Period c. 1200–1450]]
 
 ### Key Cross-Unit Concepts
-- [[Unit-1.1/01-Key-Terms|Silk Roads]] · [[Unit-1.2/01-Key-Terms|Dar al-Islam]] · [[Unit-1.4/01-Key-Terms|Trans-Saharan Trade]]
-- [[Unit-1.1/02-Key-People-and-Groups|Zheng He]] · [[Unit-1.2/02-Key-People-and-Groups|Mongols]] · [[Unit-1.6/02-Key-People-and-Groups|Catholic Church]]
+- [[Unit-1.1/01-Key-Terms|Silk Roads]] · [[Unit-1.2/01-Key-Terms|Dar al-Islam]] · [[Unit-2.4/01-Key-Terms|Trans-Saharan Trade]]
+- [[Unit-1.1/02-Key-People-and-Groups|Zheng He]] · [[Unit-2.2/02-Key-People-and-Groups|Mongols]] · [[Unit-1.6/02-Key-People-and-Groups|Catholic Church]]
 - [[Unit-1.1/06-Connections|Unit 1.1: Developments in East Asia — Connections]] · [[Unit-1.6/06-Connections|Unit 1.6: Developments in Europe — Connections]]

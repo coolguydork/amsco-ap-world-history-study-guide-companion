@@ -23,10 +23,13 @@ Unit 2 asks a single powerful question: *How were the world's civilizations conn
 
 | Topic | Trade Network | Core Theme |
 |---------|--------------|------------|
-| [[Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]] | Overland Eurasia | Trade, cultural diffusion, plague, Pax Mongolica |
-| [[Unit-2.2/00-Overview|Unit 2.2: The Mongol Empire and the Modern World]] | Empire enabling all networks | Conquest, integration, Black Death, unintended consequences |
-| [[Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]] | Maritime Indian Ocean | Monsoon trade, Islam, Swahili coast, Zheng He |
-| [[Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]] | Trans-Saharan + regional networks | Gold-salt trade, Mali, Black Death in Europe, Americas' isolation |
+| [[Unit-2.1/00-Overview\|Unit 2.1: The Silk Roads]] | Overland Eurasia | Trade, cultural diffusion, plague, Pax Mongolica |
+| [[Unit-2.2/00-Overview\|Unit 2.2: The Mongol Empire and the Modern World]] | Empire enabling all networks | Conquest, integration, Black Death, unintended consequences |
+| [[Unit-2.3/00-Overview\|Unit 2.3: Exchange in the Indian Ocean]] | Maritime Indian Ocean | Monsoon trade, Islam, Swahili coast, Zheng He |
+| [[Unit-2.4/00-Overview\|Unit 2.4: Trans-Saharan Trade Routes]] | Trans-Saharan + regional networks | Gold-salt trade, Mali, Islam in West Africa |
+| [[Unit-2.5/00-Overview\|Unit 2.5: Cultural Consequences of Connectivity]] | Cross-network | Spread of religions, art, technology, and ideas via trade routes |
+| [[Unit-2.6/00-Overview\|Unit 2.6: Environmental Consequences of Connectivity]] | Cross-network | Black Death, crop diffusion, deforestation, ecological exchange |
+| [[Unit-2.7/00-Overview\|Unit 2.7: Comparison of Economic Exchange]] | AP synthesis | Comparing Silk Roads, Indian Ocean, and Trans-Saharan networks |
 
 ---
 
@@ -131,13 +134,16 @@ Americas remain isolated → catastrophic vulnerability when contact begins 1492
 - [[Unit-2.2/00-Overview|Unit 2.2: The Mongol Empire and the Modern World]]
 - [[Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]]
 - [[Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]]
+- [[Unit-2.5/00-Overview|Unit 2.5: Cultural Consequences of Connectivity]]
+- [[Unit-2.6/00-Overview|Unit 2.6: Environmental Consequences of Connectivity]]
+- [[Unit-2.7/00-Overview|Unit 2.7: Comparison of Economic Exchange]]
 
 ### Key Cross-Unit Concepts Linking Unit 1 and Unit 2
 - [[Unit-1.1/00-Overview|Unit 1.1: Developments in East Asia]] → [[Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]] → [[Unit-2.2/00-Overview|Unit 2.2: The Mongol Empire and the Modern World]]
 - [[Unit-1.2/00-Overview|Unit 1.2: Developments in Dar al-Islam]] → [[Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]] → [[Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]]
-- [[Unit-1.4/00-Overview|Unit 1.4: Developments in Africa]] → [[Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]] → [[Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]]
-- [[Unit-1.5/00-Overview|Unit 1.5: Developments in the Americas]] → [[Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]] → Columbian Exchange (Unit 3)
-- [[Unit-1.6/00-Overview|Unit 1.6: Developments in Europe]] → [[Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]] → Age of Exploration (Unit 3)
+- [[Unit-1.5/00-Overview|Unit 1.5: Developments in Africa]] → [[Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]] → [[Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]]
+- [[Unit-1.4/00-Overview|Unit 1.4: Developments in the Americas]] → isolation from Old World networks → Columbian Exchange (Unit 4)
+- [[Unit-1.6/00-Overview|Unit 1.6: Developments in Europe]] → [[Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]] → Age of Exploration (Unit 4)
 
 ### Key Concepts Across Unit 2
 - [[Unit-2.1/01-Key-Terms|Pax Mongolica]] · [[Unit-2.2/01-Key-Terms|Mongol Empire]] · [[Unit-2.1/01-Key-Terms|Bubonic plague]]
