@@ -2,29 +2,32 @@
 unit: 2
 topic: 2.4
 period: 1
-tags: [apwh, unit-2, period-1, trans-saharan, americas, europe, exchange, trade-networks]
+tags: [apwh, unit-2, period-1, trans-saharan, west-africa, mali, gold-salt, trade]
 ---
 
-# Unit 2.4: Exchange in the Americas, Africa, and Europe (c. 1200–1450)
+# Unit 2.4: Trans-Saharan Trade Routes (c. 1200–1450)
 
 **AMSCO Unit:** Unit 2 — Networks of Exchange
 **AP Exam Period:** Period 1 (c. 1200–1450)
-**Key Theme:** Regional Trade Networks Outside the Silk Roads and Indian Ocean
+**Key Theme:** Overland Exchange Across the Sahara — Gold, Salt, Islam
 
 ## Summary
 
-While the Silk Roads and Indian Ocean networks commanded global trade in the period c. 1200–1450, the Americas, Sub-Saharan Africa, and Europe also sustained significant regional exchange networks that shaped their own development in this era. In Sub-Saharan Africa, the Trans-Saharan trade network connected West African kingdoms — above all the Mali Empire — to the Islamic Mediterranean world through commerce in gold, salt, and enslaved people; Islam spread along these routes just as it did along the Indian Ocean. In Europe, the collapse of the old Roman trade order had been followed by a gradual commercial recovery, with Italian city-states (Venice, Genoa) emerging as the western terminal of Silk Road luxury goods; the Black Death, devastatingly transmitted from the east, reshuffled European society. In the Americas, sophisticated regional networks connected the Aztec (Mexica) and Inca empires, the Mississippian culture of North America, and smaller regional cultures through commerce, tribute, and road systems — entirely disconnected from the Old World networks.
+The Trans-Saharan trade network was one of the ancient world's most demanding long-distance exchange systems, connecting the gold-producing kingdoms of West Africa (Mali, Ghana, later Songhai) to the Islamic Mediterranean world via camel caravan across the Sahara Desert. Its two essential commodities were West African gold — which financed Islamic commerce across the Mediterranean and funded the Mali Empire's legendary wealth — and Saharan salt from the mines at Taghaza, which was a dietary necessity across the Sahel. Enslaved people constituted a significant third category of exchange. Islam spread southward along these routes through Muslim merchants and Sufi scholars, transforming the religious landscape of West Africa: the Mali Empire's rulers converted to Islam and used their connections to the broader Islamic world to legitimize and enrich their states, as Mansa Musa's famous 1324 hajj demonstrated. The Trans-Saharan network was physically sustained by the dromedary camel — uniquely adapted to Saharan conditions — and organized through Berber and Tuareg specialists who controlled the desert crossings.
+
+> [!warning]
+> **Scope note:** The previous version of this file bundled Trans-Saharan trade with European commercial revival and pre-contact Americas exchange networks. Those topics do not belong in AMSCO Topic 2.4. European trade networks (Italian city-states, Black Death consequences) belong primarily in [[Unit-1.6/00-Overview|Unit 1.6]] and [[Unit-2.6/00-Overview|Unit 2.6]]. Pre-contact Americas exchange networks belong in [[Unit-1.4/00-Overview|Unit 1.4]]. This file now covers Trans-Saharan trade only, per AMSCO.
 
 ## AMSCO Learning Objectives
 
-- Explain how the Trans-Saharan trade network connected West Africa to the broader Islamic world
-- Analyze the role of trade in the development and decline of African states (Mali, Great Zimbabwe)
-- Explain how European trade networks evolved in the period c. 1200–1450, including the role of the Black Death
-- Explain the nature and scope of trade and exchange networks in the pre-contact Americas
+- Explain how the Trans-Saharan trade network connected West Africa to North Africa and the broader Islamic Mediterranean world
+- Analyze the role of gold-salt trade in the development and sustenance of West African states, especially the Mali Empire
+- Explain how Islam spread along Trans-Saharan routes through merchants, scholars, and Sufi orders
+- Evaluate the significance of the dromedary camel and Berber/Tuareg specialists in enabling Trans-Saharan exchange
 
 ## AP World History Key Concepts
 
-- **KC-2.1.I** — Regional trade networks in Africa, Europe, and the Americas expanded in volume and significance in this period
-- **KC-1.2.II** — The Mali Empire and other African states developed complex governance structures linked to trade wealth
-- **KC-2.3.I** — The Black Death, transmitted via Silk Road trade networks, disrupted European society
-- **KC-1.3.II** — The Americas developed sophisticated regional exchange networks entirely independent of Old World contact
+- **KC-2.1.I** — The Trans-Saharan trade network expanded in volume and significance during the period c. 1200–1450, driven by West African gold production and Islamic demand
+- **KC-1.2.I** — Islam spread to West African kingdoms via Trans-Saharan commercial routes, shaping governance, culture, and state legitimation
+- **KC-1.2.II** — The Mali Empire developed complex governance structures funded by control of trans-Saharan commerce
+- **KC-2.2.II** — Diasporic Berber/Tuareg and North African Muslim merchant communities sustained the physical infrastructure of the trans-Saharan network

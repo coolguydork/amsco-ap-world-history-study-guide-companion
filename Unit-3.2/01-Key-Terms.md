@@ -1,8 +1,8 @@
 ---
 unit: 3
 topic: 3.2
-period: 3
-tags: [apwh, unit-3, period-3, key-terms, administration]
+period: 2
+tags: [apwh, unit-3, period-2, key-terms, administration]
 ---
 
 # Unit 3.2: Key Terms

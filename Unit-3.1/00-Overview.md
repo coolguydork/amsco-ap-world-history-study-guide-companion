@@ -1,13 +1,13 @@
 ---
 unit: 3
 topic: 3.1
-period: 3
-tags: [apwh, unit-3, period-3, land-based-empires, gunpowder-empires]
+period: 2
+tags: [apwh, unit-3, period-2, land-based-empires, gunpowder-empires]
 ---
 
-# Unit 3.1: Land-Based Empires Expand
+# Unit 3.1: Empires Expand
 
-#apwh #unit-3 #period-3 #gunpowder-empires
+#apwh #unit-3 #period-2 #gunpowder-empires
 
 ## Topic Summary
 

@@ -1,8 +1,8 @@
 ---
 unit: 3
 topic: 3.3
-period: 3
-tags: [apwh, unit-3, period-3, connections, religion]
+period: 2
+tags: [apwh, unit-3, period-2, connections, religion]
 ---
 
 # Unit 3.3: Connections

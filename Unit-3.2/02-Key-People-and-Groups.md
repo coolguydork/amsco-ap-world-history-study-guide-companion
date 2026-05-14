@@ -1,8 +1,8 @@
 ---
 unit: 3
 topic: 3.2
-period: 3
-tags: [apwh, unit-3, period-3, key-people, administration]
+period: 2
+tags: [apwh, unit-3, period-2, key-people, administration]
 ---
 
 # Unit 3.2: Key People and Groups

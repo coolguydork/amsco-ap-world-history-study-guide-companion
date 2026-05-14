@@ -1,13 +1,13 @@
 ---
 unit: 3
 topic: 3.2
-period: 3
-tags: [apwh, unit-3, period-3, administration, culture, architecture]
+period: 2
+tags: [apwh, unit-3, period-2, administration, culture, architecture]
 ---
 
-# Unit 3.2: Administering Land-Based Empires
+# Unit 3.2: Empires: Administration
 
-#apwh #unit-3 #period-3 #administration
+#apwh #unit-3 #period-2 #administration
 
 ## Topic Summary
 

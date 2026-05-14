@@ -31,16 +31,17 @@ All notes, slides, Cornell PDFs, and Anki decks have been reviewed for factual a
 
 ## Unit 1: The Global Tapestry (c. 1200–1450) — AP Period 1 ✅ Complete
 
-All six chapters are fully complete with notes, slides, Cornell PDFs, and practice questions.
+All seven chapters are fully complete with notes, slides, Cornell PDFs, and practice questions.
 
 | Topic | Title | Key Themes |
 |---------|-------|------------|
-| Unit 1.1 | Developments in East Asia | Song Dynasty · Yuan Dynasty · Ming Dynasty · Confucianism · Zheng He's voyages · civil service exam · gunpowder · paper money |
+| Unit 1.1 | Developments in East Asia | Song Dynasty · Yuan Dynasty · Ming Dynasty · Confucianism · civil service exam · gunpowder · paper money · regional East Asian system |
 | Unit 1.2 | Developments in Dar al-Islam | Abbasid Caliphate · Mongol sack of Baghdad (1258) · Ibn Battuta · Sufism · trans-Saharan trade · Delhi Sultanate · Mali · Ottoman rise |
 | Unit 1.3 | Developments in South & Southeast Asia | Delhi Sultanate · Indian Ocean trade · Khmer Empire · Srivijaya · Majapahit · Hindu-Buddhist syncretism · monsoon winds |
-| Unit 1.4 | State Building in Africa | Mali Empire · Mansa Musa · Trans-Saharan gold-salt trade · Swahili Coast · Great Zimbabwe · Ethiopia · Islam in Africa |
-| Unit 1.5 | State Building in the Americas | Aztec/Mexica Empire · Inca Empire · Mississippian culture · Cahokia · American isolation · mit'a · tribute systems |
+| Unit 1.4 | State Building in the Americas | Aztec/Mexica Empire · Inca Empire · Mississippian culture · Cahokia · American isolation · mit'a · tribute systems |
+| Unit 1.5 | State Building in Africa | Mali Empire · Mansa Musa · Trans-Saharan gold-salt trade · Swahili Coast · Great Zimbabwe · Ethiopia · Islam in Africa |
 | Unit 1.6 | Developments in Europe | Feudalism · Catholic Church · The Crusades · Black Death · Magna Carta · Parliament · Hundred Years' War · rising monarchies |
+| Unit 1.7 | Comparison in the Period from c. 1200 to c. 1450 | Regional comparison · governance structures · economic systems · social hierarchies · cultural diffusion · AP essay synthesis |
 
 **Unit 1 bonus files:**
 - `Unit-1-Overview.md` — synthesis hub with comparison tables, causation chains, and AP essay traps
@@ -50,14 +51,17 @@ All six chapters are fully complete with notes, slides, Cornell PDFs, and practi
 
 ## Unit 2: Networks of Exchange (c. 1200–1450) — AP Period 1 ✅ Complete
 
-All four chapters are fully complete with notes, slides, Cornell PDFs, and practice questions.
+All seven chapters are fully complete with notes, slides, Cornell PDFs, and practice questions.
 
 | Topic | Title | Key Themes |
 |---------|-------|------------|
 | Unit 2.1 | The Silk Roads | Pax Mongolica · caravanserai · bills of exchange · diasporic communities · Marco Polo · Ibn Battuta · Black Death transmission |
 | Unit 2.2 | The Mongol Empire and the Making of the Modern World | Genghis Khan · four khanates · Yuan Dynasty · Golden Horde · direct vs. tributary rule · technology diffusion · Black Death |
 | Unit 2.3 | Exchange in the Indian Ocean Region | Monsoon winds · dhow · Swahili Coast · Kilwa · Malacca Sultanate · Zheng He · Islam via merchant diasporas |
-| Unit 2.4 | Exchange in the Americas, Africa, and Europe | Mali Empire · Mansa Musa · Trans-Saharan trade · Aztec markets · Inca mit'a · Cahokia · Black Death in Europe · feudalism's decline |
+| Unit 2.4 | Trans-Saharan Trade Routes | Mali Empire · Mansa Musa · gold-salt trade · dromedary camel · Berber/Tuareg traders · Islam in West Africa · Taghaza salt mines |
+| Unit 2.5 | Cultural Consequences of Connectivity | Spread of Buddhism · Islam · Christianity · Hinduism · art and architecture · syncretism · diasporic cultural exchange |
+| Unit 2.6 | Environmental Consequences of Connectivity | Black Death · Mongol plague transmission · agricultural diffusion · deforestation · Columbian Exchange precursors |
+| Unit 2.7 | Comparison of Economic Exchange | Silk Roads vs. Indian Ocean vs. Trans-Saharan · trade mechanisms · state involvement · religion transmitted · AP synthesis |
 
 **Unit 2 bonus files:**
 - `Unit-2-Overview.md` — synthesis hub with three-network comparison table, Mongol paradox analysis, causation chains, and AP essay traps
@@ -100,9 +104,10 @@ AP World History Study/
 │
 ├── Unit-1.2/              ← Dar al-Islam
 ├── Unit-1.3/              ← South & Southeast Asia
-├── Unit-1.4/              ← Africa
-├── Unit-1.5/              ← The Americas
+├── Unit-1.4/              ← The Americas
+├── Unit-1.5/              ← Africa
 ├── Unit-1.6/              ← Europe
+├── Unit-1.7/              ← Comparison c. 1200–1450
 │
 ├── Unit-2-Overview.md        ← Unit 2 synthesis hub
 ├── Unit2-Review.pptx         ← 20-slide consolidated Unit 2 review deck
@@ -121,8 +126,17 @@ AP World History Study/
 │
 ├── Unit-2.2/              ← The Mongol Empire
 ├── Unit-2.3/              ← Indian Ocean Exchange
-├── Unit-2.4/             ← Americas, Africa & Europe
-└── ...                       ← Units 3–9 coming soon
+├── Unit-2.4/              ← Trans-Saharan Trade Routes
+├── Unit-2.5/              ← Cultural Consequences of Connectivity
+├── Unit-2.6/              ← Environmental Consequences of Connectivity
+├── Unit-2.7/              ← Comparison of Economic Exchange
+│
+├── Unit-3.1/              ← Land-Based Empires Expand
+├── Unit-3.2/              ← Empires: Administration
+├── Unit-3.3/              ← Empires: Belief Systems
+├── Unit-3.4/              ← Comparison in Land-Based Empires
+│
+└── ...                       ← Units 4–9 in progress
 ```
 
 Each chapter's seven note files:
@@ -175,10 +189,10 @@ The `.md` files are plain Markdown and render correctly on GitHub, in VS Code, o
 
 | Unit | AP Period | Date Range | Chapters | Status |
 |------|-----------|------------|----------|--------|
-| Unit 1: The Global Tapestry | Period 1 | c. 1200–1450 | Unit 1.1–6 | ✅ Complete |
-| Unit 2: Networks of Exchange | Period 1 | c. 1200–1450 | Unit 2.1–10 | ✅ Complete |
-| Unit 3: Land-Based Empires | Period 2 | c. 1450–1750 | — | Coming soon |
-| Unit 4: Transoceanic Interconnections | Period 2 | c. 1450–1750 | — | Coming soon |
+| Unit 1: The Global Tapestry | Period 1 | c. 1200–1450 | Unit 1.1–1.7 | ✅ Complete |
+| Unit 2: Networks of Exchange | Period 1 | c. 1200–1450 | Unit 2.1–2.7 | ✅ Complete |
+| Unit 3: Land-Based Empires | Period 2 | c. 1450–1750 | Unit 3.1–3.4 | ✅ Complete |
+| Unit 4: Transoceanic Interconnections | Period 2 | c. 1450–1750 | Unit 4.1–4.8 | ⚠️ In progress (topic titles pending AMSCO verification) |
 | Unit 5: Revolutions | Period 3 | c. 1750–1900 | — | Coming soon |
 | Unit 6: Consequences of Industrialization | Period 3 | c. 1750–1900 | — | Coming soon |
 | Unit 7: Global Conflict | Period 4 | c. 1900–present | — | Coming soon |

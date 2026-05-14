@@ -2,180 +2,180 @@
 unit: 1
 topic: 1.4
 period: 1
-tags: [apwh, unit-1, period-1, practice, mcq, saq, dbq, africa]
+tags: [apwh, unit-1, period-1, practice, mcq, saq, dbq, americas, aztec, inca]
 ---
 
-# Unit 1.4: Practice Questions — State Building in Africa (1200–1450)
+# Unit 1.4: Practice Questions — State Building in the Americas (1200–1450)
 
 ## Multiple Choice Questions
 
-**1.** *Stimulus:* [Catalan Atlas, 1375, showing a bearded African king sitting on a throne holding a large gold nugget, labeled "Musa Mali, lord of the Negroes of Guinea"]
+**1.** The Aztec tribute system differed most significantly from the Inca mit'a system in that the Aztec system:
 
-The figure depicted in this map most directly reflects which of the following?
-
-- A) Portuguese explorers' firsthand knowledge of West African rulers gained through coastal trade
-- B) The fame of Mansa Musa's hajj, which made Mali's wealth known across the Mediterranean Islamic world and Europe
-- C) The Mongol Empire's incorporation of West Africa into its trade network
-- D) Arab geographers' systematic mapping of sub-Saharan African kingdoms during this period
+- A) Required conquered peoples to contribute military service rather than goods
+- B) Extracted goods and people from conquered communities without providing significant returns, while the Inca redistributed goods to subjects
+- C) Was administered through a sophisticated road network connecting all parts of the empire
+- D) Was based on religious voluntary offerings rather than coercive taxation
 
 **Correct Answer: B**
-*Mansa Musa's 1324–1325 hajj distributed gold across Cairo and brought Mali to the attention of Mediterranean cartographers. The 1375 Catalan Atlas is direct evidence that his pilgrimage made West African wealth famous in Europe.*
+*The Aztec tribute system was essentially extractive — taking goods and sacrificial victims from conquered peoples with little return. The Inca mit'a system also extracted labor, but the Inca state returned value through redistribution from state storehouses, building roads, and providing for communities during famines.*
 
 ---
 
-**2.** The Swahili city-states of East Africa (e.g., Kilwa, Mombasa, Zanzibar) were primarily distinguished by which of the following characteristics?
+**2.** *Stimulus:* "The city was built on a lake, connected to the shore by great causeways. The market at Tlatelolco was larger than any in Rome or Constantinople, with products from across the empire displayed in orderly rows. Officers moved through the crowd resolving disputes."
 
-- A) Their resistance to Islamic influence in favor of indigenous African religious traditions
-- B) Their role as entrepôts in the Indian Ocean trade network, blending African, Arab, and Indian cultural elements
-- C) Their political subordination to the Mali Empire's trans-Saharan commercial system
-- D) Their military power that allowed them to dominate all trade in the Indian Ocean
+A Spanish observer describing Tenochtitlan in the early 16th century would most likely draw which conclusion?
+
+- A) The Aztec Empire was a primitive society that lacked sophisticated commercial organization
+- B) Aztec civilization had achieved a level of urban complexity and commercial sophistication comparable to the greatest cities of the Old World
+- C) European commercial systems were clearly superior to American ones due to the lack of monetary currency
+- D) The Aztec market demonstrated the influence of Chinese commercial practices transmitted through Pacific trade
 
 **Correct Answer: B**
-*The Swahili city-states were defined by their commercial role as intermediaries in the Indian Ocean trade and by the distinctive Afro-Islamic Swahili culture that emerged from African-Arab-Indian interaction.*
+*Spanish conquistadors (including Hernán Cortés and Bernal Díaz) were astonished by Tenochtitlan's size, sophistication, and commercial organization, explicitly comparing it favorably to European cities — direct evidence of pre-Columbian American urban achievement.*
 
 ---
 
-**3.** Great Zimbabwe is historically significant primarily as evidence that:
+**3.** The Inca Empire's quipu system most directly demonstrates which of the following?
 
-- A) Arab merchants established trading colonies in southern Africa as early as the 10th century
-- B) Complex state formation and impressive architecture developed in sub-Saharan Africa independently of outside influence
-- C) Christianity spread from Ethiopia to southern Africa during the medieval period
-- D) Chinese treasure ships under Zheng He reached the southern African coast
+- A) That the Inca were less intellectually sophisticated than literate Eurasian civilizations
+- B) That complex record-keeping and imperial administration can function without conventional alphabetic writing
+- C) That the Inca borrowed Chinese administrative techniques through trans-Pacific contact
+- D) That the Inca Empire was too small to require sophisticated record-keeping systems
 
 **Correct Answer: B**
-*Great Zimbabwe demonstrates indigenous African state complexity — its stone construction was achieved by Bantu-speaking Shona peoples without outside direction or influence, refuting the racist colonial-era claims that attributed it to non-Africans.*
+*The quipu — knotted strings encoding numerical and possibly narrative information — allowed the Inca Empire to administer over 10 million people across 2,500 miles without alphabetic writing, demonstrating that literacy is not the only path to complex administration.*
 
 ---
 
-**4.** The primary function of the trans-Saharan trade network in West African state formation was to:
+**4.** The Aztec practice of human sacrifice is best understood in historical context as:
 
-- A) Provide access to the Indian Ocean's spice trade for inland West African kingdoms
-- B) Fund military expansion by supplying weapons and horses in exchange for enslaved people
-- C) Allow West African rulers to convert gold (abundant locally) into revenues, horses, and Islamic legitimacy through commerce with North Africa
-- D) Connect West African agricultural communities with Southeast Asian rice varieties
+- A) A form of psychological terrorism designed purely to intimidate conquered peoples
+- B) A religious obligation embedded in a cosmological worldview in which sacrificial blood maintained the cosmic order and sustained the sun's journey
+- C) An economic practice for disposing of enslaved people who were no longer useful as laborers
+- D) A military practice borrowed from the earlier Maya civilization and modified for Aztec purposes
+
+**Correct Answer: B**
+*The AP exam requires understanding human sacrifice as a *religious* practice central to Aztec cosmology (the sun required blood sacrifice to continue its journey) rather than purely as terrorism or economics, though it certainly served political functions as well.*
+
+---
+
+**5.** The Inca Empire's road system is historically significant primarily because it:
+
+- A) Enabled long-distance trade with Mesoamerica by connecting the Inca heartland to Mexican markets
+- B) Allowed the rapid movement of armies, goods, and information across a geographically diverse empire without wheeled vehicles or horses
+- C) Was modeled on Chinese road-building techniques transmitted through Pacific Islander contact
+- D) Provided the template for Spanish colonial road construction in the Americas after the conquest
+
+**Correct Answer: B**
+*The Inca road network — 25,000 miles of roads traversing Andean terrain using relay runners (chasquis), rope bridges, and rest stations (tambos) — was the Inca answer to the challenge of administering a vast, geographically extreme empire without the wheeled vehicles or large draft animals available in Eurasia.*
+
+---
+
+**6.** Which of the following best explains why many of the peoples conquered by the Aztec Empire allied with Spanish conquistadors against the Aztec in 1519–1521?
+
+- A) Spanish missionaries had successfully converted the conquered peoples to Christianity before the military conquest
+- B) The Aztec tribute system's extractive nature generated deep resentment among subject peoples, who saw the Spanish as potential liberators
+- C) Spanish firearms were so technologically overwhelming that resistance was impossible for any indigenous group
+- D) The conquered peoples shared a common language (Nahuatl) with the Spanish that facilitated communication and alliance
+
+**Correct Answer: B**
+*The Aztec Empire's pattern of extraction without integration — taking tribute and sacrificial victims without incorporating conquered elites or offering them genuine stakes in the empire — left a vast reservoir of resentment that Cortés successfully exploited. This is the Aztec tribute system's most important historical consequence.*
+
+---
+
+**7.** The Inca practice of relocating populations (mitimaes) to newly conquered territories is best compared to which practice in other empires?
+
+- A) The Mongol practice of destroying conquered cities to prevent future rebellion
+- B) The Chinese tributary system of incorporating neighboring states through diplomatic gifts
+- C) The Assyrian and later Roman practice of relocating troublesome populations to break up local solidarity and spread imperial culture
+- D) The Islamic practice of building mosques in conquered cities as symbols of religious and political dominance
 
 **Correct Answer: C**
-*Trans-Saharan trade allowed Mali rulers to monetize their gold through exchange with North African and Mediterranean markets, receiving horses (essential for military power), manufactured goods, and connections to Islamic scholarly networks in return.*
+*The Inca mitimae relocation system — moving loyal ethnic groups into newly conquered areas and relocating resistant populations elsewhere — parallels Assyrian deportation practices and Roman colonization, all of which used forced population movement to consolidate imperial control.*
 
 ---
 
-**5.** The Mali Empire's rulers practiced a form of Islam that tolerated indigenous African religious traditions alongside Islamic practice. This is best explained by which of the following?
+**8.** The Aztec and Inca empires both illustrate which of the following patterns common to large empires across world history?
 
-- A) Mali's sultans were insincere Muslims who secretly rejected Islamic law
-- B) The Malian ulama deliberately created a heretical version of Islam for African consumption
-- C) Practical governance of a diverse population required accommodating the religious traditions of the non-Muslim majority
-- D) Islamic law explicitly permitted the continuation of all pre-Islamic religious practices in newly converted regions
+- A) Maritime commercial expansion as the primary driver of territorial growth
+- B) Monotheistic religious ideology used to unify diverse populations under a single faith
+- C) The combination of military conquest, tribute extraction, and religious legitimation to organize and sustain large-scale political authority
+- D) Democratic institutions limiting the power of rulers through representative assemblies
 
 **Correct Answer: C**
-*As in many frontier Islamic states, Mali's rulers balanced Islamic legitimacy (essential for the merchant and scholarly classes and for trans-Saharan trade partners) with accommodation of indigenous traditions (essential for the majority rural population's loyalty).*
+*Both empires used military force to conquer, tribute/mit'a systems to extract resources, and religious ideology (the Aztec sun-worship requiring sacrifice; the Inca Sapa Inca as son of the sun) to legitimize power — a pattern visible in empires across world history.*
 
 ---
 
-**6.** Ibn Battuta's account of the Swahili city-state of Kilwa being "one of the most beautiful cities in the world" most directly challenges which historical misconception?
+**9.** Machu Picchu's location in the Peruvian Andes at nearly 8,000 feet of elevation primarily reflects:
 
-- A) That the Islamic world was culturally inferior to Christian Europe during the medieval period
-- B) That sub-Saharan Africa lacked sophisticated urban centers and was isolated from global trade networks
-- C) That East African states were militarily powerful enough to resist Arab commercial dominance
-- D) That the Indian Ocean trade network was controlled exclusively by Chinese and Indian merchants
+- A) Inca defensive concerns about lowland enemies who could not pursue them to high altitude
+- B) The Inca practice of building royal estates and sacred sites in geographically extreme locations that demonstrated the state's power to master the environment
+- C) The practical necessity of locating Inca capitals near mountain water sources
+- D) Chinese astronomical requirements for observatories located at high altitude
 
 **Correct Answer: B**
-*Ibn Battuta's enthusiastic description of Kilwa — written by the most well-traveled person of his century — directly refutes the Eurocentric notion that sub-Saharan Africa was isolated and uncivilized in the medieval period.*
+*Machu Picchu's dramatic mountain location reflects Inca sacred geography — mountains were sacred (apus), and building at extreme altitude demonstrated the Sapa Inca's divine power to command labor in environments that challenged ordinary human capability.*
 
 ---
 
-**7.** The construction of rock-hewn churches at Lalibela in Ethiopia most directly reflects which of the following?
+**10.** The Maya civilizations of the Postclassic period (1200–1450) demonstrate which of the following?
 
-- A) Ethiopian adoption of Islamic architectural styles from the surrounding Muslim world
-- B) Ethiopian Christianity's development of a distinctive architectural and religious tradition independent of European or Middle Eastern models
-- C) Indian Ocean trade wealth funding Ethiopian religious construction projects
-- D) Mongol cultural influence spreading to the Ethiopian highlands via the Islamic world
+- A) That the "collapse" of Classic Maya civilization was complete and permanent, eliminating Maya culture
+- B) That Maya civilization continued in modified form in smaller city-states despite the abandonment of Classic-period cities
+- C) That Maya peoples successfully resisted all outside cultural influences and maintained their pre-Classic traditions unchanged
+- D) That Maya civilization was primarily based on maritime trade rather than agricultural production
 
 **Correct Answer: B**
-*The Lalibela churches represent a distinctively African Christian tradition — carved from solid rock (rather than built up), reflecting Ethiopian theological and aesthetic priorities, not borrowed from external models.*
-
----
-
-**8.** Which of the following best explains why Swahili city-states adopted Islam?
-
-- A) Military pressure from the Mamluk Sultanate in Egypt forced conversion as a condition of trade
-- B) Sufi missionaries from Persia conquered the coast and imposed Islamic rule
-- C) Commercial incentives — alignment with the Muslim merchant networks dominating Indian Ocean trade — made conversion economically advantageous for ruling elites
-- D) The Abbasid Caliphate in Baghdad directly administered the Swahili Coast through appointed governors
-
-**Correct Answer: C**
-*Swahili rulers converted to Islam primarily for commercial reasons — Muslim merchants from Arabia, Persia, and India controlled much of Indian Ocean trade, and Islamic identity facilitated integration into those networks.*
-
----
-
-**9.** West African gold was significant to the medieval Mediterranean economy primarily because it:
-
-- A) Funded the Crusades by providing European monarchs with currency for military campaigns
-- B) Was the primary supply of gold for coinage across the Islamic world and Mediterranean Europe
-- C) Allowed West African states to purchase Chinese porcelain and maintain trade relationships with East Asia
-- D) Was used by the Mongol Empire to fund its military campaigns across Eurasia
-
-**Correct Answer: B**
-*West African gold mines (in Bambuk, Bure, and later the Akan fields) supplied the majority of gold circulating in Mediterranean and Islamic economies during the medieval period — without it, gold-based coinage and long-distance commerce would have been severely constrained.*
-
----
-
-**10.** The griot tradition in West Africa is most comparable to which of the following in other societies?
-
-- A) The Islamic ulama's role in preserving written religious texts
-- B) The Buddhist monastery's function as a center of literacy and scholarship
-- C) The role of bards and oral historians in other societies that maintained cultural memory through performance rather than writing
-- D) The Confucian civil service examination system's preservation of classical texts
-
-**Correct Answer: C**
-*Griots preserved historical knowledge, genealogies, and cultural traditions through oral performance — comparable to bards in Celtic societies, epic poets in pre-literate Greece, or similar oral tradition-keepers in non-literate societies worldwide.*
+*The "Maya collapse" refers to the abandonment of Classic-period lowland cities, not the end of Maya civilization. Postclassic Maya states in Yucatán and highland Guatemala maintained distinct Maya cultures, calendars, and political systems — demonstrating cultural resilience and continuity.*
 
 ---
 
 ## Short Answer Questions (SAQ)
 
 ### SAQ 1
-*"African states between 1200 and 1450 were deeply integrated into global trade networks."*
+**a)** Describe ONE similarity between the Aztec and Inca empires in terms of how they organized political authority.
 
-**a)** Provide ONE piece of evidence supporting this claim from West Africa.
+**b)** Describe ONE difference between the Aztec and Inca empires in terms of their economic systems.
 
-**b)** Provide ONE piece of evidence supporting this claim from East Africa.
-
-**c)** Explain ONE way in which participation in global trade networks transformed African states during this period.
+**c)** Explain how the Aztec Empire's tribute system contributed to its vulnerability when Spanish conquistadors arrived in 1519.
 
 > [!tip]
 > **Top-scoring response would include:**
-> - (a) Mali's trans-Saharan gold trade; Mansa Musa's hajj and its Mediterranean impact; Timbuktu as an Islamic scholarly center connected to wider Islamic networks
-> - (b) Kilwa's role in Indian Ocean gold-ivory trade; Swahili culture as an Afro-Islamic synthesis; Chinese porcelain found in archaeological sites along the Swahili Coast
-> - (c) Islamicization of ruling elites for commercial reasons; adoption of Islamic administrative practices; growth of urban centers; construction of mosques funded by trade wealth
+> - (a) Both used religious legitimacy (ruler as divine or semi-divine); both used military conquest to expand; both created hierarchies distinguishing ruling elites from subject peoples
+> - (b) Aztec used tribute of goods (market-based, goods flow to Tenochtitlan); Inca used mit'a labor tax and state redistribution (no market economy, state storehouses)
+> - (c) The extractive tribute system without integration created resentful subject peoples; Aztec enemies like the Tlaxcalans and Totonacs allied with Cortés because they had more to gain from ending Aztec domination than from defending it
 
 ---
 
 ### SAQ 2
-**a)** Explain ONE similarity between the Mali Empire and the Swahili city-states in terms of their relationship to Islam.
+*"The pre-Columbian civilizations of the Americas developed independently from Eurasian civilizations but reached comparable levels of complexity in state organization, economic systems, and cultural achievement."*
 
-**b)** Explain ONE difference between the Mali Empire and the Swahili city-states in terms of their political organization.
+**a)** Provide ONE piece of evidence supporting this claim from either the Aztec or Inca Empire.
 
-**c)** Explain how Great Zimbabwe represents a different pattern of African state formation compared to Mali or the Swahili city-states.
+**b)** Provide ONE piece of evidence that complicates this claim by identifying a way in which American civilizations differed fundamentally from Eurasian empires.
+
+**c)** Explain why the Americas' isolation from Eurasian disease environments made them especially vulnerable to European contact after 1492.
 
 > [!tip]
 > **Top-scoring response would include:**
-> - (a) Both adopted Islam primarily through commercial integration with Muslim trade networks; both practiced a form of Islam that accommodated local traditions; both built mosques as markers of political legitimacy
-> - (b) Mali was a large territorial empire with a centralized mansa; Swahili states were small city-states governed by sultans with limited hinterland control
-> - (c) Great Zimbabwe developed without significant Islamic influence and through control of gold production rather than commercial intermediary position; demonstrates indigenous African state-building capacity independent of external religious models
+> - (a) Tenochtitlan's size and market complexity; Inca road network; quipu administration; Aztec astronomy/calendar; Machu Picchu's architecture
+> - (b) Absence of large domesticated animals (no horses, cattle, wheel-vehicle pulling animals), which limited military power and disease exposure; absence of iron metallurgy; no oceanic trade networks
+> - (c) Isolation meant no exposure to Old World diseases (smallpox, measles, plague); no immune resistance developed; epidemics killed 50–90% of indigenous populations after European contact, devastating political and military capacity before or alongside military conquest
 
 ---
 
 ## Document-Based Question (DBQ) Prompt
 
-**Prompt:** Evaluate the extent to which trade networks shaped the development of African states between 1200 and 1450.
+**Prompt:** Compare the methods used by the Aztec and Inca empires to expand and maintain political authority between 1200 and 1450.
 
 > [!tip]
 > **Top-scoring DBQ outline would include:**
-> - **Thesis:** "Trade networks were the primary driver of state formation and cultural transformation in coastal and savanna Africa between 1200 and 1450, though inland and highland states like Great Zimbabwe and Ethiopia developed through different mechanisms, suggesting trade's impact was geographically uneven."
+> - **Thesis:** "Both the Aztec and Inca empires used military conquest and religious legitimacy to expand, but they differed fundamentally in how they maintained authority: the Aztecs relied on tributary extraction and fear, while the Inca built administrative infrastructure and redistribution systems that generated more durable loyalty."
 > - **Body paragraphs should address:**
->   - Trans-Saharan trade and Mali Empire (gold-salt exchange, Islamic adoption, Timbuktu scholarship)
->   - Indian Ocean trade and Swahili coast (Kilwa, Swahili cultural synthesis, Islamic adoption)
->   - Great Zimbabwe's trade connection (gold export to Swahili Coast) but cultural independence
->   - Ethiopia's relative isolation from both major trade networks and its distinct trajectory
-> - **Complexity point:** Trade networks didn't simply impose outside cultures on Africa — African states shaped the trade networks too (controlling supply, setting terms, choosing what cultural elements to adopt or resist)
-> - **HAPP analysis:** Ibn Battuta's accounts written for an Islamic audience (may exaggerate Islamic presence); European maps showing Mansa Musa (reflect Mediterranean fascination with African gold); local chronicles from Timbuktu (insider perspective on Islamic scholarship)
+>   - Shared methods: military conquest, religious legitimation (divine rulers), hierarchical social organization
+>   - Aztec distinctive methods: Triple Alliance, tribute extraction, Flower Wars, limited integration
+>   - Inca distinctive methods: road network, mit'a system, qollqa redistribution, mitimaes, quipu administration
+>   - Consequences: Aztec methods generated resentment exploited by Spanish; Inca methods created more loyal subjects but still collapsed under combined Spanish-disease pressure
+> - **Complexity point:** Evaluate which empire-building model was more sustainable in the long run — despite its administrative sophistication, the Inca Empire fell almost as quickly as the Aztec when confronted with Spanish military force plus epidemic disease
+> - **HAPP analysis:** Spanish accounts of Aztec practices (written after conquest, may exaggerate human sacrifice to justify conquest); indigenous codices; Inca knotted quipu records (purpose: administrative, not narrative); Spanish administrative documents about Inca systems

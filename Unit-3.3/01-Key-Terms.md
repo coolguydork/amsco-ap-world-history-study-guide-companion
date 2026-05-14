@@ -1,8 +1,8 @@
 ---
 unit: 3
 topic: 3.3
-period: 3
-tags: [apwh, unit-3, period-3, key-terms, religion, belief-systems]
+period: 2
+tags: [apwh, unit-3, period-2, key-terms, religion, belief-systems]
 ---
 
 # Unit 3.3: Key Terms

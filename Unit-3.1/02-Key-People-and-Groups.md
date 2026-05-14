@@ -1,8 +1,8 @@
 ---
 unit: 3
 topic: 3.1
-period: 3
-tags: [apwh, unit-3, period-3, key-people]
+period: 2
+tags: [apwh, unit-3, period-2, key-people]
 ---
 
 # Unit 3.1: Key People and Groups

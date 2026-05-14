@@ -2,29 +2,31 @@
 unit: 1
 topic: 1.4
 period: 1
-tags: [apwh, unit-1, period-1, timeline, africa]
+tags: [apwh, unit-1, period-1, timeline, americas, aztec, inca]
 ---
 
-# Unit 1.4: Timeline — State Building in Africa (1200–1450)
+# Unit 1.4: Timeline — State Building in the Americas (1200–1450)
 
-> **Big Picture:** Africa in 1200–1450 is not an isolated backwater but an active participant in global trade and intellectual networks. West Africa controls the gold supply for the medieval Mediterranean. East Africa is a sophisticated Islamic commercial zone integrated into the Indian Ocean network. Ethiopian Christianity maintains an independent theological tradition. Southern Africa builds the Great Zimbabwe. This is a period of African state formation, commercial integration, and cultural flowering.
+> **Big Picture:** The Americas in 1200–1450 are entirely disconnected from Eurasian trade networks, yet independently developing two of the most impressive imperial systems in world history. The Aztec and Inca empires parallel Eurasian developments in state complexity, religious legitimation of power, and monumental construction — demonstrating universal patterns of human state-building. Everything in this timeline happens without knowledge of or connection to anything happening in Eurasia during the same period.
 
 | Date | Event | Region | Significance |
 |------|--------|--------|--------------|
-| c. 1100s | Great Zimbabwe stone enclosure construction begins | Southern Africa | Complex state formation in sub-Saharan Africa without Islamic or external influence |
-| c. 1200 | Zagwe dynasty builds rock-hewn churches at Lalibela | Ethiopia | **Continuity:** African Christian civilization at its architectural height |
-| c. 1235 | Sundiata Keita defeats Sosso at Battle of Kirina | West Africa | **Change:** Mali Empire founded; Ghana's successor rises to dominate West Africa |
-| c. 1235–1255 | Sundiata rules Mali; establishes empire's foundations | West Africa | Control of trans-Saharan gold trade established |
-| c. 1255–1312 | Mali expands under successors to Sundiata | West Africa | Empire grows to include gold fields, trade routes, Timbuktu |
-| 1270 | Solomonid dynasty restored in Ethiopia | Ethiopia | **Continuity:** Ethiopian Christian kingdom's political legitimacy reinforced |
-| 1300s | Kilwa becomes dominant Swahili city-state | East Africa | Controls gold trade from Zimbabwe Plateau to Indian Ocean merchants |
-| 1312 | Mansa Musa begins reign | West Africa | Mali enters its golden age under its most famous ruler |
-| 1324–1325 | **Mansa Musa's hajj to Mecca** | West Africa / Middle East | Gold distributed across Cairo; Mali appears on European maps; cultural exchange |
-| c. 1325–1350 | Timbuktu becomes major Islamic scholarly center | West Africa | **Continuity:** Islamic scholarship and African state-building reinforce each other |
-| 1331 | Ibn Battuta visits Kilwa and the Swahili Coast | East Africa | Primary source documentation of Swahili city-states' sophistication |
-| 1337 | Mansa Musa dies; Mali begins to decline | West Africa | **Change:** Succession conflicts weaken Mali; Songhai begins rising |
-| c. 1350s | Great Zimbabwe at height of power and trade | Southern Africa | Maximum extent of Great Zimbabwe state's control over gold trade |
-| c. 1350–1400 | Tuareg and Mossi raids weaken Mali's borders | West Africa | **Change:** Mali's decline accelerates; regional powers challenge central authority |
-| c. 1400s | Bantu-speaking peoples continue expanding southward | Sub-Saharan Africa | **Continuity:** Long-term Bantu migration reshaping sub-Saharan demographics |
-| c. 1420–1450 | Songhai Empire rising under control of Gao city | West Africa | Precursor to Songhai dominance under Sunni Ali (after 1450) |
-| c. 1450 | Great Zimbabwe declines; Mutapa state rises | Southern Africa | **Change:** Trade routes shift; successor state (Mutapa) inherits gold trade |
+| c. 800–900 | Classic Maya collapse | Mesoamerica | **Change:** Maya cities in the southern lowlands abandoned; population disperses; Postclassic Maya period begins |
+| c. 1000 | Norse reach North America (Vinland) | North America | Brief contact between Americas and Europe; no lasting consequence |
+| c. 1050–1150 | Cahokia at its height | North America | Largest pre-Columbian city north of Mexico; 10,000–20,000 residents |
+| c. 1100 | Chichén Itzá dominant in northern Yucatán Maya | Mesoamerica | Postclassic Maya political center; hybrid Toltec-Maya culture |
+| c. 1200 | Mexica begin migration south from "Aztlan" | Mesoamerica | Founding mythology of the Aztec Empire begins; Mexica arrive as subordinate group |
+| c. 1200–1400 | Great Zimbabwe at height of power | Southern Africa | **(For comparison)** Demonstrates simultaneous state-building across isolated world regions |
+| c. 1200 | Inca people establish themselves in Cusco valley | South America | Origins of the Inca state in a small regional kingdom |
+| c. 1250 | Mayapán dominates Yucatán Maya | Mesoamerica | **Continuity:** Maya civilization continues in fragmented form after the Classic collapse |
+| c. 1300 | Cahokia declines | North America | **Change:** North America's most complex pre-Columbian society weakens before European contact |
+| 1325 | Tenochtitlan founded on island in Lake Texcoco | Mesoamerica | **Change/Founding:** Capital of what will become the Aztec Empire; fulfills prophecy |
+| 1370s–1420s | Triple Alliance consolidating power in Valley of Mexico | Mesoamerica | Aztec Empire's political foundations being laid |
+| 1427 | Triple Alliance formed (Mexica, Texcoco, Tlacopan) | Mesoamerica | **Change:** Aztec Empire formally established; begins rapid expansion |
+| 1427–1440 | Itzcoatl conquers Tepanec; rewrites Aztec history | Mesoamerica | Aztec dominance in Valley of Mexico secured; historical revision centralizes Mexica identity |
+| 1438 | Pachacuti begins his reign | South America | **Change/Turning point:** The Inca Empire begins its dramatic expansion under its greatest ruler |
+| 1438–1471 | Pachacuti expands Tawantinsuyu: conquers Titicaca basin and beyond | South America | Dramatic Inca expansion under its greatest ruler; the Chimú (northern coast) were conquered c. 1470 under Tupac Inca Yupanqui, Pachacuti's son and co-ruler |
+| c. 1440 | Aztec Flower Wars institutionalized | Mesoamerica | Ritualized warfare for sacrifice victims becomes regular practice |
+| 1440–1469 | Moctezuma I expands Aztec tribute system | Mesoamerica | Aztec Empire reaches Gulf Coast and Oaxaca; tribute extraction maximized |
+| c. 1450 | Machu Picchu constructed | South America | Royal Inca estate demonstrates architectural mastery; symbol of Inca civilization |
+| c. 1441 | Mayapán collapses | Mesoamerica | **Change:** Yucatán Maya fragments into warring city-states; on eve of Spanish contact |

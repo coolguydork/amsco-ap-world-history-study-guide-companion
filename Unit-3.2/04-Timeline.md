@@ -1,8 +1,8 @@
 ---
 unit: 3
 topic: 3.2
-period: 3
-tags: [apwh, unit-3, period-3, timeline, administration]
+period: 2
+tags: [apwh, unit-3, period-2, timeline, administration]
 ---
 
 # Unit 3.2: Timeline — Administering Land-Based Empires

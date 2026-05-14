@@ -1,8 +1,8 @@
 ---
 unit: 3
 topic: 3.1
-period: 3
-tags: [apwh, unit-3, period-3, timeline]
+period: 2
+tags: [apwh, unit-3, period-2, timeline]
 ---
 
 # Unit 3.1: Timeline — Land-Based Empires Expand

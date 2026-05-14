@@ -1,17 +1,20 @@
 ---
 unit: 3
 topic: 3.3
-period: 3
-tags: [apwh, unit-3, period-3, belief-systems, religion, syncretism]
+period: 2
+tags: [apwh, unit-3, period-2, belief-systems, religion, syncretism]
 ---
 
-# Unit 3.3: Belief Systems in the Early Modern World
+# Unit 3.3: Empires: Belief Systems
 
-#apwh #unit-3 #period-3 #belief-systems
+#apwh #unit-3 #period-2 #belief-systems
 
 ## Topic Summary
 
-Unit 3.3 examines how the religious landscape of Afro-Eurasia was transformed — and challenged — between 1450 and 1750. Four major developments dominate this chapter: the **Protestant Reformation** fractures Western Christianity; the **Ottoman-Safavid rivalry** institutionalizes the Sunni-Shia divide; new **syncretic religious movements** emerge at the intersection of traditions (Sikhism, Vodou, Candomblé); and **missionary activity** spreads Christianity and Islam into new regions, interacting with indigenous beliefs in complex ways. Crucially, Unit 3.3 shows that religious change was not just a spiritual phenomenon — it was inseparable from political power, social identity, and imperial competition.
+Unit 3.3 examines how the religious landscape of Afro-Eurasia was transformed — and challenged — between 1450 and 1750. Four major developments dominate this chapter: the **Protestant Reformation** fractures Western Christianity; the **Ottoman-Safavid rivalry** institutionalizes the Sunni-Shia divide; new **syncretic religious movements** emerge at the intersection of traditions (above all **Sikhism**); and **missionary activity** spreads Christianity and Islam into new regions, interacting with indigenous beliefs in complex ways. Crucially, Unit 3.3 shows that religious change was not just a spiritual phenomenon — it was inseparable from political power, social identity, and imperial competition.
+
+> [!warning]
+> **Scope note:** Vodou and Candomblé are Atlantic-world syncretic traditions that emerged from the forced displacement of enslaved Africans — they belong in Unit 4 (consequences of the Atlantic slave trade and maritime empire), not here. This file covers belief systems as tools of **empire** within the 1450–1750 Afro-Eurasian land-based empire context. Similarly, Rumi (1207–1273) predates this unit's 1450 start date; he appears only as historical background to Sufi orders active in 1450–1750, not as a featured figure.
 
 ## AMSCO Learning Objectives
 
@@ -33,9 +36,12 @@ Unit 3.3 examines how the religious landscape of Afro-Eurasia was transformed �
 | Protestant Reformation | Western Europe | Martin Luther, John Calvin, Henry VIII | Fractures Christendom; religious wars; challenges papal authority and social hierarchy |
 | Catholic Counter-Reformation | Western Europe/global | Council of Trent, Jesuits, Ignatius of Loyola | Missionary expansion; art (Baroque); internal Catholic reform |
 | Sunni-Shia Institutionalization | Middle East | Ottoman sultans, Safavid shahs | Geopolitical divide; Ottoman-Safavid wars; defines modern Islamic world |
-| Sikhism | Indian subcontinent | Guru Nanak, later Gurus | Syncretic synthesis of Hindu and Islamic elements; distinct religious community |
-| Spread of Islam in Africa/SE Asia | Sub-Saharan Africa, SE Asia | Sufi orders, merchants, scholars | Soft-power expansion of Islam through trade and mystical orders |
-| Jesuit Missions | China, Japan, Americas | Matteo Ricci, Francis Xavier | Science as missionary tool; accommodation vs. conversion debate |
+| Sikhism | Indian subcontinent | Guru Nanak, later Gurus | Syncretic synthesis of Hindu and Islamic elements in Mughal-era Punjab; distinct religious community used by Mughal-era rulers as a test case for tolerance |
+| Spread of Islam in Africa/SE Asia | Sub-Saharan Africa, SE Asia | Sufi orders, merchants, scholars | Soft-power expansion of Islam through trade and mystical orders; continuity from Unit 2 patterns |
+| Jesuit Missions | China, Japan, Americas | Matteo Ricci, Francis Xavier | Science as missionary tool; accommodation vs. conversion debate; connects empire to transoceanic expansion |
+
+> [!warning]
+> Vodou and Candomblé are **not** in this table. They are Atlantic diaspora syncretic traditions produced by the slave trade and belong in Unit 4 (maritime empire social consequences). Including them here misplaces them chronologically and thematically.
 
 > [!exam-tip]
 > Unit 3.3 is heavily tested in **SAQ prompts about continuity and change**: How did Islam change as it spread into new regions? How did Christianity change through the Reformation? How did new syncretic traditions represent BOTH change (new practices) and continuity (retained elements)?

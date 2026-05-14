@@ -1,8 +1,8 @@
 ---
 unit: 3
 topic: 3.3
-period: 3
-tags: [apwh, unit-3, period-3, themes, causation, religion]
+period: 2
+tags: [apwh, unit-3, period-2, themes, causation, religion]
 ---
 
 # Unit 3.3: Themes and Causation

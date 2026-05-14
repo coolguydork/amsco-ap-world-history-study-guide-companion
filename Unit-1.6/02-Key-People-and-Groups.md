@@ -2,96 +2,98 @@
 unit: 1
 topic: 1.6
 period: 1
-tags: [apwh, unit-1, period-1, europe, medieval, people, groups]
+tags: [apwh, unit-1, period-1, key-people, europe, medieval]
 ---
 
-# Key People and Groups — Unit 1.6: Developments in Europe (c. 1200–1450)
+# Unit 1.6: Key People and Groups — Developments in Europe (c. 1200–1450)
 
-#apwh #unit-1 #period-1
+## Individuals and Groups
 
-> [!tip]
-> Focus on **causation and impact**, not biography. For each entry, ask: *How did this person/group change Europe's trajectory?*
+### Pope Innocent III
+**Period:** 1198–1216 | **Region:** Rome / Western Europe
 
----
-
-## Pope Innocent III (r. 1198–1216)
-**Time Period:** 1198–1216 | **Region:** Rome / Western Europe
-
-- Represented the height of papal power; claimed authority over all Christian kings and launched the Fourth Crusade and the Albigensian Crusade against heretics in southern France
-- Approved the founding of the Franciscan and Dominican orders, expanding the Church's social reach through mendicant (wandering) friars
-- His reign demonstrated the Church's ability to direct both spiritual and secular affairs — but overreach planted seeds of later anti-papal sentiment
-
----
-
-## Thomas Aquinas (1225–1274)
-**Time Period:** 13th century | **Region:** Italy / France
-
-- Dominican friar who synthesized Christian theology with Aristotelian philosophy in *Summa Theologica*, arguing faith and reason were complementary, not contradictory
-- His method of [[Scholasticism]] became the intellectual framework of medieval [[Universities]], shaping European thought for centuries
-- Laid intellectual groundwork for the Scientific Revolution by legitimizing rational inquiry within a Christian framework
+- The most powerful pope of the medieval era, who pushed the authority of the papacy to its theoretical maximum: claiming supremacy over all Christian monarchs, launching the Fourth Crusade (1202), and calling the Fourth Lateran Council (1215), which standardized Catholic practice
+- Launched the Albigensian Crusade (1209) against the Cathar heretics in southern France — demonstrating that crusading violence was directed inward as well as outward
+- His pontificate represents the apex of medieval papal power before the gradual erosion of Church authority in the 14th–15th centuries
 
 > [!exam-tip]
-> Aquinas = faith + reason working together. Contrast with later thinkers who separated the two.
+> The medieval Catholic Church is a key AP World History institution: know how it provided cultural unity across fragmented Europe, collected revenue (tithes), and exercised political power. Compare with Confucian scholar-gentry in China as another non-state institution that upheld cultural order.
 
 ---
 
-## King John of England (r. 1199–1216)
-**Time Period:** Early 13th century | **Region:** England
+### Thomas Aquinas
+**Period:** 1225–1274 | **Region:** Western Europe (Italy, France)
 
-- His conflicts with barons over taxation and arbitrary rule forced him to sign the **Magna Carta** (1215), a foundational document limiting royal power
-- Established the precedent that monarchs are subject to law — a critical step toward constitutional governance
-- His failures (losing Normandy to France, alienating the Church) paradoxically produced one of history's most important political documents
-
----
-
-## Joan of Arc (c. 1412–1431)
-**Time Period:** Early 15th century | **Region:** France
-
-- A peasant girl who claimed divine visions directed her to lead French forces; her leadership turned the tide of the [[Hundred Years' War]] in favor of France
-- Her trial and burning at the stake by the English-allied Burgundians revealed how popular religious belief could challenge official Church authority
-- Became a powerful symbol of French national identity — demonstrating how the Hundred Years' War helped forge modern European nation-states
+- Dominican friar and theologian whose *Summa Theologiae* synthesized Aristotelian philosophy with Christian theology, defining scholasticism — the dominant intellectual method of medieval European universities
+- His work exemplifies how Islamic scholars' preservation of Aristotle (via the translations movement) reached Europe and shaped Christian thought
+- Represents the broader medieval project of reconciling faith with reason — a tension that would eventually fuel the Renaissance and Scientific Revolution
 
 ---
 
-## The Catholic Church (as institution)
-**Time Period:** Throughout 1200–1450 | **Region:** All of Western Europe
+### Magna Carta (1215) — A Document, Not a Person
+**Period:** 1215 | **Region:** England
 
-- The single most powerful institution in medieval Europe — controlling education, marriage law, taxation (tithes), and the threat of excommunication
-- Organized the [[Crusades]], funded universities, and served as the main vehicle for literacy and manuscript preservation
-- Its authority was increasingly challenged by the Great Schism (1054), Western Schism (1378–1417), and the social disruptions of the [[Black Death]]
-
----
-
-## The Mongol Empire (relevant to Europe via the Black Death)
-**Time Period:** 13th–14th century | **Region:** Central Asia → Eastern Europe
-
-- Though the Mongols did not conquer Western Europe, their trade networks (the Pax Mongolica) facilitated the spread of the [[Black Death]] along the Silk Roads into Europe after 1347
-- Mongol raids devastated Eastern Europe (Poland, Hungary, Russia), disrupting the Byzantine Empire's eastern flank
-- See [[Unit-2.2]] for deeper coverage of the Mongol Empire
+- A charter forced on King John of England by rebellious barons, establishing that the king was subject to the rule of law and could not impose taxes or imprison subjects without due process
+- Significance: one of the first formal limits on royal authority in European history; a foundational document for parliamentary government and constitutional tradition
+- AP relevance: represents the early development of representative political institutions in Europe — contrast with the more centralized monarchies emerging elsewhere in this period
 
 ---
 
-## Byzantine Empire
-**Time Period:** Throughout 1200–1453 | **Region:** Southeastern Europe / Anatolia
+### King Edward I of England
+**Period:** 1239–1307 | **Region:** England, Wales, Scotland
 
-- The Eastern Roman Empire centered in Constantinople served as a Christian buffer against Islamic expansion and preserved Greco-Roman knowledge
-- Under pressure from the Fourth Crusade (which sacked Constantinople in 1204) and later Ottoman Turks, the empire steadily contracted
-- Its fall in 1453 sent Greek scholars fleeing to Italy, fueling the Italian Renaissance — a critical bridge to the Early Modern period
-
----
-
-## Hanseatic League
-**Time Period:** c. 1241–1600 | **Region:** Northern Europe (Baltic and North Sea coast)
-
-- A commercial alliance of merchant towns (Lübeck, Hamburg, Bruges) that dominated northern European trade in cloth, fish, timber, and grain
-- Demonstrated the growing economic and political power of merchants outside the feudal system
-- A precursor to the joint-stock companies and commercial capitalism of the Early Modern period
+- Expanded English royal power by convening Parliament regularly, using it as a tool to raise taxes with the consent of nobles and clergy rather than against their will
+- His campaigns in Wales and Scotland demonstrate the competitive, war-driven nature of European state consolidation in this period
+- Represents the pattern of rising monarchies gradually replacing the decentralized feudal order
 
 ---
 
-## Franciscan and Dominican Orders
-**Time Period:** Early 13th century | **Region:** Western Europe
+### Joan of Arc
+**Period:** c. 1412–1431 | **Region:** France
 
-- Mendicant (begging) orders founded by Francis of Assisi and Dominic de Guzmán that emphasized poverty, preaching, and direct service to the poor
-- Expanded the Church's reach into urban areas and universities; Dominicans also ran the Inquisition
-- Represented an internal Church reform movement responding to growing criticism of clerical wealth and corruption
+- A peasant girl who claimed divine visions and led French armies during the Hundred Years' War (1337–1453), helping to turn the tide against English forces before being captured and burned at the stake for heresy
+- Significance: demonstrates how religious authority and popular movements could intersect with political conflict; her posthumous rehabilitation and canonization (1920) reflects the long arc of her cultural significance
+- AP relevance: the Hundred Years' War and Joan's story illustrate both the weakness of feudalism and the beginning of French national identity — a precursor to later nationalism
+
+---
+
+### Byzantine Empire
+**Period:** (330–1453) | **Region:** Eastern Mediterranean, Constantinople
+
+- The Greek-speaking, Eastern Christian successor to the Roman Empire, centered in Constantinople; a major power in 1200 but steadily losing territory to the Ottoman Turks throughout this period
+- The Fourth Crusade's sack of Constantinople by Latin (Western) Christians in 1204 weakened the empire fatally and deepened the schism between Eastern Orthodoxy and Roman Catholicism
+- When Constantinople fell to the Ottoman Turks in 1453, fleeing Byzantine scholars carried Greek texts to Italy, directly feeding the Italian Renaissance
+
+> [!exam-tip]
+> The fall of Constantinople (1453) has multiple AP World History consequences: it accelerated the Ottoman Empire's rise (Topic 3.1), contributed to the Renaissance in Italy (Byzantine scholars), and is one reason Europeans sought sea routes to Asia — motivating exploration (Topic 4.2).
+
+---
+
+### Hanseatic League
+**Period:** c. 1241–1669 | **Region:** Northern Europe (Baltic and North Seas)
+
+- A commercial confederation of northern European cities (Lübeck, Hamburg, Bruges, etc.) that dominated Baltic and North Sea trade, standardized weights and measures, and created mutual defense agreements
+- Significance: represents European commercial revival and the rise of merchant-driven urban economies outside the feudal hierarchy; shows that commercial networks could organize political power without a centralized state
+- Compare with Italian city-states (Venice, Genoa) as another model of merchant-driven political organization in Europe
+
+---
+
+### Italian City-States (Venice, Genoa, Florence)
+**Period:** c. 1000–1500 | **Region:** Northern Italy
+
+- Commercial republics that dominated Mediterranean trade, serving as the western terminals of Silk Road luxury goods flowing from the Islamic and Asian worlds into Europe
+- Venetian and Genoese merchants pioneered double-entry bookkeeping, letters of credit, and early banking — financial innovations that would later enable maritime exploration
+- Florence became the center of early Renaissance art and humanism, funded by Medici banking wealth derived from commerce
+- Significance: Italian city-states were Europe's most commercially sophisticated and culturally dynamic societies in this period; their wealth and institutions set the stage for European global expansion
+
+---
+
+### Black Death (1347–1353) — An Event/Group Impact
+**Period:** 1347–1353 (peak in Europe) | **Region:** Eurasia-wide; devastating in Europe
+
+- The bubonic plague pandemic that killed an estimated 30–50% of Europe's population within five years; transmitted westward along the Silk Roads and maritime trade networks from Central Asia
+- Consequences: acute labor shortage → peasants gained bargaining power → weakened serfdom; religious authority weakened (the Church couldn't explain or stop the plague); flagellant movements and anti-Jewish pogroms show social destabilization
+- Long-term: accelerated the end of medieval feudal structures; created conditions for social mobility, rising wages, and eventually the Renaissance
+
+> [!exam-tip]
+> The Black Death is one of the AP exam's highest-frequency topics. Master the **causal chain**: Silk Road trade → rat-flea transmission → mass death → **labor shortage → weakened serfdom → rising peasant power → decline of feudalism**. This chain appears in MCQ stimuli and SAQ/LEQ responses.
