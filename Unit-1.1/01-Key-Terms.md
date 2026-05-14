@@ -35,7 +35,7 @@ tags: [apwh, unit-1, period-1, key-terms, east-asia]
 
 **Paper Money** — Government-issued currency (jiaozi) first used in Song China to facilitate large-scale commercial transactions. (Significance: indicates the sophistication of the Chinese market economy and prefigures modern banking.)
 
-**Zheng He's Voyages** — A series of seven state-sponsored expeditions (1405–1433) led by the Muslim admiral Zheng He, reaching Southeast Asia, India, Arabia, and East Africa. (Significance: demonstrates Ming tribute-system diplomacy and naval capability; their cancellation reflects Confucian conservative priorities. Primary coverage: [[Unit-2.3/00-Overview]])
+**Zheng He's Voyages** — A series of seven state-sponsored expeditions (1405–1433) led by the Muslim admiral Zheng He, reaching Southeast Asia, India, Arabia, and East Africa. (Significance: demonstrates Ming tribute-system diplomacy and naval capability; their cancellation reflects Confucian conservative priorities. Primary coverage: [[Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]])
 
 **Dai Viet** — The Vietnamese kingdom (c. 939–1804) that maintained independence from China despite centuries of cultural borrowing. (Significance: a key example of Sinification's limits — Vietnam adopted Chinese writing, Confucian governance, and the civil service exam while preserving a distinct language and national identity; successfully expelled the Mongols in three invasions, 1258–1288.)
 

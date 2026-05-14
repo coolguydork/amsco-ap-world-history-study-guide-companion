@@ -9,13 +9,13 @@ tags: [apwh, unit-2, period-1, connections, environment, black-death, disease]
 
 ## Concepts This Topic Builds On
 
-- [[Unit-2.1/00-Overview|Unit 2.1 (The Silk Roads)]] — The overland Silk Roads were the primary transmission route of the bubonic plague from Central Asia westward into the Middle East and Europe
-- [[Unit-2.2/00-Overview|Unit 2.2 (The Mongol Empire)]] — The Pax Mongolica connected populations across Eurasia, enabling the plague to travel farther faster than it could have without Mongol road infrastructure and safe passage
-- [[Unit-1.6/00-Overview|Unit 1.6 (Developments in Europe)]] — The Black Death's demographic, social, and economic effects on medieval Europe are covered here; Unit 2.6 explains the mechanism of transmission
+- [[Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]] — The overland Silk Roads were the primary transmission route of the bubonic plague from Central Asia westward into the Middle East and Europe
+- [[Unit-2.2/00-Overview|Unit 2.2: The Mongol Empire and the Modern World]] — The Pax Mongolica connected populations across Eurasia, enabling the plague to travel farther faster than it could have without Mongol road infrastructure and safe passage
+- [[Unit-1.6/00-Overview|Unit 1.6: Developments in Europe]] — The Black Death's demographic, social, and economic effects on medieval Europe are covered here; Unit 2.6 explains the mechanism of transmission
 
 ## Concepts This Topic Sets Up
 
-- [[Unit-4.6/00-Overview|Unit 4.6 (The Columbian Exchange)]] — The most direct parallel: after 1492, Old World diseases (smallpox, measles) devastated the Americas just as plague devastated Eurasia in the 14th century — same mechanism, different scale and populations
+- [[Unit-4.6/00-Overview|Unit 4.6: Internal and External Challenges to State Power]] — The most direct parallel: after 1492, Old World diseases (smallpox, measles) devastated the Americas just as plague devastated Eurasia in the 14th century — same mechanism, different scale and populations
 - Unit 5 (Revolutions) — European demographic recovery from the Black Death contributed to the labor productivity gains, urbanization, and eventually the conditions for the Renaissance and Industrial Revolution
 - Unit 6 (Consequences of Industrialization) — Disease as a tool of imperialism echoes the environmental consequences pattern: cholera spread along new railroad and steamship networks mirrors plague spreading along Silk Roads
 

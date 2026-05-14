@@ -13,11 +13,11 @@ tags: [apwh, unit-3, period-2, connections, religion]
 
 ## Builds On (Earlier Chapters)
 
-- [[Unit-1.1/00-Overview|Unit 1.1 — Islam's Early Spread]]: The Sufi orders that spread Islam in this period trace their roots to the classical period of Islamic mysticism (8th–12th centuries); the Sunni-Shia split that defines Unit 3.3 originated in the early Islamic caliphate (Unit 1)
-- [[Unit-1.2/00-Overview|Unit 1.2 — Mongol Empire]]: Mongol religious tolerance (Unit 1–2) created conditions in which multiple religions coexisted across Eurasia, setting the stage for the syncretic encounters of Ch 13; Rumi wrote his Masnavi under Mongol-era conditions in Anatolia
-- [[Unit-1.3/00-Overview|Unit 1.3 — Christianity in Byzantium/Europe]]: The medieval Catholic Church whose authority Luther challenged had been shaped by centuries of Byzantine and Roman imperial patronage; the Pope's authority that Henry VIII rejected had roots in Constantine's adoption of Christianity (Unit 1)
-- [[Unit-2.1/00-Overview|Unit 2.1 — Silk Roads]]: Sufi orders spread Islam along the same overland trade routes examined in Ch 7; Buddhism's spread along the Silk Roads (Unit 2) is the direct parallel to both Islamic and Christian missionary expansion in Unit 3.3
-- [[Unit-3.1/00-Overview|Unit 3.1 — Empire Expansion]]: The Ottoman-Safavid rivalry (Unit 3.1) is the political backdrop for the Sunni-Shia institutionalization examined in Ch 13; Mughal religious policies (Unit 3.1–12) directly caused the development of Sikhism's martial identity
+- [[Unit-1.1/00-Overview|Unit 1.1: Developments in East Asia]]: The Sufi orders that spread Islam in this period trace their roots to the classical period of Islamic mysticism (8th–12th centuries); the Sunni-Shia split that defines Unit 3.3 originated in the early Islamic caliphate (Unit 1)
+- [[Unit-1.2/00-Overview|Unit 1.2: Developments in Dar al-Islam]]: Mongol religious tolerance (Unit 1–2) created conditions in which multiple religions coexisted across Eurasia, setting the stage for the syncretic encounters of Ch 13; Rumi wrote his Masnavi under Mongol-era conditions in Anatolia
+- [[Unit-1.3/00-Overview|Unit 1.3: Developments in South and Southeast Asia]]: The medieval Catholic Church whose authority Luther challenged had been shaped by centuries of Byzantine and Roman imperial patronage; the Pope's authority that Henry VIII rejected had roots in Constantine's adoption of Christianity (Unit 1)
+- [[Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]]: Sufi orders spread Islam along the same overland trade routes examined in Ch 7; Buddhism's spread along the Silk Roads (Unit 2) is the direct parallel to both Islamic and Christian missionary expansion in Unit 3.3
+- [[Unit-3.1/00-Overview|Unit 3.1: European, East Asian, and Gunpowder Empires Expand]]: The Ottoman-Safavid rivalry (Unit 3.1) is the political backdrop for the Sunni-Shia institutionalization examined in Ch 13; Mughal religious policies (Unit 3.1–12) directly caused the development of Sikhism's martial identity
 
 ---
 

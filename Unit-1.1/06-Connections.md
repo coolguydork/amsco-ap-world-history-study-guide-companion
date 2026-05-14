@@ -15,10 +15,10 @@ tags: [apwh, unit-1, period-1, connections, east-asia, china, song, yuan, ming]
 
 ## Concepts This Topic Sets Up
 
-- [[Unit-1.2/00-Overview|Unit 1.2 (Dar al-Islam)]] — The Mongol sack of Baghdad (1258) is the same empire that established the Yuan Dynasty in China; the Islamic and East Asian worlds are linked through Mongol politics
-- [[Unit-2.1/00-Overview|Unit 2.1 (The Silk Roads)]] — Chinese silk, porcelain, and paper money are the premier luxury goods of the Silk Road network; Song commercial innovations (paper money, letters of credit) reshape how Silk Road trade is financed
-- [[Unit-2.2/00-Overview|Unit 2.2 (The Mongol Empire)]] — The Yuan Dynasty is the eastern khanate of the Mongol Empire; understanding the Song-to-Yuan transition is essential to understanding the Pax Mongolica
-- [[Unit-2.3/00-Overview|Unit 2.3 (Indian Ocean Exchange)]] — Zheng He's voyages (1405–1433) represent the Ming state's brief engagement with the Indian Ocean network; his fleet demonstrates the scale of Chinese maritime capacity before the decision to withdraw
+- [[Unit-1.2/00-Overview|Unit 1.2: Developments in Dar al-Islam]] — The Mongol sack of Baghdad (1258) is the same empire that established the Yuan Dynasty in China; the Islamic and East Asian worlds are linked through Mongol politics
+- [[Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]] — Chinese silk, porcelain, and paper money are the premier luxury goods of the Silk Road network; Song commercial innovations (paper money, letters of credit) reshape how Silk Road trade is financed
+- [[Unit-2.2/00-Overview|Unit 2.2: The Mongol Empire and the Modern World]] — The Yuan Dynasty is the eastern khanate of the Mongol Empire; understanding the Song-to-Yuan transition is essential to understanding the Pax Mongolica
+- [[Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]] — Zheng He's voyages (1405–1433) represent the Ming state's brief engagement with the Indian Ocean network; his fleet demonstrates the scale of Chinese maritime capacity before the decision to withdraw
 - Unit 3 (Land-Based Empires) — The Ming administrative model (centralized bureaucracy, civil service exam, tributary relations) directly influences how neighboring states organized governance
 - Unit 4 (Transoceanic) — Chinese inventions diffused westward (gunpowder → firearms, compass → navigation) and directly enabled European maritime expansion; Chinese demand for silver drove the global silver trade
 

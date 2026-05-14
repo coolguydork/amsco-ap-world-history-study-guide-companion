@@ -13,16 +13,16 @@ tags: [apwh, unit-3, period-2, connections, administration]
 
 ## Builds On (Earlier Chapters)
 
-- [[Unit-1.1/00-Overview|Unit 1.1 — Abbasid Caliphate]]: The ulama (Islamic legal scholars) who served the Ottoman, Safavid, and Mughal empires trace their institutional origins to the Abbasid period — the development of Islamic law (sharia) and the scholar class that interpreted it
-- [[Unit-1.3/00-Overview|Unit 1.3 — Tang/Song/Ming China]]: The Qing civil service examination system, the Forbidden City, and Confucian governance are direct continuations of Chinese imperial traditions established in the Tang-Song era; the Qing *chose* these continuities deliberately
-- [[Unit-1.2/00-Overview|Unit 1.2 — Mongol Empire]]: The Mughal architectural tradition (including the Taj Mahal) reflects the Timurid Persian-Islamic art tradition that was itself a product of Mongol court culture in Central Asia
-- [[Unit-3.1/00-Overview|Unit 3.1 — Empires Expand]]: Every administrative system in Unit 3.2 is the *follow-up* to the military conquests of Unit 3.1 — conquest created the empire, administration sustained it
+- [[Unit-1.1/00-Overview|Unit 1.1: Developments in East Asia]]: The ulama (Islamic legal scholars) who served the Ottoman, Safavid, and Mughal empires trace their institutional origins to the Abbasid period — the development of Islamic law (sharia) and the scholar class that interpreted it
+- [[Unit-1.3/00-Overview|Unit 1.3: Developments in South and Southeast Asia]]: The Qing civil service examination system, the Forbidden City, and Confucian governance are direct continuations of Chinese imperial traditions established in the Tang-Song era; the Qing *chose* these continuities deliberately
+- [[Unit-1.2/00-Overview|Unit 1.2: Developments in Dar al-Islam]]: The Mughal architectural tradition (including the Taj Mahal) reflects the Timurid Persian-Islamic art tradition that was itself a product of Mongol court culture in Central Asia
+- [[Unit-3.1/00-Overview|Unit 3.1: European, East Asian, and Gunpowder Empires Expand]]: Every administrative system in Unit 3.2 is the *follow-up* to the military conquests of Unit 3.1 — conquest created the empire, administration sustained it
 
 ---
 
 ## Sets Up (Later Chapters)
 
-- [[Unit-3.3/00-Overview|Unit 3.3 — Belief Systems]]: The religious institutions discussed in Unit 3.2 (Ottoman ulama, Safavid Shia clerics, Mughal Sufi orders) feed directly into Ch 13's analysis of belief systems and empire
+- [[Unit-3.3/00-Overview|Unit 3.3: Empires: Belief Systems]]: The religious institutions discussed in Unit 3.2 (Ottoman ulama, Safavid Shia clerics, Mughal Sufi orders) feed directly into Ch 13's analysis of belief systems and empire
 - [[Unit-4/00-Overview|Unit 4 — Transoceanic Expansion]]: Ottoman control of strategic overland trade routes (raising costs for European merchants) and the Qing's preference for managing foreign contact on its own terms both contributed to European motivation to seek oceanic alternatives; the administrative wealth of these empires was also the economic backdrop against which European maritime expansion unfolded
 - [[Unit-5/00-Overview|Unit 5 — Revolutions & Industrialization]]: The administrative weaknesses exposed in Unit 3.2 — Janissary conservatism, Mughal fiscal strain, Qing banner obsolescence — directly explain why these empires struggled against European pressure in Units 5–6
 - [[Unit-6/00-Overview|Unit 6 — Consequences of Industrialization]]: Ottoman Tanzimat reforms and Qing Self-Strengthening Movement were direct responses to the administrative failures exposed by European military superiority

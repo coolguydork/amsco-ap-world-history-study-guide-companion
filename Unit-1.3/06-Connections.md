@@ -9,13 +9,13 @@ tags: [apwh, unit-1, period-1, connections, south-asia, southeast-asia]
 
 ## Concepts This Topic Builds On
 
-- [[Unit-1.2/00-Overview|Unit 1.2 (Dar al-Islam)]] — The Delhi Sultanate is an extension of Islamic political power from Central Asia into South Asia; Sufi missionaries from the Islamic world drive South Asian cultural synthesis
+- [[Unit-1.2/00-Overview|Unit 1.2: Developments in Dar al-Islam]] — The Delhi Sultanate is an extension of Islamic political power from Central Asia into South Asia; Sufi missionaries from the Islamic world drive South Asian cultural synthesis
 - Pre-1200 Indian Ocean trade — Arab, Persian, and Indian merchants had worked the Indian Ocean for millennia; this chapter's trade networks built on ancient foundations
 - Pre-1200 Indianization — Hindu and Buddhist cultural models had already reached Southeast Asia centuries before 1200; this chapter shows their mature form and gradual transformation
 
 ## Concepts This Topic Sets Up
 
-- [[Unit-1.4/00-Overview|Unit 1.4 (Africa)]] — The Indian Ocean trade network connecting East Africa to India and Southeast Asia; Swahili city-states are the African end of the same network
+- [[Unit-1.4/00-Overview|Unit 1.4: Developments in Africa]] — The Indian Ocean trade network connecting East Africa to India and Southeast Asia; Swahili city-states are the African end of the same network
 - Unit 2 (Networks of Exchange) — The Indian Ocean is the central topic of Unit 2's exchange chapter; Unit 1.3 provides the South/Southeast Asian nodes of that network
 - Unit 3 (Land-Based Empires) — The Mughal Empire (Unit 3) is the successor to the Delhi Sultanate; understanding the Delhi Sultanate's Hindu-Muslim dynamics explains Mughal policies
 - Unit 4 (Transoceanic Connections) — Portuguese arrival in the Indian Ocean (1498 onward) disrupts the Muslim-dominated trading system; Malacca is a key Portuguese target (conquered 1511)

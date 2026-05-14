@@ -9,13 +9,13 @@ tags: [apwh, unit-2, period-1, key-terms, comparison, trade-networks]
 
 ## Vocabulary
 
-**Silk Roads** — The network of overland trade routes connecting China, Central Asia, the Middle East, and the Mediterranean; named for silk but also carrying porcelain, spices, paper, and ideas. (Significance: the world's longest overland trade corridor; transmitted Buddhism, Islam, plague, and technology across Eurasia. See [[Unit-2.1/00-Overview]].)
+**Silk Roads** — The network of overland trade routes connecting China, Central Asia, the Middle East, and the Mediterranean; named for silk but also carrying porcelain, spices, paper, and ideas. (Significance: the world's longest overland trade corridor; transmitted Buddhism, Islam, plague, and technology across Eurasia. See [[Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]].)
 
-**Indian Ocean network** — The maritime system connecting East Africa, Arabia, Persia, India, Southeast Asia, and China, powered by seasonal monsoon winds. (Significance: the world's most commercially active maritime zone in this period; primary vehicle for Islam's spread to East Africa, South Asia, and Southeast Asia. See [[Unit-2.3/00-Overview]].)
+**Indian Ocean network** — The maritime system connecting East Africa, Arabia, Persia, India, Southeast Asia, and China, powered by seasonal monsoon winds. (Significance: the world's most commercially active maritime zone in this period; primary vehicle for Islam's spread to East Africa, South Asia, and Southeast Asia. See [[Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]].)
 
-**Trans-Saharan trade** — Overland exchange across the Sahara Desert connecting West African kingdoms to North Africa and the Mediterranean, primarily trading gold and salt. (Significance: Islam spread along these routes to Mali and other West African states; gold from the Sahel financed Mediterranean commerce. See [[Unit-2.4/00-Overview]].)
+**Trans-Saharan trade** — Overland exchange across the Sahara Desert connecting West African kingdoms to North Africa and the Mediterranean, primarily trading gold and salt. (Significance: Islam spread along these routes to Mali and other West African states; gold from the Sahel financed Mediterranean commerce. See [[Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]].)
 
-**Pax Mongolica** — "Mongol Peace" — the period of relative political stability across Eurasia under Mongol rule (c. 1260–1350) that enabled safe travel and trade along the Silk Roads. (Significance: made possible the journeys of Marco Polo and Ibn Battuta; also enabled plague transmission — showing that connectivity has both costs and benefits. See [[Unit-2.2/00-Overview]].)
+**Pax Mongolica** — "Mongol Peace" — the period of relative political stability across Eurasia under Mongol rule (c. 1260–1350) that enabled safe travel and trade along the Silk Roads. (Significance: made possible the journeys of Marco Polo and Ibn Battuta; also enabled plague transmission — showing that connectivity has both costs and benefits. See [[Unit-2.2/00-Overview|Unit 2.2: The Mongol Empire and the Modern World]].)
 
 **Monsoon winds** — Seasonal wind patterns over the Indian Ocean blowing northeast in winter and southwest in summer, enabling predictable maritime travel. (Significance: the physical mechanism underlying all Indian Ocean trade; merchants planned commercial cycles around the monsoons, making the network both reliable and limiting.)
 

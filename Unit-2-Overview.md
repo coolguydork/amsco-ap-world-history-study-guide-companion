@@ -23,10 +23,10 @@ Unit 2 asks a single powerful question: *How were the world's civilizations conn
 
 | Topic | Trade Network | Core Theme |
 |---------|--------------|------------|
-| [[Unit-2.1/00-Overview\|Ch7: The Silk Roads]] | Overland Eurasia | Trade, cultural diffusion, plague, Pax Mongolica |
-| [[Unit-2.2/00-Overview\|Ch8: The Mongol Empire]] | Empire enabling all networks | Conquest, integration, Black Death, unintended consequences |
-| [[Unit-2.3/00-Overview\|Ch9: Indian Ocean Exchange]] | Maritime Indian Ocean | Monsoon trade, Islam, Swahili coast, Zheng He |
-| [[Unit-2.4/00-Overview\|Ch10: Americas, Africa & Europe]] | Trans-Saharan + regional networks | Gold-salt trade, Mali, Black Death in Europe, Americas' isolation |
+| [[Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]] | Overland Eurasia | Trade, cultural diffusion, plague, Pax Mongolica |
+| [[Unit-2.2/00-Overview|Unit 2.2: The Mongol Empire and the Modern World]] | Empire enabling all networks | Conquest, integration, Black Death, unintended consequences |
+| [[Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]] | Maritime Indian Ocean | Monsoon trade, Islam, Swahili coast, Zheng He |
+| [[Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]] | Trans-Saharan + regional networks | Gold-salt trade, Mali, Black Death in Europe, Americas' isolation |
 
 ---
 
@@ -127,17 +127,17 @@ Americas remain isolated → catastrophic vulnerability when contact begins 1492
 ## Obsidian Graph Links
 
 ### Topic Overviews
-- [[Unit-2.1/00-Overview|Ch7: The Silk Roads]]
-- [[Unit-2.2/00-Overview|Ch8: The Mongol Empire]]
-- [[Unit-2.3/00-Overview|Ch9: Indian Ocean Exchange]]
-- [[Unit-2.4/00-Overview|Ch10: Americas, Africa & Europe]]
+- [[Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]]
+- [[Unit-2.2/00-Overview|Unit 2.2: The Mongol Empire and the Modern World]]
+- [[Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]]
+- [[Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]]
 
 ### Key Cross-Unit Concepts Linking Unit 1 and Unit 2
-- [[Unit-1.1/00-Overview|Ch1: East Asia]] → [[Unit-2.1/00-Overview|Silk Roads]] → [[Unit-2.2/00-Overview|Mongol Yuan Dynasty]]
-- [[Unit-1.2/00-Overview|Ch2: Dar al-Islam]] → [[Unit-2.1/00-Overview|Silk Roads]] → [[Unit-2.3/00-Overview|Indian Ocean trade]]
-- [[Unit-1.4/00-Overview|Ch4: Africa]] → [[Unit-2.3/00-Overview|Swahili coast]] → [[Unit-2.4/00-Overview|Trans-Saharan trade]]
-- [[Unit-1.5/00-Overview|Ch5: Americas]] → [[Unit-2.4/00-Overview|Americas' exchange networks]] → Columbian Exchange (Unit 3)
-- [[Unit-1.6/00-Overview|Ch6: Europe]] → [[Unit-2.4/00-Overview|Italian city-states / Black Death]] → Age of Exploration (Unit 3)
+- [[Unit-1.1/00-Overview|Unit 1.1: Developments in East Asia]] → [[Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]] → [[Unit-2.2/00-Overview|Unit 2.2: The Mongol Empire and the Modern World]]
+- [[Unit-1.2/00-Overview|Unit 1.2: Developments in Dar al-Islam]] → [[Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]] → [[Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]]
+- [[Unit-1.4/00-Overview|Unit 1.4: Developments in Africa]] → [[Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]] → [[Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]]
+- [[Unit-1.5/00-Overview|Unit 1.5: Developments in the Americas]] → [[Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]] → Columbian Exchange (Unit 3)
+- [[Unit-1.6/00-Overview|Unit 1.6: Developments in Europe]] → [[Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]] → Age of Exploration (Unit 3)
 
 ### Key Concepts Across Unit 2
 - [[Unit-2.1/01-Key-Terms|Pax Mongolica]] · [[Unit-2.2/01-Key-Terms|Mongol Empire]] · [[Unit-2.1/01-Key-Terms|Bubonic plague]]

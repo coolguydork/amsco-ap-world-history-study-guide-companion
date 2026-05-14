@@ -9,16 +9,16 @@ tags: [apwh, unit-2, period-1, connections, comparison, trade-networks]
 
 ## Concepts This Topic Builds On
 
-- [[Unit-2.1/00-Overview|Unit 2.1 (The Silk Roads)]] — The primary subject of this comparison; overland routes, caravanserai, Pax Mongolica
-- [[Unit-2.2/00-Overview|Unit 2.2 (The Mongol Empire)]] — The political framework that enabled the Silk Roads in this period and accelerated plague transmission across all networks
-- [[Unit-2.3/00-Overview|Unit 2.3 (Indian Ocean Exchange)]] — The decentralized, merchant-driven network that contrasts most sharply with the state-dependent Silk Roads
-- [[Unit-2.4/00-Overview|Unit 2.4 (Trans-Saharan Trade)]] — The third network; gold-salt commodity structure and Islamic transmission through West Africa
-- [[Unit-2.5/00-Overview|Unit 2.5 (Cultural Consequences)]] — How all three networks spread Islam, Buddhism, and artistic traditions
-- [[Unit-2.6/00-Overview|Unit 2.6 (Environmental Consequences)]] — How all three networks transmitted disease; the plague as a product of network connectivity
+- [[Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]] — The primary subject of this comparison; overland routes, caravanserai, Pax Mongolica
+- [[Unit-2.2/00-Overview|Unit 2.2: The Mongol Empire and the Modern World]] — The political framework that enabled the Silk Roads in this period and accelerated plague transmission across all networks
+- [[Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]] — The decentralized, merchant-driven network that contrasts most sharply with the state-dependent Silk Roads
+- [[Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]] — The third network; gold-salt commodity structure and Islamic transmission through West Africa
+- [[Unit-2.5/00-Overview|Unit 2.5: Cultural Consequences of Connectivity]] — How all three networks spread Islam, Buddhism, and artistic traditions
+- [[Unit-2.6/00-Overview|Unit 2.6: Environmental Consequences of Connectivity]] — How all three networks transmitted disease; the plague as a product of network connectivity
 
 ## Concepts This Topic Sets Up
 
-- [[Unit-4.2/00-Overview|Unit 4.2 (Exploration: Causes and Events)]] — European maritime exploration was motivated largely by the desire to access Asian goods directly, bypassing the Islamic-controlled Indian Ocean and Trans-Saharan networks; understanding what those networks carried explains why Europeans wanted to circumvent them
+- [[Unit-4.2/00-Overview|Unit 4.2: Exploration: Causes and Events]] — European maritime exploration was motivated largely by the desire to access Asian goods directly, bypassing the Islamic-controlled Indian Ocean and Trans-Saharan networks; understanding what those networks carried explains why Europeans wanted to circumvent them
 - Unit 4.7 (Global Trade after 1450) — The networks of Units 2.1–2.7 are transformed but not destroyed after 1450; the Indian Ocean network absorbs Portuguese intrusion; the Trans-Saharan continues; the Silk Roads decline further
 - Unit 6 (Consequences of Industrialization) — 19th-century European colonial trade networks echo the connectivity-consequence pattern: railroads and steamships create new disease transmission routes (cholera) just as Silk Roads created plague routes
 

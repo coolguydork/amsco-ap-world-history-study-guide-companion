@@ -9,8 +9,8 @@ tags: [apwh, unit-1, period-1, connections, africa]
 
 ## Concepts This Topic Builds On
 
-- [[Unit-1.2/00-Overview|Unit 1.2 (Dar al-Islam)]] — Islam's spread to Africa via trans-Saharan and Indian Ocean routes; Mali's Islamic connections to the Abbasid world; the hajj as a mechanism of exchange; Ibn Battuta documenting both chapters
-- [[Unit-1.3/00-Overview|Unit 1.3 (South/Southeast Asia)]] — The Indian Ocean trade network connecting East Africa to India and Southeast Asia; Indian textiles and Chinese porcelain found in Swahili archaeological sites
+- [[Unit-1.2/00-Overview|Unit 1.2: Developments in Dar al-Islam]] — Islam's spread to Africa via trans-Saharan and Indian Ocean routes; Mali's Islamic connections to the Abbasid world; the hajj as a mechanism of exchange; Ibn Battuta documenting both chapters
+- [[Unit-1.3/00-Overview|Unit 1.3: Developments in South and Southeast Asia]] — The Indian Ocean trade network connecting East Africa to India and Southeast Asia; Indian textiles and Chinese porcelain found in Swahili archaeological sites
 - Pre-1200 Bantu migrations — The Bantu expansion across sub-Saharan Africa created the demographic and linguistic foundation for the states studied in this chapter
 
 ## Concepts This Topic Sets Up

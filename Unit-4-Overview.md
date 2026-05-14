@@ -23,14 +23,14 @@ Between 1450 and 1750, European maritime powers launched voyages of exploration 
 
 | Topic | Core Theme |
 |-------|------------|
-| [[Unit-4.1/00-Overview\|4.1: Technological Innovations]] | Maritime tech (caravel, astrolabe); gunpowder weapons; printing press |
-| [[Unit-4.2/00-Overview\|4.2: Exploration — Causes and Events]] | State-sponsored exploration; Portugal and Spain; motivations and routes |
-| [[Unit-4.3/00-Overview\|4.3: Columbian Exchange]] | Transfer of crops, animals, diseases; demographic collapse; ecological transformation |
-| [[Unit-4.4/00-Overview\|4.4: Maritime Empires Link Regions]] | Silver trade; triangular trade; Manila Galleon; Indian Ocean disruption |
-| [[Unit-4.5/00-Overview\|4.5: Maritime Empires Develop]] | Colonial administration; encomienda, mita, plantation complex; VOC and EIC |
-| [[Unit-4.6/00-Overview\|4.6: Internal and External Challenges to State Power]] | Indigenous resistance; maroon communities; rivalries between European powers |
-| [[Unit-4.7/00-Overview\|4.7: Changing Social Hierarchies]] | Casta system; African diaspora; syncretism; gender and race in colonial societies |
-| [[Unit-4.8/00-Overview\|4.8: Continuity and Change from c. 1450 to c. 1750]] | CCOT synthesis; what changed vs. what persisted across the period |
+| [[Unit-4.1/00-Overview|Unit 4.1: Technological Innovations]] | Maritime tech (caravel, astrolabe); gunpowder weapons; printing press |
+| [[Unit-4.2/00-Overview|Unit 4.2: Exploration: Causes and Events]] | State-sponsored exploration; Portugal and Spain; motivations and routes |
+| [[Unit-4.3/00-Overview|Unit 4.3: Columbian Exchange]] | Transfer of crops, animals, diseases; demographic collapse; ecological transformation |
+| [[Unit-4.4/00-Overview|Unit 4.4: Maritime Empires Link Regions]] | Silver trade; triangular trade; Manila Galleon; Indian Ocean disruption |
+| [[Unit-4.5/00-Overview|Unit 4.5: Maritime Empires Develop]] | Colonial administration; encomienda, mita, plantation complex; VOC and EIC |
+| [[Unit-4.6/00-Overview|Unit 4.6: Internal and External Challenges to State Power]] | Indigenous resistance; maroon communities; rivalries between European powers |
+| [[Unit-4.7/00-Overview|Unit 4.7: Changing Social Hierarchies]] | Casta system; African diaspora; syncretism; gender and race in colonial societies |
+| [[Unit-4.8/00-Overview|Unit 4.8: Continuity and Change from c. 1450 to c. 1750]] | CCOT synthesis; what changed vs. what persisted across the period |
 
 ---
 
@@ -145,9 +145,9 @@ These topics appear disproportionately on AP exams — know them cold:
 ## Cross-Unit Connections (Obsidian Graph Links)
 
 ### Builds On (from Earlier Units)
-- [[Unit-2.3/00-Overview|Indian Ocean Trade]] — European explorers deliberately sought to access this existing network; Portuguese used Arab navigational charts
-- [[Unit-2.1/00-Overview|Silk Roads]] — Disruption of overland routes by Ottoman expansion and Black Death *motivated* maritime exploration
-- [[Unit-3.1/00-Overview|Land-Based Empires]] — Aztec and Inca administrative systems (road networks, tribute) were repurposed by Spanish colonizers
+- [[Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]] — European explorers deliberately sought to access this existing network; Portuguese used Arab navigational charts
+- [[Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]] — Disruption of overland routes by Ottoman expansion and Black Death *motivated* maritime exploration
+- [[Unit-3.1/00-Overview|Unit 3.1: European, East Asian, and Gunpowder Empires Expand]] — Aztec and Inca administrative systems (road networks, tribute) were repurposed by Spanish colonizers
 
 ### Sets Up (for Later Units)
 - [[Atlantic Revolutions]] (Unit 5) — Plantation economy and racial slavery created conditions for the Haitian Revolution; creole identity fueled independence movements
@@ -155,11 +155,11 @@ These topics appear disproportionately on AP exams — know them cold:
 - [[Imperialism in Asia and Africa]] (Unit 6) — VOC and EIC trading-post empires evolve into full-scale territorial imperialism
 
 ### Topic Overviews
-- [[Unit-4.1/00-Overview|4.1: Technological Innovations]]
-- [[Unit-4.2/00-Overview|4.2: Exploration — Causes and Events]]
-- [[Unit-4.3/00-Overview|4.3: Columbian Exchange]]
-- [[Unit-4.4/00-Overview|4.4: Maritime Empires Link Regions]]
-- [[Unit-4.5/00-Overview|4.5: Maritime Empires Develop]]
-- [[Unit-4.6/00-Overview|4.6: Internal and External Challenges to State Power]]
-- [[Unit-4.7/00-Overview|4.7: Changing Social Hierarchies]]
-- [[Unit-4.8/00-Overview|4.8: Continuity and Change from c. 1450 to c. 1750]]
+- [[Unit-4.1/00-Overview|Unit 4.1: Technological Innovations]]
+- [[Unit-4.2/00-Overview|Unit 4.2: Exploration: Causes and Events]]
+- [[Unit-4.3/00-Overview|Unit 4.3: Columbian Exchange]]
+- [[Unit-4.4/00-Overview|Unit 4.4: Maritime Empires Link Regions]]
+- [[Unit-4.5/00-Overview|Unit 4.5: Maritime Empires Develop]]
+- [[Unit-4.6/00-Overview|Unit 4.6: Internal and External Challenges to State Power]]
+- [[Unit-4.7/00-Overview|Unit 4.7: Changing Social Hierarchies]]
+- [[Unit-4.8/00-Overview|Unit 4.8: Continuity and Change from c. 1450 to c. 1750]]

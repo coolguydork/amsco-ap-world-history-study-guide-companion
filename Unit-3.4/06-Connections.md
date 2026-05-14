@@ -9,10 +9,10 @@ tags: [apwh, unit-3, period-2, connections, comparison, land-based-empires]
 
 ## Concepts This Topic Builds On
 
-- [[Unit-3.1/00-Overview|Unit 3.1 (Empires Expand)]] — How gunpowder technology enabled territorial expansion for each empire; the specific conquests that created each empire
-- [[Unit-3.2/00-Overview|Unit 3.2 (Empires: Administration)]] — The specific administrative tools each empire used (devshirme, mansabdari, dyarchy, tax-farming) that are now being compared across empires
-- [[Unit-3.3/00-Overview|Unit 3.3 (Empires: Belief Systems)]] — How each empire used religion differently as a legitimation tool — now compared across all six empires
-- [[Unit-2.2/00-Overview|Unit 2.2 (The Mongol Empire)]] — The Mongols' administrative legacy directly influenced later land-based empires: Mughal administrative traditions drew on Timurid (Mongol-derived) Persian models; the Ottoman use of enslaved military personnel echoed Mamluk precedents created under Mongol pressure
+- [[Unit-3.1/00-Overview|Unit 3.1: European, East Asian, and Gunpowder Empires Expand]] — How gunpowder technology enabled territorial expansion for each empire; the specific conquests that created each empire
+- [[Unit-3.2/00-Overview|Unit 3.2: Empires: Administrations]] — The specific administrative tools each empire used (devshirme, mansabdari, dyarchy, tax-farming) that are now being compared across empires
+- [[Unit-3.3/00-Overview|Unit 3.3: Empires: Belief Systems]] — How each empire used religion differently as a legitimation tool — now compared across all six empires
+- [[Unit-2.2/00-Overview|Unit 2.2: The Mongol Empire and the Modern World]] — The Mongols' administrative legacy directly influenced later land-based empires: Mughal administrative traditions drew on Timurid (Mongol-derived) Persian models; the Ottoman use of enslaved military personnel echoed Mamluk precedents created under Mongol pressure
 
 ## Concepts This Topic Sets Up
 

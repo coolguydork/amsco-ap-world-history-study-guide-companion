@@ -16,9 +16,9 @@ Unit 3 examines how powerful land-based empires rose, expanded, and administered
 
 | Topic | Title | Core Focus |
 |---|---|---|
-| [[Unit-3.1/00-Overview\|Unit 3.1]] | Land-Based Empires Expand | Rise of the Ottoman, Safavid, Mughal, Qing, and Russian empires |
-| [[Unit-3.2/00-Overview\|Unit 3.2]] | Administering Land-Based Empires | Bureaucracy, military systems, art, architecture, and legitimacy |
-| [[Unit-3.3/00-Overview\|Unit 3.3]] | Belief Systems in the Early Modern World | Islam, Christianity (Reformation), Sikhism, syncretism, and empire |
+| [[Unit-3.1/00-Overview|Unit 3.1: European, East Asian, and Gunpowder Empires Expand]] | Land-Based Empires Expand | Rise of the Ottoman, Safavid, Mughal, Qing, and Russian empires |
+| [[Unit-3.2/00-Overview|Unit 3.2: Empires: Administrations]] | Administering Land-Based Empires | Bureaucracy, military systems, art, architecture, and legitimacy |
+| [[Unit-3.3/00-Overview|Unit 3.3: Empires: Belief Systems]] | Belief Systems in the Early Modern World | Islam, Christianity (Reformation), Sikhism, syncretism, and empire |
 
 ## AP Key Concepts (KC) Covered
 
@@ -46,5 +46,5 @@ Unit 3 bridges the medieval world of Unit 1–2 (the Mongol networks, the Islami
 
 ## Connections to Other Units
 
-- **Builds on:** [[Unit-1.1/00-Overview|Unit 1]] (Islamic empires, Mongol legacy), [[Unit-2.1/00-Overview|Unit 2]] (Silk Roads, Indian Ocean trade)
+- **Builds on:** [[Unit-1.1/00-Overview|Unit 1.1: Developments in East Asia]] (Islamic empires, Mongol legacy), [[Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]] (Silk Roads, Indian Ocean trade)
 - **Sets up:** [[Unit-4/00-Overview|Unit 4]] (European maritime expansion, Atlantic slave trade, Columbian Exchange)
