@@ -14,7 +14,7 @@ tags: [apwh, unit-2, period-1, trans-saharan, west-africa, mali, connections, cr
 
 ## Concepts This Topic Builds On (From Earlier Topics)
 
-- [[../Unit-1.5/00-Overview|Unit 1.5: Developments in the Americas]] — Mali, Mansa Musa, Timbuktu, and the gold-salt trade introduced there are fully developed here; the trans-Saharan network is the economic spine of everything covered in 1.5
+- [[../Unit-1.5/00-Overview|Unit 1.5: State Building in Africa]] — Mali, Mansa Musa, Timbuktu, and the gold-salt trade introduced there are fully developed here; the trans-Saharan network is the economic spine of everything covered in 1.5
 - [[../Unit-1.2/00-Overview|Unit 1.2: Developments in Dar al-Islam]] — Islam's spread into West Africa via trans-Saharan trade is the continuation of the broader Islamic expansion covered in 1.2; shared Islamic commercial law (*hisba*) made Muslim-to-Muslim trust networks possible across the Sahara
 - [[../Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]] — Trans-Saharan trade follows the same logic as the Silk Roads: complementary resources, merchant diasporas, political taxation of transit commerce; compare the two networks' mechanisms and what they transmitted
 - [[../Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]] — West African gold moved through *both* trans-Saharan routes (northward) and Indian Ocean routes via the Swahili Coast (eastward); the two networks were not rivals but complementary channels for the same underlying commodity

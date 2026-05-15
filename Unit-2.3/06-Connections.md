@@ -16,7 +16,7 @@ tags: [apwh, unit-2, period-1, indian-ocean, connections, cross-chapter, graph]
 
 - [[../Unit-1.2/00-Overview|Unit 1.2: Developments in Dar al-Islam]] — Muslim merchants are the central human agents of Indian Ocean trade; the Islamic commercial law and trust networks that made long-distance trade possible originated in the Islamic heartland
 - [[../Unit-1.3/00-Overview|Unit 1.3: Developments in South and Southeast Asia]] — India and Southeast Asian states were the middle nodes of the Indian Ocean network; the Chola Dynasty (earlier) and the Majapahit Empire connected South and Southeast Asia to broader maritime commerce
-- [[../Unit-1.4/00-Overview|Unit 1.4: Developments in Africa]] — The Swahili city-states and the gold-producing interior states (Great Zimbabwe) are the East African end of the Indian Ocean network; the Trans-Saharan trade in Ch10 is the parallel African network
+- [[../Unit-1.5/00-Overview|Unit 1.5: State Building in Africa]] — The Swahili city-states and the gold-producing interior states (Great Zimbabwe) are the East African end of the Indian Ocean network; the Trans-Saharan trade in Ch10 is the parallel African network
 - [[../Unit-1.1/02-Key-People-and-Groups|Zheng He]] — Ch1 introduced Zheng He in the context of Chinese maritime ambition; Ch9 contextualizes his voyages within the Indian Ocean network they entered
 
 ---
@@ -42,7 +42,7 @@ tags: [apwh, unit-2, period-1, indian-ocean, connections, cross-chapter, graph]
 ## High-Yield Cross-Topic Links
 
 - [[01-Key-Terms|Malacca Sultanate]] → Islam in Southeast Asia → Unit 3 Portuguese conquest of Malacca (1511)
-- [[01-Key-Terms|Swahili coast]] → [[../Unit-1.4/00-Overview|Unit 1.4: Developments in Africa]] → [[../Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]] (East African gold connects both networks)
+- [[01-Key-Terms|Swahili coast]] → [[../Unit-1.5/00-Overview|Unit 1.5: State Building in Africa]] → [[../Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]] (East African gold connects both networks)
 - [[02-Key-People-and-Groups|Zheng He]] → [[../Unit-1.1/02-Key-People-and-Groups|Ming Dynasty]] → Unit 3 Ming maritime withdrawal → European maritime expansion
 - [[01-Key-Terms|Indian Ocean slave trade]] → Unit 4 Atlantic slave trade (different scale, similar commercial logic)
 - [[01-Key-Terms|Monsoon winds]] → [[../Unit-2.1/01-Key-Terms|Maritime Silk Road]] (Ch7) — the same wind system connected both

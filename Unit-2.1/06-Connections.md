@@ -18,7 +18,7 @@ tags: [apwh, unit-2, period-1, silk-roads, connections, cross-chapter, graph]
 - [[../Unit-1.1/01-Key-Terms|Civil service examination]] — China's bureaucratic stability under Song and Yuan dynasties sustained the eastern end of Silk Road commerce
 - [[../Unit-1.2/00-Overview|Unit 1.2: Developments in Dar al-Islam]] — The Islamic world was the geographic and commercial center of the Silk Roads; Muslim merchants dominated both overland and maritime routes
 - [[../Unit-1.3/00-Overview|Unit 1.3: Developments in South and Southeast Asia]] — Indian Ocean maritime trade (Unit 2.3) is the sea-based complement to the overland Silk Roads covered here
-- [[../Unit-1.4/00-Overview|Unit 1.4: Developments in Africa]] — Trans-Saharan trade routes connected Africa to the Silk Road network through North African intermediaries
+- [[../Unit-1.5/00-Overview|Unit 1.5: State Building in Africa]] — Trans-Saharan trade routes connected Africa to the Silk Road network through North African intermediaries
 - [[../Unit-1.6/00-Overview|Unit 1.6: Developments in Europe]] — European desire for Silk Road goods (spices, silk) without Islamic middlemen is the long-term cause of the Age of Exploration
 
 ---
@@ -45,5 +45,5 @@ tags: [apwh, unit-2, period-1, silk-roads, connections, cross-chapter, graph]
 
 - [[01-Key-Terms|Bubonic plague]] → [[../Unit-1.2/00-Overview|Unit 1.2: Developments in Dar al-Islam]] (plague weakened the Ilkhanate) → [[../Unit-1.6/00-Overview|Unit 1.6: Developments in Europe]] (Black Death destabilized serfdom)
 - [[01-Key-Terms|Paper money]] → [[../Unit-1.1/01-Key-Terms|Song commercial revolution]] → [[../Unit-2.2/01-Key-Terms|Mongol adoption of paper currency]]
-- [[02-Key-People-and-Groups|Muslim merchants]] → [[../Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]] → [[../Unit-1.4/00-Overview|Unit 1.4: Developments in Africa]] → [[../Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]]
+- [[02-Key-People-and-Groups|Muslim merchants]] → [[../Unit-2.3/00-Overview|Unit 2.3: Exchange in the Indian Ocean]] → [[../Unit-1.5/00-Overview|Unit 1.5: State Building in Africa]] → [[../Unit-2.4/00-Overview|Unit 2.4: Trans-Saharan Trade Routes]]
 - [[02-Key-People-and-Groups|Mongol Empire]] → [[../Unit-2.2/00-Overview|Unit 2.2: The Mongol Empire and the Modern World]] (full chapter dedicated to Mongol impact)

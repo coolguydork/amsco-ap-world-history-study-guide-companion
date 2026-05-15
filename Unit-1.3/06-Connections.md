@@ -15,7 +15,7 @@ tags: [apwh, unit-1, period-1, connections, south-asia, southeast-asia]
 
 ## Concepts This Topic Sets Up
 
-- [[Unit-1.4/00-Overview|Unit 1.4: Developments in Africa]] — The Indian Ocean trade network connecting East Africa to India and Southeast Asia; Swahili city-states are the African end of the same network
+- [[Unit-1.5/00-Overview|Unit 1.5: State Building in Africa]] — The Indian Ocean trade network connecting East Africa to India and Southeast Asia; Swahili city-states are the African end of the same network
 - Unit 2 (Networks of Exchange) — The Indian Ocean is the central topic of Unit 2's exchange chapter; Unit 1.3 provides the South/Southeast Asian nodes of that network
 - Unit 3 (Land-Based Empires) — The Mughal Empire (Unit 3) is the successor to the Delhi Sultanate; understanding the Delhi Sultanate's Hindu-Muslim dynamics explains Mughal policies
 - Unit 4 (Transoceanic Connections) — Portuguese arrival in the Indian Ocean (1498 onward) disrupts the Muslim-dominated trading system; Malacca is a key Portuguese target (conquered 1511)
