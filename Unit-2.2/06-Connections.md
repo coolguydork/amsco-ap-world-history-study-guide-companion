@@ -17,7 +17,7 @@ tags: [apwh, unit-2, period-1, mongols, connections, cross-chapter, graph]
 - [[../Unit-1.1/00-Overview|Unit 1.1: Developments in East Asia]] — Song Dynasty China was the Mongols' most valuable conquest target; Chinese technology (gunpowder, siege engines) was incorporated into Mongol warfare; the Yuan Dynasty replaced the Song
 - [[../Unit-1.2/00-Overview|Unit 1.2: Developments in Dar al-Islam]] — The Abbasid Caliphate was the political and cultural heart of the Islamic world before the Mongol sack of Baghdad (1258); the Mongol invasion is the decisive cause of Abbasid collapse
 - [[../Unit-1.6/00-Overview|Unit 1.6: Developments in Europe]] — The Mongol invasion of Poland and Hungary (1241) reached the borders of Western Europe; the Black Death, transmitted via Mongol-enabled Silk Roads, devastated European feudal society
-- [[../Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]] — The Pax Mongolica was the political condition enabling Silk Road commerce; the Mongol story in Ch8 is the political backdrop for the trade story in Ch7
+- [[../Unit-2.1/00-Overview|Unit 2.1: The Silk Roads]] — The Pax Mongolica was the political condition enabling Silk Road commerce; the Mongol story in Unit 2.2 is the political backdrop for the trade story in Unit 2.1
 
 ---
 

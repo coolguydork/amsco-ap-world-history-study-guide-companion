@@ -66,7 +66,7 @@ Unit 2's networks produced multiple forms of human movement: voluntary merchant 
 
 ## AP Exam: Cross-Topic Comparisons (High-Yield)
 
-| Concept | Silk Roads (Ch7) | Indian Ocean (Ch9) | Trans-Saharan (Ch10) |
+| Concept | Silk Roads (Unit 2.1) | Indian Ocean (Unit 2.3) | Trans-Saharan (Unit 2.4) |
 |---------|-----------------|-------------------|----------------------|
 | Enabling technology | Camel caravan + yam postal system | Dhow + monsoon winds | Camel caravan |
 | Primary goods | Silk, porcelain, spices, paper | Spices, textiles, gold, porcelain | Gold, salt, enslaved people |

@@ -174,7 +174,7 @@ D) Continuity: the role of the Swahili city-states / Change: the destruction of 
 
 > [!tip] **Top-Score Guidance**
 > - Part A: Swahili city-states' Muslim rulers; Malaccan conversion and subsequent spread into SE Asia; Ibn Battuta's accounts of Muslim communities throughout Indian Ocean ports
-> - Part B: Islam also spread via the overland Silk Roads (Ch7); Silk Road trade spread Islam into Central Asia and eventually into China; consider also military conquest (Delhi Sultanate)
+> - Part B: Islam also spread via the overland Silk Roads ([[../Unit-2.1/00-Overview|Unit 2.1]]); Silk Road trade spread Islam into Central Asia and eventually into China; consider also military conquest (Delhi Sultanate)
 > - Part C: Indian Ocean spread was primarily through merchant diasporas establishing communities in port cities → commercial incentives for local rulers to convert; Silk Road spread was more through Sufi missionaries and traders in interior cities — both voluntary, but different social mechanisms
 
 ---

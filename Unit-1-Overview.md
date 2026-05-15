@@ -70,7 +70,7 @@ The Mongol conquests and the Black Death were the two great engines of involunta
 
 ## Cross-Regional Comparisons (High-Yield for AP Exam)
 
-| Concept | East Asia (Ch1) | Islamic World (Ch2) | Europe (Ch6) | Americas (Ch5) |
+| Concept | East Asia (Unit 1.1) | Islamic World (Unit 1.2) | Europe (Unit 1.6) | Americas (Unit 1.4) |
 |---------|----------------|---------------------|--------------|----------------|
 | Political legitimacy | Mandate of Heaven + civil service | Caliph + ulama | Pope + feudal oaths | Divine kingship + military |
 | Social hierarchy | Scholar-gentry at top; merchants low | Ulama; merchants respected | Nobility/clergy; merchants growing | Warrior-priests; tribute payers |
