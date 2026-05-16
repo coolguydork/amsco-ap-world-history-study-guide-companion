@@ -18,7 +18,8 @@ tags: [apwh, unit-4, topic-4-1, period-2, practice, review]
 - C) The spread of Islam through the Indian Ocean trade network
 - D) The development of land-based gunpowder empires in Asia
 
-**Answer: B** — All three technologies helped European sailors navigate open oceans safely. The compass gave direction, the astrolabe gave latitude, and the lateen sail gave flexibility in wind direction.
+> [!tip] Answer: **B**
+> All three technologies helped European sailors navigate open oceans safely. The compass gave direction, the astrolabe gave latitude, and the lateen sail gave flexibility in wind direction.
 
 ---
 
@@ -29,7 +30,8 @@ tags: [apwh, unit-4, topic-4-1, period-2, practice, review]
 - C) The rediscovery of ancient Greek navigational methods
 - D) Portuguese investment in original scientific research
 
-**Answer: B** — The compass came from China, the astrolabe was improved by Muslim navigators, and the lateen sail was used by Arab sailors. European explorers synthesized these traditions rather than inventing them from scratch.
+> [!tip] Answer: **B**
+> The compass came from China, the astrolabe was improved by Muslim navigators, and the lateen sail was used by Arab sailors. European explorers synthesized these traditions rather than inventing them from scratch.
 
 ---
 
@@ -40,7 +42,8 @@ tags: [apwh, unit-4, topic-4-1, period-2, practice, review]
 - C) systematic state sponsorship of expeditions along the African coast
 - D) negotiation of trade agreements with the Ottoman Empire
 
-**Answer: C** — Henry organized and financed exploration rather than sailing himself. He represents the model of **state sponsorship** driving maritime exploration.
+> [!tip] Answer: **C**
+> Henry organized and financed exploration rather than sailing himself. He represents the model of **state sponsorship** driving maritime exploration.
 
 ---
 
@@ -51,7 +54,8 @@ tags: [apwh, unit-4, topic-4-1, period-2, practice, review]
 - C) The Catholic Church required states to fund missionary voyages
 - D) European law prohibited private individuals from organizing overseas expeditions
 
-**Answer: B** — Voyages required enormous capital investment. States had both the resources and the motives (wealth, territory, religious expansion, rival competition) to sponsor them.
+> [!tip] Answer: **B**
+> Voyages required enormous capital investment. States had both the resources and the motives (wealth, territory, religious expansion, rival competition) to sponsor them.
 
 ---
 

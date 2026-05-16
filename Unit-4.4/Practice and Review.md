@@ -18,7 +18,8 @@ tags: [apwh, unit-4, topic-4-4, period-2, practice, review]
 - C) form of chattel slavery identical to the Atlantic slave trade
 - D) cooperative economic arrangement between Spanish colonizers and indigenous leaders
 
-**Answer: B** — The encomienda compelled indigenous people to work for Spanish landowners in exchange for food, shelter, and Christian instruction. It was coercive and brutal, but legally distinct from chattel slavery (the workers were not technically property). In practice, the distinction often mattered little.
+> [!tip] Answer: **B**
+> The encomienda compelled indigenous people to work for Spanish landowners in exchange for food, shelter, and Christian instruction. It was coercive and brutal, but legally distinct from chattel slavery (the workers were not technically property). In practice, the distinction often mattered little.
 
 ---
 
@@ -29,7 +30,8 @@ tags: [apwh, unit-4, topic-4-4, period-2, practice, review]
 - C) used an existing indigenous labor obligation to coerce village populations into dangerous mine work
 - D) abolished earlier encomienda labor arrangements
 
-**Answer: C** — The Spanish converted the Incan communal labor obligation into a colonial extraction system, compelling villages to send quotas of male workers to silver mines. This shows how colonizers adapted existing indigenous systems for their own purposes.
+> [!tip] Answer: **C**
+> The Spanish converted the Incan communal labor obligation into a colonial extraction system, compelling villages to send quotas of male workers to silver mines. This shows how colonizers adapted existing indigenous systems for their own purposes.
 
 ---
 
@@ -40,7 +42,8 @@ tags: [apwh, unit-4, topic-4-4, period-2, practice, review]
 - C) France and England agreeing to stay out of the Americas
 - D) the permanent division of the African coastline between Spain and Portugal
 
-**Answer: B** — The Treaty drew a line through eastern South America; Portugal claimed lands to the east (including Brazil), Spain claimed lands to the west. This explains Brazil's Portuguese language and culture today.
+> [!tip] Answer: **B**
+> The Treaty drew a line through eastern South America; Portugal claimed lands to the east (including Brazil), Spain claimed lands to the west. This explains Brazil's Portuguese language and culture today.
 
 ---
 
@@ -51,7 +54,8 @@ tags: [apwh, unit-4, topic-4-4, period-2, practice, review]
 - C) Africans possessed agricultural skills unavailable in Europe or among indigenous Americans
 - D) International agreements between African kingdoms and European powers required the provision of labor
 
-**Answer: B** — Multiple factors converged: indigenous populations had been devastated by disease; survivors could escape into familiar territory; European indentured servants only worked 7 years; Africans were in unfamiliar territory without social networks for escape. This combination made enslaved Africans the "preferred" (from a colonizer's perspective) labor force.
+> [!tip] Answer: **B**
+> Multiple factors converged: indigenous populations had been devastated by disease; survivors could escape into familiar territory; European indentured servants only worked 7 years; Africans were in unfamiliar territory without social networks for escape. This combination made enslaved Africans the "preferred" (from a colonizer's perspective) labor force.
 
 ---
 
@@ -62,7 +66,8 @@ tags: [apwh, unit-4, topic-4-4, period-2, practice, review]
 - C) the economic failure of Portuguese and Dutch trade in Japan
 - D) pressure from China for Japan to limit contact with Europeans
 
-**Answer: B** — Japanese Christians (converted by missionaries) had destroyed Buddhist shrines, alarming the government. Japanese rulers saw Christianity as a threat to social order and eventually expelled missionaries and closed Japan to most foreign contact (sakoku policy).
+> [!tip] Answer: **B**
+> Japanese Christians (converted by missionaries) had destroyed Buddhist shrines, alarming the government. Japanese rulers saw Christianity as a threat to social order and eventually expelled missionaries and closed Japan to most foreign contact (sakoku policy).
 
 ---
 

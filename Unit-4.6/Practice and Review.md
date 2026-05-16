@@ -18,7 +18,8 @@ tags: [apwh, unit-4, topic-4-6, period-2, practice, review]
 - C) The Dutch were generally more respectful of African sovereignty than the Portuguese
 - D) Conversion to Christianity was the most effective strategy for African resistance
 
-**Answer: B** — Nzinga used every tool available — military force, diplomatic alliances, religious conversion as a bargaining chip, and offering freedom to runaway enslaved people — to protect her state. This shows sophisticated political agency, not passive victimhood.
+> [!tip] Answer: **B**
+> Nzinga used every tool available — military force, diplomatic alliances, religious conversion as a bargaining chip, and offering freedom to runaway enslaved people — to protect her state. This shows sophisticated political agency, not passive victimhood.
 
 ---
 
@@ -29,7 +30,8 @@ tags: [apwh, unit-4, topic-4-6, period-2, practice, review]
 - C) the expansion of Russian territory into Siberia displacing indigenous peoples
 - D) disputes over succession to the Russian throne
 
-**Answer: B** — Pugachev rallied serfs (oppressed by serfdom laws that bound them to the land), Cossacks (fiercely independent warriors resentful of central authority), and ethnic minorities (marginalized by Russian imperial expansion) under the false claim that he was the murdered Tsar Peter III, offering them freedom from noble oppression.
+> [!tip] Answer: **B**
+> Pugachev rallied serfs (oppressed by serfdom laws that bound them to the land), Cossacks (fiercely independent warriors resentful of central authority), and ethnic minorities (marginalized by Russian imperial expansion) under the false claim that he was the murdered Tsar Peter III, offering them freedom from noble oppression.
 
 ---
 
@@ -40,7 +42,8 @@ tags: [apwh, unit-4, topic-4-6, period-2, practice, review]
 - C) indigenous peoples actively resisted colonial attempts to destroy their religious and cultural practices
 - D) the Spanish were driven permanently from New Mexico
 
-**Answer: C** — The Pueblo and Apache revolted specifically because the Spanish were trying to force religious conversions, destroying indigenous spiritual practices. The revolt temporarily succeeded, though Spain reconquered the area in 1692.
+> [!tip] Answer: **C**
+> The Pueblo and Apache revolted specifically because the Spanish were trying to force religious conversions, destroying indigenous spiritual practices. The revolt temporarily succeeded, though Spain reconquered the area in 1692.
 
 ---
 
@@ -51,7 +54,8 @@ tags: [apwh, unit-4, topic-4-6, period-2, practice, review]
 - C) gave ordinary English citizens the right to vote
 - D) created a written constitution for England similar to the later American Constitution
 
-**Answer: B** — The Glorious Revolution established that Parliament could remove a monarch who violated its authority and set conditions (Protestant rule) on who could hold the throne. This precedent of limiting royal power through law influenced later democratic thinking.
+> [!tip] Answer: **B**
+> The Glorious Revolution established that Parliament could remove a monarch who violated its authority and set conditions (Protestant rule) on who could hold the throne. This precedent of limiting royal power through law influenced later democratic thinking.
 
 ---
 

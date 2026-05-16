@@ -18,7 +18,8 @@ tags: [apwh, unit-4, topic-4-5, period-2, practice, review]
 - C) The Dutch government's desire to nationalize overseas trade
 - D) The principle that only wealthy merchants should fund exploration
 
-**Answer: B** — The joint-stock company model allowed anyone to buy shares, pooling capital from many investors and distributing the risks of long-distance trade. This made risky overseas ventures financially viable by preventing any single investor from bearing all the risk.
+> [!tip] Answer: **B**
+> The joint-stock company model allowed anyone to buy shares, pooling capital from many investors and distributing the risks of long-distance trade. This made risky overseas ventures financially viable by preventing any single investor from bearing all the risk.
 
 ---
 
@@ -29,7 +30,8 @@ tags: [apwh, unit-4, topic-4-5, period-2, practice, review]
 - C) the decline of agricultural production forcing Europeans into trade
 - D) the scientific revolution's impact on manufacturing technology
 
-**Answer: B** — The Commercial Revolution had four main causes: overseas colonies, new trade routes, population growth, and the Price Revolution (inflation from American silver). These interacting factors transformed the European economy from local to global scale.
+> [!tip] Answer: **B**
+> The Commercial Revolution had four main causes: overseas colonies, new trade routes, population growth, and the Price Revolution (inflation from American silver). These interacting factors transformed the European economy from local to global scale.
 
 ---
 
@@ -40,7 +42,8 @@ tags: [apwh, unit-4, topic-4-5, period-2, practice, review]
 - C) indigenous American religions absorbing African spiritual practices after the transatlantic slave trade
 - D) Protestant missionaries allowing religious freedom in their colonies
 
-**Answer: B** — Syncretism was a form of cultural survival and adaptation by enslaved Africans, not a missionary-endorsed policy. By blending African spiritual traditions with the Catholicism they were required to practice, enslaved Africans maintained connections to their cultural heritage under extreme oppression.
+> [!tip] Answer: **B**
+> Syncretism was a form of cultural survival and adaptation by enslaved Africans, not a missionary-endorsed policy. By blending African spiritual traditions with the Catholicism they were required to practice, enslaved Africans maintained connections to their cultural heritage under extreme oppression.
 
 ---
 
@@ -51,7 +54,8 @@ tags: [apwh, unit-4, topic-4-5, period-2, practice, review]
 - C) the expansion of free trade between Africa, Europe, and the Americas
 - D) the replacement of Asian goods with American products in European markets
 
-**Answer: A** — The triangular trade linked Europe, Africa, and the Americas in a single economic system: European goods → enslaved African labor → American cash crops (especially sugar) → European profits. This was the first large-scale, sustained economic integration of three continents.
+> [!tip] Answer: **A**
+> The triangular trade linked Europe, Africa, and the Americas in a single economic system: European goods → enslaved African labor → American cash crops (especially sugar) → European profits. This was the first large-scale, sustained economic integration of three continents.
 
 ---
 

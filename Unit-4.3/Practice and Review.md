@@ -18,7 +18,8 @@ tags: [apwh, unit-4, topic-4-3, period-2, practice, review]
 - C) diseases introduced from Afro-Eurasia to which indigenous peoples had no immunity
 - D) deliberate policies of genocide by European colonial administrators
 
-**Answer: C** — Disease was responsible for the majority of deaths — more than military violence or forced labor. Indigenous Americans had been isolated from Afro-Eurasian diseases for thousands of years and had no immune history. Some regions lost up to 90% of their populations to disease alone.
+> [!tip] Answer: **C**
+> Disease was responsible for the majority of deaths — more than military violence or forced labor. Indigenous Americans had been isolated from Afro-Eurasian diseases for thousands of years and had no immune history. Some regions lost up to 90% of their populations to disease alone.
 
 ---
 
@@ -29,7 +30,8 @@ tags: [apwh, unit-4, topic-4-3, period-2, practice, review]
 - C) the collapse of traditional African agricultural systems
 - D) increased European control of African food production
 
-**Answer: B** — Crops like maize, manioc, and peanuts improved African diets so significantly that Africa's population actually grew during this period, despite millions being transported as enslaved people to the Americas.
+> [!tip] Answer: **B**
+> Crops like maize, manioc, and peanuts improved African diets so significantly that Africa's population actually grew during this period, despite millions being transported as enslaved people to the Americas.
 
 ---
 
@@ -40,7 +42,8 @@ tags: [apwh, unit-4, topic-4-3, period-2, practice, review]
 - C) trade contact between Africa and the Americas before European colonization
 - D) deliberate Spanish and Portuguese policies to create hybrid languages
 
-**Answer: B** — Creole languages arose when enslaved Africans, prevented from speaking their many different native languages, blended the European colonial language with West African grammatical structures and vocabulary. This was a product of cultural survival, not colonial policy.
+> [!tip] Answer: **B**
+> Creole languages arose when enslaved Africans, prevented from speaking their many different native languages, blended the European colonial language with West African grammatical structures and vocabulary. This was a product of cultural survival, not colonial policy.
 
 ---
 
@@ -51,7 +54,8 @@ tags: [apwh, unit-4, topic-4-3, period-2, practice, review]
 - C) the Treaty of Tordesillas, which required Portugal to use African labor
 - D) the refusal of European indentured servants to work in tropical climates
 
-**Answer: B** — Disease killed most of the potential indigenous labor force. Sugar was extraordinarily profitable but required enormous labor. Enslaved Africans were seen as the solution because they could not easily escape (unfamiliar territory), could not blend into the indigenous population, and were considered property.
+> [!tip] Answer: **B**
+> Disease killed most of the potential indigenous labor force. Sugar was extraordinarily profitable but required enormous labor. Enslaved Africans were seen as the solution because they could not easily escape (unfamiliar territory), could not blend into the indigenous population, and were considered property.
 
 ---
 
@@ -62,7 +66,8 @@ tags: [apwh, unit-4, topic-4-3, period-2, practice, review]
 - C) Economic depression in Asia caused by competition from American goods
 - D) Cultural homogenization as European, African, and Asian practices merged
 
-**Answer: B** — American crops (potatoes, maize, manioc) caused population growth in Europe and Africa. American silver caused severe inflation in Spain (the Price Revolution). Asia, particularly China, benefited from the silver trade. This was not a simple story of benefit or harm — it was complex and uneven.
+> [!tip] Answer: **B**
+> American crops (potatoes, maize, manioc) caused population growth in Europe and Africa. American silver caused severe inflation in Spain (the Price Revolution). Asia, particularly China, benefited from the silver trade. This was not a simple story of benefit or harm — it was complex and uneven.
 
 ---
 

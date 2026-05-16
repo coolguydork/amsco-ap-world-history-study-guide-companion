@@ -18,7 +18,8 @@ tags: [apwh, unit-4, topic-4-2, period-2, practice, review]
 - C) cultural empire based on the spread of Catholicism
 - D) defensive network to protect against Ottoman naval expansion
 
-**Answer: B** — Portugal's trading post empire (Hormuz → Goa → Malacca) focused on controlling strategic ports and trade routes rather than governing large territories. This allowed a small nation to dominate trade without the resources needed for territorial administration.
+> [!tip] Answer: **B**
+> Portugal's trading post empire (Hormuz → Goa → Malacca) focused on controlling strategic ports and trade routes rather than governing large territories. This allowed a small nation to dominate trade without the resources needed for territorial administration.
 
 ---
 
@@ -29,7 +30,8 @@ tags: [apwh, unit-4, topic-4-2, period-2, practice, review]
 - C) They wanted to establish colonies in Africa to compete with Portugal
 - D) They had no interest in trade and sponsored the voyage only for religious reasons
 
-**Answer: B** — Italian city-states controlled the lucrative overland/Mediterranean trade routes to Asia. Spain hoped a westward sea route would allow direct access to Asian goods and bypass the Italian middlemen.
+> [!tip] Answer: **B**
+> Italian city-states controlled the lucrative overland/Mediterranean trade routes to Asia. Spain hoped a westward sea route would allow direct access to Asian goods and bypass the Italian middlemen.
 
 ---
 
@@ -40,7 +42,8 @@ tags: [apwh, unit-4, topic-4-2, period-2, practice, review]
 - C) granted Portugal control of the Indian Ocean spice trade
 - D) allowed Spain to circumnavigate Africa en route to Asia
 
-**Answer: B** — The Treaty of Tordesillas drew a north-south line through the Atlantic; Spain claimed all lands to the west, Portugal claimed all lands to the east. This is why Brazil is Portuguese-speaking while the rest of Latin America is Spanish-speaking.
+> [!tip] Answer: **B**
+> The Treaty of Tordesillas drew a north-south line through the Atlantic; Spain claimed all lands to the west, Portugal claimed all lands to the east. This is why Brazil is Portuguese-speaking while the rest of Latin America is Spanish-speaking.
 
 ---
 
@@ -51,7 +54,8 @@ tags: [apwh, unit-4, topic-4-2, period-2, practice, review]
 - C) traded with native peoples for furs rather than displacing them for land
 - D) built fortified trading posts rather than establishing any settlements
 
-**Answer: C** — The French relied on the fur trade and maintained relatively cooperative relations with Native Americans. The Spanish, by contrast, conquered, displaced, and enslaved indigenous populations to extract silver and agricultural wealth.
+> [!tip] Answer: **C**
+> The French relied on the fur trade and maintained relatively cooperative relations with Native Americans. The Spanish, by contrast, conquered, displaced, and enslaved indigenous populations to extract silver and agricultural wealth.
 
 ---
 

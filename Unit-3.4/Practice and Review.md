@@ -20,11 +20,11 @@ B) The Aztec Empire relied on fear and tribute rather than direct governance, cr
 C) The Aztec Empire had no professional military, while the Mughals maintained a large standing army  
 D) The Aztec Empire had no religious ideology to unite its subjects, unlike the theocratic Mughal state
 
-**Answer: B**
-- A is partially true but not the best explanation — Aztecs lacked gunpowder but the Mughals had it; the key is political structure.
-- **B is correct** — the Aztec tributary system created enemies among subject peoples who allied with Cortés.
-- C is wrong — the Aztecs had a fierce warrior society and professional warrior castes.
-- D is wrong — the Aztecs had a deeply religious state (human sacrifice, cosmic mythology).
+> [!tip] Answer: **B**
+> A is partially true but not the best explanation — Aztecs lacked gunpowder but the Mughals had it; the key is political structure.
+> **B is correct** — the Aztec tributary system created enemies among subject peoples who allied with Cortés.
+> C is wrong — the Aztecs had a fierce warrior society and professional warrior castes.
+> D is wrong — the Aztecs had a deeply religious state (human sacrifice, cosmic mythology).
 
 ---
 
@@ -37,11 +37,11 @@ B) were recruited from minority religious or ethnic groups to ensure loyalty to 
 C) were organized primarily as naval forces to extend imperial control over maritime trade  
 D) were required to practice the dominant religion of their empire before recruitment
 
-**Answer: B**
-- A is wrong — both were *not* from the aristocracy; their outsider status was precisely what made them loyal.
-- **B is correct** — Janissaries from Balkan Christians; Ghulams from Georgian, Armenian, Circassian peoples; both outsiders with nowhere else to go.
-- C is wrong — both were land-based military forces; the Safavids had no significant navy.
-- D is wrong — Janissaries *converted* to Islam after recruitment, not before.
+> [!tip] Answer: **B**
+> A is wrong — both were *not* from the aristocracy; their outsider status was precisely what made them loyal.
+> **B is correct** — Janissaries from Balkan Christians; Ghulams from Georgian, Armenian, Circassian peoples; both outsiders with nowhere else to go.
+> C is wrong — both were land-based military forces; the Safavids had no significant navy.
+> D is wrong — Janissaries *converted* to Islam after recruitment, not before.
 
 ---
 
@@ -54,11 +54,11 @@ B) disputes over European colonial territories in the New World
 C) both the Sunni-Shi'a religious divide and competition over border territories and trade routes  
 D) Ottoman attempts to force Shi'a Muslims to convert to Sunni Islam in conquered territories
 
-**Answer: C**
-- A is wrong — neither empire was an Indian Ocean power in this way; it's about overland routes.
-- B is wrong — neither empire had New World colonies.
-- **C is correct** — AMSCO explicitly identifies both religious and economic causes (silk trade embargoes).
-- D is wrong — this overstates the religious dimension and mischaracterizes the conflict.
+> [!tip] Answer: **C**
+> A is wrong — neither empire was an Indian Ocean power in this way; it's about overland routes.
+> B is wrong — neither empire had New World colonies.
+> **C is correct** — AMSCO explicitly identifies both religious and economic causes (silk trade embargoes).
+> D is wrong — this overstates the religious dimension and mischaracterizes the conflict.
 
 ---
 
@@ -71,11 +71,11 @@ B) The Mughal Empire's construction of the Taj Mahal to display imperial wealth 
 C) The Tokugawa shogunate's requirement that daimyo maintain residences in Edo  
 D) The Aztec Empire's use of tribute lists to extract goods from subject peoples
 
-**Answer: B**
-- A is wrong — devshirme is an administrative tool, not artistic legitimation.
-- **B is correct** — the Taj Mahal is the canonical example of architecture demonstrating imperial power and cultural achievement.
-- C is wrong — the Edo residence requirement was a political control mechanism, not an artistic statement.
-- D is wrong — tribute lists are an economic/military tool.
+> [!tip] Answer: **B**
+> A is wrong — devshirme is an administrative tool, not artistic legitimation.
+> **B is correct** — the Taj Mahal is the canonical example of architecture demonstrating imperial power and cultural achievement.
+> C is wrong — the Edo residence requirement was a political control mechanism, not an artistic statement.
+> D is wrong — tribute lists are an economic/military tool.
 
 ---
 
@@ -88,11 +88,11 @@ B) the decline of these empires was primarily caused by religious conflict betwe
 C) internal weaknesses — including weak leadership, overtaxation of peasants, and failure to modernize militaries — were the primary causes of decline  
 D) the empires declined because they expanded too aggressively and stretched their military beyond sustainable limits
 
-**Answer: C**
-- A is wrong — European *military* conquest of the Gunpowder Empires came mostly in the 19th century, not 1450–1750. European *economic* penetration was more relevant in this period.
-- B is wrong — Islamic Gunpowder Empires also fought *each other* (Sunni vs. Shi'a), not just Christians.
-- **C is correct** — AMSCO specifically identifies weak sultans, harem politics, overtaxation, and failure to modernize.
-- D is wrong — overextension was a factor (Aurangzeb's southward expansion drained the Mughal treasury) but not the primary cause across all empires.
+> [!tip] Answer: **C**
+> A is wrong — European *military* conquest of the Gunpowder Empires came mostly in the 19th century, not 1450–1750. European *economic* penetration was more relevant in this period.
+> B is wrong — Islamic Gunpowder Empires also fought *each other* (Sunni vs. Shi'a), not just Christians.
+> **C is correct** — AMSCO specifically identifies weak sultans, harem politics, overtaxation, and failure to modernize.
+> D is wrong — overextension was a factor (Aurangzeb's southward expansion drained the Mughal treasury) but not the primary cause across all empires.
 
 ---
 

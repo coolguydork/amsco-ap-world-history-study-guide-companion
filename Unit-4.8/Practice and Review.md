@@ -18,7 +18,8 @@ tags: [apwh, unit-4, topic-4-8, period-2, practice, review, synthesis]
 - C) China emerged as the dominant global economic power, replacing Arab and Indian merchants
 - D) The decline of land-based empires led to the rise of purely market-based economies across Afro-Eurasia
 
-**Answer: B** — The key is the *integration of the Americas*. Before 1450, Afro-Eurasia and the Americas were isolated. By 1750, American silver was circulating in China, African labor was producing sugar for European markets, and Asian goods were sold in the Americas. This was genuinely global in a way no previous trade network had been.
+> [!tip] Answer: **B**
+> The key is the *integration of the Americas*. Before 1450, Afro-Eurasia and the Americas were isolated. By 1750, American silver was circulating in China, African labor was producing sugar for European markets, and Asian goods were sold in the Americas. This was genuinely global in a way no previous trade network had been.
 
 ---
 
@@ -29,7 +30,8 @@ tags: [apwh, unit-4, topic-4-8, period-2, practice, review, synthesis]
 - C) The continued use of guild systems in European manufacturing
 - D) The preservation of indigenous American communal farming systems
 
-**Answer: B** — Whether old (serfdom) or new (chattel slavery, encomienda, mit'a), coercive labor systems remained the foundation of agricultural and extractive economies throughout the period. The *forms* changed — new systems were created — but the fundamental pattern of forced labor continued.
+> [!tip] Answer: **B**
+> Whether old (serfdom) or new (chattel slavery, encomienda, mit'a), coercive labor systems remained the foundation of agricultural and extractive economies throughout the period. The *forms* changed — new systems were created — but the fundamental pattern of forced labor continued.
 
 ---
 
@@ -40,7 +42,8 @@ tags: [apwh, unit-4, topic-4-8, period-2, practice, review, synthesis]
 - C) the decline of the Ottoman and Mughal empires
 - D) religious reforms that made lending money at interest morally acceptable
 
-**Answer: B** — Joint-stock companies emerged because individual investors or even governments often couldn't afford the costs and risks of overseas trading expeditions alone. Pooling capital and limiting individual liability made these ventures possible.
+> [!tip] Answer: **B**
+> Joint-stock companies emerged because individual investors or even governments often couldn't afford the costs and risks of overseas trading expeditions alone. Pooling capital and limiting individual liability made these ventures possible.
 
 ---
 
@@ -51,7 +54,8 @@ tags: [apwh, unit-4, topic-4-8, period-2, practice, review, synthesis]
 - C) sustained contact between different religious traditions under conditions of colonial power that required outward conformity to Catholicism while allowing space for cultural adaptation
 - D) the failure of Catholic missionaries to convert indigenous and African peoples
 
-**Answer: C** — Syncretic religions emerged because enslaved Africans and indigenous peoples were required to practice Catholicism publicly but retained elements of their own spiritual traditions, blending them with Christianity to create new forms. This was not missionary-approved — it was cultural survival.
+> [!tip] Answer: **C**
+> Syncretic religions emerged because enslaved Africans and indigenous peoples were required to practice Catholicism publicly but retained elements of their own spiritual traditions, blending them with Christianity to create new forms. This was not missionary-approved — it was cultural survival.
 
 ---
 

@@ -18,7 +18,8 @@ tags: [apwh, unit-4, topic-4-7, period-2, practice, review]
 - C) pre-existing racial hierarchies that the Spanish imported from their home country
 - D) indigenous American social structures that the Spanish adapted for colonial administration
 
-**Answer: B** — The casta system was a new creation of the colonial Americas, not an import from Spain or an adaptation of indigenous systems. It developed because Spanish colonizers needed a legal framework to manage the new multiracial society that emerged from the encounter of three populations.
+> [!tip] Answer: **B**
+> The casta system was a new creation of the colonial Americas, not an import from Spain or an adaptation of indigenous systems. It developed because Spanish colonizers needed a legal framework to manage the new multiracial society that emerged from the encounter of three populations.
 
 ---
 
@@ -29,7 +30,8 @@ tags: [apwh, unit-4, topic-4-7, period-2, practice, review]
 - C) demonstrated Qing respect for Han Chinese cultural traditions
 - D) was quickly abandoned when it proved politically unpopular
 
-**Answer: B** — The queue requirement was a deliberate cultural imposition — a visible sign that the Manchu ruled China. Refusing could result in execution. It was simultaneously a loyalty test and a humiliation for Han Chinese men who valued Confucian norms about bodily integrity.
+> [!tip] Answer: **B**
+> The queue requirement was a deliberate cultural imposition — a visible sign that the Manchu ruled China. Refusing could result in execution. It was simultaneously a loyalty test and a humiliation for Han Chinese men who valued Confucian norms about bodily integrity.
 
 ---
 
@@ -40,7 +42,8 @@ tags: [apwh, unit-4, topic-4-7, period-2, practice, review]
 - C) the absence of any tension between Muslim, Jewish, and Christian communities in the empire
 - D) Ottoman rulers' personal agnosticism about religious matters
 
-**Answer: B** — Ottoman tolerance was real but limited. Non-Muslims could practice their faith and were protected, but they paid a special tax (jizya), lived in designated areas, and could not hold top positions. It was tolerance structured by hierarchy, not equality.
+> [!tip] Answer: **B**
+> Ottoman tolerance was real but limited. Non-Muslims could practice their faith and were protected, but they paid a special tax (jizya), lived in designated areas, and could not hold top positions. It was tolerance structured by hierarchy, not equality.
 
 ---
 
@@ -51,7 +54,8 @@ tags: [apwh, unit-4, topic-4-7, period-2, practice, review]
 - C) Creoles had allied with indigenous and African populations against Spanish rule
 - D) Creoles were denied access to Catholic education and religious institutions
 
-**Answer: B** — Creoles had achieved substantial local political and economic power by 1750, but the best positions (viceroy, archbishop, high court judges) were reserved for peninsulares. This glass ceiling — frustrated ambition, not fundamental oppression — would drive the independence movements of the early 19th century.
+> [!tip] Answer: **B**
+> Creoles had achieved substantial local political and economic power by 1750, but the best positions (viceroy, archbishop, high court judges) were reserved for peninsulares. This glass ceiling — frustrated ambition, not fundamental oppression — would drive the independence movements of the early 19th century.
 
 ---
 

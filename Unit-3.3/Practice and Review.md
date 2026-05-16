@@ -20,11 +20,11 @@ B) the corruption within the Catholic Church, particularly the sale of indulgenc
 C) the political ambitions of German princes seeking to weaken the Holy Roman Emperor  
 D) the failure of the Catholic Church to stop the Black Death plague
 
-**Answer: B**
-- A is wrong — the Ottoman conquest (1453) predated Luther and wasn't his focus.
-- **B is correct** — Luther's core objection was the sale of indulgences (buying forgiveness) and simony.
-- C is wrong — German princes *exploited* the Reformation; Luther didn't write the 95 Theses for their benefit.
-- D is wrong — the Black Death (14th century) was a background pressure on the Church's credibility, but it's not what the 95 Theses addressed.
+> [!tip] Answer: **B**
+> A is wrong — the Ottoman conquest (1453) predated Luther and wasn't his focus.
+> **B is correct** — Luther's core objection was the sale of indulgences (buying forgiveness) and simony.
+> C is wrong — German princes *exploited* the Reformation; Luther didn't write the 95 Theses for their benefit.
+> D is wrong — the Black Death (14th century) was a background pressure on the Church's credibility, but it's not what the 95 Theses addressed.
 
 ---
 
@@ -37,11 +37,11 @@ B) united all German states under a single Catholic monarchy
 C) increased state autonomy within the Holy Roman Empire and allowed rulers to choose among Catholicism, Lutheranism, and Calvinism  
 D) established the supremacy of papal authority over secular rulers in matters of religion
 
-**Answer: C**
-- A is wrong — it didn't end all conflict or establish full toleration; it allowed three specific choices.
-- B is wrong — it *fragmented* the Holy Roman Empire rather than unifying it.
-- **C is correct** — the Peace gave states autonomy in religious choice, weakening the Holy Roman Empire.
-- D is wrong — it actually *reduced* papal influence by empowering secular rulers.
+> [!tip] Answer: **C**
+> A is wrong — it didn't end all conflict or establish full toleration; it allowed three specific choices.
+> B is wrong — it *fragmented* the Holy Roman Empire rather than unifying it.
+> **C is correct** — the Peace gave states autonomy in religious choice, weakening the Holy Roman Empire.
+> D is wrong — it actually *reduced* papal influence by empowering secular rulers.
 
 ---
 
@@ -54,11 +54,11 @@ B) tolerating all faiths, giving land and money to Hindus, Muslims, Sikhs, and e
 C) requiring all subjects to convert to his syncretic Din-i Ilahi religion  
 D) discriminating against Hindus by reinstating the jizya (poll tax) on non-Muslims
 
-**Answer: B**
-- A is wrong — that describes the Safavids; Akbar was tolerant.
-- **B is correct** — Akbar practiced broad religious tolerance, granting resources to multiple faiths.
-- C is wrong — Akbar promoted Din-i Ilahi but didn't require conversion; it failed anyway.
-- D is wrong — Akbar *abolished* the jizya; Aurangzeb *reinstated* it.
+> [!tip] Answer: **B**
+> A is wrong — that describes the Safavids; Akbar was tolerant.
+> **B is correct** — Akbar practiced broad religious tolerance, granting resources to multiple faiths.
+> C is wrong — Akbar promoted Din-i Ilahi but didn't require conversion; it failed anyway.
+> D is wrong — Akbar *abolished* the jizya; Aurangzeb *reinstated* it.
 
 ---
 
@@ -71,11 +71,11 @@ B) a syncretic faith combining Hindu and Sufi Muslim elements that developed in 
 C) a reformation movement within Islam rejecting Sufi practices  
 D) a foreign religion imported to India via the Indian Ocean trade network
 
-**Answer: B**
-- A is wrong — Sikhism was not created by Akbar; it developed independently.
-- **B is correct** — Sikhism combined Hindu and Sufi Islamic influences; it's definitionally syncretic.
-- C is wrong — it drew from Islam but was not a reform movement within Islam.
-- D is wrong — Sikhism originated in India, not from external trade.
+> [!tip] Answer: **B**
+> A is wrong — Sikhism was not created by Akbar; it developed independently.
+> **B is correct** — Sikhism combined Hindu and Sufi Islamic influences; it's definitionally syncretic.
+> C is wrong — it drew from Islam but was not a reform movement within Islam.
+> D is wrong — Sikhism originated in India, not from external trade.
 
 ---
 
@@ -88,11 +88,11 @@ B) enabling the rapid spread of Luther's ideas and translated Bibles, making rel
 C) helping the Catholic Church publish and distribute the Index of Prohibited Books  
 D) creating a new merchant class that resented Church taxation
 
-**Answer: B**
-- A is wrong — the press printed text, not currency.
-- **B is correct** — the press allowed Luther's 95 Theses to spread rapidly; it made vernacular Bibles accessible.
-- C is wrong — the Index was a *response* to the Reformation, and the Church used the press too, but this isn't the primary contribution.
-- D is wrong — the merchant class existed before the press; this conflates two different developments.
+> [!tip] Answer: **B**
+> A is wrong — the press printed text, not currency.
+> **B is correct** — the press allowed Luther's 95 Theses to spread rapidly; it made vernacular Bibles accessible.
+> C is wrong — the Index was a *response* to the Reformation, and the Church used the press too, but this isn't the primary contribution.
+> D is wrong — the merchant class existed before the press; this conflates two different developments.
 
 ---
 

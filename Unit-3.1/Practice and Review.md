@@ -20,11 +20,11 @@ B) They all originated from Turkic nomads who used firearms to conquer and contr
 C) They all adopted Sunni Islam as their state religion  
 D) They all gained power by defeating the Ming Dynasty of China
 
-**Answer: B**
-- A is wrong — they descend from Turkic, not the same Mongol lineage.
-- **B is correct** — the key shared traits are Turkic origins, post-Mongol power vacuum exploitation, and gunpowder weapons.
-- C is wrong — the Safavids were Shi'a, not Sunni.
-- D is wrong — none of these empires defeated the Ming.
+> [!tip] Answer: **B**
+> A is wrong — they descend from Turkic, not the same Mongol lineage.
+> **B is correct** — the key shared traits are Turkic origins, post-Mongol power vacuum exploitation, and gunpowder weapons.
+> C is wrong — the Safavids were Shi'a, not Sunni.
+> D is wrong — none of these empires defeated the Ming.
 
 ---
 
@@ -37,11 +37,11 @@ B) gave the Ottomans control of a key trade chokepoint between the Aegean and Bl
 C) destroyed the eastern terminus of the Silk Roads  
 D) proved that land armies were superior to naval forces
 
-**Answer: B**
-- A is wrong — it *expanded* Islamic presence in Europe.
-- **B is correct** — Istanbul's location on the Bosporus Strait made it a crucial trade hub.
-- C is wrong — Istanbul *became* the terminus, reinforcing rather than destroying it.
-- D is wrong — the fall used cannons (technology), not strictly land vs. sea dynamics.
+> [!tip] Answer: **B**
+> A is wrong — it *expanded* Islamic presence in Europe.
+> **B is correct** — Istanbul's location on the Bosporus Strait made it a crucial trade hub.
+> C is wrong — Istanbul *became* the terminus, reinforcing rather than destroying it.
+> D is wrong — the fall used cannons (technology), not strictly land vs. sea dynamics.
 
 ---
 
@@ -54,11 +54,11 @@ B) created a lasting bureaucratic structure that governed Central Asia for centu
 C) set the stage for the rise of the Turkic Gunpowder Empires by exploiting post-Mongol power vacuums  
 D) unified China under a single dynasty for the first time since the Song period
 
-**Answer: C**
-- A is wrong — Mehmed II established Istanbul; the Osman dynasty founded the Ottomans.
-- B is wrong — Tamerlane *failed* to create lasting government.
-- **C is correct** — Tamerlane's conquests cleared the path; his descendant Babur founded the Mughals.
-- D is wrong — Tamerlane was Central Asian, not Chinese; the Ming unified China.
+> [!tip] Answer: **C**
+> A is wrong — Mehmed II established Istanbul; the Osman dynasty founded the Ottomans.
+> B is wrong — Tamerlane *failed* to create lasting government.
+> **C is correct** — Tamerlane's conquests cleared the path; his descendant Babur founded the Mughals.
+> D is wrong — Tamerlane was Central Asian, not Chinese; the Ming unified China.
 
 ---
 
@@ -71,11 +71,11 @@ B) Russia expanded its territory eastward using gunpowder and professional warri
 C) Russia developed a strong naval power in the Baltic Sea  
 D) Russia modeled its government on Western European parliamentary systems
 
-**Answer: B**
-- A is partially true but misleading — both rulers fought the boyars, but the trend wasn't consistent.
-- **B is correct** — the eastward expansion using gunpowder and Cossacks/professional soldiers is the through-line from Ivan IV to Peter.
-- C is wrong — the Baltic port (St. Petersburg) was Peter's achievement, not a continuity.
-- D is wrong — Peter admired Western Europe but created autocracy, not parliaments.
+> [!tip] Answer: **B**
+> A is partially true but misleading — both rulers fought the boyars, but the trend wasn't consistent.
+> **B is correct** — the eastward expansion using gunpowder and Cossacks/professional soldiers is the through-line from Ivan IV to Peter.
+> C is wrong — the Baltic port (St. Petersburg) was Peter's achievement, not a continuity.
+> D is wrong — Peter admired Western Europe but created autocracy, not parliaments.
 
 ---
 
@@ -88,11 +88,11 @@ B) a conflict driven equally by the Sunni-Shi'a religious divide and competition
 C) a purely political dispute over border territories with no religious dimension  
 D) a conflict in which the Safavids consistently defeated the Ottomans
 
-**Answer: B**
-- A is wrong — both empires had Turkic origins; it was not a racial conflict.
-- **B is correct** — AMSCO explicitly notes religious *and* commercial (silk trade embargoes) causes.
-- C is wrong — religion was clearly an underlying cause.
-- D is wrong — the Ottomans stopped Safavid expansion at Tabriz in 1541.
+> [!tip] Answer: **B**
+> A is wrong — both empires had Turkic origins; it was not a racial conflict.
+> **B is correct** — AMSCO explicitly notes religious *and* commercial (silk trade embargoes) causes.
+> C is wrong — religion was clearly an underlying cause.
+> D is wrong — the Ottomans stopped Safavid expansion at Tabriz in 1541.
 
 ---
 

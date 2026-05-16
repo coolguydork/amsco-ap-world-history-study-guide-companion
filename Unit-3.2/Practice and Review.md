@@ -20,11 +20,11 @@ B) create a loyal, professionally trained bureaucracy and military force indepen
 C) reduce the tax burden on Muslim subjects of the Ottoman Empire  
 D) provide enslaved labor for the construction of Ottoman architectural monuments
 
-**Answer: B**
-- A is wrong — only the recruited boys were converted; it was selective, not wholesale.
-- **B is correct** — the system's purpose was loyalty to the sultan above family or ethnic/regional ties.
-- C is wrong — it had no direct relationship to Muslim tax rates.
-- D is wrong — the boys became elite military and civil servants, not construction laborers.
+> [!tip] Answer: **B**
+> A is wrong — only the recruited boys were converted; it was selective, not wholesale.
+> **B is correct** — the system's purpose was loyalty to the sultan above family or ethnic/regional ties.
+> C is wrong — it had no direct relationship to Muslim tax rates.
+> D is wrong — the boys became elite military and civil servants, not construction laborers.
 
 ---
 
@@ -37,11 +37,11 @@ B) France developed a powerful parliament while England relied on royal intendan
 C) England developed limits on royal authority through Parliament while France moved toward royal absolutism  
 D) Both England and France adopted identical systems of divine right monarchy
 
-**Answer: C**
-- A is wrong — these are reversed.
-- B is wrong — these are reversed (England had Parliament, France had intendants).
-- **C is correct** — Parliament (especially the English Bill of Rights, 1689) limited the crown; Louis XIV epitomized absolutism.
-- D is wrong — their systems diverged significantly.
+> [!tip] Answer: **C**
+> A is wrong — these are reversed.
+> B is wrong — these are reversed (England had Parliament, France had intendants).
+> **C is correct** — Parliament (especially the English Bill of Rights, 1689) limited the crown; Louis XIV epitomized absolutism.
+> D is wrong — their systems diverged significantly.
 
 ---
 
@@ -54,11 +54,11 @@ B) an effort to increase state revenue by expanding the taxpayer base to include
 C) a policy designed to encourage migration from rural to urban areas  
 D) a response to the demands of the boyar class for tax relief
 
-**Answer: B**
-- A is wrong — the head tax actually shifted burden to peasants, not away from it.
-- **B is correct** — taxing individuals (heads) rather than land captured more revenue from the large peasant population.
-- C is wrong — it accelerated serfdom, not urbanization.
-- D is wrong — Peter consistently worked *against* boyar privileges.
+> [!tip] Answer: **B**
+> A is wrong — the head tax actually shifted burden to peasants, not away from it.
+> **B is correct** — taxing individuals (heads) rather than land captured more revenue from the large peasant population.
+> C is wrong — it accelerated serfdom, not urbanization.
+> D is wrong — Peter consistently worked *against* boyar privileges.
 
 ---
 
@@ -71,11 +71,11 @@ B) prevent the daimyo from forming independent power bases that could challenge 
 C) ensure that samurai had multiple employment opportunities across Japan  
 D) promote cultural exchange between regional and national elites
 
-**Answer: B**
-- A is wrong — the policy was political, not infrastructural.
-- **B is correct** — families as effective hostages and required residence in Edo kept daimyo subordinate.
-- C is wrong — samurai employment was tied to their daimyo, not the shogunate's residence requirements.
-- D is wrong — cultural exchange may have been a side effect, but was not the purpose.
+> [!tip] Answer: **B**
+> A is wrong — the policy was political, not infrastructural.
+> **B is correct** — families as effective hostages and required residence in Edo kept daimyo subordinate.
+> C is wrong — samurai employment was tied to their daimyo, not the shogunate's residence requirements.
+> D is wrong — cultural exchange may have been a side effect, but was not the purpose.
 
 ---
 
@@ -88,11 +88,11 @@ B) The tendency of local tax officials to accumulate personal power at the expen
 C) The incompatibility of Islam and Hinduism in governing a shared territory  
 D) The superiority of salary-based systems compared to tribute-based revenue collection
 
-**Answer: B**
-- A is wrong — the zamindar decline led to fragmentation, not democracy.
-- **B is correct** — zamindars began keeping more taxes and building private armies as central oversight weakened.
-- C is wrong — the Hindu-Muslim conflict under Aurangzeb is a related but separate issue.
-- D is wrong — the zamindars *were* initially salaried; the problem was the shift to land grants.
+> [!tip] Answer: **B**
+> A is wrong — the zamindar decline led to fragmentation, not democracy.
+> **B is correct** — zamindars began keeping more taxes and building private armies as central oversight weakened.
+> C is wrong — the Hindu-Muslim conflict under Aurangzeb is a related but separate issue.
+> D is wrong — the zamindars *were* initially salaried; the problem was the shift to land grants.
 
 ---
 
