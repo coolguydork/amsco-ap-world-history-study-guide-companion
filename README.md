@@ -2,21 +2,21 @@
 
 ## What's in This Vault
 
-For **Units 1–4** of the AMSCO *AP World History: Modern* textbook (AP Periods 1–2, c. 1200–1750), this vault contains **seven interlinked Markdown notes per topic** — formatted for Obsidian with wikilinks, tags, and callout blocks — plus unit-level synthesis files and a full accuracy audit log.
+For **Units 1–4** of the AMSCO *AP World History: Modern* textbook (AP Periods 1–2, c. 1200–1750), this vault contains **interlinked Markdown notes** organized by topic — formatted for Obsidian with wikilinks, tags, and callout blocks — plus unit-level synthesis files and a growing Concept Notes hub.
 
-**Total: 28 topics × 7 files = 196 Markdown notes, fully complete for Units 1–4.**
+**Total: ~95 Markdown notes across 26 topic folders, 3 unit overviews, and 17 Concept Notes. Units 1–4 fully complete.**
 
-Each topic folder contains:
+Each topic folder uses a flexible set of notes with student-friendly filenames. Common note types include:
 
-| File | Contents |
-|------|----------|
-| `00-Overview.md` | Topic summary, AMSCO learning objectives, AP key concepts, thematic preview |
-| `01-Key-Terms.md` | 15–25 vocabulary terms — plain-language definitions, historical significance, `[[wikilinks]]` |
-| `02-Key-People-and-Groups.md` | Key individuals, civilizations, empires, and movements — focused on causation and AP impact |
-| `03-Themes-and-Causation.md` | Content through AP's six thematic lenses with explicit cause-and-effect chains |
-| `04-Timeline.md` | Chronological table of 10–20 events with continuity vs. change annotations |
-| `05-Practice-Questions.md` | 10 AP-style MCQs with answers and explanations · 2 SAQ prompts · 1 DBQ outline |
-| `06-Connections.md` | Cross-chapter `[[wikilinks]]` — prior knowledge, forward connections, comparative civilizations |
+| Note type | What's inside |
+|-----------|---------------|
+| **Overview** (e.g., `Silk Roads Overview.md`) | Topic summary, AMSCO learning objectives, AP key concepts, causation and significance |
+| **Key Terms and People** | Vocabulary definitions, key individuals and groups — focused on AP impact and `[[wikilinks]]` |
+| **Practice and Review** | AP-style MCQs with explanations, SAQ prompts, DBQ/LEQ guidance, common misconceptions |
+| **Timeline and Chronology** | Chronological tables with continuity vs. change annotations (included where especially useful) |
+| **Themes and Historical Reasoning** | Topic analyzed through AP's six thematic lenses with cause-and-effect chains (included where especially useful) |
+
+Major topics get more notes; simpler or synthesis topics may combine categories. The goal is fewer, richer notes over mechanical uniformity.
 
 ---
 
