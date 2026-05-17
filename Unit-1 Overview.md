@@ -14,7 +14,7 @@ tags: [apwh, unit-1, period-1, overview, global-tapestry]
 
 Between 1200 and 1450, several large empires and states emerged or consolidated across Eurasia, Africa, and the Americas. Three mega-trends shaped the period:
 
-**1. The Revival and Rise of Powerful States.** The [[Unit-1.1/Song Dynasty and East Asia|Song Dynasty in China]] was the world's wealthiest and most technologically innovative state. The [[Unit-1.2/Dar al-Islam Overview|Islamic world]] stretched from Spain to Southeast Asia. New states emerged in [[Unit-1.5/Africa Overview|Africa]], [[Unit-1.3/South and Southeast Asia Overview|South and Southeast Asia]], and [[Unit-1.4/The Americas Overview|the Americas]]. [[Unit-1.6/Medieval Europe Overview|Europe]] was decentralized and feudal but beginning to change.
+**1. The Revival and Rise of Powerful States.** The [[Unit-1.1/East Asia Overview|Song Dynasty in China]] was the world's wealthiest and most technologically innovative state. The [[Unit-1.2/Dar al-Islam Overview|Islamic world]] stretched from Spain to Southeast Asia. New states emerged in [[Unit-1.5/Africa Overview|Africa]], [[Unit-1.3/South and Southeast Asia Overview|South and Southeast Asia]], and [[Unit-1.4/The Americas Overview|the Americas]]. [[Unit-1.6/Medieval Europe Overview|Europe]] was decentralized and feudal but beginning to change.
 
 **2. The Mongol Moment.** The [[Concept Notes/Mongols|Mongols]] — nomadic pastoralists from Central Asia — built the largest land empire in history, connecting much of Eurasia under a single political umbrella. Conquest brought devastation, but also the **Pax Mongolica**: a period of relative peace and trade that accelerated the exchange of goods, ideas, and disease.
 
@@ -24,7 +24,7 @@ Between 1200 and 1450, several large empires and states emerged or consolidated 
 
 | Topic | Title | Key Region |
 |-------|-------|------------|
-| [[Unit-1.1/Song Dynasty and East Asia\|1.1]] | Developments in East Asia | China, Japan, Korea, Vietnam |
+| [[Unit-1.1/East Asia Overview\|1.1]] | Developments in East Asia | China, Japan, Korea, Vietnam |
 | [[Unit-1.2/Dar al-Islam Overview\|1.2]] | Developments in Dar al-Islam | Middle East, North Africa, Spain |
 | [[Unit-1.3/South and Southeast Asia Overview\|1.3]] | Developments in South & Southeast Asia | India, SE Asia |
 | [[Unit-1.4/The Americas Overview\|1.4]] | Developments in the Americas | Mesoamerica, Andes, N. America |
@@ -44,7 +44,7 @@ Between 1200 and 1450, several large empires and states emerged or consolidated 
 ## Key Connections Forward
 
 This unit sets up everything that follows. Watch for:
-- [[Unit-2.1/Silk Roads|Silk Roads]] and [[Unit-2.3/Indian Ocean Trade|Indian Ocean trade]] (Unit 2) — already present here
+- [[Unit-2.1/Silk Roads Overview|Silk Roads]] and [[Unit-2.3/Indian Ocean Trade|Indian Ocean trade]] (Unit 2) — already present here
 - [[Unit-3.1/Ottoman Empire|Ottoman]], [[Unit-3.1/Safavid Empire|Safavid]], and [[Unit-3.1/Mughal Empire|Mughal]] Empires (Unit 3) — rooted in the Islamic world of Unit 1
 - [[Unit-4.1/European Exploration|European exploration]] (Unit 4) — driven in part by the desire to access goods first known through Unit 1 trade
 
