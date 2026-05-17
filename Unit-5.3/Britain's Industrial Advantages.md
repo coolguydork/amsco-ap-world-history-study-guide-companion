@@ -69,6 +69,6 @@ The water frame (Arkwright, 1769) required large buildings → production moved 
 
 ## Connections
 
-- [[Unit-5.3/Overview]] | [[Unit-5.3/Key Terms & Concepts]]
+- [[Unit-5.3/Industrial Revolution Begins Overview]] | [[Unit-5.3/Key Terms & Concepts]]
 - [[Unit-5.4/Global Spread of Industry]] — how other countries tried to replicate Britain's success
 - [[Unit-5.9/Overview]] — social consequences of this industrial system

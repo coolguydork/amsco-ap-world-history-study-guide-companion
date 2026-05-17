@@ -57,7 +57,7 @@ The most powerful corporations of the late 19th century **operated across nation
 | **Unilever** | British-Dutch | Household goods (soap) | Factories in Australia, Switzerland, U.S. by 1890; sourced palm oil from British West Africa then Belgian Congo |
 
 > [!exam-tip]
-> Transnational companies are a key example of how **economic imperialism** worked. De Beers, HSBC, and Unilever extracted resources and labor from colonized regions (Belgian Congo, British West Africa) and shipped profits back to Europe. This is New Imperialism in economic form — see [[Unit-6.1/Overview]].
+> Transnational companies are a key example of how **economic imperialism** worked. De Beers, HSBC, and Unilever extracted resources and labor from colonized regions (Belgian Congo, British West Africa) and shipped profits back to Europe. This is New Imperialism in economic form — see [[Unit-6.1/Overview|Unit 6.1 Overview]].
 
 ### Cecil Rhodes and the Cape-to-Cairo Railroad
 Rhodes planned a railroad connecting all British colonies from Cape Town (South Africa) to Cairo (Egypt) — a transportation network that would have made British imperial governance easier and military coordination faster. It was **never completed** because Britain never controlled all the necessary territory. But the project illustrates how industrial-era corporations had explicitly imperial ambitions.
@@ -88,12 +88,12 @@ Industrialization didn't just change production — it created a **consumer cult
 - European football (soccer) dominated the continent; baseball dominated the United States
 
 > [!tip]
-> The rise of consumer culture is evidence that industrialization raised living standards for some — the middle class could afford bicycles and theater tickets. But this same period produced the horrendous conditions described in [[Unit-5.8/Labor Unions & Reform]]. Both things are true simultaneously.
+> The rise of consumer culture is evidence that industrialization raised living standards for some — the middle class could afford bicycles and theater tickets. But this same period produced the horrendous conditions described in [[Unit-5.8/Labor Unions & Reform|Labor Unions & Reform]]. Both things are true simultaneously.
 
 ---
 
 ## Connections
 
-- [[Unit-5.7/Overview]] | [[Unit-5.7/Key Terms & Concepts]]
-- [[Unit-6.1/Overview]] — transnational corporations as engines of imperialism
-- [[Unit-5.8/Overview]] — worker reactions to corporate power
+- [[Unit-5.7/Economic Developments and Innovations Overview|Overview]] | [[Unit-5.7/Key Terms & Concepts|Key Terms & Concepts]]
+- [[Unit-6.1/Overview|Unit 6.1 Overview]] — transnational corporations as engines of imperialism
+- [[Unit-5.8/Overview|Unit 5.8 Overview]] — worker reactions to corporate power

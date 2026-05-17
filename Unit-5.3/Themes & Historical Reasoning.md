@@ -74,7 +74,7 @@ Multiple causes combined — no single factor explains it alone:
 
 ## Connections
 
-- [[Unit-5.3/Overview]] | [[Unit-5.3/Practice & Review]]
-- [[Unit-5.4/Overview]] — how industry spreads beyond Britain
+- [[Unit-5.3/Industrial Revolution Begins Overview]] | [[Unit-5.3/Practice & Review]]
+- [[Unit-5.4/Industrialization Spreads Overview]] — how industry spreads beyond Britain
 - [[Unit-5.9/Overview]] — social consequences of this industrial system
 - [[Unit-6.1/Overview]] — imperialism as consequence of industrialization

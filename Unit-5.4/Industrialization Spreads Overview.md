@@ -109,6 +109,6 @@ As some regions de-industrialized, they were absorbed into the global economy as
 
 ## Connections
 
-- **Backward:** [[Unit-5.3/Overview]] — why Britain industrialized first
+- **Backward:** [[Unit-5.3/Industrial Revolution Begins Overview]] — why Britain industrialized first
 - **Forward:** [[Unit-6.1/Overview]] — imperialism as industrialization's political consequence
 - **Lateral:** [[Unit-5.6/Government's Role in Industrialization Overview]] — how Japan, Ottoman Empire, and China responded to Western industrial pressure

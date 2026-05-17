@@ -33,7 +33,7 @@ In **1853**, U.S. Commodore **Matthew Perry** sailed a squadron of steam-powered
 
 ### Japan Watched China's Fate
 
-Japanese reformers were acutely aware of what had happened to China after the [[Opium War]]:
+Japanese reformers were acutely aware of what had happened to China after the [[Concept Notes/Opium War|Opium War]]:
 - Foreign "spheres of influence" carved up Chinese territory
 - Humiliating unequal treaties
 - A once-great civilization reduced to semi-colonial dependency
@@ -91,8 +91,8 @@ The Meiji government pursued modernization **systematically across every sector 
 - Financed primarily through a **high agricultural tax** (shifting the tax burden onto peasants, similar to Muhammad Ali's Egypt)
 - Agricultural tax revenue flowed to Tokyo's central bureaucracy and funded industrialization
 
-### Private Sector: The [[zaibatsu]]
-Alongside government investment, the Meiji era saw the rise of **[[zaibatsu]]** — powerful family-owned business conglomerates that dominated Japanese industry, functioning somewhat like American monopolies or conglomerates.
+### Private Sector: The [[Concept Notes/zaibatsu|zaibatsu]]
+Alongside government investment, the Meiji era saw the rise of **[[Concept Notes/zaibatsu|zaibatsu]]** — powerful family-owned business conglomerates that dominated Japanese industry, functioning somewhat like American monopolies or conglomerates.
 
 **Example:** Toyoda Loom Works, founded in **1906** by a carpenter, manufactured textile machinery. Generations later, this company became **Toyota Motor Company** — one of the world's largest automakers.
 
@@ -115,7 +115,7 @@ The numbers tell the story of Japan's transformation:
 
 ## The Social Cost: Industrialization's Dark Side
 
-The [[Meiji Restoration]] created an industrial society — and like Britain before it, Japan replicated **industrial society's problems**:
+The [[Concept Notes/Meiji Restoration|Meiji Restoration]] created an industrial society — and like Britain before it, Japan replicated **industrial society's problems**:
 
 - **Female mill workers** were exploited in ways strikingly similar to women in British textile mills
 - Peasants bore the heaviest tax burden to finance industrialization
@@ -140,9 +140,9 @@ The speed and completeness of Japan's transformation remains one of the most rem
 
 ## Connections
 
-- [[Ottoman Empire]], [[Muhammad Ali of Egypt]] — other government responses to Western pressure; compare and contrast
-- [[Opium War]] — the warning that motivated Japanese reform
-- [[zaibatsu]] — the private business organizations that partnered with the Meiji state
-- [[Unit-5.4/Overview]] — industrialization in Europe that Japan was emulating
+- [[Concept Notes/Ottoman Empire|Ottoman Empire]], [[Muhammad Ali of Egypt]] — other government responses to Western pressure; compare and contrast
+- [[Concept Notes/Opium War|Opium War]] — the warning that motivated Japanese reform
+- [[Concept Notes/zaibatsu|zaibatsu]] — the private business organizations that partnered with the Meiji state
+- [[Unit-5.4/Industrialization Spreads Overview]] — industrialization in Europe that Japan was emulating
 - [[Unit-6.1/Overview]] — Japan as both a target of imperialism and later an imperial power
 - [[realpolitik]] — the hardheaded strategic logic behind Meiji reforms

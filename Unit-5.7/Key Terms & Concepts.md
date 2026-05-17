@@ -20,7 +20,7 @@ An economic system in which **private individuals** own the means of production 
 French for "let do" or "let it be." The economic doctrine that governments should **not interfere** in market activity — no price controls, no production quotas, minimal regulation. Associated with [[Adam Smith]]'s *Wealth of Nations* (1776). The idea: free markets naturally produce efficient outcomes because self-interest drives productivity and competition.
 
 > [!tip]
-> **Laissez-faire** is the economic philosophy that justifies minimal government regulation of business. Its opposite in this period would be **mercantilism** (heavy government control of trade) or **socialism** (collective ownership). On the AP exam, be able to explain *why* laissez-faire became dominant and *what its critics* (like [[Karl Marx]]) said about it.
+> **Laissez-faire** is the economic philosophy that justifies minimal government regulation of business. Its opposite in this period would be **mercantilism** (heavy government control of trade) or **socialism** (collective ownership). On the AP exam, be able to explain *why* laissez-faire became dominant and *what its critics* (like [[Unit-5.8/Karl Marx & Socialism|Karl Marx]]) said about it.
 
 ### [[Adam Smith]] (1723–1790)
 Scottish economist and philosopher; author of *The Wealth of Nations* (1776). Smith argued that humans are naturally transactional (self-interested) and that free markets, guided by the "invisible hand" of supply and demand, allocate resources more efficiently than governments can. Smith championed [[capitalism]] and [[laissez-faire]] and attacked mercantilism. His work is foundational to modern economics.
@@ -32,7 +32,7 @@ Scottish economist and philosopher; author of *The Wealth of Nations* (1776). Sm
 The pre-industrial economic philosophy that a nation's wealth depended on accumulating gold and silver, maintaining a favorable trade balance, and using colonies to supply raw materials and buy finished goods. [[Adam Smith]]'s [[laissez-faire]] capitalism replaced mercantilism as the dominant economic framework.
 
 ### [[socialism]]
-The economic and political philosophy that advocates **collective or government ownership** of the means of production, distribution, and exchange. Arose as a critique of industrial [[capitalism]]'s inequalities. Associated with [[Karl Marx]] and Friedrich Engels (*The Communist Manifesto*, 1848; *Das Kapital*, 1867). Socialism held that capitalism exploited workers (the proletariat) for the benefit of owners (the bourgeoisie).
+The economic and political philosophy that advocates **collective or government ownership** of the means of production, distribution, and exchange. Arose as a critique of industrial [[capitalism]]'s inequalities. Associated with [[Unit-5.8/Karl Marx & Socialism|Karl Marx]] and Friedrich Engels (*The Communist Manifesto*, 1848; *Das Kapital*, 1867). Socialism held that capitalism exploited workers (the proletariat) for the benefit of owners (the bourgeoisie).
 
 ---
 
@@ -105,7 +105,7 @@ New forms of recreation that developed alongside industrialization:
 
 ## Connections
 
-- [[Industrial Revolution]] — the production system that made these economic innovations necessary
-- [[Unit-5.6/Government's Role in Industrialization Overview]] — how governments shaped economic development
-- [[Unit-5.8/Overview]] — how economic power drove imperial expansion
-- [[Unit-6.1/Overview]] — the global economy that transnational companies helped build
+- [[Unit-5.3/Industrial Revolution Begins Overview|Industrial Revolution]] — the production system that made these economic innovations necessary
+- [[Unit-5.6/Government's Role in Industrialization Overview|Government's Role in Industrialization]] — how governments shaped economic development
+- [[Unit-5.8/Overview|Unit 5.8 Overview]] — how economic power drove imperial expansion
+- [[Unit-6.1/Overview|Unit 6.1 Overview]] — the global economy that transnational companies helped build

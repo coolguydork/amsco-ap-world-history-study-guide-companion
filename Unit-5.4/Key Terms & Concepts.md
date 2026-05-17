@@ -14,7 +14,7 @@ tags: [apwh, unit-5, topic-5-4, period-3, key-terms, vocabulary, industrializati
 ## Core Concepts
 
 ### Defensive Modernization
-A strategy in which a non-Western country deliberately adopts Western technology, institutions, and methods in order to *protect* its own sovereignty and culture from Western domination. Japan's [[Meiji Restoration]] is the clearest example. The goal is selective adoption — take the technology, reject the subjugation.
+A strategy in which a non-Western country deliberately adopts Western technology, institutions, and methods in order to *protect* its own sovereignty and culture from Western domination. Japan's [[Concept Notes/Meiji Restoration|Meiji Restoration]] is the clearest example. The goal is selective adoption — take the technology, reject the subjugation.
 
 > [!tip] Contrast defensive modernization with countries that *did not* modernize (Ottoman Empire's slower adaptation, Qing China's resistance) and were colonized or forced into unequal treaties.
 
@@ -35,7 +35,7 @@ A massive railroad project connecting **Moscow to the Pacific Ocean** across Sib
 The *decline* of existing manufacturing sectors — often caused by foreign competition or deliberate colonial policy. Happened in India and Egypt as a result of British industrial dominance and colonial governance.
 
 ### Meiji Restoration
-The 1868 political transformation in Japan in which Emperor Meiji reclaimed power from the Tokugawa shogunate. The Meiji government launched rapid modernization — building railroads, factories, a modern army and navy — making Japan the first Asian industrial power. See [[Meiji Restoration]].
+The 1868 political transformation in Japan in which Emperor Meiji reclaimed power from the Tokugawa shogunate. The Meiji government launched rapid modernization — building railroads, factories, a modern army and navy — making Japan the first Asian industrial power. See [[Concept Notes/Meiji Restoration|Meiji Restoration]].
 
 ---
 
@@ -45,7 +45,7 @@ The 1868 political transformation in Japan in which Emperor Meiji reclaimed powe
 Germany's primary coal and steel region. After German unification (1871), the Ruhr became the engine of Germany's industrial boom — comparable to Britain's Lancashire and Yorkshire.
 
 ### Tokugawa Shogunate
-The Japanese military government that ruled from 1603 to 1868 and enforced a policy of isolation from Europe. Its overthrow in the [[Meiji Restoration]] opened Japan to industrialization.
+The Japanese military government that ruled from 1603 to 1868 and enforced a policy of isolation from Europe. Its overthrow in the [[Concept Notes/Meiji Restoration|Meiji Restoration]] opened Japan to industrialization.
 
 ### East India Company (British)
 A royally chartered trading company that came to govern much of India (1757–1858). Under Company rule, Indian industries — shipbuilding, iron, textiles — were undercut through tariffs, regulations, and direct takeover. After the Rebellion of 1857, the British Crown took direct control.
@@ -79,7 +79,7 @@ Use this table to organize your comparisons for essays:
 ---
 
 ## See Also
-- [[Unit-5.4/Overview]] — narrative context
+- [[Unit-5.4/Industrialization Spreads Overview]] — narrative context
 - [[Unit-5.4/Global Spread of Industry]] — country-by-country deep dive
 - [[Unit-5.3/Key Terms & Concepts]] — foundational vocabulary from Topic 5.3
 - [[Unit-5.4/Practice & Review]] — test yourself

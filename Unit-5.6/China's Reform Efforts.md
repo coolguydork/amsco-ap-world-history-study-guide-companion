@@ -17,7 +17,7 @@ China in the 19th century faced a brutal dilemma: industrialize and transform so
 
 China entered the 19th century as one of the wealthiest, most populous, and most culturally confident civilizations in the world. By mid-century, that confidence had been shattered:
 
-- The **[[Opium War]] (1839–1842)**: Britain forced China to legalize the opium trade, cede Hong Kong, and open treaty ports. The military mismatch was humiliating.
+- The **[[Concept Notes/Opium War|Opium War]] (1839–1842)**: Britain forced China to legalize the opium trade, cede Hong Kong, and open treaty ports. The military mismatch was humiliating.
 - **Spheres of Influence**: European powers (and later Japan) carved out zones of economic and political control within China, each claiming exclusive rights in their sphere.
 - The Qing central government was **too weakened** by these external pressures — and by internal rebellions like the Taiping Rebellion — to mount an effective industrial response.
 
@@ -70,13 +70,13 @@ Between June and September 1898 — just **103 days** — Guangxu issued a sweep
 - Reorganize the military on modern lines
 - Create modern schools emphasizing practical subjects
 
-These reforms, if implemented, would have been as transformative as the [[Meiji Restoration]].
+These reforms, if implemented, would have been as transformative as the [[Concept Notes/Meiji Restoration|Meiji Restoration]].
 
 ---
 
-## [[Empress Cixi]]'s Coup: Reform Crushed
+## [[Concept Notes/Empress Cixi|Empress Cixi]]'s Coup: Reform Crushed
 
-[[Empress Cixi]] — the conservative empress dowager, Emperor Guangxu's aunt and adoptive mother — refused to allow the reforms to proceed. In September 1898, she staged a **coup d'état**:
+[[Concept Notes/Empress Cixi|Empress Cixi]] — the conservative empress dowager, Emperor Guangxu's aunt and adoptive mother — refused to allow the reforms to proceed. In September 1898, she staged a **coup d'état**:
 
 - Placed Emperor Guangxu under **house arrest** on a lake island in the Forbidden City (where he remained until his death in 1908)
 - **Repealed virtually all reform edicts**
@@ -90,13 +90,13 @@ Cixi and the conservative establishment (including many Manchu nobles and tradit
 - Open China to even greater foreign cultural penetration
 
 > [!exam-tip]
-> [[Empress Cixi]] is a key figure for the AP exam as a symbol of **conservative resistance to reform**. Compare her to other conservative rulers who resisted industrialization. Contrast her with Meiji reformers who embraced change despite cultural disruption.
+> [[Concept Notes/Empress Cixi|Empress Cixi]] is a key figure for the AP exam as a symbol of **conservative resistance to reform**. Compare her to other conservative rulers who resisted industrialization. Contrast her with Meiji reformers who embraced change despite cultural disruption.
 
 ---
 
 ## The Irony: Cixi's Late Concessions
 
-In a bitter irony, [[Empress Cixi]] herself later acknowledged that China's civil service system was broken:
+In a bitter irony, [[Concept Notes/Empress Cixi|Empress Cixi]] herself later acknowledged that China's civil service system was broken:
 - Wealthy families were buying government posts
 - Bribery was rampant
 - Unqualified officials held positions
@@ -129,9 +129,9 @@ The United States tried to maintain a balance of power in Asia during this perio
 
 ## Connections
 
-- [[Opium War]] — the event that exposed China's military weakness and triggered reform debates
-- [[Empress Cixi]] — the conservative force that blocked Chinese modernization
-- [[Meiji Restoration]] — Japan's successful contrast; the defeat of China by Japan in 1895 proved Meiji's success
+- [[Concept Notes/Opium War|Opium War]] — the event that exposed China's military weakness and triggered reform debates
+- [[Concept Notes/Empress Cixi|Empress Cixi]] — the conservative force that blocked Chinese modernization
+- [[Concept Notes/Meiji Restoration|Meiji Restoration]] — Japan's successful contrast; the defeat of China by Japan in 1895 proved Meiji's success
 - [[Unit-5.8/Overview]] — European imperialism in China (spheres of influence)
 - [[Unit-6.1/Overview]] — China as a target of imperial powers
-- [[Unit-3.1/Overview]] — China's earlier power and Confucian bureaucratic tradition
+- [[Unit-3.1/Gunpowder Empires Overview]] — China's earlier power and Confucian bureaucratic tradition

@@ -15,7 +15,7 @@ tags: [apwh, unit-5, topic-5-1, period-3, enlightenment, intellectual-history, e
 
 ## What Was the Enlightenment?
 
-The Enlightenment was an 18th-century intellectual movement that prioritized **reason, individualism, and natural law** over tradition and religious authority. Growing out of the [[Concept Notes/Scientific Revolution]] and Renaissance humanism, Enlightenment thinkers believed that applying reason to society would produce progress. These ideas planted the seeds of revolution across the Atlantic world and beyond.
+The Enlightenment was an 18th-century intellectual movement that prioritized **reason, individualism, and natural law** over tradition and religious authority. Growing out of the [[Concept Notes/Scientific Revolution|Scientific Revolution]] and Renaissance humanism, Enlightenment thinkers believed that applying reason to society would produce progress. These ideas planted the seeds of revolution across the Atlantic world and beyond.
 
 > [!exam-tip]
 > The AP exam frequently asks you to connect Enlightenment ideas to specific revolutions (American, French, Haitian, Latin American). Know which thinker influenced which revolution and how.
@@ -103,5 +103,5 @@ The Enlightenment is the **intellectual engine** driving all of Unit 5. Every re
 
 ## Connections
 
-- **Backward:** [[Concept Notes/Scientific Revolution]] (intellectual roots) | [[Unit-4.5/Maritime Empires Develop Overview]] (Atlantic trade context)
+- **Backward:** [[Concept Notes/Scientific Revolution|Scientific Revolution]] (intellectual roots) | [[Unit-4.5/Maritime Empires Develop Overview]] (Atlantic trade context)
 - **Forward:** [[Unit-5.2/Nationalism and Revolutions Overview]] (Revolutions) | [[Unit-5.8/Overview]] (Marx and capitalism critiques) | [[Unit-6.1/Overview]] (Industrialization consequences)

@@ -15,7 +15,7 @@ tags: [apwh, unit-5, topic-5-2, period-3, nationalism, revolutions, american-rev
 
 ## The Big Picture
 
-The [[Unit-5.1/Overview|Enlightenment]] generated ideas about natural rights, popular sovereignty, and constitutional government. Those ideas collided with political realities — colonial rule, absolute monarchy, slavery, ethnic oppression — and produced a wave of revolutions from the 1770s through the 1820s. Nationalism then continued reshaping borders through unification movements in Italy and Germany and independence movements in the Balkans and Latin America well into the 1870s.
+The [[Unit-5.1/Enlightenment Overview|Enlightenment]] generated ideas about natural rights, popular sovereignty, and constitutional government. Those ideas collided with political realities — colonial rule, absolute monarchy, slavery, ethnic oppression — and produced a wave of revolutions from the 1770s through the 1820s. Nationalism then continued reshaping borders through unification movements in Italy and Germany and independence movements in the Balkans and Latin America well into the 1870s.
 
 > [!exam-tip]
 > A key AP skill is comparing revolutions. Know the causes, leaders, outcomes, and limitations of each revolution — especially the Haitian Revolution, which is frequently tested because it was the only successful slave revolution in history.
@@ -131,12 +131,12 @@ Nationalism — the feeling that people who share a language, culture, and histo
 - **Ottomanism** (1870s–80s): attempt to create unified multi-ethnic state through shared curriculum and standard law → backfired by intensifying minority nationalism
 
 > [!exam-tip]
-> Know the connection: Balkan nationalism → competing European alliances → [[World War I]]. German and Italian unification created new great powers that upset the balance of power.
+> Know the connection: Balkan nationalism → competing European alliances → [[Concept Notes/World War I|World War I]]. German and Italian unification created new great powers that upset the balance of power.
 
 ---
 
 ## Connections
 
-- **Backward:** [[Unit-5.1/Overview]] — Enlightenment ideas that caused these revolutions
+- **Backward:** [[Unit-5.1/Enlightenment Overview]] — Enlightenment ideas that caused these revolutions
 - **Forward:** [[Unit-6.1/Overview]] — Consequences of industrialization | [[Unit-7.1/Overview]] — WWI rooted in nationalism
 - **Lateral:** [[Unit-5.6/Government's Role in Industrialization Overview]] — Non-European responses to Western power (Japan, Ottoman Empire, China)

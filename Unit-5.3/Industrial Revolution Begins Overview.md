@@ -41,7 +41,7 @@ Britain had a unique combination of advantages that no other country matched in 
 - Accumulated wealth from the trans-Atlantic slave trade gave British capitalists **excess capital** (money to invest in new businesses)
 
 > [!warning]
-> Don't sanitize this: Britain's Industrial Revolution was partially funded by the profits of the Atlantic slave trade. This is a crucial connection the AP exam may test — and it connects to the decline of India's manufacturing (see [[Unit-5.4/Overview]]).
+> Don't sanitize this: Britain's Industrial Revolution was partially funded by the profits of the Atlantic slave trade. This is a crucial connection the AP exam may test — and it connects to the decline of India's manufacturing (see [[Unit-5.4/Industrialization Spreads Overview]]).
 
 ### Legal Protection of Private Property
 - Entrepreneurs needed assurance their businesses wouldn't be seized by government or rivals
@@ -100,6 +100,6 @@ The combination of the enclosure movement + factory jobs drew millions from rura
 
 ## Connections
 
-- **Backward:** [[Unit-4.5/Overview]] (Columbian Exchange → potato; Atlantic trade → capital) | [[Unit-4.4/Overview]] (mercantilism → contrast with Smith's laissez-faire)
+- **Backward:** [[Unit-4.5/Maritime Empires Develop Overview]] (Atlantic trade → capital) | [[Unit-4.3/Columbian Exchange Overview]] (Columbian Exchange → potato) | [[Unit-4.4/Maritime Empires Overview]] (mercantilism → contrast with Smith's laissez-faire)
 - **Forward:** [[Unit-5.4/Industrialization Spreads Overview]] (industrialization spreads) | [[Unit-5.5/Technology in the Industrial Age Overview]] (technology deepens) | [[Unit-5.9/Overview]] (social consequences)
-- **Lateral:** [[Unit-5.1/Overview]] (Adam Smith's laissez-faire = intellectual backdrop of industrialization)
+- **Lateral:** [[Unit-5.1/Enlightenment Overview]] (Adam Smith's laissez-faire = intellectual backdrop of industrialization)

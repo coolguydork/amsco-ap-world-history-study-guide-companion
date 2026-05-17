@@ -107,5 +107,5 @@ tags: [apwh, unit-5, topic-5-2, period-3, nationalism, revolutions, people, lead
 
 ## Connections
 
-- [[Unit-5.2/Overview]] | [[Unit-5.2/Revolutions Compared]] | [[Unit-5.2/Themes & Historical Reasoning]]
+- [[Unit-5.2/Nationalism and Revolutions Overview]] | [[Unit-5.2/Revolutions Compared]] | [[Unit-5.2/Themes & Historical Reasoning]]
 - [[Unit-5.1/People & Thinkers]] — the Enlightenment thinkers who inspired these leaders

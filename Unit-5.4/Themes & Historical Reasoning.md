@@ -62,7 +62,7 @@ The spread of industrialization created new social classes and tensions worldwid
 Technology transfer was central to how industrialization spread:
 
 - Belgium, France, and Germany *adopted* British technology (sometimes legally, sometimes through industrial espionage)
-- Japan *sent students abroad* and *hired Western experts* — a deliberate technology transfer program under the [[Meiji Restoration]]
+- Japan *sent students abroad* and *hired Western experts* — a deliberate technology transfer program under the [[Concept Notes/Meiji Restoration|Meiji Restoration]]
 - Russia focused on railroad technology specifically
 
 **Environmental note:** As industrialization spread, so did environmental consequences — coal smoke, river pollution, deforestation for fuel and construction. This is an increasingly important AP theme.
@@ -79,7 +79,7 @@ Technology transfer was central to how industrialization spread:
 
 **Russia:** Vast size made industrialization logistically difficult; serfdom (abolished 1861) had suppressed a mobile labor force; the state had to drive the process because private capital was weak.
 
-**Japan:** Centuries of isolation meant starting from near-zero in terms of industrial technology — but the [[Meiji Restoration]]'s top-down approach compensated for this.
+**Japan:** Centuries of isolation meant starting from near-zero in terms of industrial technology — but the [[Concept Notes/Meiji Restoration|Meiji Restoration]]'s top-down approach compensated for this.
 
 ### Why Did Some Regions Deindustrialize?
 
@@ -141,7 +141,7 @@ Both were major European nations, both industrialized in the 19th century — bu
 - [[Unit-5.5/Themes & Historical Reasoning]] — technology as historical driver
 - [[Unit-5.4/Practice & Review]] — apply these frameworks to practice questions
 - [[colonialism]] — the mechanism of deindustrialization
-- [[Meiji Restoration]] — defensive modernization in depth
+- [[Concept Notes/Meiji Restoration|Meiji Restoration]] — defensive modernization in depth
 
 ---
 

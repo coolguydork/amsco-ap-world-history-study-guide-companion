@@ -72,5 +72,5 @@ tags: [apwh, unit-5, topic-5-2, period-3, nationalism, revolutions, vocabulary, 
 
 ## Connections
 
-- [[Unit-5.2/Overview]] | [[Unit-5.2/Revolutions Compared]] | [[Unit-5.2/People & Movements]]
+- [[Unit-5.2/Nationalism and Revolutions Overview]] | [[Unit-5.2/Revolutions Compared]] | [[Unit-5.2/People & Movements]]
 - [[Unit-5.1/Key Terms & Concepts]] — Enlightenment vocabulary that feeds into these revolutions

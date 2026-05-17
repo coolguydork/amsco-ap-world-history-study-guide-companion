@@ -11,7 +11,7 @@ tags: [apwh, unit-5, topic-5-2, period-3, revolutions, comparison, american-revo
 
 ## Comparing the Atlantic Revolutions
 
-The American, French, Haitian, and Latin American revolutions all drew from [[Unit-5.1/Overview|Enlightenment]] ideas, but they differed enormously in who led them, what they demanded, and what they achieved.
+The American, French, Haitian, and Latin American revolutions all drew from [[Unit-5.1/Enlightenment Overview|Enlightenment]] ideas, but they differed enormously in who led them, what they demanded, and what they achieved.
 
 ### Causes
 
@@ -95,7 +95,7 @@ This is a useful comparison point: nationalism could be a **tool of resistance**
 
 ## Connections
 
-- [[Unit-5.2/Overview]] | [[Unit-5.2/People & Movements]]
-- [[Unit-5.1/Overview]] — Enlightenment ideas driving these comparisons
+- [[Unit-5.2/Nationalism and Revolutions Overview]] | [[Unit-5.2/People & Movements]]
+- [[Unit-5.1/Enlightenment Overview]] — Enlightenment ideas driving these comparisons
 - [[Unit-6.1/Overview]] — Imperialism continues to reshape these patterns
 - [[Unit-7.1/Overview]] — WWI as consequence of European nationalist rivalries

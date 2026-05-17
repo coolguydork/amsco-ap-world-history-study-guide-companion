@@ -30,7 +30,7 @@ The corporation's key innovation was **limited liability**: investors could back
 
 **How did transnational corporations cause imperialism?**
 
-Corporations needed raw materials (rubber, palm oil, cotton, diamonds) and markets. They lobbied governments for colonial protection of their operations. They paid colonial workers far less than European workers. They reinvested profits in Europe, not in colonies. In this way, corporate expansion and imperial expansion were inseparable — see [[Unit-6.1/Overview]].
+Corporations needed raw materials (rubber, palm oil, cotton, diamonds) and markets. They lobbied governments for colonial protection of their operations. They paid colonial workers far less than European workers. They reinvested profits in Europe, not in colonies. In this way, corporate expansion and imperial expansion were inseparable — see [[Unit-6.1/Overview|Unit 6.1 Overview]].
 
 ---
 
@@ -64,6 +64,6 @@ Corporations needed raw materials (rubber, palm oil, cotton, diamonds) and marke
 
 ## Connections
 
-- [[Unit-5.7/Overview]] | [[Unit-5.7/Business Structures & Corporations]] | [[Unit-5.7/Practice & Review]]
-- [[Unit-6.1/Overview]] — New Imperialism as corporate expansion
-- [[Unit-5.8/Overview]] — Workers react to corporate capitalism
+- [[Unit-5.7/Economic Developments and Innovations Overview|Overview]] | [[Unit-5.7/Business Structures & Corporations|Business Structures & Corporations]] | [[Unit-5.7/Practice & Review|Practice & Review]]
+- [[Unit-6.1/Overview|Unit 6.1 Overview]] — New Imperialism as corporate expansion
+- [[Unit-5.8/Overview|Unit 5.8 Overview]] — Workers react to corporate capitalism

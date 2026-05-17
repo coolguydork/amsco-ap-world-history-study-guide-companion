@@ -76,5 +76,5 @@ tags: [apwh, unit-5, topic-5-3, period-3, industrial-revolution, vocabulary, key
 
 ## Connections
 
-- [[Unit-5.3/Overview]] | [[Unit-5.3/Britain's Industrial Advantages]] | [[Unit-5.3/Themes & Historical Reasoning]]
+- [[Unit-5.3/Industrial Revolution Begins Overview]] | [[Unit-5.3/Britain's Industrial Advantages]] | [[Unit-5.3/Themes & Historical Reasoning]]
 - [[Unit-5.4/Key Terms & Concepts]] — how industry spreads

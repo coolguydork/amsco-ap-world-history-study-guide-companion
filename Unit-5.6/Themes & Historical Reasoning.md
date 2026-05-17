@@ -17,14 +17,14 @@ Use this note to connect Topic 5.6 to the **AP World History themes** and to pra
 This entire topic is fundamentally about governance — specifically, how states used (or failed to use) government power to direct economic transformation.
 
 - **Strong central government** enabled Japan's rapid industrialization
-- **Weak, corrupt, or divided government** hampered the [[Ottoman Empire]] and China
-- [[Muhammad Ali of Egypt]] shows that even within a weak empire ([[Ottoman Empire]]), a capable regional ruler could drive transformation
-- The **type of government** mattered: Japan's Meiji oligarchy could override traditional interests; China's Qing court was held hostage by conservative factions like [[Empress Cixi]]
+- **Weak, corrupt, or divided government** hampered the [[Concept Notes/Ottoman Empire|Ottoman Empire]] and China
+- [[Muhammad Ali of Egypt]] shows that even within a weak empire ([[Concept Notes/Ottoman Empire|Ottoman Empire]]), a capable regional ruler could drive transformation
+- The **type of government** mattered: Japan's Meiji oligarchy could override traditional interests; China's Qing court was held hostage by conservative factions like [[Concept Notes/Empress Cixi|Empress Cixi]]
 
 ### 2. Economic Systems (ECN)
 - **State-directed capitalism**: Japan and Egypt built industries through government investment and subsidies, not purely private markets
 - **Agricultural extraction**: both Japan and Egypt taxed peasants heavily to fund industrialization — a continuity with earlier dynastic revenue practices
-- **Private-public partnership** in Japan: [[zaibatsu]] worked alongside the government; private investment amplified state-directed growth
+- **Private-public partnership** in Japan: [[Concept Notes/zaibatsu|zaibatsu]] worked alongside the government; private investment amplified state-directed growth
 
 ### 3. Social Structures (SIO)
 - Japan's industrialization **destroyed the samurai class** — the dominant social group for centuries — virtually overnight
@@ -46,7 +46,7 @@ This entire topic is fundamentally about governance — specifically, how states
 
 **What caused different states to attempt industrialization?**
 - External pressure: Western military-industrial power (Perry's "black ships," Opium War humiliation, European imperialism)
-- Fear of colonization: watching China's fate after the [[Opium War]] was a powerful motivator for Japan
+- Fear of colonization: watching China's fate after the [[Concept Notes/Opium War|Opium War]] was a powerful motivator for Japan
 - Internal political change: the overthrow of the shogunate enabled Meiji reforms
 
 **What caused different outcomes?**
@@ -84,7 +84,7 @@ The richest comparisons in Topic 5.6:
 ### Contextualization
 
 Topic 5.6 sits within the broader context of:
-- The global spread of industrialization outward from Britain ([[Unit-5.3/Overview]], [[Unit-5.4/Overview]])
+- The global spread of industrialization outward from Britain ([[Unit-5.3/Industrial Revolution Begins Overview]], [[Unit-5.4/Industrialization Spreads Overview]])
 - The rise of European imperialism enabled by industrial military power ([[Unit-5.8/Overview]], [[Unit-6.1/Overview]])
 - The intellectual context of [[realpolitik]] — the hardheaded calculation that power requires modern technology
 
@@ -93,7 +93,7 @@ Topic 5.6 sits within the broader context of:
 ## Thesis Practice
 
 > [!exam-tip]
-> **Practice thesis:** "Between 1800 and 1914, states that adopted comprehensive government-led industrialization — as Japan did through the [[Meiji Restoration]] — successfully preserved their sovereignty, while states that attempted only partial reform — as China did through the Self-Strengthening Movement — remained vulnerable to Western imperial domination, because the depth of institutional transformation determined a nation's capacity to generate and sustain industrial military power."
+> **Practice thesis:** "Between 1800 and 1914, states that adopted comprehensive government-led industrialization — as Japan did through the [[Concept Notes/Meiji Restoration|Meiji Restoration]] — successfully preserved their sovereignty, while states that attempted only partial reform — as China did through the Self-Strengthening Movement — remained vulnerable to Western imperial domination, because the depth of institutional transformation determined a nation's capacity to generate and sustain industrial military power."
 
 This thesis:
 - Makes a historically defensible claim
@@ -108,4 +108,4 @@ This thesis:
 - [[Simón Bolívar]] — compare Latin American independence movements: political change that did NOT produce economic modernization (contrast with Meiji Japan)
 - [[capitalism]], [[laissez-faire]] — the economic framework Japan partially adopted
 - [[Karl Marx]], [[socialism]] — alternative responses to industrial capitalism's disruptions
-- [[Unit-5.3/Overview]], [[Unit-5.4/Overview]] — the British/European industrialization these states were responding to
+- [[Unit-5.3/Industrial Revolution Begins Overview]], [[Unit-5.4/Industrialization Spreads Overview]] — the British/European industrialization these states were responding to

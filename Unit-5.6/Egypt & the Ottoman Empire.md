@@ -9,13 +9,13 @@ tags: [apwh, unit-5, topic-5-6, period-3, egypt, ottoman-empire, muhammad-ali, s
 
 ## Two Paths in the Same Region
 
-The [[Ottoman Empire]] and Egypt in the 19th century illustrate two very different responses to Western industrial and military pressure — even though Egypt was technically part of the Ottoman system. (AMSCO pp. 317–319)
+The [[Concept Notes/Ottoman Empire|Ottoman Empire]] and Egypt in the 19th century illustrate two very different responses to Western industrial and military pressure — even though Egypt was technically part of the Ottoman system. (AMSCO pp. 317–319)
 
 ---
 
 ## The Ottoman Empire: "Sick Man of Europe"
 
-By the 19th century, the [[Ottoman Empire]] was in serious trouble:
+By the 19th century, the [[Concept Notes/Ottoman Empire|Ottoman Empire]] was in serious trouble:
 
 - **Corruption** drained resources and undermined effective governance
 - **Ethnic nationalism** among subject peoples (Greeks, Slavs, Armenians, Arabs) created constant unrest and separatist movements
@@ -34,7 +34,7 @@ European powers — especially Russia — recognized the opportunity. The phrase
 
 ## Egypt: The Muhammad Ali Exception
 
-Egypt tells a dramatically different story. While technically part of the [[Ottoman Empire]], Egypt under [[Muhammad Ali of Egypt]] became one of the most aggressively modernizing states of the early 19th century.
+Egypt tells a dramatically different story. While technically part of the [[Concept Notes/Ottoman Empire|Ottoman Empire]], Egypt under [[Muhammad Ali of Egypt]] became one of the most aggressively modernizing states of the early 19th century.
 
 ### Background: The Mamluks and Ottoman Egypt
 
@@ -100,8 +100,8 @@ Muhammad Ali is called **"the first great modern ruler of Egypt"** for good reas
 
 ## Connections
 
-- [[Meiji Restoration]] — compare Japan's state-led industrialization
-- [[Ottoman Empire]] — Egypt's nominal overlord; contrast Ottoman weakness with Egyptian initiative
+- [[Concept Notes/Meiji Restoration|Meiji Restoration]] — compare Japan's state-led industrialization
+- [[Concept Notes/Ottoman Empire|Ottoman Empire]] — Egypt's nominal overlord; contrast Ottoman weakness with Egyptian initiative
 - [[Industrial Revolution]] — the model Muhammad Ali was trying to replicate
 - [[Unit-5.8/Overview]] — European imperialism eventually overwhelmed Egypt (British occupation 1882)
-- [[Unit-3.1/Overview]] — earlier Ottoman power and structure
+- [[Unit-3.1/Gunpowder Empires Overview]] — earlier Ottoman power and structure

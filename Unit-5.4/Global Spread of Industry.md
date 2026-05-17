@@ -81,7 +81,7 @@ Japan's industrialization is perhaps the most dramatic story in 19th-century wor
 
 **The shock of 1853:** American Commodore Matthew Perry arrived with steam-powered warships and forced Japan to open its ports to trade. Japanese leaders saw immediately that their military technology was generations behind.
 
-**The [[Meiji Restoration]] (1868):**
+**The [[Concept Notes/Meiji Restoration|Meiji Restoration]] (1868):**
 - Young samurai and reformers overthrew the shogunate and restored imperial rule under Emperor Meiji
 - The new government launched a top-down program of **defensive modernization**:
   - Sent hundreds of students abroad to study Western science, law, and industry
@@ -156,9 +156,9 @@ Unlike India, Egypt's deindustrialization was more a product of price competitio
 ---
 
 ## Connections
-- [[Unit-5.4/Overview]] — narrative overview
+- [[Unit-5.4/Industrialization Spreads Overview]] — narrative overview
 - [[Unit-5.3/Britain's Industrial Advantages]] — why Britain started the chain
-- [[Meiji Restoration]] — Japan's transformation
+- [[Concept Notes/Meiji Restoration|Meiji Restoration]] — Japan's transformation
 - [[colonialism]] — the mechanism of Indian deindustrialization
 - [[Unit-5.6/Government's Role in Industrialization Overview]] — government responses to industrial conditions
 - [[Unit-6.1/Overview]] — imperialism and the next phase

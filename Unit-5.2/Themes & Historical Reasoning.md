@@ -72,6 +72,6 @@ Revolutions and their aftermaths drove significant migration. The failed Italian
 
 ## Connections
 
-- [[Unit-5.2/Overview]] | [[Unit-5.2/Revolutions Compared]] | [[Unit-5.2/Practice & Review]]
+- [[Unit-5.2/Nationalism and Revolutions Overview]] | [[Unit-5.2/Revolutions Compared]] | [[Unit-5.2/Practice & Review]]
 - [[Unit-5.1/Themes & Historical Reasoning]] — Enlightenment context
 - [[Unit-7.1/Overview]] — WWI as culmination of nationalist rivalries
