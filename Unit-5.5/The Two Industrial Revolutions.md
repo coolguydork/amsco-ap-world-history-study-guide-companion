@@ -26,7 +26,7 @@ Both revolutions shared a common logic: **replacing human and animal muscle with
 
 ### The Steam Engine — The Revolution's Core Technology
 
-[[James Watt]]'s improved steam engine (1765) was the pivot point. Before it, factories had to be built next to rivers because waterpower was **geographically fixed** — the machine had to come to the energy source. Steam reversed that logic: **coal could be transported anywhere**, so factories could be built wherever labor and markets were.
+[[Concept Notes/James Watt|James Watt]]'s improved steam engine (1765) was the pivot point. Before it, factories had to be built next to rivers because waterpower was **geographically fixed** — the machine had to come to the energy source. Steam reversed that logic: **coal could be transported anywhere**, so factories could be built wherever labor and markets were.
 
 Within 50 years of Watt's design, steam was powering trains. The implications compounded across decades:
 
@@ -56,7 +56,7 @@ Before steam, ocean trade was hostage to winds, currents, and seasons. Steam cha
 
 The **SS Savannah** (1819) became the first steam-powered ship to cross the Atlantic — a landmark demonstration of the technology's potential.
 
-[[Coaling stations]] at chokepoints — [[Cape Colony]] (South Africa), Pacific islands, [[Aden]] — became prizes of imperial competition. Control of coal = control of the sea.
+[[Concept Notes/Coaling stations|Coaling stations]] at chokepoints — [[Concept Notes/Cape Colony|Cape Colony]] (South Africa), Pacific islands, [[Concept Notes/Aden|Aden]] — became prizes of imperial competition. Control of coal = control of the sea.
 
 ---
 
@@ -102,8 +102,8 @@ The second industrial revolution made **communication nearly instantaneous** acr
 | Technology | Date | Who | Significance |
 |-----------|------|-----|-------------|
 | **Telegraph** | Mid-1800s | Samuel Morse (and others) | Coded messages across continents via electrical wire; synchronized global markets |
-| **Telephone** | Patent 1876 | [[Alexander Graham Bell]] | Voice transmission; Thomas Edison's refined transmitter (1886) made it practical |
-| **Radio** | 1901 transatlantic signal | [[Guglielmo Marconi]] | Wireless communication; became mass media — the first technology to reach entire populations simultaneously |
+| **Telephone** | Patent 1876 | [[Concept Notes/Alexander Graham Bell|Alexander Graham Bell]] | Voice transmission; Thomas Edison's refined transmitter (1886) made it practical |
+| **Radio** | 1901 transatlantic signal | [[Concept Notes/Guglielmo Marconi|Guglielmo Marconi]] | Wireless communication; became mass media — the first technology to reach entire populations simultaneously |
 
 The telegraph was the **nervous system** of the global economy: stock prices, military orders, commodity quotes, and shipping schedules could all move in near-real time across oceans.
 
@@ -142,7 +142,7 @@ Before this:
 After:
 - A cotton farmer in Egypt, a textile mill in Manchester, a banker in London, and a consumer in Boston were all connected economically
 - Price signals moved globally via telegraph — commodity prices became global, not local
-- Industrial nations could extract resources from distant colonies efficiently, then sell finished goods back — the technological foundation of [[New Imperialism]]
+- Industrial nations could extract resources from distant colonies efficiently, then sell finished goods back — the technological foundation of [[Concept Notes/New Imperialism|New Imperialism]]
 
 > [!summary]
 > The two industrial revolutions did not just change how things were made. They changed who had power, where resources flowed, which nations rose, and which declined. The technologies of Topic 5.5 are the direct cause of the imperial competition in Unit 6.
@@ -154,4 +154,4 @@ After:
 - **Backward:** [[Unit-5.3/Industrial Revolution Begins Overview]] — the first wave's origins in Britain | [[Unit-5.4/Industrialization Spreads Overview]] — spread to Europe, U.S., Russia, Japan
 - **Forward:** [[Unit-6.1/Overview]] — New Imperialism powered by railroads, steamships, telegraph | [[Unit-5.9/Overview]] — social consequences of industrialization
 - **Lateral:** [[Unit-5.6/Government's Role in Industrialization Overview]] — how Japan used these technologies defensively | [[Unit-5.7/Economic Developments and Innovations Overview]] — capitalism and corporations
-- **Key concepts:** [[Fossil Fuels]] | [[Coaling stations]] | [[New Imperialism]] | [[Global Economy]] | [[Bessemer Process]]
+- **Key concepts:** [[Concept Notes/Fossil Fuels|Fossil Fuels]] | [[Concept Notes/Coaling stations|Coaling stations]] | [[Concept Notes/New Imperialism|New Imperialism]] | [[Concept Notes/Global Economy|Global Economy]] | [[Concept Notes/Bessemer Process|Bessemer Process]]

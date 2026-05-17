@@ -11,7 +11,7 @@ tags: [apwh, unit-5, topic-5-6, period-3, industrialization, government-role, st
 
 > What economic strategies did different states and empires adopt in response to industrialization, and what were the causes and effects of those strategies?
 
-This topic is all about **who drove industrialization** and **how governments responded** to the industrial challenge. While Britain's [[Industrial Revolution]] was largely market-driven and private, many other states took a very different path: **state-sponsored industrialization** directed from the top down. (AMSCO pp. 317–321)
+This topic is all about **who drove industrialization** and **how governments responded** to the industrial challenge. While Britain's [[Concept Notes/Industrial Revolution|Industrial Revolution]] was largely market-driven and private, many other states took a very different path: **state-sponsored industrialization** directed from the top down. (AMSCO pp. 317–321)
 
 ---
 
@@ -22,7 +22,7 @@ By the mid-1800s, the industrialized power of Britain (and later France, Germany
 | State/Empire | Response | Outcome |
 |---|---|---|
 | [[Concept Notes/Ottoman Empire|Ottoman Empire]] | Weak, fragmented; failed to modernize effectively | Slow decline; dismantled after WWI |
-| Egypt (under [[Muhammad Ali of Egypt]]) | Aggressive state-led reform | Temporary modernization; eventually absorbed |
+| Egypt (under [[Concept Notes/Muhammad Ali of Egypt|Muhammad Ali of Egypt]]) | Aggressive state-led reform | Temporary modernization; eventually absorbed |
 | China | Hesitant, blocked by conservatives | Republic by 1911; continued instability |
 | Japan ([[Concept Notes/Meiji Restoration|Meiji Restoration]]) | Systematic, top-down Westernization | Rapid industrialization; major world power by 1905 |
 
@@ -63,7 +63,7 @@ Looking across the cases, successful state-led industrialization shared key feat
 ## Connections to Other Topics
 
 - How industrialization started: [[Unit-5.3/Industrial Revolution Begins Overview]] and [[Unit-5.4/Industrialization Spreads Overview]]
-- Economic ideologies that shaped these choices: [[capitalism]], [[laissez-faire]], [[socialism]]
+- Economic ideologies that shaped these choices: [[Concept Notes/capitalism|capitalism]], [[Concept Notes/laissez-faire|laissez-faire]], [[Concept Notes/socialism|socialism]]
 - Effects of industrialization on global trade and imperialism: [[Unit-5.8/Overview]], [[Unit-6.1/Overview]]
 - Colonialism and resistance: [[Unit-6.5/Overview]]
 

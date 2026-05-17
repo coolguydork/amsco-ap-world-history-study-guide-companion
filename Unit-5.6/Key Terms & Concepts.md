@@ -14,7 +14,7 @@ These are the terms you need to own before the AP exam. Each definition is writt
 ## Core Vocabulary
 
 ### State-Sponsored Industrialization
-When a **government** — rather than private entrepreneurs — drives industrial development by building factories, funding infrastructure, subsidizing industries, and directing economic policy. Contrasts with the [[laissez-faire]] model of Britain. Key examples: Egypt under [[Muhammad Ali of Egypt]], Japan under the [[Concept Notes/Meiji Restoration|Meiji Restoration]].
+When a **government** — rather than private entrepreneurs — drives industrial development by building factories, funding infrastructure, subsidizing industries, and directing economic policy. Contrasts with the [[Concept Notes/laissez-faire|laissez-faire]] model of Britain. Key examples: Egypt under [[Concept Notes/Muhammad Ali of Egypt|Muhammad Ali of Egypt]], Japan under the [[Concept Notes/Meiji Restoration|Meiji Restoration]].
 
 ### [[Concept Notes/Meiji Restoration|Meiji Restoration]] (1868)
 The political revolution in Japan that overthrew the Tokugawa shogunate and "restored" the Meiji Emperor to power. In practice, it launched Japan's systematic modernization program: abolishing feudalism, adopting Western-style military and government, building railroads, and subsidizing industry. Named for Emperor Meiji ("Enlightened Rule").
@@ -22,7 +22,7 @@ The political revolution in Japan that overthrew the Tokugawa shogunate and "res
 > [!exam-tip]
 > The Meiji Restoration is one of the most tested events in Unit 5. Know it as a **cause** of Japan's rapid industrialization AND as an **effect** of Western pressure (Commodore Perry, fear of China's fate after the [[Concept Notes/Opium War|Opium War]]).
 
-### [[Muhammad Ali of Egypt]] (r. 1805–1848)
+### [[Concept Notes/Muhammad Ali of Egypt|Muhammad Ali of Egypt]] (r. 1805–1848)
 Albanian-born Ottoman military officer who became governor of Egypt and pursued an ambitious program of state-led modernization — military reform, agricultural restructuring, textile and armaments factories, schools, and Egypt's first newspaper. Called "the first great modern ruler of Egypt." His reforms were largely state-directed rather than market-driven.
 
 ### Shogunate / Shogun
@@ -47,7 +47,7 @@ Derogatory term for the [[Concept Notes/Ottoman Empire|Ottoman Empire]] in the 1
 Elder statesmen in Meiji Japan, often former samurai leaders from powerful domains (especially Satsuma and Choshu) who helped guide the Meiji government. Some former samurai transitioned into this elite advisory role rather than resisting modernization.
 
 ### Mamluks
-Former Turkish slaves who formed Egypt's military ruling class for approximately 600 years before [[Muhammad Ali of Egypt]] rose to power. Muhammad Ali displaced the Mamluks after being sent by the Ottoman sultan to retake Egypt in 1801.
+Former Turkish slaves who formed Egypt's military ruling class for approximately 600 years before [[Concept Notes/Muhammad Ali of Egypt|Muhammad Ali of Egypt]] rose to power. Muhammad Ali displaced the Mamluks after being sent by the Ottoman sultan to retake Egypt in 1801.
 
 ### Charter Oath (1868)
 The founding document of the [[Concept Notes/Meiji Restoration|Meiji Restoration]] that formally abolished feudalism and laid out the principles of the new Japanese state, including equality before the law, the abolition of cruel punishments, and openness to knowledge from around the world.
@@ -64,7 +64,7 @@ War in which Japan defeated Russia — a European great power — for the first 
 
 | Person | Role | Significance |
 |---|---|---|
-| [[Muhammad Ali of Egypt]] | Governor of Egypt (1805–1848) | State-led modernization; "father of modern Egypt" |
+| [[Concept Notes/Muhammad Ali of Egypt|Muhammad Ali of Egypt]] | Governor of Egypt (1805–1848) | State-led modernization; "father of modern Egypt" |
 | [[Concept Notes/Empress Cixi|Empress Cixi]] | Qing Empress Dowager | Blocked Chinese reform; symbol of conservative resistance |
 | Commodore Matthew Perry | U.S. naval officer | Forced Japan to open trade (1853–1854); triggered reform debate |
 | Emperor Guangxu | Qing Emperor | Led Hundred Days of Reform; imprisoned by Cixi |
@@ -74,7 +74,7 @@ War in which Japan defeated Russia — a European great power — for the first 
 
 ## Connections
 
-- [[capitalism]], [[laissez-faire]] — the economic ideologies these states were responding to
-- [[Industrial Revolution]] — the process they were trying to replicate
+- [[Concept Notes/capitalism|capitalism]], [[Concept Notes/laissez-faire|laissez-faire]] — the economic ideologies these states were responding to
+- [[Concept Notes/Industrial Revolution|Industrial Revolution]] — the process they were trying to replicate
 - [[Unit-5.3/Industrial Revolution Begins Overview]], [[Unit-5.4/Industrialization Spreads Overview]] — how industrialization began in Britain/Europe
 - [[Unit-6.1/Overview]] — imperialism that resulted when non-Western states failed to keep up

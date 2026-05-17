@@ -34,7 +34,7 @@ European powers — especially Russia — recognized the opportunity. The phrase
 
 ## Egypt: The Muhammad Ali Exception
 
-Egypt tells a dramatically different story. While technically part of the [[Concept Notes/Ottoman Empire|Ottoman Empire]], Egypt under [[Muhammad Ali of Egypt]] became one of the most aggressively modernizing states of the early 19th century.
+Egypt tells a dramatically different story. While technically part of the [[Concept Notes/Ottoman Empire|Ottoman Empire]], Egypt under [[Concept Notes/Muhammad Ali of Egypt|Muhammad Ali of Egypt]] became one of the most aggressively modernizing states of the early 19th century.
 
 ### Background: The Mamluks and Ottoman Egypt
 
@@ -102,6 +102,6 @@ Muhammad Ali is called **"the first great modern ruler of Egypt"** for good reas
 
 - [[Concept Notes/Meiji Restoration|Meiji Restoration]] — compare Japan's state-led industrialization
 - [[Concept Notes/Ottoman Empire|Ottoman Empire]] — Egypt's nominal overlord; contrast Ottoman weakness with Egyptian initiative
-- [[Industrial Revolution]] — the model Muhammad Ali was trying to replicate
+- [[Concept Notes/Industrial Revolution|Industrial Revolution]] — the model Muhammad Ali was trying to replicate
 - [[Unit-5.8/Overview]] — European imperialism eventually overwhelmed Egypt (British occupation 1882)
 - [[Unit-3.1/Gunpowder Empires Overview]] — earlier Ottoman power and structure

@@ -18,7 +18,7 @@ This entire topic is fundamentally about governance — specifically, how states
 
 - **Strong central government** enabled Japan's rapid industrialization
 - **Weak, corrupt, or divided government** hampered the [[Concept Notes/Ottoman Empire|Ottoman Empire]] and China
-- [[Muhammad Ali of Egypt]] shows that even within a weak empire ([[Concept Notes/Ottoman Empire|Ottoman Empire]]), a capable regional ruler could drive transformation
+- [[Concept Notes/Muhammad Ali of Egypt|Muhammad Ali of Egypt]] shows that even within a weak empire ([[Concept Notes/Ottoman Empire|Ottoman Empire]]), a capable regional ruler could drive transformation
 - The **type of government** mattered: Japan's Meiji oligarchy could override traditional interests; China's Qing court was held hostage by conservative factions like [[Concept Notes/Empress Cixi|Empress Cixi]]
 
 ### 2. Economic Systems (ECN)
@@ -28,7 +28,7 @@ This entire topic is fundamentally about governance — specifically, how states
 
 ### 3. Social Structures (SIO)
 - Japan's industrialization **destroyed the samurai class** — the dominant social group for centuries — virtually overnight
-- Egypt's peasants lost their land under [[Muhammad Ali of Egypt]]'s agricultural reforms
+- Egypt's peasants lost their land under [[Concept Notes/Muhammad Ali of Egypt|Muhammad Ali of Egypt]]'s agricultural reforms
 - Industrial development created **new social classes** (factory workers, industrial capitalists, technical bureaucrats) while eliminating old ones
 - Women in Japan's textile mills faced exploitation paralleling British factory workers — a cross-cultural pattern
 
@@ -36,7 +36,7 @@ This entire topic is fundamentally about governance — specifically, how states
 - The central cultural tension: **how much Western culture must you adopt to survive Western power?**
 - Japan chose to adopt Western *institutions* while celebrating Japanese *identity* (emperor-centered nationalism)
 - China tried to adopt Western *technology* while preserving traditional *institutions* — a strategy that proved insufficient
-- [[Muhammad Ali of Egypt]] sent Egyptians to study in France and founded the first newspaper in the Islamic world — cultural borrowing in service of state power
+- [[Concept Notes/Muhammad Ali of Egypt|Muhammad Ali of Egypt]] sent Egyptians to study in France and founded the first newspaper in the Islamic world — cultural borrowing in service of state power
 
 ---
 
@@ -86,7 +86,7 @@ The richest comparisons in Topic 5.6:
 Topic 5.6 sits within the broader context of:
 - The global spread of industrialization outward from Britain ([[Unit-5.3/Industrial Revolution Begins Overview]], [[Unit-5.4/Industrialization Spreads Overview]])
 - The rise of European imperialism enabled by industrial military power ([[Unit-5.8/Overview]], [[Unit-6.1/Overview]])
-- The intellectual context of [[realpolitik]] — the hardheaded calculation that power requires modern technology
+- The intellectual context of [[Concept Notes/realpolitik|realpolitik]] — the hardheaded calculation that power requires modern technology
 
 ---
 
@@ -105,7 +105,7 @@ This thesis:
 
 ## Connections
 
-- [[Simón Bolívar]] — compare Latin American independence movements: political change that did NOT produce economic modernization (contrast with Meiji Japan)
-- [[capitalism]], [[laissez-faire]] — the economic framework Japan partially adopted
-- [[Karl Marx]], [[socialism]] — alternative responses to industrial capitalism's disruptions
+- [[Concept Notes/Simón Bolívar|Simón Bolívar]] — compare Latin American independence movements: political change that did NOT produce economic modernization (contrast with Meiji Japan)
+- [[Concept Notes/capitalism|capitalism]], [[Concept Notes/laissez-faire|laissez-faire]] — the economic framework Japan partially adopted
+- [[Concept Notes/Karl Marx|Karl Marx]], [[Concept Notes/socialism|socialism]] — alternative responses to industrial capitalism's disruptions
 - [[Unit-5.3/Industrial Revolution Begins Overview]], [[Unit-5.4/Industrialization Spreads Overview]] — the British/European industrialization these states were responding to

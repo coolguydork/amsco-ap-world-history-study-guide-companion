@@ -51,7 +51,7 @@ The United States had all the ingredients:
 - **Vast natural resources** (coal, iron, timber, agricultural land)
 - **Growing population** through massive immigration (especially from Southern and Eastern Europe, and from China for railroad construction)
 - **Transcontinental Railroad** (1869) — linked coasts, opened interior markets, and required massive steel production
-- **[[Laissez-faire]] policy** — government mostly stayed out of business decisions (but heavily subsidized railroads with land grants)
+- **[[Concept Notes/laissez-faire|Laissez-faire]] policy** — government mostly stayed out of business decisions (but heavily subsidized railroads with land grants)
 
 By 1900, the United States produced **more manufactured goods than any country in the world** — surpassing Britain, the original industrial leader.
 
@@ -129,7 +129,7 @@ India had the world's most sophisticated hand-loom textile industry for centurie
 - East India Company absorbed the Indian Navy (1830); Royal Navy took full control (1863)
 - Effectively ended independent Indian shipbuilding
 
-> [!warning] India is one of the AP's favorite examples of how [[colonialism]] *actively prevented* development in colonized regions. This is NOT simply a story of India "falling behind" — it's a story of deliberate suppression.
+> [!warning] India is one of the AP's favorite examples of how [[Concept Notes/colonialism|colonialism]] *actively prevented* development in colonized regions. This is NOT simply a story of India "falling behind" — it's a story of deliberate suppression.
 
 ### Egypt — Lost Markets
 
@@ -159,7 +159,7 @@ Unlike India, Egypt's deindustrialization was more a product of price competitio
 - [[Unit-5.4/Industrialization Spreads Overview]] — narrative overview
 - [[Unit-5.3/Britain's Industrial Advantages]] — why Britain started the chain
 - [[Concept Notes/Meiji Restoration|Meiji Restoration]] — Japan's transformation
-- [[colonialism]] — the mechanism of Indian deindustrialization
+- [[Concept Notes/colonialism|colonialism]] — the mechanism of Indian deindustrialization
 - [[Unit-5.6/Government's Role in Industrialization Overview]] — government responses to industrial conditions
 - [[Unit-6.1/Overview]] — imperialism and the next phase
 

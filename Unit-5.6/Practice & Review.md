@@ -26,12 +26,12 @@ tags: [apwh, unit-5, topic-5-6, period-3, practice, review, ap-exam, mcq, saq, l
 
 ---
 
-**2.** [[Muhammad Ali of Egypt]]'s economic reforms most closely resemble which of the following?
+**2.** [[Concept Notes/Muhammad Ali of Egypt|Muhammad Ali of Egypt]]'s economic reforms most closely resemble which of the following?
 
 - A) British laissez-faire capitalism, which relied on private entrepreneurs to drive growth
 - B) State-sponsored industrialization in Meiji Japan, in which the government directed economic development
 - C) The mercantile system of the 17th century, which relied on colonial extraction
-- D) The socialist programs of [[Karl Marx]], which sought collective ownership of production
+- D) The socialist programs of [[Concept Notes/Karl Marx|Karl Marx]], which sought collective ownership of production
 
 > [!tip] Answer: **B**
 > A is wrong — Muhammad Ali's Egypt was the opposite of laissez-faire; the state owned factories, controlled cotton production, and directed all major economic decisions.
@@ -56,7 +56,7 @@ tags: [apwh, unit-5, topic-5-6, period-3, practice, review, ap-exam, mcq, saq, l
 
 ---
 
-**4.** Which of the following was a shared feature of Japan's [[Concept Notes/Meiji Restoration|Meiji Restoration]] and [[Muhammad Ali of Egypt]]'s reforms?
+**4.** Which of the following was a shared feature of Japan's [[Concept Notes/Meiji Restoration|Meiji Restoration]] and [[Concept Notes/Muhammad Ali of Egypt|Muhammad Ali of Egypt]]'s reforms?
 
 - A) Both established constitutional republics modeled on the United States
 - B) Both used high taxes on the agricultural sector to fund industrialization
@@ -92,9 +92,9 @@ tags: [apwh, unit-5, topic-5-6, period-3, practice, review, ap-exam, mcq, saq, l
 
 Use your knowledge of world history to answer all parts of the question.
 
-(a) Briefly describe ONE similarity between Japan's [[Concept Notes/Meiji Restoration|Meiji Restoration]] and [[Muhammad Ali of Egypt]]'s modernization program.
+(a) Briefly describe ONE similarity between Japan's [[Concept Notes/Meiji Restoration|Meiji Restoration]] and [[Concept Notes/Muhammad Ali of Egypt|Muhammad Ali of Egypt]]'s modernization program.
 
-(b) Briefly describe ONE difference between Japan's [[Concept Notes/Meiji Restoration|Meiji Restoration]] and [[Muhammad Ali of Egypt]]'s modernization program.
+(b) Briefly describe ONE difference between Japan's [[Concept Notes/Meiji Restoration|Meiji Restoration]] and [[Concept Notes/Muhammad Ali of Egypt|Muhammad Ali of Egypt]]'s modernization program.
 
 (c) Briefly explain ONE reason why Japan's industrialization was more successful in the long term than Egypt's.
 
@@ -160,6 +160,6 @@ Use your knowledge of world history to answer all parts of the question.
 | State | Key Leader(s) | Strategy | Outcome |
 |---|---|---|---|
 | Japan | Emperor Meiji, Meiji oligarchs | Comprehensive top-down reform; abolish feudalism, rebuild military, fund industry | Industrial great power by 1905; defeated China (1895) and Russia (1905) |
-| Egypt | [[Muhammad Ali of Egypt]] | State-directed industrialization; military reform, agricultural control, factories | Temporary modernization; British imperialism cut it short (1882) |
+| Egypt | [[Concept Notes/Muhammad Ali of Egypt|Muhammad Ali of Egypt]] | State-directed industrialization; military reform, agricultural control, factories | Temporary modernization; British imperialism cut it short (1882) |
 | China | Emperor Guangxu, Kang Youwei (blocked by [[Concept Notes/Empress Cixi|Empress Cixi]]) | Technological borrowing (Self-Strengthening); brief radical reform (Hundred Days) | Reform blocked; semi-colonial status; Qing dynasty collapsed 1911 |
 | [[Concept Notes/Ottoman Empire|Ottoman Empire]] | Various sultans | Weak, fragmented reforms; unable to overcome corruption and ethnic nationalism | Continued decline; dismantled after WWI; replaced by Republic of Turkey |

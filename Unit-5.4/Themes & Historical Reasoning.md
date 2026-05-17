@@ -19,7 +19,7 @@ Topic 5.4 is one of the richest topics for historical reasoning skills. The spre
 
 The spread of industrialization transformed global economic relationships:
 
-**Industrial [[capitalism]] expanded** — countries that industrialized developed market economies dominated by factory production, wage labor, and capital investment.
+**Industrial [[Concept Notes/capitalism|capitalism]] expanded** — countries that industrialized developed market economies dominated by factory production, wage labor, and capital investment.
 
 **Global trade networks intensified** — industrial countries needed raw materials from non-industrial regions and markets to sell finished goods. This locked in an unequal global division of labor:
 - Industrialized countries: manufactured goods
@@ -37,7 +37,7 @@ The relationship between government and industrialization varied dramatically:
 
 | Country | Government Role | Outcome |
 |---|---|---|
-| Britain | Hands-off [[laissez-faire]]; patent protection | Market-driven industrialization |
+| Britain | Hands-off [[Concept Notes/laissez-faire|laissez-faire]]; patent protection | Market-driven industrialization |
 | Germany | State-supported after 1871 unification | Rapid industrial leadership |
 | Russia | State-directed (railroads, heavy industry) | Growth but fragile; revolution by 1917 |
 | Japan | Meiji government directed entire process | First Asian industrial power |
@@ -87,7 +87,7 @@ Technology transfer was central to how industrialization spread:
 - **Market competition** (Egypt) — couldn't compete on price
 - **Colonial policy** (India) — British regulations, tariffs, and institutional control actively suppressed Indian industry
 
-> [!exam-tip] For causation essays, distinguish between *proximate causes* (immediate, direct) and *underlying causes* (deeper, structural). The proximate cause of Indian textile decline was the 5% equalizing tax; the underlying cause was [[colonialism]] and loss of political sovereignty.
+> [!exam-tip] For causation essays, distinguish between *proximate causes* (immediate, direct) and *underlying causes* (deeper, structural). The proximate cause of Indian textile decline was the 5% equalizing tax; the underlying cause was [[Concept Notes/colonialism|colonialism]] and loss of political sovereignty.
 
 ---
 
@@ -140,7 +140,7 @@ Both were major European nations, both industrialized in the 19th century — bu
 - [[Unit-5.3/Themes & Historical Reasoning]] — causation for Britain's industrialization
 - [[Unit-5.5/Themes & Historical Reasoning]] — technology as historical driver
 - [[Unit-5.4/Practice & Review]] — apply these frameworks to practice questions
-- [[colonialism]] — the mechanism of deindustrialization
+- [[Concept Notes/colonialism|colonialism]] — the mechanism of deindustrialization
 - [[Concept Notes/Meiji Restoration|Meiji Restoration]] — defensive modernization in depth
 
 ---

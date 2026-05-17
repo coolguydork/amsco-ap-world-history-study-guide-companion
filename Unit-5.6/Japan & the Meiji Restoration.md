@@ -140,9 +140,9 @@ The speed and completeness of Japan's transformation remains one of the most rem
 
 ## Connections
 
-- [[Concept Notes/Ottoman Empire|Ottoman Empire]], [[Muhammad Ali of Egypt]] — other government responses to Western pressure; compare and contrast
+- [[Concept Notes/Ottoman Empire|Ottoman Empire]], [[Concept Notes/Muhammad Ali of Egypt|Muhammad Ali of Egypt]] — other government responses to Western pressure; compare and contrast
 - [[Concept Notes/Opium War|Opium War]] — the warning that motivated Japanese reform
 - [[Concept Notes/zaibatsu|zaibatsu]] — the private business organizations that partnered with the Meiji state
 - [[Unit-5.4/Industrialization Spreads Overview]] — industrialization in Europe that Japan was emulating
 - [[Unit-6.1/Overview]] — Japan as both a target of imperialism and later an imperial power
-- [[realpolitik]] — the hardheaded strategic logic behind Meiji reforms
+- [[Concept Notes/realpolitik|realpolitik]] — the hardheaded strategic logic behind Meiji reforms
