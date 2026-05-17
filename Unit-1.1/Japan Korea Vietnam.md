@@ -11,7 +11,7 @@ tags: [apwh, unit-1, topic-1-1, period-1, east-asia, governance, social-structur
 
 One of the most important themes in Period 1 East Asia is the tension between **Chinese cultural dominance** and **local identity**. When a civilization as powerful as Song China sits at the center of the world, its smaller neighbors face a fundamental question: *how much do we adopt, and how much do we resist?*
 
-This process — the assimilation of Chinese traditions and practices — is called **[[sinification]]**. Japan, Korea, and Vietnam each borrowed extensively from China, but each maintained distinctive practices that reflected their own histories, geographies, and values.
+This process — the assimilation of Chinese traditions and practices — is called **[[Concept Notes/Sinification|sinification]]**. Japan, Korea, and Vietnam each borrowed extensively from China, but each maintained distinctive practices that reflected their own histories, geographies, and values.
 
 > [!exam-tip]
 > AP comparison questions about East Asia almost always hinge on: **What did each country adopt from China? What did each country resist?** Know the specific differences for Japan, Korea, and Vietnam.
@@ -26,7 +26,7 @@ Japan's island location gave it something Korea and Vietnam lacked: **a choice**
 
 ### What Japan Adopted from China
 
-- **Buddhism and Confucianism** — Prince **Shotoku Taishi** (574–622) promoted both alongside Japan's native **[[Shinto]]** religion, demonstrating early synthesis
+- **Buddhism and Confucianism** — Prince **Shotoku Taishi** (574–622) promoted both alongside Japan's native **[[Concept Notes/Shinto|Shinto]]** religion, demonstrating early synthesis
 - **Woodblock printing** — learned from China during the Heian period
 - **Chinese artistic and literary forms** — during the **Heian period (794–1185)**, Japan consciously emulated Chinese traditions in politics, art, and literature
 
@@ -64,7 +64,7 @@ Both Japanese and European feudalism were hierarchical systems with limited soci
 
 ### Geography as Constraint
 
-Korea shared a land boundary with China, and China surrounded it on multiple sides. This proximity meant Korea had far less ability than Japan to filter Chinese influence. Close contact through the [[tributary system]] made sinification nearly unavoidable.
+Korea shared a land boundary with China, and China surrounded it on multiple sides. This proximity meant Korea had far less ability than Japan to filter Chinese influence. Close contact through the [[Concept Notes/Tributary System|tributary system]] made sinification nearly unavoidable.
 
 ### What Korea Adopted from China
 
@@ -141,7 +141,7 @@ As the Tang Dynasty crumbled in the 8th century, Vietnamese rebels expelled Chin
 ## Connections
 
 - [[Unit-1.1/Song Dynasty|Song Dynasty]] — the Chinese model that Japan, Korea, and Vietnam responded to
-- [[Unit-1.1/Dar al-Islam|Dar al-Islam]] — contrasting major civilization of the period
+- [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam]] — contrasting major civilization of the period
 - [[Unit-1.1/Themes & Historical Reasoning|Themes & Historical Reasoning]] — how sinification illustrates cultural diffusion and continuity/change
 - [[Concept Notes/Sinification|Sinification]] — broader concept note
 - [[Concept Notes/Feudalism|Feudalism]] — comparing Japanese and European feudalism

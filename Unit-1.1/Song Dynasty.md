@@ -20,7 +20,7 @@ The Song Dynasty is arguably the single most important civilization in AP World 
 
 ### The Imperial Bureaucracy
 
-China's imperial bureaucracy — a vast network of appointed officials carrying out state policy — had existed since the [[Qin Dynasty]] (221–207 BCE). This is a critical **continuity**: the bureaucratic tradition bridged centuries and dynasties.
+China's imperial bureaucracy — a vast network of appointed officials carrying out state policy — had existed since the [[Concept Notes/Qin Dynasty|Qin Dynasty]] (221–207 BCE). This is a critical **continuity**: the bureaucratic tradition bridged centuries and dynasties.
 
 Under the Song, the bureaucracy **expanded significantly**. Early on, this strengthened centralized control. Later, the bloated bureaucracy became a liability — the cost of salaries and positions drained China's surplus wealth and contributed to the dynasty's eventual weakness.
 
@@ -33,10 +33,10 @@ Emperor **Song Taizu's** most celebrated reform was expanding access to the **ci
 
 This system is called a **meritocracy** because positions were awarded based on demonstrated ability rather than birthright. Key facts:
 
-- Exams were based on knowledge of [[Confucianism|Confucian]] texts
+- Exams were based on knowledge of [[Concept Notes/Confucianism|Confucian]] texts
 - The poor were still vastly underrepresented (studying for years was expensive)
 - But it allowed more **upward mobility** than any contemporary system in the world
-- It reinforced the centrality of [[Confucianism]] as China's governing ideology
+- It reinforced the centrality of [[Concept Notes/Confucianism|Confucianism]] as China's governing ideology
 
 > [!tip]
 > Compare the Song civil service exam to **Korea** and **Vietnam**: Korea had a civil service exam but it was *not* open to peasants (aristocracy blocked reform). Vietnam had a merit-based system but officials owed loyalty to villages, not the emperor. These distinctions show up on the AP exam.
@@ -79,7 +79,7 @@ Key manufactured goods:
 | **Cast iron / steel** | Built from coal ("black earth") discovered in the 4th century BCE; used for bridges, gates, anchors, religious items, and agricultural tools |
 | **Porcelain** | Light, strong, and beautifully painted; became China's signature export good |
 | **Silk** | Luxury textile traded across Eurasian networks |
-| **Gunpowder weapons** | Gunpowder had been invented in earlier dynasties; Song innovators made the **first guns**. Technology spread via [[Unit-2.1/Silk Roads|Silk Roads]] across Eurasia. |
+| **Gunpowder weapons** | Gunpowder had been invented in earlier dynasties; Song innovators made the **first guns**. Technology spread via [[Unit-2.1/Silk Roads Overview|Silk Roads]] across Eurasia. |
 
 ### Commercial Economy and Trade
 
@@ -92,7 +92,7 @@ Key enablers of trade:
 - **Redesigned ships** — built to carry larger cargo loads
 - **Paper money** — reduced the friction of long-distance trade
 
-The [[tributary system]] cemented China's economic dominance. Foreign states (Japan, Korea, Southeast Asian kingdoms) paid tribute — money or goods — to honor the Chinese emperor, performing the ritual **kowtow** (bowing until forehead touched the floor). This system created stability and stimulated exchange for all parties. The famous [[Zheng He]] voyages (Topic 2.3) were an expression of this tributary logic.
+The [[Concept Notes/Tributary System|tributary system]] cemented China's economic dominance. Foreign states (Japan, Korea, Southeast Asian kingdoms) paid tribute — money or goods — to honor the Chinese emperor, performing the ritual **kowtow** (bowing until forehead touched the floor). This system created stability and stimulated exchange for all parties. The famous [[Unit-2.3/Zheng He|Zheng He]] voyages (Topic 2.3) were an expression of this tributary logic.
 
 ### Taxes and Public Works
 
@@ -149,11 +149,11 @@ The most striking symbol of women's restricted status was **foot binding**:
 - Printing system: developed in the 7th century
 - **Woodblock printing**: China was the first culture to use it. A Buddhist scripture from the 7th century is considered the world's first woodblock-printed work.
 
-The printing of agricultural booklets — distributed throughout rice-growing regions — shows how the Song used information technology to increase productivity. Printing also made Buddhist scriptures widely available, fueling [[Neo-Confucianism]]'s synthesis with Buddhist ideas.
+The printing of agricultural booklets — distributed throughout rice-growing regions — shows how the Song used information technology to increase productivity. Printing also made Buddhist scriptures widely available, fueling [[Concept Notes/Neo-Confucianism|Neo-Confucianism]]'s synthesis with Buddhist ideas.
 
 ### Literature
 
-The development of paper and printing expanded access to books. Confucian scholars consumed and produced literature at enormous rates. The Tang and Song dynasties' emphasis on education created scholar-bureaucrats with wide-ranging knowledge — what Europeans would later call "[[Renaissance]] men."
+The development of paper and printing expanded access to books. Confucian scholars consumed and produced literature at enormous rates. The Tang and Song dynasties' emphasis on education created scholar-bureaucrats with wide-ranging knowledge — what Europeans would later call "[[Concept Notes/Renaissance|Renaissance]] men."
 
 ---
 
@@ -161,7 +161,7 @@ The development of paper and printing expanded access to books. Confucian schola
 
 ### The Three Forms of Buddhism in Asia
 
-Buddhism spread from India to China via the [[Unit-2.1/Silk Roads|Silk Roads]], gaining wide popularity during the Tang Dynasty. The 7th-century monk **Xuanzang** traveled from China to India on pilgrimage, returning with Buddhist texts that fueled a wave of Buddhist scholarship.
+Buddhism spread from India to China via the [[Unit-2.1/Silk Roads Overview|Silk Roads]], gaining wide popularity during the Tang Dynasty. The 7th-century monk **Xuanzang** traveled from China to India on pilgrimage, returning with Buddhist texts that fueled a wave of Buddhist scholarship.
 
 Three forms developed distinct regional followings:
 
@@ -175,7 +175,7 @@ All three share the **Four Noble Truths** (suffering stems from desire; eliminat
 
 ### Chan (Zen) Buddhism
 
-Buddhist missionaries introduced Buddhism to China by connecting it to [[Daoism]]. Buddhism's *dharma* was translated as *dao* ("the way"). Over time, Buddhist doctrines fused with Daoist traditions to create **Chan Buddhism** (known in Japan as **Zen Buddhism**) — a syncretic faith emphasizing direct experience and meditation rather than scripture study.
+Buddhist missionaries introduced Buddhism to China by connecting it to [[Concept Notes/Daoism|Daoism]]. Buddhism's *dharma* was translated as *dao* ("the way"). Over time, Buddhist doctrines fused with Daoist traditions to create **Chan Buddhism** (known in Japan as **Zen Buddhism**) — a syncretic faith emphasizing direct experience and meditation rather than scripture study.
 
 The Tang bureaucracy was ambivalent toward Buddhism. It was a *foreign* religion, which made Confucian and Daoist elites uncomfortable. Despite monastery closures and land seizures, Chan Buddhism remained popular among ordinary Chinese.
 
@@ -194,7 +194,7 @@ Unlike Buddhism's focus on spiritual transcendence, Neo-Confucianism emphasized 
 
 ## Why the Song Dynasty Fell
 
-The Song never controlled all of China. Northern lands had been lost to the **Jin Empire** (invading pastoralists from Manchuria). By the late 13th century, the real threat came from the [[Unit-2.2/Mongol Empire|Mongols]], who conquered the remaining Song territory in **1279**.
+The Song never controlled all of China. Northern lands had been lost to the **Jin Empire** (invading pastoralists from Manchuria). By the late 13th century, the real threat came from the [[Unit-2.2/Mongol Empire Overview|Mongols]], who conquered the remaining Song territory in **1279**.
 
 Internally, the Song's own success became a liability: the bloated bureaucracy consumed so much of China's wealth that the government could no longer sustain its infrastructure or military. This is a classic AP **causation** story — prosperity → expansion → overextension → decline.
 
@@ -204,9 +204,9 @@ Internally, the Song's own success became a liability: the bloated bureaucracy c
 
 - [[Unit-1.1/Japan Korea Vietnam|Japan, Korea & Vietnam]] — how Song culture spread via sinification
 - [[Unit-1.1/Key Terms & Concepts|Key Terms & Concepts]] — full vocabulary list
-- [[Unit-2.1/Silk Roads]] — the trade networks that spread Song technology across Eurasia
-- [[Unit-2.2/Mongol Empire]] — the force that ended the Song Dynasty
-- [[Unit-2.3/Zheng He]] — Ming Dynasty continuation of the tributary system
-- [[Unit-3.1/Ming Dynasty]] — the dynasty that replaced Mongol rule in China
+- [[Unit-2.1/Silk Roads Overview|Silk Roads]] — the trade networks that spread Song technology across Eurasia
+- [[Unit-2.2/Mongol Empire Overview|Mongol Empire]] — the force that ended the Song Dynasty
+- [[Unit-2.3/Zheng He|Zheng He]] — Ming Dynasty continuation of the tributary system
+- [[Unit-3.1/Ming Dynasty|Ming Dynasty]] — the dynasty that replaced Mongol rule in China
 - [[Concept Notes/Neo-Confucianism|Neo-Confucianism]] — broader concept note
 - [[Concept Notes/Civil Service Exam|Civil Service Exam]] — broader concept note
