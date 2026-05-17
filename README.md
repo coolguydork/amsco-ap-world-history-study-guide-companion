@@ -2,9 +2,9 @@
 
 ## What's in This Vault
 
-For **Units 1–4** of the AMSCO *AP World History: Modern* textbook (AP Periods 1–2, c. 1200–1750), this vault contains **interlinked Markdown notes** organized by topic — formatted for Obsidian with wikilinks, tags, and callout blocks — plus unit-level synthesis files and a growing Concept Notes hub.
+For **Units 1–5** of the AMSCO *AP World History: Modern* textbook (AP Periods 1–3, c. 1200–1900), this vault contains **interlinked Markdown notes** organized by topic — formatted for Obsidian with wikilinks, tags, and callout blocks — plus unit-level synthesis files and a growing Concept Notes hub.
 
-**Total: ~95 Markdown notes across 26 topic folders, 3 unit overviews, and 17 Concept Notes. Units 1–4 fully complete.**
+**Total: ~202 Markdown notes across 46 topic folders, 5 unit overviews, and 56 Concept Notes. Units 1–5 fully complete.**
 
 Each topic folder uses a flexible set of notes with student-friendly filenames. Common note types include:
 
@@ -28,8 +28,8 @@ Major topics get more notes; simpler or synthesis topics may combine categories.
 | Unit 2: Networks of Exchange | Period 1 | c. 1200–1450 | 2.1–2.7 (7 topics) | ✅ Complete |
 | Unit 3: Land-Based Empires | Period 2 | c. 1450–1750 | 3.1–3.4 (4 topics) | ✅ Complete |
 | Unit 4: Transoceanic Interconnections | Period 2 | c. 1450–1750 | 4.1–4.8 (8 topics) | ✅ Complete |
-| Unit 5: Revolutions | Period 3 | c. 1750–1900 | — | 🔜 Coming next |
-| Unit 6: Consequences of Industrialization | Period 3 | c. 1750–1900 | — | Coming soon |
+| Unit 5: Revolutions | Period 3 | c. 1750–1900 | 5.1–5.10 (10 topics) | ✅ Complete |
+| Unit 6: Consequences of Industrialization | Period 3 | c. 1750–1900 | — | 🔜 Coming next |
 | Unit 7: Global Conflict | Period 4 | c. 1900–present | — | Coming soon |
 | Unit 8: Cold War and Decolonization | Period 4 | c. 1900–present | — | Coming soon |
 | Unit 9: Globalization | Period 4 | c. 1900–present | — | Coming soon |
@@ -94,15 +94,38 @@ Major topics get more notes; simpler or synthesis topics may combine categories.
 | 4.7 | Changing Social Hierarchies | Casta system · peninsulares · creoles · mestizos · racial chattel slavery · African diaspora · gender hierarchy |
 | 4.8 | Continuity and Change c. 1450–1750 | AP synthesis · CCOT · key continuities · key changes · essay frameworks |
 
-*(Unit 4 synthesis overview coming soon.)*
+**Unit 4 synthesis:** `Unit-4 Overview.md` — synthesis hub connecting maritime empires, the Columbian Exchange, and shifting social hierarchies.
+
+---
+
+## Unit 5: Revolutions (c. 1750–1900) — AP Period 3 ✅
+
+| Topic | Title | Key Themes |
+|-------|-------|------------|
+| 5.1 | The Enlightenment | Locke · Rousseau · Voltaire · natural rights · social contract · separation of powers · influence on revolutions |
+| 5.2 | Nationalism and Revolutions | American Revolution · French Revolution · Haitian Revolution · Latin American independence · nationalism · Simón Bolívar |
+| 5.3 | The Industrial Revolution Begins | Britain's advantages · coal and iron · factory system · steam engine · urbanization · working conditions |
+| 5.4 | Industrialization Spreads | Germany · United States · Japan · Russia · global spread · uneven development · state-sponsored industrialization |
+| 5.5 | Technology in the Industrial Age | Two Industrial Revolutions · railroads · telegraph · steel · chemicals · electricity · Alexander Graham Bell · Guglielmo Marconi |
+| 5.6 | Governments' Roles in Industrialization | Meiji Restoration · Self-Strengthening Movement · Tanzimat Reforms · Muhammad Ali of Egypt · Empress Cixi · reform and resistance |
+| 5.7 | Economic Developments and Innovations | Capitalism · corporations · joint-stock companies · laissez-faire · Adam Smith · zaibatsu · transnational companies |
+| 5.8 | Reactions to the Industrial Economy | Karl Marx · socialism · labor unions · reform movements · Seneca Falls · comparative responses to industrialization |
+| 5.9 | Society and the Industrial Age | Class structure · gender roles · migration · urbanization · social reform · new middle class · working-class consciousness |
+| 5.10 | Continuity and Change in the Industrial Age | AP synthesis · CCOT · key continuities · key changes · comparison prompts · LEQ/DBQ frameworks |
+
+**Unit 5 synthesis:** `Unit-5 Overview.md` — synthesis hub connecting the Enlightenment, political revolutions, industrialization, and social change across Period 3.
 
 ---
 
 ## Concept Notes
 
-The `Concept Notes/` folder contains 17 standalone notes for key terms and ideas that appear across multiple units. These act as concept hubs — collecting relevant excerpts from topic notes and the AMSCO reference system in one place.
+The `Concept Notes/` folder contains **56 standalone notes** for key terms and ideas that appear across multiple units. These act as concept hubs — collecting relevant excerpts from topic notes and the AMSCO reference system in one place.
 
-Current concept notes include: Ana Nzinga · Civil Service Exam · Devshirme · Enlightenment · Gunpowder Empires · House of Wisdom · Janissaries · Manila Galleon Trade · Mongols · Neo-Confucianism · Protestant Reformation · Proto-Industrialization · Sinification · Sufism · Tamerlane · Transatlantic Slave Trade · primogeniture
+Current concept notes span all five completed units and include:
+
+*Units 1–4:* Ana Nzinga · Civil Service Exam · Devshirme · Enlightenment · Gunpowder Empires · House of Wisdom · Janissaries · Manila Galleon Trade · Mongols · Neo-Confucianism · Protestant Reformation · Proto-Industrialization · Scientific Revolution · Sinification · Sufism · Tamerlane · Transatlantic Slave Trade · primogeniture
+
+*Unit 5 additions:* Adam Smith · Bessemer Process · capitalism · Chinese immigration · colonialism · corporation · Empress Cixi · Fossil Fuels · Global Economy · Hundred Days of Reform · Industrial Revolution · James Watt · Karl Marx · laissez-faire · Meiji Restoration · monopoly · Muhammad Ali of Egypt · New Imperialism · Opium War · Otto von Bismarck · Ottoman Empire · realpolitik · Self-Strengthening Movement · Seneca Falls Convention · Simón Bolívar · Sino-Japanese War · socialism · Tanzimat Reforms · transnational companies · Utilitarianism · World War I · Young Turks · zaibatsu · and more
 
 New concept notes are generated automatically for significant `[[wikilinks]]` that span multiple topics.
 
@@ -144,4 +167,4 @@ Every note targets:
 
 ---
 
-> Free AP World History study notes built from the **AMSCO *AP World History: Modern*** textbook. Covers all AP essay types: **SAQ, LEQ, DBQ, CCOT**. Organized as an **Obsidian vault** with wikilinks, graph view, and cross-topic Concept Notes. Units 1–4 complete (Periods 1–2, c. 1200–1750).
+> Free AP World History study notes built from the **AMSCO *AP World History: Modern*** textbook. Covers all AP essay types: **SAQ, LEQ, DBQ, CCOT**. Organized as an **Obsidian vault** with wikilinks, graph view, and cross-topic Concept Notes. Units 1–5 complete (Periods 1–3, c. 1200–1900).
