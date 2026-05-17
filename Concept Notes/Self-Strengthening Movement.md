@@ -47,16 +47,16 @@ The difference: Japan abolished feudalism, built a constitutional monarchy, and 
 
 ## What Came After
 
-The defeat in 1895 led directly to the **[[Concept Notes/Hundred Days of Reform]]** (1898) — a more ambitious set of reforms that Emperor Guangxu attempted with Kang Youwei's advice, only for Empress Dowager Cixi to reverse them in a coup.
+The defeat in 1895 led directly to the **[[Concept Notes/Hundred Days of Reform|Hundred Days of Reform]]** (1898) — a more ambitious set of reforms that Emperor Guangxu attempted with Kang Youwei's advice, only for Empress Dowager Cixi to reverse them in a coup.
 
 ---
 
 ## Vault Excerpts
 
-From [[Unit-5.8/Key Terms & Concepts]]:
+From [[Unit-5.8/Key Terms & Concepts|Key Terms & Concepts]]:
 > "The Self-Strengthening Movement... developed as a way for the government to face the internal and external problems confronting China. Government officials hoped to strengthen China in its competition with foreign powers by advancing its military technology... The government's strategy was to graft some modern ideas and technology onto Chinese tradition rather than to create major change." (AMSCO p. 337)
 
-From [[Unit-5.8/Comparative Responses to Industrialization]]:
+From [[Unit-5.8/Comparative Responses to Industrialization|Comparative Responses to Industrialization]]:
 > "China's Self-Strengthening Movement tried to modernize China's tools without changing its political structure... This was not enough."
 
 ---
@@ -65,12 +65,12 @@ From [[Unit-5.8/Comparative Responses to Industrialization]]:
 
 The Self-Strengthening Movement is the AP exam's primary example of **China's 19th-century reform attempt** — and of the limits of technological modernization without political restructuring. It is almost always contrasted with Japan's Meiji Restoration.
 
-Compare to: [[Concept Notes/Meiji Restoration]], [[Concept Notes/Tanzimat Reforms]], [[Concept Notes/Hundred Days of Reform]]
+Compare to: [[Concept Notes/Meiji Restoration|Meiji Restoration]], [[Concept Notes/Tanzimat Reforms|Tanzimat Reforms]], [[Concept Notes/Hundred Days of Reform|Hundred Days of Reform]]
 
 ---
 
 ## Appears In
 
-- [[Unit-5.8/Key Terms & Concepts]]
-- [[Unit-5.8/Comparative Responses to Industrialization]]
-- [[Unit-5.8/People, States & Movements]]
+- [[Unit-5.8/Key Terms & Concepts|Key Terms & Concepts]]
+- [[Unit-5.8/Comparative Responses to Industrialization|Comparative Responses to Industrialization]]
+- [[Unit-5.8/People, States & Movements|People, States & Movements]]

@@ -54,23 +54,23 @@ Mill was also a pioneering advocate for **women's rights** — his essay *The Su
 
 ## Vault Excerpts
 
-From [[Unit-5.8/Key Terms & Concepts]]:
+From [[Unit-5.8/Key Terms & Concepts|Key Terms & Concepts]]:
 > "Mill's philosophy was called utilitarianism. Rather than state a set of timeless moral rules, utilitarianism sought 'the greatest good for the greatest number of people.' Unlike utopian socialists, who wanted to replace capitalism, utilitarians wanted to address the growing problems they saw with it." (AMSCO p. 333)
 
-From [[Unit-5.8/People, States & Movements]]:
+From [[Unit-5.8/People, States & Movements|People, States & Movements]]:
 > "Mill represents a moderate, gradualist response to industrial problems — a middle ground between laissez-faire defenders and socialist radicals."
 
 ---
 
 ## Appears In
 
-- [[Unit-5.8/Key Terms & Concepts]]
-- [[Unit-5.8/People, States & Movements]]
-- [[Unit-5.8/Themes & Historical Reasoning]]
-- [[Unit-5.8/Practice & Review]]
+- [[Unit-5.8/Key Terms & Concepts|Key Terms & Concepts]]
+- [[Unit-5.8/People, States & Movements|People, States & Movements]]
+- [[Unit-5.8/Themes & Historical Reasoning|Themes & Historical Reasoning]]
+- [[Unit-5.8/Practice & Review|Practice & Review]]
 
 ## Compare To
 
-- [[Concept Notes/Karl Marx]] — the radical alternative: replace capitalism, not reform it
-- [[Concept Notes/laissez-faire]] — the position utilitarianism challenged
-- [[Concept Notes/socialism]] — the more radical critique of capitalism
+- [[Concept Notes/Karl Marx|Karl Marx]] — the radical alternative: replace capitalism, not reform it
+- [[Concept Notes/laissez-faire|laissez-faire]] — the position utilitarianism challenged
+- [[Concept Notes/socialism|socialism]] — the more radical critique of capitalism

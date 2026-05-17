@@ -91,7 +91,7 @@ Marx wrote in the 1840s–1880s, but his ideas reverberated throughout the 20th 
 
 ## Connections
 
-- [[Unit-5.8/Reactions to the Industrial Economy Overview]] | [[Unit-5.8/Labor Unions & Reform]]
-- [[Unit-5.1/Overview]] — Enlightenment intellectual roots Marx built on and critiqued
-- [[Unit-8.1/Overview]] — Communist revolutions of the 20th century
-- [[Unit-5.7/Overview]] — The corporate capitalism Marx was analyzing
+- [[Unit-5.8/Reactions to the Industrial Economy Overview|Reactions to the Industrial Economy Overview]] | [[Unit-5.8/Labor Unions & Reform|Labor Unions & Reform]]
+- [[Unit-5.1/Enlightenment Overview|Enlightenment Overview]] — Enlightenment intellectual roots Marx built on and critiqued
+- [[Unit-8.1/Overview|Overview]] — Communist revolutions of the 20th century
+- [[Unit-5.7/Economic Developments and Innovations Overview|Economic Developments and Innovations Overview]] — The corporate capitalism Marx was analyzing

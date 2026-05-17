@@ -182,9 +182,9 @@ D) Comparison — unions in Britain were identical to Ottoman Tanzimat reforms
 
 ## Connections & Cross-Topic Evidence
 
-- [[Unit-5.3/Causes of the Industrial Revolution]] — for context on what created these reactions
-- [[Unit-5.6/Industrialization — Government's Role]] — for Japan and Ottoman state-directed industrialization
-- [[Unit-6.2/Resistance to European Imperialism]] — China's Boxer Rebellion as continuation
-- [[Unit-6.5/Imperialism in Asia]] — spheres of influence that made Chinese reform urgent
-- [[Concept Notes/Marxism]] — for extended evidence on ideology
-- [[Concept Notes/Tanzimat Reforms]] — for Ottoman evidence
+- [[Unit-5.3/Industrial Revolution Begins Overview|Industrial Revolution Begins Overview]] — for context on what created these reactions
+- [[Unit-5.6/Government's Role in Industrialization Overview|Government's Role in Industrialization Overview]] — for Japan and Ottoman state-directed industrialization
+- [[Unit-6.2/Resistance to European Imperialism|Resistance to European Imperialism]] — China's Boxer Rebellion as continuation
+- [[Unit-6.5/Imperialism in Asia|Imperialism in Asia]] — spheres of influence that made Chinese reform urgent
+- [[Concept Notes/Karl Marx|Karl Marx]] — for extended evidence on ideology
+- [[Concept Notes/Tanzimat Reforms|Tanzimat Reforms]] — for Ottoman evidence

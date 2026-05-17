@@ -46,7 +46,7 @@ Through strikes, collective bargaining, and political pressure, unions eventuall
 - Workplace safety regulations
 
 > [!exam-tip]
-> Unions are a key example of **workers using collective action to change their conditions** — a bottom-up response to industrialization. Contrast this with the top-down approach of Bismarck's social insurance reforms (see [[Unit-5.10/Overview]]).
+> Unions are a key example of **workers using collective action to change their conditions** — a bottom-up response to industrialization. Contrast this with the top-down approach of Bismarck's social insurance reforms (see [[Unit-5.10/Overview|Overview]]).
 
 ---
 
@@ -87,6 +87,6 @@ Each bill reduced **property-ownership requirements** for voting. The pattern il
 
 ## Connections
 
-- [[Unit-5.8/Reactions to the Industrial Economy Overview]] | [[Unit-5.8/Karl Marx & Socialism]] | [[Unit-5.8/Key Terms & Concepts]]
-- [[Unit-5.9/Overview]] — social consequences that made reform necessary
-- [[Unit-5.10/Overview]] — Bismarck's state-level social reforms as a parallel response
+- [[Unit-5.8/Reactions to the Industrial Economy Overview|Reactions to the Industrial Economy Overview]] | [[Unit-5.8/Karl Marx & Socialism|Karl Marx & Socialism]] | [[Unit-5.8/Key Terms & Concepts|Key Terms & Concepts]]
+- [[Unit-5.9/Overview|Overview]] — social consequences that made reform necessary
+- [[Unit-5.10/Overview|Overview]] — Bismarck's state-level social reforms as a parallel response

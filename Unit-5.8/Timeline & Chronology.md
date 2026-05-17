@@ -110,7 +110,7 @@ The AP exam rewards knowing *relative* chronology more than exact years. Here ar
 
 ## Connections
 
-- [[Unit-5.8/Reactions to the Industrial Economy Overview]] — big picture context
-- [[Unit-5.8/Comparative Responses to Industrialization]] — Ottoman, China, Japan compared
-- [[Unit-5.3/Causes of the Industrial Revolution]] — what created these conditions
-- [[Concept Notes/Marxism]] — ideology's development and legacy
+- [[Unit-5.8/Reactions to the Industrial Economy Overview|Reactions to the Industrial Economy Overview]] — big picture context
+- [[Unit-5.8/Comparative Responses to Industrialization|Comparative Responses to Industrialization]] — Ottoman, China, Japan compared
+- [[Unit-5.3/Industrial Revolution Begins Overview|Industrial Revolution Begins Overview]] — what created these conditions
+- [[Concept Notes/Karl Marx|Karl Marx]] — ideology's development and legacy

@@ -103,7 +103,7 @@ Industrialization reshuffled social hierarchies — and Topic 5.8 shows the push
 
 ### Comparison
 
-The richest comparison this topic offers is **Ottoman Empire vs. China vs. Japan** — see [[Unit-5.8/Comparative Responses to Industrialization]] for the full analysis. Key comparison points:
+The richest comparison this topic offers is **Ottoman Empire vs. China vs. Japan** — see [[Unit-5.8/Comparative Responses to Industrialization|Comparative Responses to Industrialization]] for the full analysis. Key comparison points:
 
 - **Timing:** Ottoman earliest (1808/1839), then Japan (1868), then China's serious reform attempts (1890s)
 - **Depth:** Japan deepest (abolished feudalism, constitutional monarchy); Ottoman middle (law, education, military); China shallowest (military technology, avoided political restructuring)
@@ -127,8 +127,8 @@ Topic 5.8 must be understood in the context of:
 
 The ideas and movements born in Topic 5.8 didn't end in 1900:
 
-- **Marxism** → Russian Revolution (1917) → Cold War → [[Unit-8.1/Origins of the Cold War]]
-- **Labor movements** → 20th century welfare states → [[Unit-9.3/Globalization and Labor]]
-- **Ottoman reform failure** → WWI collapse → Republic of Turkey → [[Unit-7.2/Decline of Empires]]
-- **Chinese reform failure** → 1911 Revolution → Nationalist/Communist struggle → [[Unit-7.1/Chinese Revolution of 1911]]
-- **Japanese Meiji success** → Imperial expansion → Russo-Japanese War (1905) → WWII → [[Unit-7.4/World War II in Asia]]
+- **Marxism** → Russian Revolution (1917) → Cold War → [[Unit-8.1/Origins of the Cold War|Origins of the Cold War]]
+- **Labor movements** → 20th century welfare states → [[Unit-9.3/Globalization and Labor|Globalization and Labor]]
+- **Ottoman reform failure** → WWI collapse → Republic of Turkey → [[Unit-7.2/Decline of Empires|Decline of Empires]]
+- **Chinese reform failure** → 1911 Revolution → Nationalist/Communist struggle → [[Unit-7.1/Chinese Revolution of 1911|Chinese Revolution of 1911]]
+- **Japanese Meiji success** → Imperial expansion → Russo-Japanese War (1905) → WWII → [[Unit-7.4/World War II in Asia|World War II in Asia]]

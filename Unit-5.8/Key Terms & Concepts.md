@@ -122,8 +122,8 @@ The samurai code of conduct — emphasizing loyalty, honor, and martial discipli
 
 ## Cross-Reference
 
-- [[Unit-5.8/People, States & Movements]] — biographies and roles of key figures
-- [[Unit-5.8/Comparative Responses to Industrialization]] — Ottoman, China, Japan side-by-side
-- [[Concept Notes/Marxism]] — extended concept hub for Marx's ideas
-- [[Concept Notes/Tanzimat Reforms]] — Ottoman reform in depth
-- [[Concept Notes/Self-Strengthening Movement]] — Chinese reform in depth
+- [[Unit-5.8/People, States & Movements|People, States & Movements]] — biographies and roles of key figures
+- [[Unit-5.8/Comparative Responses to Industrialization|Comparative Responses to Industrialization]] — Ottoman, China, Japan side-by-side
+- [[Concept Notes/Karl Marx|Karl Marx]] — extended concept hub for Marx's ideas
+- [[Concept Notes/Tanzimat Reforms|Tanzimat Reforms]] — Ottoman reform in depth
+- [[Concept Notes/Self-Strengthening Movement|Self-Strengthening Movement]] — Chinese reform in depth

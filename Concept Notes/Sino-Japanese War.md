@@ -16,7 +16,7 @@ The **Sino-Japanese War** (1894–1895) was fought between Qing China and Meiji 
 
 ## Background
 
-Both China and Japan had interests in Korea, which was nominally a Chinese tributary state. After a Korean rebellion gave both powers an excuse to send troops, war broke out. Japan's modernized military — rebuilt along Prussian lines after 1868 — proved dramatically superior to China's forces, which had been "strengthened" by the [[Concept Notes/Self-Strengthening Movement]] but not fundamentally restructured.
+Both China and Japan had interests in Korea, which was nominally a Chinese tributary state. After a Korean rebellion gave both powers an excuse to send troops, war broke out. Japan's modernized military — rebuilt along Prussian lines after 1868 — proved dramatically superior to China's forces, which had been "strengthened" by the [[Concept Notes/Self-Strengthening Movement|Self-Strengthening Movement]] but not fundamentally restructured.
 
 ---
 
@@ -24,7 +24,7 @@ Both China and Japan had interests in Korea, which was nominally a Chinese tribu
 
 - **Treaty of Shimonoseki (1895):** China ceded Taiwan and the Liaodong Peninsula to Japan, paid a massive indemnity, and recognized Korean independence (ending Chinese tributary influence there)
 - Japan emerged as Asia's first modern industrial-military power
-- China's humiliation energized reformers: the **[[Concept Notes/Hundred Days of Reform]]** (1898) followed directly
+- China's humiliation energized reformers: the **[[Concept Notes/Hundred Days of Reform|Hundred Days of Reform]]** (1898) followed directly
 
 ---
 
@@ -49,13 +49,13 @@ The Sino-Japanese War is the **clearest evidence** of the consequences of reform
 
 ## Appears In
 
-- [[Unit-5.8/Key Terms & Concepts]]
-- [[Unit-5.8/People, States & Movements]]
-- [[Unit-5.8/Comparative Responses to Industrialization]]
-- [[Unit-5.8/Timeline & Chronology]]
+- [[Unit-5.8/Key Terms & Concepts|Key Terms & Concepts]]
+- [[Unit-5.8/People, States & Movements|People, States & Movements]]
+- [[Unit-5.8/Comparative Responses to Industrialization|Comparative Responses to Industrialization]]
+- [[Unit-5.8/Timeline & Chronology|Timeline & Chronology]]
 
 ## Compare To
 
-- [[Concept Notes/Opium War]] — earlier humiliation that forced China to open to trade
-- [[Concept Notes/Meiji Restoration]] — Japan's transformation that made this victory possible
-- [[Concept Notes/Self-Strengthening Movement]] — China's inadequate response to Western pressure
+- [[Concept Notes/Opium War|Opium War]] — earlier humiliation that forced China to open to trade
+- [[Concept Notes/Meiji Restoration|Meiji Restoration]] — Japan's transformation that made this victory possible
+- [[Concept Notes/Self-Strengthening Movement|Self-Strengthening Movement]] — China's inadequate response to Western pressure

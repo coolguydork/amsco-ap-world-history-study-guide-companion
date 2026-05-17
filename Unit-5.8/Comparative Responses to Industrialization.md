@@ -63,7 +63,7 @@ All three societies — the Ottoman Empire, China, and Japan — faced the same 
 
 **Weaknesses:** Japan's reforms came with costs. Female mill workers were exploited in conditions mirroring the worst of British industrialization. The samurai class was destroyed as a social group. The speed of change created conservative backlash that, by the 1920s, allowed militarists to dominate the government — setting Japan on a path to WWII.
 
-**The zaibatsu model:** Once industries were established, the government sold them to powerful family business conglomerates ([[Unit-5.6/Industrialization — Government's Role#Japan|zaibatsu]]), combining state direction with private capital.
+**The zaibatsu model:** Once industries were established, the government sold them to powerful family business conglomerates ([[Unit-5.6/Government's Role in Industrialization Overview#Japan|zaibatsu]]), combining state direction with private capital.
 
 ---
 
@@ -95,11 +95,11 @@ This is a classic AP comparison question. Several factors explain Japan's relati
 
 ## Connections
 
-- [[Unit-5.6/Industrialization — Government's Role]] — state-directed industrialization (Egypt, Japan, Ottoman)
-- [[Unit-6.2/Resistance to European Imperialism]] — Boxer Rebellion as continuation of Chinese resistance
-- [[Unit-6.5/Imperialism in Asia]] — China's spheres of influence
-- [[Unit-7.1/Chinese Revolution of 1911]] — where Qing failure leads
-- [[Unit-7.2/Decline of Empires]] — Ottoman collapse after WWI
-- [[Concept Notes/Meiji Restoration]] — Japan's transformation in depth
-- [[Concept Notes/Self-Strengthening Movement]] — Chinese reform in depth
-- [[Concept Notes/Tanzimat Reforms]] — Ottoman reform in depth
+- [[Unit-5.6/Government's Role in Industrialization Overview|Government's Role in Industrialization Overview]] — state-directed industrialization (Egypt, Japan, Ottoman)
+- [[Unit-6.2/Resistance to European Imperialism|Resistance to European Imperialism]] — Boxer Rebellion as continuation of Chinese resistance
+- [[Unit-6.5/Imperialism in Asia|Imperialism in Asia]] — China's spheres of influence
+- [[Unit-7.1/Chinese Revolution of 1911|Chinese Revolution of 1911]] — where Qing failure leads
+- [[Unit-7.2/Decline of Empires|Decline of Empires]] — Ottoman collapse after WWI
+- [[Concept Notes/Meiji Restoration|Meiji Restoration]] — Japan's transformation in depth
+- [[Concept Notes/Self-Strengthening Movement|Self-Strengthening Movement]] — Chinese reform in depth
+- [[Concept Notes/Tanzimat Reforms|Tanzimat Reforms]] — Ottoman reform in depth

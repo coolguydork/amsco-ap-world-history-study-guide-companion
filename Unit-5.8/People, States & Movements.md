@@ -129,7 +129,7 @@ Responses varied:
 A grassroots political force that combined union organizing, parliamentary lobbying, and public pressure to win workers' rights. It operated across multiple fronts: economic (wage bargaining), political (voting rights campaigns), and legislative (child labor and factory laws). The labor movement shows how **industrialization created new forms of political participation** for groups previously excluded from power.
 
 ### Young Turks
-A reform movement in the late Ottoman Empire, driven mostly into exile by Abdulhamid II. They eventually returned and led the coup that deposed Abdulhamid in 1909, establishing a constitutional government. Their story continues in [[Unit-7.2/Decline of Empires]].
+A reform movement in the late Ottoman Empire, driven mostly into exile by Abdulhamid II. They eventually returned and led the coup that deposed Abdulhamid in 1909, establishing a constitutional government. Their story continues in [[Unit-7.2/Decline of Empires|Decline of Empires]].
 
 ### Meiji Reformers vs. Samurai Conservatives
 Within Japan, the Meiji Restoration created an internal fault line: progressive modernizers (often former samurai who had embraced Western ideas) vs. traditional conservatives (samurai who saw modernization as cultural erasure). This tension — rapid change producing conservative backlash — is a recurring historical pattern the AP exam loves to test.
@@ -138,7 +138,7 @@ Within Japan, the Meiji Restoration created an internal fault line: progressive 
 
 ## Cross-Reference
 
-- [[Unit-5.8/Key Terms & Concepts]] — definitions for all the terms these people used
-- [[Unit-5.8/Comparative Responses to Industrialization]] — how Ottoman, China, and Japan compare
-- [[Concept Notes/Marxism]] — Marx's ideas in depth
-- [[Concept Notes/Tanzimat Reforms]] — Ottoman reform context
+- [[Unit-5.8/Key Terms & Concepts|Key Terms & Concepts]] — definitions for all the terms these people used
+- [[Unit-5.8/Comparative Responses to Industrialization|Comparative Responses to Industrialization]] — how Ottoman, China, and Japan compare
+- [[Concept Notes/Karl Marx|Karl Marx]] — Marx's ideas in depth
+- [[Concept Notes/Tanzimat Reforms|Tanzimat Reforms]] — Ottoman reform context

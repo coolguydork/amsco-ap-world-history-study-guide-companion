@@ -47,16 +47,16 @@ Kang Youwei fled abroad and continued advocating for constitutional monarchy fro
 The failure of the Hundred Days is a key inflection point in Chinese history:
 - It demonstrated that the Qing Dynasty could not reform itself from within
 - It radicalized a generation of reformers who concluded that the dynasty itself had to go
-- It contributed directly to the **Boxer Rebellion (1900)** and ultimately the **Chinese Revolution of 1911** ([[Unit-7.1/Chinese Revolution of 1911]])
+- It contributed directly to the **Boxer Rebellion (1900)** and ultimately the **Chinese Revolution of 1911** ([[Unit-7.1/Chinese Revolution of 1911|Chinese Revolution of 1911]])
 
 ---
 
 ## Vault Excerpts
 
-From [[Unit-5.8/Key Terms & Concepts]]:
+From [[Unit-5.8/Key Terms & Concepts|Key Terms & Concepts]]:
 > "Kang convinced the ruler to support a set of sweeping reforms known as the Hundred Days of Reform. The reforms included the abolition of the outdated civil service exam, the elimination of corruption, and the establishment of Western-style industrial, commercial, and medical systems." (AMSCO p. 337)
 
-From [[Unit-5.8/People, States & Movements]]:
+From [[Unit-5.8/People, States & Movements|People, States & Movements]]:
 > "Cixi staged a coup d'état, imprisoned the emperor and immediately repealed his reform edicts... she stopped the extension of railroad lines and telegraph networks into the Chinese interior."
 
 ---
@@ -68,13 +68,13 @@ From [[Unit-5.8/People, States & Movements]]:
 
 ## Appears In
 
-- [[Unit-5.8/Key Terms & Concepts]]
-- [[Unit-5.8/People, States & Movements]]
-- [[Unit-5.8/Comparative Responses to Industrialization]]
-- [[Unit-5.8/Timeline & Chronology]]
+- [[Unit-5.8/Key Terms & Concepts|Key Terms & Concepts]]
+- [[Unit-5.8/People, States & Movements|People, States & Movements]]
+- [[Unit-5.8/Comparative Responses to Industrialization|Comparative Responses to Industrialization]]
+- [[Unit-5.8/Timeline & Chronology|Timeline & Chronology]]
 
 ## Compare To
 
-- [[Concept Notes/Self-Strengthening Movement]] — earlier, more limited Chinese reform
-- [[Concept Notes/Meiji Restoration]] — Japan's successful reform, same era
-- [[Concept Notes/Tanzimat Reforms]] — Ottoman reform, similar limits
+- [[Concept Notes/Self-Strengthening Movement|Self-Strengthening Movement]] — earlier, more limited Chinese reform
+- [[Concept Notes/Meiji Restoration|Meiji Restoration]] — Japan's successful reform, same era
+- [[Concept Notes/Tanzimat Reforms|Tanzimat Reforms]] — Ottoman reform, similar limits

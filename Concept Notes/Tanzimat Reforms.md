@@ -54,13 +54,13 @@ Sultan **Abdulhamid II** (r. 1876–1909) initially accepted a constitution but 
 
 ## Vault Excerpts
 
-From [[Unit-5.8/Key Terms & Concepts]]:
+From [[Unit-5.8/Key Terms & Concepts|Key Terms & Concepts]]:
 > "The sultans codified Ottoman laws and created new ones, including a commercial code (1850) and a penal code (1858). These codes made it easier for foreigners to do business in the empire." (AMSCO p. 335)
 
-From [[Unit-5.8/Comparative Responses to Industrialization]]:
+From [[Unit-5.8/Comparative Responses to Industrialization|Comparative Responses to Industrialization]]:
 > "The Ottoman and Chinese reforms largely avoided fundamental political restructuring. This is why Japan industrialized successfully while the others lagged."
 
-From [[Unit-5.8/People, States & Movements]]:
+From [[Unit-5.8/People, States & Movements|People, States & Movements]]:
 > "The Tanzimat reforms of 1839 did not even mention women." (AMSCO p. 335)
 
 ---
@@ -69,13 +69,13 @@ From [[Unit-5.8/People, States & Movements]]:
 
 The Tanzimat is the AP exam's primary example of **Ottoman modernization** — and also of its **limits**. It shows how a state can attempt reform without changing its fundamental power structure, and how reform can be inconsistently applied (benefiting men, not women; benefiting some minorities while excluding others).
 
-Compare to: [[Unit-5.8/Comparative Responses to Industrialization]], [[Concept Notes/Meiji Restoration]], [[Concept Notes/Self-Strengthening Movement]]
+Compare to: [[Unit-5.8/Comparative Responses to Industrialization|Comparative Responses to Industrialization]], [[Concept Notes/Meiji Restoration|Meiji Restoration]], [[Concept Notes/Self-Strengthening Movement|Self-Strengthening Movement]]
 
 ---
 
 ## Appears In
 
-- [[Unit-5.8/Key Terms & Concepts]]
-- [[Unit-5.8/People, States & Movements]]
-- [[Unit-5.8/Comparative Responses to Industrialization]]
-- [[Unit-5.8/Timeline & Chronology]]
+- [[Unit-5.8/Key Terms & Concepts|Key Terms & Concepts]]
+- [[Unit-5.8/People, States & Movements|People, States & Movements]]
+- [[Unit-5.8/Comparative Responses to Industrialization|Comparative Responses to Industrialization]]
+- [[Unit-5.8/Timeline & Chronology|Timeline & Chronology]]
