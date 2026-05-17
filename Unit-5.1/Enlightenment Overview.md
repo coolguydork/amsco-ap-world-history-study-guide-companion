@@ -104,4 +104,4 @@ The Enlightenment is the **intellectual engine** driving all of Unit 5. Every re
 ## Connections
 
 - **Backward:** [[Concept Notes/Scientific Revolution|Scientific Revolution]] (intellectual roots) | [[Unit-4.5/Maritime Empires Develop Overview]] (Atlantic trade context)
-- **Forward:** [[Unit-5.2/Nationalism and Revolutions Overview]] (Revolutions) | [[Unit-5.8/Overview]] (Marx and capitalism critiques) | [[Unit-6.1/Overview]] (Industrialization consequences)
+- **Forward:** [[Unit-5.2/Nationalism and Revolutions Overview]] (Revolutions) | [[Unit-5.8/Reactions to the Industrial Economy Overview]] (Marx and capitalism critiques) | [[Unit-6.1/Overview]] (Industrialization consequences)

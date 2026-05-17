@@ -64,7 +64,7 @@ Looking across the cases, successful state-led industrialization shared key feat
 
 - How industrialization started: [[Unit-5.3/Industrial Revolution Begins Overview]] and [[Unit-5.4/Industrialization Spreads Overview]]
 - Economic ideologies that shaped these choices: [[Concept Notes/capitalism|capitalism]], [[Concept Notes/laissez-faire|laissez-faire]], [[Concept Notes/socialism|socialism]]
-- Effects of industrialization on global trade and imperialism: [[Unit-5.8/Overview]], [[Unit-6.1/Overview]]
+- Effects of industrialization on global trade and imperialism: [[Unit-5.8/Reactions to the Industrial Economy Overview]], [[Unit-6.1/Overview]]
 - Colonialism and resistance: [[Unit-6.5/Overview]]
 
 ---

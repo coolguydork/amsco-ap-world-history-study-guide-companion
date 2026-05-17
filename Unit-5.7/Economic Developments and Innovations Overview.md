@@ -56,7 +56,7 @@ Understanding 5.7 helps explain:
 
 - [[Unit-5.3/Industrial Revolution Begins Overview|Industrial Revolution Begins]], [[Unit-5.4/Industrialization Spreads Overview|Industrialization Spreads]] — the industrial processes that created these new economic conditions
 - [[Unit-5.6/Government's Role in Industrialization Overview|Government's Role in Industrialization]] — how governments responded to industrial economic change
-- [[Unit-5.8/Overview|Unit 5.8 Overview]] — how economic power drove imperialism
+- [[Unit-5.8/Reactions to the Industrial Economy Overview|Unit 5.8 Overview]] — how economic power drove imperialism
 - [[Unit-6.1/Overview|Unit 6.1 Overview]], [[Unit-6.5/Overview|Unit 6.5 Overview]] — global economic integration and its consequences
 
 ---

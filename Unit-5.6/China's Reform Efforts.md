@@ -132,6 +132,6 @@ The United States tried to maintain a balance of power in Asia during this perio
 - [[Concept Notes/Opium War|Opium War]] — the event that exposed China's military weakness and triggered reform debates
 - [[Concept Notes/Empress Cixi|Empress Cixi]] — the conservative force that blocked Chinese modernization
 - [[Concept Notes/Meiji Restoration|Meiji Restoration]] — Japan's successful contrast; the defeat of China by Japan in 1895 proved Meiji's success
-- [[Unit-5.8/Overview]] — European imperialism in China (spheres of influence)
+- [[Unit-5.8/Reactions to the Industrial Economy Overview]] — European imperialism in China (spheres of influence)
 - [[Unit-6.1/Overview]] — China as a target of imperial powers
 - [[Unit-3.1/Gunpowder Empires Overview]] — China's earlier power and Confucian bureaucratic tradition

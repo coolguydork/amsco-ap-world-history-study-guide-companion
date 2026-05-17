@@ -96,4 +96,4 @@ Industrialization didn't just change production — it created a **consumer cult
 
 - [[Unit-5.7/Economic Developments and Innovations Overview|Overview]] | [[Unit-5.7/Key Terms & Concepts|Key Terms & Concepts]]
 - [[Unit-6.1/Overview|Unit 6.1 Overview]] — transnational corporations as engines of imperialism
-- [[Unit-5.8/Overview|Unit 5.8 Overview]] — worker reactions to corporate power
+- [[Unit-5.8/Reactions to the Industrial Economy Overview|Unit 5.8 Overview]] — worker reactions to corporate power

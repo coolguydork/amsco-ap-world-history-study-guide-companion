@@ -103,5 +103,5 @@ Muhammad Ali is called **"the first great modern ruler of Egypt"** for good reas
 - [[Concept Notes/Meiji Restoration|Meiji Restoration]] — compare Japan's state-led industrialization
 - [[Concept Notes/Ottoman Empire|Ottoman Empire]] — Egypt's nominal overlord; contrast Ottoman weakness with Egyptian initiative
 - [[Concept Notes/Industrial Revolution|Industrial Revolution]] — the model Muhammad Ali was trying to replicate
-- [[Unit-5.8/Overview]] — European imperialism eventually overwhelmed Egypt (British occupation 1882)
+- [[Unit-5.8/Reactions to the Industrial Economy Overview]] — European imperialism eventually overwhelmed Egypt (British occupation 1882)
 - [[Unit-3.1/Gunpowder Empires Overview]] — earlier Ottoman power and structure

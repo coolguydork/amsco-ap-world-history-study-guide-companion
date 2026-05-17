@@ -85,7 +85,7 @@ The richest comparisons in Topic 5.6:
 
 Topic 5.6 sits within the broader context of:
 - The global spread of industrialization outward from Britain ([[Unit-5.3/Industrial Revolution Begins Overview]], [[Unit-5.4/Industrialization Spreads Overview]])
-- The rise of European imperialism enabled by industrial military power ([[Unit-5.8/Overview]], [[Unit-6.1/Overview]])
+- The rise of European imperialism enabled by industrial military power ([[Unit-5.8/Reactions to the Industrial Economy Overview]], [[Unit-6.1/Overview]])
 - The intellectual context of [[Concept Notes/realpolitik|realpolitik]] — the hardheaded calculation that power requires modern technology
 
 ---

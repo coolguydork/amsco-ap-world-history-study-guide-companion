@@ -66,4 +66,4 @@ Corporations needed raw materials (rubber, palm oil, cotton, diamonds) and marke
 
 - [[Unit-5.7/Economic Developments and Innovations Overview|Overview]] | [[Unit-5.7/Business Structures & Corporations|Business Structures & Corporations]] | [[Unit-5.7/Practice & Review|Practice & Review]]
 - [[Unit-6.1/Overview|Unit 6.1 Overview]] — New Imperialism as corporate expansion
-- [[Unit-5.8/Overview|Unit 5.8 Overview]] — Workers react to corporate capitalism
+- [[Unit-5.8/Reactions to the Industrial Economy Overview|Unit 5.8 Overview]] — Workers react to corporate capitalism

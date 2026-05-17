@@ -107,5 +107,5 @@ New forms of recreation that developed alongside industrialization:
 
 - [[Unit-5.3/Industrial Revolution Begins Overview|Industrial Revolution]] — the production system that made these economic innovations necessary
 - [[Unit-5.6/Government's Role in Industrialization Overview|Government's Role in Industrialization]] — how governments shaped economic development
-- [[Unit-5.8/Overview|Unit 5.8 Overview]] — how economic power drove imperial expansion
+- [[Unit-5.8/Reactions to the Industrial Economy Overview|Unit 5.8 Overview]] — how economic power drove imperial expansion
 - [[Unit-6.1/Overview|Unit 6.1 Overview]] — the global economy that transnational companies helped build

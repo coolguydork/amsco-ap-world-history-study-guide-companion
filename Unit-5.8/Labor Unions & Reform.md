@@ -87,6 +87,6 @@ Each bill reduced **property-ownership requirements** for voting. The pattern il
 
 ## Connections
 
-- [[Unit-5.8/Overview]] | [[Unit-5.8/Karl Marx & Socialism]] | [[Unit-5.8/Key Terms & Concepts]]
+- [[Unit-5.8/Reactions to the Industrial Economy Overview]] | [[Unit-5.8/Karl Marx & Socialism]] | [[Unit-5.8/Key Terms & Concepts]]
 - [[Unit-5.9/Overview]] — social consequences that made reform necessary
 - [[Unit-5.10/Overview]] — Bismarck's state-level social reforms as a parallel response
