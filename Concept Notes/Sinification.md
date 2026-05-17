@@ -2,7 +2,7 @@
 unit: concept-note
 topic: cross-topic
 period: varies
-tags: [apwh, concept-note, east-asia, cultural-diffusion, period-1]
+tags: [apwh, concept-note, east-asia, cultural-diffusion, governance, religion]
 ---
 
 # Sinification
@@ -10,29 +10,42 @@ tags: [apwh, concept-note, east-asia, cultural-diffusion, period-1]
 > [!summary] Source-built concept note
 > This note collects relevant excerpts from existing study-vault notes and the structured AMSCO reference system. Use it as a quick concept hub, then return to the full topic notes for complete context.
 
-## What Is Sinification?
+## Definition
 
-**Sinification** (also "Sinicization") is the process by which cultures neighboring China adopt Chinese practices — including writing, governance structures, religion (Buddhism, Confucianism), art, architecture, and language.
+**Sinification** (also called *sinicization*) refers to the adoption and assimilation of Chinese cultural traditions, practices, institutions, and values by neighboring or conquered peoples. The term comes from *Sina*, the Latin name for China.
 
-The key tension: China's power was so great that neighbors benefited from proximity, but they also had to fight to maintain their own distinct cultures.
+Sinification was not forced in a simple sense — it often occurred because Chinese civilization was so economically and culturally dominant that neighboring states found it advantageous to adopt its practices. However, it also sometimes accompanied Chinese military occupation (as in Vietnam) or tributary dependency (as in Korea).
 
-## Three Cases: Japan, Korea, Vietnam
+## What Was Typically Adopted
 
-| Country | Degree of Sinification | Key Adoptions | Key Resistances |
-|---------|----------------------|---------------|-----------------|
-| **Japan** | Selective; strongest buffer (sea) | Buddhism, Confucianism, woodblock printing, writing | Shinto religion; feudal shogunate (more decentralized than China); samurai + bushido; Tale of Genji (independent literary tradition) |
-| **Korea** | Deep; land border | Confucianism, Buddhism, Chinese writing, centralized government | Aristocracy blocked merit-based reform; civil service exam not open to peasants |
-| **Vietnam** | Contested; adversarial | Chinese writing, architectural styles, bureaucracy | Violent rebellions; women's independence maintained; nuclear families (not extended); village-loyal officials; rejected foot binding and polygyny |
+When a culture underwent sinification, it commonly adopted some combination of:
+
+- **Writing system** — Chinese characters (though structurally awkward for Korean and Vietnamese)
+- **Buddhism and Confucianism** — religious and philosophical traditions
+- **Governance structures** — centralized bureaucracy, civil service exams
+- **Artistic and architectural styles**
+- **Agricultural techniques and technologies**
+
+## Responses in Topic 1.1
+
+> "An important dynamic in the histories of Japan, Korea, and Vietnam was each country's relationship with China... Each had to confront the issue of sinification, or the assimilation of Chinese traditions and practices." — AMSCO p. 9
+
+| Country | Sinification Level | Key Element of Resistance |
+|---|---|---|
+| **Japan** | Selective | Island geography; maintained Shinto, created own literature (Tale of Genji), developed unique shogunate |
+| **Korea** | High | Aristocracy blocked meritocratic reform; maintained distinct language (developed own writing system in 15th century) |
+| **Vietnam** | High but contested | Violent rebellions; maintained nuclear families; rejected foot binding and polygyny; guerrilla warfare against Chinese armies |
 
 ## Why It Matters for the AP Exam
 
-Sinification illustrates several key AP concepts:
-- **Cultural diffusion**: How practices spread across political borders
-- **Continuity vs. change**: Neighboring states adapted Chinese practices but didn't simply replicate them — they created syntheses
-- **Comparison**: The three cases (Japan, Korea, Vietnam) offer built-in comparison material — same external force, different responses based on geography, history, and cultural identity
+Sinification demonstrates:
+- **Cultural diffusion** — how powerful civilizations spread their practices
+- **Agency of recipient cultures** — peoples weren't passive; they selected, resisted, and adapted
+- **Comparison** — the AP exam loves asking how Japan, Korea, and Vietnam each responded differently
 
-## Connections in This Vault
+## Connections
 
-- [[Unit-1.1/Song Dynasty and East Asia]] — Main discussion of sinification in Japan, Korea, Vietnam
-- [[Concept Notes/Neo-Confucianism]] — The key Chinese ideology that spread through sinification
-- [[Unit-1.7/State-Building Comparison]] — Japan as the "synthesis of different traditions" case study; also as exception to the centralization trend
+- [[Unit-1.1/Japan Korea Vietnam|Japan, Korea & Vietnam]] — main source note
+- [[Unit-1.1/Song Dynasty|Song Dynasty]] — the Chinese model being diffused
+- [[Concept Notes/Neo-Confucianism|Neo-Confucianism]] — the ideology most commonly spread via sinification
+- [[Concept Notes/Civil Service Exam|Civil Service Exam]] — an institution spread (and modified) by sinification
