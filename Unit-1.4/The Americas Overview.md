@@ -170,7 +170,7 @@ In **1532**, Spanish conquistador Francisco Pizarro arrived during an Incan civi
 
 ## Connections
 
-- [[Unit-1.7/State-Building Comparison]] — Americas as examples of tributary empire (Aztec) and expansionist state with labor systems (Inca)
-- [[Unit-4.3/Columbian Exchange]] — Spanish conquest of these civilizations triggers the Columbian Exchange
-- [[Concept Notes/Human Sacrifice]] — AP theme: how religious practice legitimizes political power
-- [[Unit-1.5/Africa Overview]] — Parallel: Mississippian mounds compare to African earthworks; matrilineal societies present in both regions
+- [[Unit-1.7/State-Building Comparison|State-Building Comparison]] — Americas as examples of tributary empire (Aztec) and expansionist state with labor systems (Inca)
+- [[Unit-4.3/Columbian Exchange Overview|Columbian Exchange]] — Spanish conquest of these civilizations triggers the Columbian Exchange
+- [[Concept Notes/Human Sacrifice|Human Sacrifice]] — AP theme: how religious practice legitimizes political power
+- [[Unit-1.5/Africa Overview|Africa Overview]] — Parallel: Mississippian mounds compare to African earthworks; matrilineal societies present in both regions
