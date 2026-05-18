@@ -37,10 +37,10 @@ The Himalayas blocked invasion from north and east, but **mountain passes in the
 
 **Delhi Sultanate (early 13th–16th centuries)** — Islamic forces conquered Delhi and much of northern India. The Sultanate ruled for 300 years. It never organized an efficient bureaucracy like China's, making it difficult to impose policy across such a diverse land. Sultans imposed the **jizya** — a tax on all non-Muslim subjects — which generated resentment.
 
-The Delhi Sultanate also repelled the Mongols — a major achievement. But in 1526, it fell to a new empire, the **Mughals**, whose leaders traced their ancestry to the Mongols. (See [[Unit-3.1/Mughal Empire]].)
+The Delhi Sultanate also repelled the Mongols — a major achievement. But in 1526, it fell to a new empire, the **Mughals**, whose leaders traced their ancestry to the Mongols. (See [[Unit-3.1/Gunpowder Empires Overview|Topic 3.1]].)
 
 > [!exam-tip]
-> The Delhi Sultanate is a prime example of the "Synthesis of Different Traditions" pattern of state-building (see [[Unit-1.7/State-Building Comparison]]). Islam and Hinduism blended uneasily — sometimes violently (jizya, temple destruction), sometimes creatively (Urdu language, syncretic architecture).
+> The Delhi Sultanate is a prime example of the "Synthesis of Different Traditions" pattern of state-building (see [[Unit-1.7/State-Building Comparison|State-Building Comparison]]). Islam and Hinduism blended uneasily — sometimes violently (jizya, temple destruction), sometimes creatively (Urdu language, syncretic architecture).
 
 ---
 
@@ -153,7 +153,7 @@ Islam entered Southeast Asia through Indian Ocean trade networks:
 
 ## Connections
 
-- [[Unit-1.2/Dar al-Islam Overview]] — Delhi Sultanate as part of Dar al-Islam; Sufis spreading Islam
-- [[Unit-1.7/State-Building Comparison]] — South Asia as case study in decentralization; synthesis of traditions
-- [[Unit-2.3/Indian Ocean Trade]] — The entire SE Asian economy depended on this trade network
-- [[Unit-3.1/Mughal Empire]] — The Mughals replaced the Delhi Sultanate in 1526; represent the culmination of Indo-Islamic synthesis
+- [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]] — Delhi Sultanate as part of Dar al-Islam; Sufis spreading Islam
+- [[Unit-1.7/State-Building Comparison|State-Building Comparison]] — South Asia as case study in decentralization; synthesis of traditions
+- [[Unit-2.3/Indian Ocean Exchange|Indian Ocean Exchange]] — The entire SE Asian economy depended on this trade network
+- [[Unit-3.1/Gunpowder Empires Overview|Gunpowder Empires Overview]] — The Mughals replaced the Delhi Sultanate in 1526; represent the culmination of Indo-Islamic synthesis
