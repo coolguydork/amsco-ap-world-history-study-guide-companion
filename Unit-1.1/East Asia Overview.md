@@ -68,8 +68,8 @@ By the end of this topic, you should be able to explain:
 > The AP exam frequently asks you to trace how developments in this period *caused* or *enabled* later ones. Know these links.
 
 - Song technology (gunpowder, compass, paper) spreads via [[Unit-2.1/Silk Roads Overview|Silk Roads]] → enables European exploration after 1450
-- Neo-Confucianism shapes governance in [[Unit-3.1/Ming Dynasty|Ming Dynasty]], Korea, Vietnam, and Japan into Period 2
-- Tributary system under Song → continues and expands under the [[Unit-3.1/Ming Dynasty|Ming Dynasty]]
+- Neo-Confucianism shapes governance in [[Unit-3.1/Gunpowder Empires Overview|Ming Dynasty]], Korea, Vietnam, and Japan into Period 2
+- Tributary system under Song → continues and expands under the [[Unit-3.1/Gunpowder Empires Overview|Ming Dynasty]]
 - Song's fall to Mongols (1279) → opens Eurasia to the [[Concept Notes/Pax Mongolica|Pax Mongolica]] and intensified cross-continental trade
 
 ---
@@ -78,8 +78,8 @@ By the end of this topic, you should be able to explain:
 
 | Note | Contents |
 |---|---|
-| [[Unit-1.1/Song Dynasty\|Song Dynasty]] | Government, economy, technology, society, culture |
-| [[Unit-1.1/Japan Korea Vietnam\|Japan, Korea & Vietnam]] | Sinification, feudalism, regional comparisons |
-| [[Unit-1.1/Key Terms & Concepts\|Key Terms & Concepts]] | Full vocabulary for Topic 1.1 |
-| [[Unit-1.1/Themes & Historical Reasoning\|Themes & Historical Reasoning]] | CCOT, comparison, causation through AP lenses |
-| [[Unit-1.1/Practice & Review\|Practice & Review]] | MCQs, SAQs, essay prompts |
+| [[Unit-1.1/Song Dynasty|Song Dynasty]] | Government, economy, technology, society, culture |
+| [[Unit-1.1/Japan Korea Vietnam|Japan, Korea & Vietnam]] | Sinification, feudalism, regional comparisons |
+| [[Unit-1.1/Key Terms & Concepts|Key Terms & Concepts]] | Full vocabulary for Topic 1.1 |
+| [[Unit-1.1/Themes & Historical Reasoning|Themes & Historical Reasoning]] | CCOT, comparison, causation through AP lenses |
+| [[Unit-1.1/Practice & Review|Practice & Review]] | MCQs, SAQs, essay prompts |

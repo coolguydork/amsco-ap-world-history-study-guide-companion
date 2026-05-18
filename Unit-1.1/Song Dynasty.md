@@ -92,7 +92,7 @@ Key enablers of trade:
 - **Redesigned ships** — built to carry larger cargo loads
 - **Paper money** — reduced the friction of long-distance trade
 
-The [[Concept Notes/Tributary System|tributary system]] cemented China's economic dominance. Foreign states (Japan, Korea, Southeast Asian kingdoms) paid tribute — money or goods — to honor the Chinese emperor, performing the ritual **kowtow** (bowing until forehead touched the floor). This system created stability and stimulated exchange for all parties. The famous [[Unit-2.3/Zheng He|Zheng He]] voyages (Topic 2.3) were an expression of this tributary logic.
+The [[Concept Notes/Tributary System|tributary system]] cemented China's economic dominance. Foreign states (Japan, Korea, Southeast Asian kingdoms) paid tribute — money or goods — to honor the Chinese emperor, performing the ritual **kowtow** (bowing until forehead touched the floor). This system created stability and stimulated exchange for all parties. The famous [[Unit-2.3/Indian Ocean Exchange|Zheng He]] voyages (Topic 2.3) were an expression of this tributary logic.
 
 ### Taxes and Public Works
 
@@ -206,7 +206,7 @@ Internally, the Song's own success became a liability: the bloated bureaucracy c
 - [[Unit-1.1/Key Terms & Concepts|Key Terms & Concepts]] — full vocabulary list
 - [[Unit-2.1/Silk Roads Overview|Silk Roads]] — the trade networks that spread Song technology across Eurasia
 - [[Unit-2.2/Mongol Empire Overview|Mongol Empire]] — the force that ended the Song Dynasty
-- [[Unit-2.3/Zheng He|Zheng He]] — Ming Dynasty continuation of the tributary system
-- [[Unit-3.1/Ming Dynasty|Ming Dynasty]] — the dynasty that replaced Mongol rule in China
+- [[Unit-2.3/Indian Ocean Exchange|Zheng He]] — Ming Dynasty continuation of the tributary system
+- [[Unit-3.1/Gunpowder Empires Overview|Ming Dynasty]] — the dynasty that replaced Mongol rule in China
 - [[Concept Notes/Neo-Confucianism|Neo-Confucianism]] — broader concept note
 - [[Concept Notes/Civil Service Exam|Civil Service Exam]] — broader concept note

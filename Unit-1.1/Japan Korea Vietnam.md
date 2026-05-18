@@ -145,5 +145,5 @@ As the Tang Dynasty crumbled in the 8th century, Vietnamese rebels expelled Chin
 - [[Unit-1.1/Themes & Historical Reasoning|Themes & Historical Reasoning]] — how sinification illustrates cultural diffusion and continuity/change
 - [[Concept Notes/Sinification|Sinification]] — broader concept note
 - [[Concept Notes/Feudalism|Feudalism]] — comparing Japanese and European feudalism
-- [[Unit-1.6/European Feudalism|European Feudalism]] — the parallel system in the West
+- [[Unit-1.6/Medieval Europe Overview|European Feudalism]] — the parallel system in the West
 - [[Concept Notes/Bushido|Bushido]] — Japanese warrior code

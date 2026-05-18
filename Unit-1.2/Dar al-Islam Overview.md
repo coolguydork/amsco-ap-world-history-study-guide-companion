@@ -51,8 +51,8 @@ After the Abbasid collapse, the Islamic world splintered politically. New states
 
 - **Mamluk Sultanate** — Egypt and North Africa (Turkic origin)
 - **Seljuk Turks** — Middle East
-- **Delhi Sultanate** — South Asia (see [[Unit-1.3/South and Southeast Asia Overview]])
-- *Later* (16th century): **Ottoman Empire** (Turkey), **Safavid Empire** (Persia), **Mughal Empire** (India) — see [[Unit-3.1/Land-Based Empires]]
+- **Delhi Sultanate** — South Asia (see [[Unit-1.3/South and Southeast Asia Overview|South and Southeast Asia]])
+- *Later* (16th century): **Ottoman Empire** (Turkey), **Safavid Empire** (Persia), **Mughal Empire** (India) — see [[Unit-3.1/Gunpowder Empires Overview|Land-Based Empires]]
 
 Despite political fragmentation, Islamic civilization maintained **cultural continuity** through:
 
@@ -145,8 +145,8 @@ Key intellectual transfers from al-Andalus to Europe:
 
 ## Connections
 
-- [[Unit-1.3/South and Southeast Asia Overview]] — Delhi Sultanate; Sufis spreading Islam to South and SE Asia
-- [[Unit-1.5/Africa Overview]] — Islam in West Africa (Mali); Sufis; trans-Saharan trade
-- [[Unit-1.6/Medieval Europe Overview]] — Crusades; al-Andalus; Islamic knowledge transmission to Europe
-- [[Unit-2.2/Mongol Empire]] — Mongols destroyed the Abbasid Caliphate in 1258
-- [[Unit-3.1/Land-Based Empires]] — Ottoman, Safavid, Mughal empires emerge from this period's Turkish Islamic states
+- [[Unit-1.3/South and Southeast Asia Overview|South and Southeast Asia]] — Delhi Sultanate; Sufis spreading Islam to South and SE Asia
+- [[Unit-1.5/Africa Overview|Africa Overview]] — Islam in West Africa (Mali); Sufis; trans-Saharan trade
+- [[Unit-1.6/Medieval Europe Overview|Medieval Europe]] — Crusades; al-Andalus; Islamic knowledge transmission to Europe
+- [[Unit-2.2/Mongol Empire Overview|Mongol Empire]] — Mongols destroyed the Abbasid Caliphate in 1258
+- [[Unit-3.1/Gunpowder Empires Overview|Land-Based Empires]] — Ottoman, Safavid, Mughal empires emerge from this period's Turkish Islamic states
