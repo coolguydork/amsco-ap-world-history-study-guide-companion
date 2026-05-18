@@ -179,8 +179,8 @@ The Mongols required local nobles to collect taxes. As these nobles grew wealthy
 
 ## Connections
 
-- [[Unit-1.2/Dar al-Islam Overview]] — Crusades; al-Andalus knowledge transfer; Islamic merchants stimulating European trade
-- [[Unit-1.1/Song Dynasty and East Asia]] — Japanese vs. European feudalism comparison; technology from China (gunpowder, paper)
-- [[Unit-2.2/Mongol Empire]] — Mongols disrupted Kievan Rus; brought Chinese technologies westward; prompted Marco Polo's journey
-- [[Unit-3.1/Land-Based Empires]] — European centralization accelerates after 1450; Protestant Reformation fractures the Church
-- [[Unit-4.1/European Exploration]] — Renaissance curiosity, economic motivations, and improved navigation technology drive exploration
+- [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam]] — Crusades; al-Andalus knowledge transfer; Islamic merchants stimulating European trade
+- [[Unit-1.1/Song Dynasty|Song Dynasty and East Asia]] — Japanese vs. European feudalism comparison; technology from China (gunpowder, paper)
+- [[Unit-2.2/Mongol Empire Overview|Mongol Empire]] — Mongols disrupted Kievan Rus; brought Chinese technologies westward; prompted Marco Polo's journey
+- [[Unit-3.1/Gunpowder Empires Overview|Land-Based Empires]] — European centralization accelerates after 1450; Protestant Reformation fractures the Church
+- [[Unit-4.1/Technological Innovations Overview|European Exploration]] — Renaissance curiosity, economic motivations, and improved navigation technology drive exploration
