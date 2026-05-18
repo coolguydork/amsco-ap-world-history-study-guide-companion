@@ -126,7 +126,7 @@ Griots held enormous social power — "a griot could sing your success or sing y
 
 ## Connections
 
-- [[Unit-1.2/Dar al-Islam Overview]] — Islam's spread into West and East Africa; trans-Saharan trade connections
-- [[Unit-2.4/West African Empires]] — Mali's later developments (Timbuktu, Songhai); gold-salt trade in detail
-- [[Unit-2.3/Indian Ocean Trade]] — Zimbabwe's trade connections through coastal city-states
-- [[Unit-1.7/State-Building Comparison]] — Africa illustrates the "expansion in scope" model (Mali replacing Ghana) and kin-based alternatives to centralized state
+- [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]] — Islam's spread into West and East Africa; trans-Saharan trade connections
+- [[Unit-2.4/Trans-Saharan Trade|Trans-Saharan Trade]] — Mali's later developments (Timbuktu, Songhai); gold-salt trade in detail
+- [[Unit-2.3/Indian Ocean Exchange|Indian Ocean Exchange]] — Zimbabwe's trade connections through coastal city-states
+- [[Unit-1.7/State-Building Comparison|State-Building Comparison]] — Africa illustrates the "expansion in scope" model (Mali replacing Ghana) and kin-based alternatives to centralized state

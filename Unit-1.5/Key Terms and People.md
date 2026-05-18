@@ -22,7 +22,7 @@ Trade routes crossing the Sahara Desert connecting West Africa to North Africa, 
 The first major West African kingdom. Sold gold and ivory to Muslim traders for salt, copper, cloth, and tools. Centralized government; capital at Koumbi Saleh. Peaked in the 8th–11th centuries. Weakened by wars with neighbors.
 
 **Mali (c. 12th–14th centuries)**
-West African empire that replaced Ghana. Founded by Sundiata; famous for Mansa Musa's 1324 pilgrimage to Mecca. Thriving gold trade. Center of Islamic scholarship (Timbuktu). See also [[Unit-2.4/West African Empires]].
+West African empire that replaced Ghana. Founded by Sundiata; famous for Mansa Musa's 1324 pilgrimage to Mecca. Thriving gold trade. Center of Islamic scholarship (Timbuktu). See also [[Unit-2.4/Trans-Saharan Trade|Trans-Saharan Trade (Topic 2.4)]].
 
 **Sundiata**
 Founding ruler of Mali. A Muslim who used Islamic connections to build trade relationships with North African and Arab merchants.
