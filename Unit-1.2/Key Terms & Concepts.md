@@ -13,7 +13,7 @@ tags: [apwh, unit-1, topic-1-2, period-1, dar-al-islam, religion, governance, ec
 ## Core Concepts
 
 **Dar al-Islam**
-Literally "House of Islam" — the cultural and religious zone across which Islam was the dominant faith. Not a single political empire, but a unified civilization sharing [[Sharia]] (law), [[Arabic]] (scholarly language), and trade networks. By 1200, it stretched from Spain to Central Asia. The AP exam often focuses on how Dar al-Islam maintained cultural unity despite political fragmentation.
+Literally "House of Islam" — the cultural and religious zone across which Islam was the dominant faith. Not a single political empire, but a unified civilization sharing **Sharia** (law), **Arabic** (scholarly language), and trade networks. By 1200, it stretched from Spain to Central Asia. The AP exam often focuses on how Dar al-Islam maintained cultural unity despite political fragmentation.
 
 **Five Pillars of Islam**
 The five core obligations of every Muslim: (1) Shahada — declaration of faith; (2) Salat — five daily prayers; (3) Zakat — charitable giving; (4) Sawm — fasting during Ramadan; (5) Hajj — pilgrimage to Mecca. The pillars created behavioral uniformity across the Islamic world and linked merchants and merchants to religious duty.
@@ -22,7 +22,7 @@ The five core obligations of every Muslim: (1) Shahada — declaration of faith;
 Islamic religious law derived from the Quran and the traditions of Muhammad. Governed everything from family life and inheritance to commercial transactions. The common use of Sharia across politically diverse Islamic states created similar legal systems throughout Dar al-Islam — a major mechanism of cultural unity (AMSCO p. 16).
 
 **Caliphate / Caliph**
-The Caliphate was the political-religious institution governing the Islamic world after Muhammad. A **caliph** ("successor") was both head of state and chief religious authority. The [[Abbasid Caliphate]] (750–1258) was the most significant. When the Seljuk Turks seized real power, the Abbasid caliph was reduced to chief **Sunni religious authority** — the title of **sultan** held actual political power.
+The Caliphate was the political-religious institution governing the Islamic world after Muhammad. A **caliph** ("successor") was both head of state and chief religious authority. The **Abbasid Caliphate** (750–1258) was the most significant. When the Seljuk Turks seized real power, the Abbasid caliph was reduced to chief **Sunni religious authority** — the title of **sultan** held actual political power.
 
 **Sultan**
 A secular political ruler in the Islamic world. The Seljuk Turks used this title to claim real power while leaving the caliph a ceremonial religious role. Later adopted by the Ottoman, Safavid, and Mughal rulers.
@@ -88,10 +88,10 @@ The defeat of Islamic forces by Frankish armies under Charles Martel in what is 
 ## Intellectual and Economic Terms
 
 **Trigonometry**
-The branch of mathematics dealing with the relationships between the angles and sides of triangles. [[Nasir al-Din al-Tusi]] laid the groundwork for trigonometry as a separate field. Developed through Islamic scholarship and later transmitted to Europe.
+The branch of mathematics dealing with the relationships between the angles and sides of triangles. [[Unit-1.2/People, States & Movements|Nasir al-Din al-Tusi]] laid the groundwork for trigonometry as a separate field. Developed through Islamic scholarship and later transmitted to Europe.
 
 **Historiography**
-The study of the methods and philosophy of history — how historians think, research, and write. [[Ibn Khaldun]] is widely considered a founder of historiography and sociology.
+The study of the methods and philosophy of history — how historians think, research, and write. [[Unit-1.2/People, States & Movements|Ibn Khaldun]] is widely considered a founder of historiography and sociology.
 
 **Dhows**
 Long, thin-hulled sailing vessels first developed in India or China, used extensively by Islamic merchants. Ideal for carrying trade goods across the Indian Ocean and Mediterranean. The ships that carried luxury goods from China and Southeast Asia into Spain and the rest of Europe via al-Andalus (AMSCO p. 19).

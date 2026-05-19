@@ -24,7 +24,7 @@ tags: [apwh, unit-1, topic-1-2, period-1, dar-al-islam, religion, governance, cu
 
 ### The Islamic Golden Age as Cultural Achievement
 
-The Abbasid Golden Age represents one of history's greatest periods of intellectual productivity. Islamic scholars did not simply preserve earlier knowledge — they synthesized it, extended it, and created new fields. The [[House of Wisdom]] in Baghdad was the global center of learning, attracting scholars across Afro-Eurasia.
+The Abbasid Golden Age represents one of history's greatest periods of intellectual productivity. Islamic scholars did not simply preserve earlier knowledge — they synthesized it, extended it, and created new fields. The [[Concept Notes/House of Wisdom|House of Wisdom]] in Baghdad was the global center of learning, attracting scholars across Afro-Eurasia.
 
 The three-stage knowledge-transfer process is an excellent AP evidence chain:
 1. Islamic scholars translated and preserved Greek texts (especially Aristotle).
@@ -40,7 +40,7 @@ The three-stage knowledge-transfer process is an excellent AP evidence chain:
 
 ### al-Andalus: Cross-Cultural Intellectual Transfer
 
-In al-Andalus, the interweaving of Muslim, Jewish, and Christian intellectual life produced the most significant cross-cultural knowledge transfer of the medieval world. The chain from [[Ibn Rushd (Averroes)|Averroes]] → [[Maimonides]] → [[Thomas Aquinas]] demonstrates that the European Renaissance and Scientific Revolution had deep Islamic roots. This is a classic example of **unintended consequences**: Islamic scholars preserving Greek texts did not intend to spark a European intellectual revolution centuries later.
+In al-Andalus, the interweaving of Muslim, Jewish, and Christian intellectual life produced the most significant cross-cultural knowledge transfer of the medieval world. The chain from [[Unit-1.2/People, States & Movements|Averroes]] → [[Unit-1.2/People, States & Movements|Maimonides]] → [[Unit-1.2/People, States & Movements|Thomas Aquinas]] demonstrates that the European Renaissance and Scientific Revolution had deep Islamic roots. This is a classic example of **unintended consequences**: Islamic scholars preserving Greek texts did not intend to spark a European intellectual revolution centuries later.
 
 ---
 

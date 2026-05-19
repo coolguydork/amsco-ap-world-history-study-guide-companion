@@ -16,13 +16,13 @@ tags: [apwh, unit-1, topic-1-1, period-1, east-asia, vocabulary]
 A vast organization of appointed officials who carry out the emperor's policies. Present in China since the Qin Dynasty (221 BCE); expanded significantly under the Song. Represents political *continuity* across dynasties — but the Song expansion eventually became so costly it weakened the empire.
 
 **Civil service exam (keju)**
-Examinations based on knowledge of Confucian texts; used to select officials for the bureaucracy. Expanded by [[Song Taizu]] to include young men of lower economic classes. Produced a *meritocracy* — advancement by demonstrated ability rather than birth.
+Examinations based on knowledge of Confucian texts; used to select officials for the bureaucracy. Expanded by [[Unit-1.1/People, States & Movements|Song Taizu]] to include young men of lower economic classes. Produced a *meritocracy* — advancement by demonstrated ability rather than birth.
 
 **Meritocracy**
 A system in which positions are earned through merit (skill, knowledge, performance). China's civil service exam made its bureaucracy a meritocracy, allowing limited upward mobility — more than any other system of the time.
 
 **Tributary system**
-An arrangement in which foreign states pay money or provide goods to honor the Chinese emperor. Tributary states sent representatives to perform the [[kowtow]]. Cemented Chinese political dominance while stimulating trade. Japan, Korea, and many Southeast Asian kingdoms were tributary states by the Song era.
+An arrangement in which foreign states pay money or provide goods to honor the Chinese emperor. Tributary states sent representatives to perform the **kowtow**. Cemented Chinese political dominance while stimulating trade. Japan, Korea, and many Southeast Asian kingdoms were tributary states by the Song era.
 
 **Kowtow**
 A ritual of deep respect: bowing until one's head touched the floor. Required of representatives from tributary states when meeting the Chinese emperor.

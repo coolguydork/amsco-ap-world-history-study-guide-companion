@@ -41,16 +41,16 @@ China's civil service exam and meritocratic bureaucracy are the comparison point
 
 ## Compare With (Lateral Connections)
 
-**[[Topic 1.2]] — Developments in Dar al-Islam**
+**[[Unit-1.2/Dar al-Islam Overview|Topic 1.2]] — Developments in Dar al-Islam**
 Both Song China and the Abbasid Caliphate (Dar al-Islam) were sophisticated, commercially active, bureaucratic civilizations in this period. Key comparisons: both had extensive trade networks; both supported intellectual achievement; both used merchants but differed in social status given to them (Confucianism ranked merchants low; Islam honored merchants). Both were eventually disrupted by Mongol invasion (Song in 1279; Baghdad in 1258).
 
-**[[Topic 1.5]] — Developments in Africa (Mali Empire)**
+**[[Unit-1.5/Africa Overview|Topic 1.5]] — Developments in Africa (Mali Empire)**
 Legitimacy contrast: China's Song Dynasty justified rule through Confucian ethics and the Mandate of Heaven; Mali's rulers justified rule through Islam. Both used trade (Silk Roads vs. Trans-Saharan routes) as a source of state wealth.
 
-**[[Topic 1.4]] — Developments in the Americas**
+**[[Unit-1.4/The Americas Overview|Topic 1.4]] — Developments in the Americas**
 Governance contrast: Aztec and Inca states built sophisticated administrative systems without written bureaucracy (Aztec pictographs, Inca quipu) — compare to China's document-heavy, exam-based bureaucracy. Both achieved agricultural innovation (Champa rice in China; terraced agriculture in Andes).
 
-**[[Topic 1.6]] — Developments in Europe**
+**[[Unit-1.6/Medieval Europe Overview|Topic 1.6]] — Developments in Europe**
 The sharpest contrast in Unit 1. Song China: centralized bureaucracy, meritocracy, commercialized economy, proto-industrial production, literate scholar-gentry. Medieval Europe: feudalism, hereditary nobility, subsistence agriculture, Church-dominated intellectual life. Japanese feudalism (daimyo/samurai/serfs) structurally resembles European feudalism more than it resembles Song China's governance.
 
 ---
