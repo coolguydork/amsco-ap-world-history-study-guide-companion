@@ -49,7 +49,7 @@ Leader of the Minamoto clan and first shogun of Japan's **Kamakura Shogunate** (
 The Song is the gold standard for AP comparisons: it represents advanced governance, economic commercialization, and cultural sophistication in the same era that Europe was feudal and fragmented.
 
 > [!tip]
-> Compare Song China with [[Unit-1.6/Europe Overview|medieval Europe]]: Song = meritocracy, commercialization, urbanization. Europe = feudalism, hereditary nobility, subsistence agriculture.
+> Compare Song China with [[Unit-1.6/Medieval Europe Overview|medieval Europe]]: Song = meritocracy, commercialization, urbanization. Europe = feudalism, hereditary nobility, subsistence agriculture.
 
 ### Yuan Dynasty (1271–1368)
 
