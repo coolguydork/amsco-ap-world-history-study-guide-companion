@@ -57,7 +57,7 @@ The western khanate covering Russia and the western steppes. Used indirect rule 
 The Central Asian khanate between the other three. Later conquered by Tamerlane around 1369. Less directly significant to the AP curriculum than the other three khanates.
 
 **Ming Dynasty (1368–1644)**
-The Chinese dynasty that replaced the Yuan. Founded by Zhu Yuanzhang. Restored the civil service examination, emphasized Chinese cultural traditions, and later commissioned the voyages of Zheng He (see [[Unit-2.3/Maritime Trade Overview|Topic 2.3]]). (AMSCO p. 90)
+The Chinese dynasty that replaced the Yuan. Founded by Zhu Yuanzhang. Restored the civil service examination, emphasized Chinese cultural traditions, and later commissioned the voyages of Zheng He (see [[Unit-2.3/Indian Ocean Overview|Topic 2.3]]). (AMSCO p. 90)
 
 ---
 

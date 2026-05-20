@@ -4,19 +4,21 @@
 
 Interlinked Markdown notes for **AMSCO *AP World History: Modern***, organized by topic and formatted for Obsidian with wikilinks, tags, and callout blocks — plus unit-level synthesis files and a growing Concept Notes hub.
 
-**Current state: ~87 Markdown notes across 10 topic folders, 1 unit overview, and 16 Concept Notes. Unit 1 complete; Unit 2 in progress (2.1–2.3 built).**
+**Current state: ~103 Markdown notes across 12 topic folders, 1 unit overview, and 16 Concept Notes. Unit 1 complete; Unit 2 in progress (2.1–2.5 built).**
 
-Each topic folder uses a flexible set of notes with student-friendly filenames. Common note types include:
+Each topic folder uses a flexible set of canonical notes with student-friendly filenames:
 
 | Note type | What's inside |
 |-----------|---------------|
 | **Overview** (e.g., `Silk Roads Overview.md`) | Topic summary, AMSCO learning objectives, AP key concepts, causation and significance |
-| **Key Terms and People** | Vocabulary definitions, key individuals and groups — focused on AP impact and `[[wikilinks]]` |
-| **Practice and Review** | AP-style MCQs with explanations, SAQ prompts, DBQ/LEQ guidance, common misconceptions |
-| **Timeline and Chronology** | Chronological tables with continuity vs. change annotations (included where especially useful) |
-| **Themes and Historical Reasoning** | Topic analyzed through AP's six thematic lenses with cause-and-effect chains (included where especially useful) |
+| **Key Terms & Concepts** | Vocabulary definitions, key concepts, and technologies — focused on AP impact and `[[wikilinks]]` |
+| **People, States & Movements** | Key individuals, empires, kingdoms, and historical movements with AP context |
+| **Practice & Review** | AP-style MCQs with explanations, SAQ prompts with model responses, sourcing skill practice |
+| **Timeline & Chronology** | Chronological tables with causation annotations |
+| **Themes & Historical Reasoning** | Topic analyzed through AP themes (CDI, SIO, TEC, etc.) with cause-and-effect chains and CCOT arguments |
+| **Connections** | Explicit cross-topic wikilinks, AP threads, and comparison tables |
 
-Major topics get more notes; simpler or synthesis topics may combine categories. The goal is fewer, richer notes over mechanical uniformity.
+Major topics get all seven notes; synthesis topics may combine categories. The goal is fewer, richer notes over mechanical uniformity.
 
 ---
 
@@ -25,7 +27,7 @@ Major topics get more notes; simpler or synthesis topics may combine categories.
 | Unit | AP Period | Date Range | Topics | Status |
 |------|-----------|------------|--------|--------|
 | Unit 1: The Global Tapestry | Period 1 | c. 1200–1450 | 1.1–1.7 (7 topics) | ✅ Complete |
-| Unit 2: Networks of Exchange | Period 1 | c. 1200–1450 | 2.1–2.7 (7 topics) | 🔄 In Progress (2.1–2.3 built) |
+| Unit 2: Networks of Exchange | Period 1 | c. 1200–1450 | 2.1–2.7 (7 topics) | 🔄 In Progress (2.1–2.5 built) |
 | Unit 3: Land-Based Empires | Period 2 | c. 1450–1750 | 3.1–3.4 (4 topics) | ⬜ Not started |
 | Unit 4: Transoceanic Interconnections | Period 2 | c. 1450–1750 | 4.1–4.8 (8 topics) | ⬜ Not started |
 | Unit 5: Revolutions | Period 3 | c. 1750–1900 | 5.1–5.10 (10 topics) | ⬜ Not started |
@@ -48,7 +50,7 @@ Major topics get more notes; simpler or synthesis topics may combine categories.
 | 1.6 | Developments in Europe | Feudalism · Catholic Church · Crusades · Black Death · Magna Carta · Parliament · rising monarchies |
 | 1.7 | Comparison in the Period c. 1200–1450 | Regional comparison · governance structures · economic systems · social hierarchies · AP essay synthesis |
 
-**Unit 1 synthesis:** `Unit-1 Overview.md` — comparison tables across all seven regions, causation chains, and AP essay traps.
+**Unit 1 synthesis:** `Unit-1 Overview.md` — comparison tables across all seven regions, causation chains, and AP essay traps. ✅
 
 ---
 
@@ -59,10 +61,10 @@ Major topics get more notes; simpler or synthesis topics may combine categories.
 | 2.1 | The Silk Roads | Pax Mongolica · caravanserai · bills of exchange · diasporic merchant communities · Marco Polo · Black Death transmission | ✅ |
 | 2.2 | The Mongol Empire and the Modern World | Genghis Khan · four khanates · Yuan Dynasty · Golden Horde · direct vs. tributary rule · technology diffusion · Black Death | ✅ |
 | 2.3 | Exchange in the Indian Ocean | Monsoon winds · dhow · Swahili Coast · Kilwa · Malacca Sultanate · Zheng He · Islam via merchant diasporas | ✅ |
-| 2.4 | Trans-Saharan Trade Routes | Mali Empire · Mansa Musa · gold-salt trade · dromedary camel · Berber/Tuareg traders · Islam in West Africa | ⬜ |
-| 2.5 | Cultural Consequences of Connectivity | Spread of Buddhism · Islam · Christianity · Hinduism · syncretism · diasporic cultural exchange | ⬜ |
-| 2.6 | Environmental Consequences of Connectivity | Black Death · Mongol plague transmission · agricultural diffusion · deforestation · Columbian Exchange precursors | ⬜ |
-| 2.7 | Comparison of Economic Exchange | Silk Roads vs. Indian Ocean vs. Trans-Saharan · trade mechanisms · state involvement · religion transmitted · AP synthesis | ⬜ |
+| 2.4 | Trans-Saharan Trade Routes | Mali Empire · Mansa Musa · gold-salt trade · dromedary camel · Berber/Tuareg traders · Islam in West Africa | ✅ |
+| 2.5 | Cultural Consequences of Connectivity | Buddhism · Neo-Confucianism · Islam spread · syncretism · technology transfer · Black Death · Marco Polo · Ibn Battuta | ✅ |
+| 2.6 | Environmental Consequences of Connectivity | Black Death · plague transmission · agricultural diffusion · Champa rice · deforestation | ⬜ |
+| 2.7 | Comparison of Economic Exchange | Silk Roads vs. Indian Ocean vs. Trans-Saharan · trade mechanisms · state involvement · AP synthesis | ⬜ |
 
 **Unit 2 synthesis:** `Unit-2 Overview.md` — not yet built (write after all 2.1–2.7 topic folders are complete).
 
@@ -106,12 +108,12 @@ Major topics get more notes; simpler or synthesis topics may combine categories.
 | 5.2 | Nationalism and Revolutions | American Revolution · French Revolution · Haitian Revolution · Latin American independence · nationalism · Simón Bolívar |
 | 5.3 | The Industrial Revolution Begins | Britain's advantages · coal and iron · factory system · steam engine · urbanization · working conditions |
 | 5.4 | Industrialization Spreads | Germany · United States · Japan · Russia · global spread · uneven development · state-sponsored industrialization |
-| 5.5 | Technology in the Industrial Age | Two Industrial Revolutions · railroads · telegraph · steel · chemicals · electricity · Alexander Graham Bell · Guglielmo Marconi |
-| 5.6 | Governments' Roles in Industrialization | Meiji Restoration · Self-Strengthening Movement · Tanzimat Reforms · Muhammad Ali of Egypt · Empress Cixi · reform and resistance |
-| 5.7 | Economic Developments and Innovations | Capitalism · corporations · joint-stock companies · laissez-faire · Adam Smith · zaibatsu · transnational companies |
-| 5.8 | Reactions to the Industrial Economy | Karl Marx · socialism · labor unions · reform movements · Seneca Falls · comparative responses to industrialization |
-| 5.9 | Society and the Industrial Age | Class structure · gender roles · migration · urbanization · social reform · new middle class · working-class consciousness |
-| 5.10 | Continuity and Change in the Industrial Age | AP synthesis · CCOT · key continuities · key changes · comparison prompts · LEQ/DBQ frameworks |
+| 5.5 | Technology in the Industrial Age | Two Industrial Revolutions · railroads · telegraph · steel · chemicals · electricity |
+| 5.6 | Governments' Roles in Industrialization | Meiji Restoration · Self-Strengthening Movement · Tanzimat Reforms · Muhammad Ali of Egypt · reform and resistance |
+| 5.7 | Economic Developments and Innovations | Capitalism · corporations · joint-stock companies · laissez-faire · Adam Smith · zaibatsu |
+| 5.8 | Reactions to the Industrial Economy | Karl Marx · socialism · labor unions · reform movements · Seneca Falls · comparative responses |
+| 5.9 | Society and the Industrial Age | Class structure · gender roles · migration · urbanization · social reform · new middle class |
+| 5.10 | Continuity and Change in the Industrial Age | AP synthesis · CCOT · key continuities · key changes · LEQ/DBQ frameworks |
 
 **Unit 5 synthesis:** `Unit-5 Overview.md` — not yet built.
 
@@ -123,7 +125,24 @@ The `Concept Notes/` folder contains **16 standalone notes** for key terms and i
 
 **Currently built:** Bhakti Movement · Buddhism · Civil Service Examination · Crusades · Feudalism · Gupta Dynasty · House of Wisdom · Indian Ocean Trade Network · Mongols · Neo-Confucianism · Pax Mongolica · Silk Roads · Sufism · Syncretism · Trans-Saharan Trade · Tribute System
 
-New concept notes are generated automatically for significant `[[wikilinks]]` that span multiple topics.
+New concept notes are generated as significant `[[wikilinks]]` accumulate across multiple topics.
+
+---
+
+## Tools
+
+Six Python scripts in `tools/` automate reference lookup, note scaffolding, and verification:
+
+| Script | Purpose |
+|--------|---------|
+| `scaffold_notes.py N.N` | Creates `Unit-N.N/` folder and all 7 stub files with correct YAML frontmatter in one command. Use `--next` to auto-detect the next unbuilt topic; `--next --go` to scaffold it immediately |
+| `prepare_topic.py N.N` | Dumps all reference material for a topic: topic structure, summary card, key dates, narrative pages, wikilink targets, terms, timeline, and OCR flags |
+| `verify_topic.py Unit-N.N --update-status` | Runs all 10 post-creation checks and regenerates `VAULT_STATUS.md` on pass |
+| `update_vault_status.py` | Regenerates `references/VAULT_STATUS.md` — the completion grid and Concept Notes gap report |
+| `lookup_topic.py N.N` | Targeted term or timeline lookup without the full reference dump |
+| `create_amsco_reference_text.py` | One-time PDF extractor that built the `ref_N_N.md` files (do not run routinely) |
+
+Run `python tools/prepare_topic.py N.N --practice` to also include MCQ/SAQ practice questions. Run `python tools/prepare_topic.py --unit N` for a full unit aggregate dump (useful before writing a unit overview).
 
 ---
 
@@ -144,10 +163,11 @@ The `.md` files are plain Markdown and render correctly on GitHub, in VS Code, o
 ### Suggested Study Flow Per Topic
 
 1. **Overview note** — orient yourself: what happened, why it mattered, and what the AP exam cares about
-2. **Key Terms and People** — build vocabulary first; follow `[[wikilinks]]` to connected topics and concept notes
-3. **Practice and Review** — attempt the SAQ or MCQs *before* reading the guidance; this is where real exam prep happens
-4. **Timeline / Themes notes** (where present) — anchor events chronologically and trace cause-and-effect chains
-5. **Unit Overview** — after finishing all topics in a unit, use the synthesis file to see the big picture and prep LEQ/DBQ arguments
+2. **Key Terms & Concepts** — build vocabulary first; follow `[[wikilinks]]` to connected topics and concept notes
+3. **Practice & Review** — attempt the MCQs and SAQs *before* reading the model responses; this is where real exam prep happens
+4. **Timeline & Chronology / Themes & Historical Reasoning** — anchor events chronologically and trace cause-and-effect chains
+5. **Connections** — see how this topic links backward (prerequisites), forward (consequences), and laterally (comparisons)
+6. **Unit Overview** — after finishing all topics in a unit, use the synthesis file to prep LEQ/DBQ arguments
 
 ---
 
@@ -156,11 +176,11 @@ The `.md` files are plain Markdown and render correctly on GitHub, in VS Code, o
 Every note targets:
 
 - **AP Thematic Learning Objectives:** Governance · Economic Systems · Cultural Developments & Interactions · Social Structures · Technology & Environment · Human Migration
-- **Historical Thinking Skills:** Causation · Continuity and Change Over Time (CCOT) · Comparison · Contextualization · Argumentation
-- **Essay types:** Short Answer Questions (SAQ) · Long Essay Questions (LEQ) · Document-Based Questions (DBQ)
+- **AP Historical Thinking Skills:** Causation · Continuity and Change Over Time (CCOT) · Comparison · Contextualization · Argumentation
+- **AP Essay Types:** Short Answer Questions (SAQ) · Long Essay Questions (LEQ) · Document-Based Questions (DBQ)
 
-`> [!exam-tip]` callouts appear throughout to flag content that frequently appears on AP free-response and multiple-choice questions. `> [!warning]` callouts flag common misconceptions and tricky distinctions.
+`> [!exam-tip]` callouts flag content that frequently appears on AP exam questions. `> [!warning]` callouts flag common misconceptions and tricky distinctions. `> [!tip]` callouts provide memory aids, model responses, and sourcing analysis.
 
 ---
 
-> AP World History study notes built from the **AMSCO *AP World History: Modern*** textbook. Covers all AP essay types: **SAQ, LEQ, DBQ, CCOT**. Organized as an **Obsidian vault** with wikilinks, graph view, and cross-topic Concept Notes. Unit 1 complete; Unit 2 in progress.
+> AP World History study notes built from the **AMSCO *AP World History: Modern*** textbook. Covers all AP essay types: **SAQ, LEQ, DBQ, CCOT**. Organized as an **Obsidian vault** with wikilinks, graph view, and cross-topic Concept Notes. Unit 1 complete; Unit 2 in progress (2.1–2.5 built).
