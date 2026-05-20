@@ -76,7 +76,7 @@ Once conquest was complete, the Mongols secured the **[[Concept Notes/Silk Roads
 Cultural exchange flowed in all directions: Islamic science reached China; paper and gunpowder moved westward; Greco-Islamic medical knowledge and the Arabic numeral system reached Western Europe. The cannon was assembled from Chinese gunpowder, Muslim flamethrower technology, and European bell-casting (AMSCO p. 91).
 
 > [!warning]
-> The same trade networks that enabled the Pax Mongolica also spread the ****bubonic plague****, which moved from southern China through Central Asia to Southeast Asia and Europe, killing perhaps one-third of Europe's population (see [[Unit-2.6/Plague & Its Effects Overview|Topic 2.6]]).
+> The same trade networks that enabled the Pax Mongolica also spread the ****bubonic plague****, which moved from southern China through Central Asia to Southeast Asia and Europe, killing perhaps one-third of Europe's population (see [[Unit-2.6/Environmental Consequences Overview|Topic 2.6]]).
 
 ---
 

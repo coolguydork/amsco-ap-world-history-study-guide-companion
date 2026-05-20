@@ -425,11 +425,11 @@ All of these topics have fully built note sets in this vault.
 
 ## Current Build Status
 
-**Topics fully built (12 of 67):** All of Unit 1 (Topics 1.1–1.7) and Unit 2 Topics 2.1–2.5.
+**Topics fully built (13 of 67):** All of Unit 1 (Topics 1.1–1.7) and Unit 2 Topics 2.1–2.6.
 **Unit overviews built:** Unit 1.
 **Concept Notes built:** 16 (see list above).
 
-Topics 2.6 through 9.9 are in progress. All 67 topic reference files exist and are ready — remaining topics will be added in unit order.
+Topics 2.7 through 9.9 are in progress. All 67 topic reference files exist and are ready — remaining topics will be added in unit order.
 
 ---
 
