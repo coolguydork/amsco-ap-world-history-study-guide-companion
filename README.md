@@ -2,9 +2,9 @@
 
 ## What's in This Vault
 
-For **Units 1–5** of the AMSCO *AP World History: Modern* textbook (AP Periods 1–3, c. 1200–1900), this vault contains **interlinked Markdown notes** organized by topic — formatted for Obsidian with wikilinks, tags, and callout blocks — plus unit-level synthesis files and a growing Concept Notes hub.
+Interlinked Markdown notes for **AMSCO *AP World History: Modern***, organized by topic and formatted for Obsidian with wikilinks, tags, and callout blocks — plus unit-level synthesis files and a growing Concept Notes hub.
 
-**Total: ~202 Markdown notes across 46 topic folders, 5 unit overviews, and 56 Concept Notes. Units 1–5 fully complete.**
+**Current state: ~87 Markdown notes across 10 topic folders, 1 unit overview, and 16 Concept Notes. Unit 1 complete; Unit 2 in progress (2.1–2.3 built).**
 
 Each topic folder uses a flexible set of notes with student-friendly filenames. Common note types include:
 
@@ -25,14 +25,14 @@ Major topics get more notes; simpler or synthesis topics may combine categories.
 | Unit | AP Period | Date Range | Topics | Status |
 |------|-----------|------------|--------|--------|
 | Unit 1: The Global Tapestry | Period 1 | c. 1200–1450 | 1.1–1.7 (7 topics) | ✅ Complete |
-| Unit 2: Networks of Exchange | Period 1 | c. 1200–1450 | 2.1–2.7 (7 topics) | ✅ Complete |
-| Unit 3: Land-Based Empires | Period 2 | c. 1450–1750 | 3.1–3.4 (4 topics) | ✅ Complete |
-| Unit 4: Transoceanic Interconnections | Period 2 | c. 1450–1750 | 4.1–4.8 (8 topics) | ✅ Complete |
-| Unit 5: Revolutions | Period 3 | c. 1750–1900 | 5.1–5.10 (10 topics) | ✅ Complete |
-| Unit 6: Consequences of Industrialization | Period 3 | c. 1750–1900 | — | 🔜 Coming next |
-| Unit 7: Global Conflict | Period 4 | c. 1900–present | — | Coming soon |
-| Unit 8: Cold War and Decolonization | Period 4 | c. 1900–present | — | Coming soon |
-| Unit 9: Globalization | Period 4 | c. 1900–present | — | Coming soon |
+| Unit 2: Networks of Exchange | Period 1 | c. 1200–1450 | 2.1–2.7 (7 topics) | 🔄 In Progress (2.1–2.3 built) |
+| Unit 3: Land-Based Empires | Period 2 | c. 1450–1750 | 3.1–3.4 (4 topics) | ⬜ Not started |
+| Unit 4: Transoceanic Interconnections | Period 2 | c. 1450–1750 | 4.1–4.8 (8 topics) | ⬜ Not started |
+| Unit 5: Revolutions | Period 3 | c. 1750–1900 | 5.1–5.10 (10 topics) | ⬜ Not started |
+| Unit 6: Consequences of Industrialization | Period 3 | c. 1750–1900 | 6.1–6.8 (8 topics) | ⬜ Not started |
+| Unit 7: Global Conflict | Period 4 | c. 1900–present | 7.1–7.9 (9 topics) | ⬜ Not started |
+| Unit 8: Cold War and Decolonization | Period 4 | c. 1900–present | 8.1–8.9 (9 topics) | ⬜ Not started |
+| Unit 9: Globalization | Period 4 | c. 1900–present | 9.1–9.9 (9 topics) | ⬜ Not started |
 
 ---
 
@@ -52,23 +52,23 @@ Major topics get more notes; simpler or synthesis topics may combine categories.
 
 ---
 
-## Unit 2: Networks of Exchange (c. 1200–1450) — AP Period 1 ✅
+## Unit 2: Networks of Exchange (c. 1200–1450) — AP Period 1 🔄
 
-| Topic | Title | Key Themes |
-|-------|-------|------------|
-| 2.1 | The Silk Roads | Pax Mongolica · caravanserai · bills of exchange · diasporic merchant communities · Marco Polo · Black Death transmission |
-| 2.2 | The Mongol Empire and the Modern World | Genghis Khan · four khanates · Yuan Dynasty · Golden Horde · direct vs. tributary rule · technology diffusion · Black Death |
-| 2.3 | Exchange in the Indian Ocean | Monsoon winds · dhow · Swahili Coast · Kilwa · Malacca Sultanate · Zheng He · Islam via merchant diasporas |
-| 2.4 | Trans-Saharan Trade Routes | Mali Empire · Mansa Musa · gold-salt trade · dromedary camel · Berber/Tuareg traders · Islam in West Africa |
-| 2.5 | Cultural Consequences of Connectivity | Spread of Buddhism · Islam · Christianity · Hinduism · syncretism · diasporic cultural exchange |
-| 2.6 | Environmental Consequences of Connectivity | Black Death · Mongol plague transmission · agricultural diffusion · deforestation · Columbian Exchange precursors |
-| 2.7 | Comparison of Economic Exchange | Silk Roads vs. Indian Ocean vs. Trans-Saharan · trade mechanisms · state involvement · religion transmitted · AP synthesis |
+| Topic | Title | Key Themes | Built |
+|-------|-------|------------|-------|
+| 2.1 | The Silk Roads | Pax Mongolica · caravanserai · bills of exchange · diasporic merchant communities · Marco Polo · Black Death transmission | ✅ |
+| 2.2 | The Mongol Empire and the Modern World | Genghis Khan · four khanates · Yuan Dynasty · Golden Horde · direct vs. tributary rule · technology diffusion · Black Death | ✅ |
+| 2.3 | Exchange in the Indian Ocean | Monsoon winds · dhow · Swahili Coast · Kilwa · Malacca Sultanate · Zheng He · Islam via merchant diasporas | ✅ |
+| 2.4 | Trans-Saharan Trade Routes | Mali Empire · Mansa Musa · gold-salt trade · dromedary camel · Berber/Tuareg traders · Islam in West Africa | ⬜ |
+| 2.5 | Cultural Consequences of Connectivity | Spread of Buddhism · Islam · Christianity · Hinduism · syncretism · diasporic cultural exchange | ⬜ |
+| 2.6 | Environmental Consequences of Connectivity | Black Death · Mongol plague transmission · agricultural diffusion · deforestation · Columbian Exchange precursors | ⬜ |
+| 2.7 | Comparison of Economic Exchange | Silk Roads vs. Indian Ocean vs. Trans-Saharan · trade mechanisms · state involvement · religion transmitted · AP synthesis | ⬜ |
 
-**Unit 2 synthesis:** `Unit-2 Overview.md` — three-network comparison table, Mongol paradox analysis, and AP essay traps.
+**Unit 2 synthesis:** `Unit-2 Overview.md` — not yet built (write after all 2.1–2.7 topic folders are complete).
 
 ---
 
-## Unit 3: Land-Based Empires (c. 1450–1750) — AP Period 2 ✅
+## Unit 3: Land-Based Empires (c. 1450–1750) — AP Period 2 ⬜
 
 | Topic | Title | Key Themes |
 |-------|-------|------------|
@@ -77,11 +77,11 @@ Major topics get more notes; simpler or synthesis topics may combine categories.
 | 3.3 | Empires: Belief Systems | Protestant Reformation · Counter-Reformation · Jesuits · Scientific Revolution · Sufism · Sikhism · syncretism |
 | 3.4 | Comparison in Land-Based Empires | Comparative governance · religious legitimation · administrative tools · AP essay synthesis |
 
-**Unit 3 synthesis:** `Unit-3 Overview.md` — synthesis hub comparing all five gunpowder empires.
+**Unit 3 synthesis:** `Unit-3 Overview.md` — not yet built.
 
 ---
 
-## Unit 4: Transoceanic Interconnections (c. 1450–1750) — AP Period 2 ✅
+## Unit 4: Transoceanic Interconnections (c. 1450–1750) — AP Period 2 ⬜
 
 | Topic | Title | Key Themes |
 |-------|-------|------------|
@@ -94,11 +94,11 @@ Major topics get more notes; simpler or synthesis topics may combine categories.
 | 4.7 | Changing Social Hierarchies | Casta system · peninsulares · creoles · mestizos · racial chattel slavery · African diaspora · gender hierarchy |
 | 4.8 | Continuity and Change c. 1450–1750 | AP synthesis · CCOT · key continuities · key changes · essay frameworks |
 
-**Unit 4 synthesis:** `Unit-4 Overview.md` — synthesis hub connecting maritime empires, the Columbian Exchange, and shifting social hierarchies.
+**Unit 4 synthesis:** `Unit-4 Overview.md` — not yet built.
 
 ---
 
-## Unit 5: Revolutions (c. 1750–1900) — AP Period 3 ✅
+## Unit 5: Revolutions (c. 1750–1900) — AP Period 3 ⬜
 
 | Topic | Title | Key Themes |
 |-------|-------|------------|
@@ -113,19 +113,15 @@ Major topics get more notes; simpler or synthesis topics may combine categories.
 | 5.9 | Society and the Industrial Age | Class structure · gender roles · migration · urbanization · social reform · new middle class · working-class consciousness |
 | 5.10 | Continuity and Change in the Industrial Age | AP synthesis · CCOT · key continuities · key changes · comparison prompts · LEQ/DBQ frameworks |
 
-**Unit 5 synthesis:** `Unit-5 Overview.md` — synthesis hub connecting the Enlightenment, political revolutions, industrialization, and social change across Period 3.
+**Unit 5 synthesis:** `Unit-5 Overview.md` — not yet built.
 
 ---
 
 ## Concept Notes
 
-The `Concept Notes/` folder contains **56 standalone notes** for key terms and ideas that appear across multiple units. These act as concept hubs — collecting relevant excerpts from topic notes and the AMSCO reference system in one place.
+The `Concept Notes/` folder contains **16 standalone notes** for key terms and ideas that appear across multiple units. These act as concept hubs — collecting relevant excerpts from topic notes and the AMSCO reference system in one place.
 
-Current concept notes span all five completed units and include:
-
-*Units 1–4:* Ana Nzinga · Civil Service Exam · Devshirme · Enlightenment · Gunpowder Empires · House of Wisdom · Janissaries · Manila Galleon Trade · Mongols · Neo-Confucianism · Protestant Reformation · Proto-Industrialization · Scientific Revolution · Sinification · Sufism · Tamerlane · Transatlantic Slave Trade · primogeniture
-
-*Unit 5 additions:* Adam Smith · Bessemer Process · capitalism · Chinese immigration · colonialism · corporation · Empress Cixi · Fossil Fuels · Global Economy · Hundred Days of Reform · Industrial Revolution · James Watt · Karl Marx · laissez-faire · Meiji Restoration · monopoly · Muhammad Ali of Egypt · New Imperialism · Opium War · Otto von Bismarck · Ottoman Empire · realpolitik · Self-Strengthening Movement · Seneca Falls Convention · Simón Bolívar · Sino-Japanese War · socialism · Tanzimat Reforms · transnational companies · Utilitarianism · World War I · Young Turks · zaibatsu · and more
+**Currently built:** Bhakti Movement · Buddhism · Civil Service Examination · Crusades · Feudalism · Gupta Dynasty · House of Wisdom · Indian Ocean Trade Network · Mongols · Neo-Confucianism · Pax Mongolica · Silk Roads · Sufism · Syncretism · Trans-Saharan Trade · Tribute System
 
 New concept notes are generated automatically for significant `[[wikilinks]]` that span multiple topics.
 
@@ -167,4 +163,4 @@ Every note targets:
 
 ---
 
-> Free AP World History study notes built from the **AMSCO *AP World History: Modern*** textbook. Covers all AP essay types: **SAQ, LEQ, DBQ, CCOT**. Organized as an **Obsidian vault** with wikilinks, graph view, and cross-topic Concept Notes. Units 1–5 complete (Periods 1–3, c. 1200–1900).
+> AP World History study notes built from the **AMSCO *AP World History: Modern*** textbook. Covers all AP essay types: **SAQ, LEQ, DBQ, CCOT**. Organized as an **Obsidian vault** with wikilinks, graph view, and cross-topic Concept Notes. Unit 1 complete; Unit 2 in progress.
