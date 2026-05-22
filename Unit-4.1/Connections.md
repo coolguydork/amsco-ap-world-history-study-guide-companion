@@ -32,7 +32,7 @@ The technologies of Topic 4.1 are the direct preconditions for the voyages descr
 **[[Unit-4.3/Columbian Exchange Overview|Unit 4.3 — Columbian Exchange]]**
 The technologies of 4.1 enabled the transatlantic contact that produced the Columbian Exchange — the transfer of crops, animals, diseases, and people between Eastern and Western hemispheres that fundamentally altered global demographics, agriculture, and ecology.
 
-**[[Unit-4.4/Maritime Empires Established Overview|Unit 4.4 — Maritime Empires Established]]**
+**[[Unit-4.4/Maritime Empires Link Regions Overview|Unit 4.4 — Maritime Empires Link Regions]]**
 The caravel, gunpowder weapons, and joint-stock company model (all introduced in 4.1) are the foundational tools of maritime empire-building described in 4.4. The VOC and EIC (introduced in 4.1's timeline) become the instruments of empire in 4.4 and 4.5.
 
 ## Compare With
