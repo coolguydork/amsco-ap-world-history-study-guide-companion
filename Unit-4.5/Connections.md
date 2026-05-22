@@ -58,14 +58,12 @@ The Ottoman–Safavid conflict (Sunni vs. Shi'a) was intensified by the same per
 
 ---
 
-## Cross-Topic Wikilink Reference
+## Quick Links
 
-| Topic | Key File |
-|-------|---------|
-| [[Unit-4.4/Maritime Empires Link Regions Overview\|4.4 Overview]] | Context: empire-building |
-| [[Unit-4.3/Columbian Exchange Overview\|4.3 Overview]] | Context: silver, sugar, crops |
-| [[Unit-3.2/Empires: Administration Overview\|3.2 Overview]] | Context: land-based admin comparison |
-| [[Unit-3.2/Key Terms & Concepts\|3.2 Key Terms]] | Context: admin vocabulary |
-| [[Concept Notes/Syncretism\|Syncretism]] | Concept hub |
-| [[Concept Notes/Sufism\|Sufism]] | Spreads Islam; influences Sikhism |
-| [[Concept Notes/Indian Ocean Trade Network\|Indian Ocean Trade Network]] | Continuity thread |
+- [[Unit-4.4/Maritime Empires Link Regions Overview|Maritime Empires Link Regions Overview]] — empire-building context
+- [[Unit-4.3/Columbian Exchange Overview|Columbian Exchange Overview]] — silver, sugar, and crops
+- [[Unit-3.2/Empires: Administration Overview|Empires: Administration Overview]] — land-based admin comparison
+- [[Unit-3.2/Key Terms & Concepts|3.2 Key Terms & Concepts]] — administrative vocabulary
+- [[Concept Notes/Syncretism|Syncretism]] — concept hub for religious blending
+- [[Concept Notes/Sufism|Sufism]] — spreads Islam; influences Sikhism
+- [[Concept Notes/Indian Ocean Trade Network|Indian Ocean Trade Network]] — continuity thread

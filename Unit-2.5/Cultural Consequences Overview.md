@@ -37,9 +37,9 @@ Cities grew at the intersections of trade routes and became cultural melting pot
 
 | Direction | Topic | Link |
 |-----------|-------|------|
-| Builds on | 2.1 Silk Roads | [[Unit-2.1/Silk Roads Overview|Silk Roads Overview]] |
-| Builds on | 2.3 Indian Ocean | [[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]] |
-| Builds on | 2.4 Trans-Saharan | [[Unit-2.4/Trans-Saharan Trade Routes Overview|Trans-Saharan Trade Routes Overview]] |
+| Builds on | 2.1 Silk Roads | Silk Roads Overview |
+| Builds on | 2.3 Indian Ocean | Indian Ocean Overview |
+| Builds on | 2.4 Trans-Saharan | Trans-Saharan Trade Routes Overview |
 | Leads to | 3.3 Religion shapes empires | Unit-3.3 (forward-looking) |
 | Compare | 4.3 Columbian Exchange | Unit-4.3 (forward-looking) |
 
@@ -47,9 +47,9 @@ Cities grew at the intersections of trade routes and became cultural melting pot
 
 | Note | Focus |
 |------|-------|
-| [[Unit-2.5/Key Terms & Concepts|Key Terms & Concepts]] | Vocabulary, technologies, key concepts |
-| [[Unit-2.5/People, States & Movements|People, States & Movements]] | Marco Polo, Ibn Battuta, Margery Kempe; empires |
-| [[Unit-2.5/Themes & Historical Reasoning|Themes & Historical Reasoning]] | CDI, TEC, SIO; causation, CCOT, comparison |
-| [[Unit-2.5/Timeline & Chronology|Timeline & Chronology]] | Dated events in sequence |
-| [[Unit-2.5/Practice & Review|Practice & Review]] | MCQ, SAQ, sourcing skill practice |
-| [[Unit-2.5/Connections|Connections]] | Cross-topic wikilinks and AP threads |
+| Key Terms & Concepts | Vocabulary, technologies, key concepts |
+| People, States & Movements | Marco Polo, Ibn Battuta, Margery Kempe; empires |
+| Themes & Historical Reasoning | CDI, TEC, SIO; causation, CCOT, comparison |
+| Timeline & Chronology | Dated events in sequence |
+| Practice & Review | MCQ, SAQ, sourcing skill practice |
+| Connections | Cross-topic wikilinks and AP threads |

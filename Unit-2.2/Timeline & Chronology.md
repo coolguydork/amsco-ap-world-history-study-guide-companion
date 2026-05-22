@@ -24,7 +24,7 @@ tags: [apwh, unit-2, topic-2-2, period-1, mongols, timeline]
 | **1236** | **Batu Khan** leads Golden Horde into Russia | Russia subjugated; indirect rule via tribute through Russian princes |
 | **1240** | Kiev looted and destroyed | Russia's cultural capital devastated; Golden Horde dominates Eastern Europe |
 | **1241** | Battle with Polish/German/French knights; Ögedei Khan dies | Batu withdraws from Western Europe to attend funeral — saves Western Europe from conquest |
-| **1258** | **Hulagu Khan** destroys Baghdad; Abbasid Caliphate ends | [[Concept Notes/House of Wisdom|House of Wisdom]] burned; perhaps 200,000 killed; most devastating Mongol conquest |
+| **1258** | **Hulagu Khan** destroys Baghdad; Abbasid Caliphate ends | House of Wisdom burned; perhaps 200,000 killed; most devastating Mongol conquest |
 | **c. 1250** | **Pax Mongolica** begins | Trade revitalized; Silk Roads at their third golden age; cultural exchange peaks |
 | **1260** | Battle of Ain Jalut — Mamluks defeat Mongols in Egypt | First major Mongol defeat; defines western limit of Mongol expansion |
 | **1260** | Kublai Khan becomes Great Khan | Begins conquest of Song China; adapts Chinese governance |

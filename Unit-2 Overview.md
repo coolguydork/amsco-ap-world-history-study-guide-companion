@@ -27,13 +27,13 @@ The unit's organizing insight is that **connectivity has costs as well as benefi
 
 | Topic | Title | Core Question | Overview Note |
 |---|---|---|---|
-| 2.1 | The Silk Roads | What goods, ideas, and technologies moved along overland routes? | [[Unit-2.1/Silk Roads Overview\|Silk Roads Overview]] |
-| 2.2 | The Mongol Empire | How did the Mongols transform Eurasian trade and governance? | [[Unit-2.2/Mongol Empire Overview\|Mongol Empire Overview]] |
-| 2.3 | Exchange in the Indian Ocean | How did monsoons and diasporic merchants sustain maritime trade? | [[Unit-2.3/Indian Ocean Overview\|Indian Ocean Overview]] |
-| 2.4 | Trans-Saharan Trade Routes | How did camel caravans connect West Africa to the Mediterranean? | [[Unit-2.4/Trans-Saharan Trade Routes Overview\|Trans-Saharan Trade Routes Overview]] |
-| 2.5 | Cultural Consequences of Connectivity | How did trade spread religion, art, and technology? | [[Unit-2.5/Cultural Consequences Overview\|Cultural Consequences Overview]] |
-| 2.6 | Environmental Consequences of Connectivity | How did trade spread disease, new crops, and ecological disruption? | [[Unit-2.6/Environmental Consequences Overview\|Environmental Consequences Overview]] |
-| 2.7 | Comparison of Economic Exchange | What did the Silk Roads, Indian Ocean, and trans-Saharan networks share — and how did they differ? | [[Unit-2.7/Comparison of Economic Exchange Overview\|Comparison of Economic Exchange Overview]] |
+| 2.1 | The Silk Roads | What goods, ideas, and technologies moved along overland routes? | Silk Roads Overview |
+| 2.2 | The Mongol Empire | How did the Mongols transform Eurasian trade and governance? | Mongol Empire Overview |
+| 2.3 | Exchange in the Indian Ocean | How did monsoons and diasporic merchants sustain maritime trade? | Indian Ocean Overview |
+| 2.4 | Trans-Saharan Trade Routes | How did camel caravans connect West Africa to the Mediterranean? | Trans-Saharan Trade Routes Overview |
+| 2.5 | Cultural Consequences of Connectivity | How did trade spread religion, art, and technology? | Cultural Consequences Overview |
+| 2.6 | Environmental Consequences of Connectivity | How did trade spread disease, new crops, and ecological disruption? | Environmental Consequences Overview |
+| 2.7 | Comparison of Economic Exchange | What did the Silk Roads, Indian Ocean, and trans-Saharan networks share — and how did they differ? | Comparison of Economic Exchange Overview |
 
 ---
 

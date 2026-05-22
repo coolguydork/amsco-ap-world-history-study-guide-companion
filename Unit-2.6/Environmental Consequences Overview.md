@@ -62,6 +62,6 @@ The Black Death's demographic collapse had profound economic consequences: with 
 | Direction | Topic | Link |
 |-----------|-------|------|
 | Builds on | 2.1–2.5 — all exchange networks carry environmental consequences | — |
-| Builds on | 1.6 — Europe before the Black Death | [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]] |
+| Builds on | 1.6 — Europe before the Black Death | Medieval Europe Overview |
 | Leads to | 4.3 — Columbian Exchange: biological exchange on a larger scale | (not yet built) |
 | Leads to | 9.8 — Industrial Age environmental destruction | (not yet built) |

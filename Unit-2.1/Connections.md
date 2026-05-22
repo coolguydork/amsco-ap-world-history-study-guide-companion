@@ -63,11 +63,11 @@ Both networks were overland routes requiring specialized infrastructure (caravan
 
 | Topic | Connection |
 |---|---|
-| [[Unit-1.1/Key Terms & Concepts|1.1 Key Terms]] | Chinese innovations (compass, junk, paper money) originate here |
-| [[Unit-1.2/Key Terms & Concepts|1.2 Key Terms]] | Abbasid merchant networks revive overland routes |
-| [[Concept Notes/Silk Roads|Silk Roads]] | Cross-topic concept hub |
-| [[Concept Notes/Pax Mongolica|Pax Mongolica]] | The political foundation for Silk Roads peak |
-| [[Concept Notes/Mongols|Mongols]] | The cause; Topic 2.2 covers in depth |
-| [[Concept Notes/Crusades|Crusades]] | Demand driver — introduced European appetite for luxury goods |
-| [[Concept Notes/Indian Ocean Trade Network|Indian Ocean Trade Network]] | Parallel sea-based network; compare for 2.7 |
+| 1.1 Key Terms & Concepts | Chinese innovations (compass, junk, paper money) originate here |
+| 1.2 Key Terms & Concepts | Abbasid merchant networks revive overland routes |
+| Silk Roads (Concept Note) | Cross-topic concept hub |
+| Pax Mongolica (Concept Note) | The political foundation for Silk Roads peak |
+| Mongols (Concept Note) | The cause; Topic 2.2 covers in depth |
+| Crusades (Concept Note) | Demand driver — introduced European appetite for luxury goods |
+| Indian Ocean Trade Network (Concept Note) | Parallel sea-based network; compare for 2.7 |
 | [[Concept Notes/Trans-Saharan Trade|Trans-Saharan Trade]] | Parallel overland network; compare for 2.7 |

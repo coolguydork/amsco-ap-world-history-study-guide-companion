@@ -27,13 +27,13 @@ Unit 2 will then ask: what happened when those threads began to interweave?
 
 | Topic | Region | Key Theme | Overview Note |
 |---|---|---|---|
-| 1.1 | East Asia | Neo-Confucian governance, printing, gunpowder | [[Unit-1.1/East Asia Overview\|East Asia Overview]] |
-| 1.2 | Dar al-Islam | Islamic Golden Age, Sufi expansion, fragmentation | [[Unit-1.2/Dar al-Islam Overview\|Dar al-Islam Overview]] |
-| 1.3 | South & Southeast Asia | Hindu-Buddhist states, Indian Ocean trade | [[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] |
-| 1.4 | The Americas | Aztec tribute empire, Inca mit'a system, isolation | [[Unit-1.4/The Americas Overview\|The Americas Overview]] |
-| 1.5 | Africa | Mali Empire, trans-Saharan trade, city-states | [[Unit-1.5/Africa Overview\|Africa Overview]] |
-| 1.6 | Medieval Europe | Feudalism, Catholic Church, recovering states | [[Unit-1.6/Medieval Europe Overview\|Medieval Europe Overview]] |
-| 1.7 | Comparison | State-building patterns across all regions | [[Unit-1.7/Comparison Overview\|Comparison Overview]] |
+| 1.1 | East Asia | Neo-Confucian governance, printing, gunpowder | East Asia Overview |
+| 1.2 | Dar al-Islam | Islamic Golden Age, Sufi expansion, fragmentation | Dar al-Islam Overview |
+| 1.3 | South & Southeast Asia | Hindu-Buddhist states, Indian Ocean trade | South & Southeast Asia Overview |
+| 1.4 | The Americas | Aztec tribute empire, Inca mit'a system, isolation | The Americas Overview |
+| 1.5 | Africa | Mali Empire, trans-Saharan trade, city-states | Africa Overview |
+| 1.6 | Medieval Europe | Feudalism, Catholic Church, recovering states | Medieval Europe Overview |
+| 1.7 | Comparison | State-building patterns across all regions | Comparison Overview |
 
 ---
 
@@ -57,7 +57,7 @@ AMSCO's Topic 1.7 (pp. 65–68) offers the most useful framework for any LEQ on 
 |---|---|---|
 | **Emergence of New States** | Arise in land once controlled by another empire | Mamluk Sultanate (former Abbasid territory); Seljuk Turks (former Abbasid territory); Delhi Sultanate (former Gupta territory) |
 | **Revival of Former Empires** | New leadership continues or rebuilds a previous empire with innovations | Song Dynasty (Han Dynasty legacy); Mali Empire (Ghana Kingdom legacy); Holy Roman Empire (Roman Empire legacy) |
-| **Synthesis of Different Traditions** | A state adapts foreign ideas to local conditions | Japan (Chinese + indigenous); Delhi Sultanate (Islamic + Hindu); [[Concept Notes/Neo-Confucianism\|Neo-Confucianism]] (Confucian + Buddhist) |
+| **Synthesis of Different Traditions** | A state adapts foreign ideas to local conditions | Japan (Chinese + indigenous); Delhi Sultanate (Islamic + Hindu); Neo-Confucianism (Confucian + Buddhist) |
 | **Expansion in Scope** | An existing state expands through conquest, trade, or tribute | Aztec Empire (Mesoamerica); Inca Empire (South America); East African city-states |
 
 > [!exam-tip]

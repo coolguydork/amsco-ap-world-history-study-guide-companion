@@ -55,9 +55,9 @@ Buddhism spread to China from India via the Silk Roads and became widespread dur
 
 | Branch | Emphasis | Strongest In |
 |--------|----------|--------------|
-| [[Concept Notes/Buddhism|Theravada Buddhism]] | Personal spiritual growth, meditation | Southeast Asia |
-| [[Concept Notes/Buddhism|Mahayana Buddhism]] | Spiritual growth for all beings, service | China, Korea |
-| [[Concept Notes/Buddhism|Tibetan Buddhism]] | Chanting | Tibet |
+| Theravada Buddhism | Personal spiritual growth, meditation | Southeast Asia |
+| Mahayana Buddhism | Spiritual growth for all beings, service | China, Korea |
+| Tibetan Buddhism | Chanting | Tibet |
 
 The Tang briefly suppressed Buddhism (monasteries closed, land seized), but it remained popular. During the Song, Confucian scholars adopted Buddhist ideals, producing **[[Concept Notes/Neo-Confucianism|Neo-Confucianism]]** (c. 960–1280) — a syncretic fusion of Confucian ethics with Daoist and Buddhist ideas. Neo-Confucianism became the dominant intellectual tradition in China, Japan, Korea, and Vietnam.
 
