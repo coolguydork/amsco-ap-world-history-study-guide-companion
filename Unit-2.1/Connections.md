@@ -70,4 +70,4 @@ Both networks were overland routes requiring specialized infrastructure (caravan
 | Mongols (Concept Note) | The cause; Topic 2.2 covers in depth |
 | Crusades (Concept Note) | Demand driver — introduced European appetite for luxury goods |
 | Indian Ocean Trade Network (Concept Note) | Parallel sea-based network; compare for 2.7 |
-| [[Concept Notes/Trans-Saharan Trade|Trans-Saharan Trade]] | Parallel overland network; compare for 2.7 |
+| Trans-Saharan Trade (Concept Note) | Parallel overland network; compare for 2.7 |
