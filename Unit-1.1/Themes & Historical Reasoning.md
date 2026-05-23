@@ -102,7 +102,7 @@ The Song Dynasty's remarkable success (960–1279) makes more sense when placed 
 
 - *Before*: The Tang Dynasty built roads, canals, and trade networks that the Song inherited. Champa rice had begun spreading northward. The collapse of the Tang created political instability; the Song provided renewed centralization.
 - *During*: The Song existed alongside the Jin Empire in the north (which had pushed the Song south), the Delhi Sultanate, the Abbasid Caliphate, and early feudal kingdoms in Europe. China was uniquely commercialized and literate in this global context.
-- *After*: The Song's own bureaucratic expansion drained wealth, creating vulnerabilities the Mongols exploited. The Mongol conquest (1279) ended the Song but in the longer term enabled the Pax Mongolica and the revival of Silk Road trade (Topic 2.2).
+- *After*: The Song's own bureaucratic expansion drained wealth, creating vulnerabilities the Mongols exploited. The Mongol conquest (1279) ended the Song but in the longer term enabled the Pax Mongolica and the revival of Silk Road trade [[Unit-2.2/Mongol Empire Overview|Mongol Empire Overview]].
 
 > [!exam-tip]
 > A strong AP contextualization sentence: *"The Song Dynasty's commercial revolution must be understood in the context of Tang-era infrastructure investment, which laid the trade networks and canal systems that allowed Song commercialization to flourish."* Always connect the thing being analyzed to a broader pattern or process that preceded it.

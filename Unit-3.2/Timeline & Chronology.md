@@ -25,7 +25,7 @@ Topic 3.2 covers how the land-based empires established in Topic 3.1 actually go
 | 1485–1603 | Tudor dynasty rules England | Tudors centralize power *through* Parliament, royal courts, and control of the Church of England — creating England's distinctive limited monarchy |
 | 1493–1528 | Askia the Great rules Songhai | Uses Islamic piety and pilgrimage to Mecca to legitimize rule; builds efficient bureaucracy; Songhai becomes largest kingdom in West Africa |
 | 1534 | Henry VIII breaks with Rome; establishes Church of England | Religious authority becomes a tool of political centralization; monarch becomes head of both church and state |
-| 1547–1584 | Ivan IV ("Ivan the Terrible") rules Russia | First formal tsar; creates oprichnina paramilitary; suppresses boyar power; expands Russia east (Topic 3.1) |
+| 1547–1584 | Ivan IV ("Ivan the Terrible") rules Russia | First formal tsar; creates oprichnina paramilitary; suppresses boyar power; expands Russia east |
 | 1556–1605 | Akbar rules the Mughal Empire | Greatest Mughal administrator: abolishes jizya, institutes zamindars system, employs Hindus in government, pursues religious tolerance |
 | 1568 | Oda Nobunaga captures Kyoto, begins unifying Japan | First of three daimyo to unify Japan; uses Portuguese muskets to defeat traditional samurai forces |
 | 1582 | Toyotomi Hideyoshi continues Japanese unification | Conducts sword hunts and census to fix social hierarchy; completes territorial consolidation after Nobunaga's assassination |
@@ -63,7 +63,7 @@ Topic 3.2 covers how the land-based empires established in Topic 3.1 actually go
 
 ## Chronological Patterns
 
-**Sequence within empires:** Notice how each major empire follows a similar arc — expansion (Topic 3.1) → administrative consolidation (Topic 3.2) → peak prosperity → gradual weakening (Topic 4.6). The administrative methods of Topic 3.2 are what made the peak sustainable, and their corruption or failure explains the later decline.
+**Sequence within empires:** Notice how each major empire follows a similar arc — expansion [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] → administrative consolidation [[Unit-3.2/Empires: Administration Overview|Empires: Administration Overview]] → peak prosperity → gradual weakening [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power Overview]]. The administrative methods of Topic 3.2 are what made the peak sustainable, and their corruption or failure explains the later decline.
 
 **Simultaneity across empires:** The mid-to-late 17th century was a peak period for administrative consolidation *across* the globe simultaneously: Louis XIV at Versailles (1682), Kangxi's Qing golden age (1661–1722), Peter the Great's Russia (1682–1725), and the Tokugawa shogunate all reaching maturity in roughly the same generation.
 

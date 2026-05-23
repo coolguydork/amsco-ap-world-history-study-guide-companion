@@ -13,13 +13,13 @@ tags: [apwh, unit-2, topic-2-6, period-1]
 The Silk Roads, Indian Ocean network, and trans-Saharan routes are the vectors for everything in 2.6. Without those networks, Champa rice stays in Vietnam, bananas stay in Southeast Asia, and the Black Death stays in Central Asia. The environmental consequences of 2.6 are the direct byproduct of the connectivity built in 2.1–2.5. See: [[Concept Notes/Silk Roads|Silk Roads]], [[Concept Notes/Indian Ocean Trade Network|Indian Ocean Trade Network]], [[Concept Notes/Trans-Saharan Trade|Trans-Saharan Trade]].
 
 **Topic 1.1 — East Asian agriculture**
-Champa rice transforms Chinese agriculture — but that story begins with the farming practices already in place in Song China (Topic 1.1). AMSCO explicitly asks students to compare Chinese farming techniques with Indonesian or Vietnamese techniques. (AMSCO p. 122)
+Champa rice transforms Chinese agriculture — but that story begins with the farming practices already in place in Song China [[Unit-1.1/East Asia Overview|East Asia Overview]]. AMSCO explicitly asks students to compare Chinese farming techniques with Indonesian or Vietnamese techniques. (AMSCO p. 122)
 
 **Topic 1.5 — Great Zimbabwe**
 Overgrazing is the environmental cause of Great Zimbabwe's decline. That context is set up in Topic 1.5. (AMSCO p. 123)
 
 **Topic 1.6 — Medieval Europe**
-The Black Death hits a Europe already weakened by feudal agriculture and early deforestation. The social and economic vulnerability of feudal Europe (Topic 1.6) makes it particularly susceptible to the plague's demographic consequences. See: [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]], [[Concept Notes/Feudalism|Feudalism]].
+The Black Death hits a Europe already weakened by feudal agriculture and early deforestation. The social and economic vulnerability of feudal Europe [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]] makes it particularly susceptible to the plague's demographic consequences. See: [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]], [[Concept Notes/Feudalism|Feudalism]].
 
 **[[Concept Notes/Mongols|Mongols]] and [[Concept Notes/Pax Mongolica|Pax Mongolica]]**
 The Mongol conquests created both the trade infrastructure and the conditions for plague transmission. Caravanserais, safe overland corridors, and integrated trade from China to the Black Sea all made the Black Death's spread possible at intercontinental scale.

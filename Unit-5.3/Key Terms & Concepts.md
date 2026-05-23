@@ -42,7 +42,7 @@ A device that placed seeds at controlled depths in rows, improving germination r
 The broad transformation of economies from agrarian and craft-based to mechanized and factory-based production, beginning in Britain c. 1750 and spreading globally through the 19th century. Characterized by coal-powered machinery, urbanization, wage labor, and expanded commodity production (AMSCO p. 297).
 
 **Industrialization**
-The process of developing manufacturing industries and mechanized production at scale, accompanied by urbanization, capital investment, and wage-labor systems. Britain industrialized first; the pattern then spread globally (Topic 5.4).
+The process of developing manufacturing industries and mechanized production at scale, accompanied by urbanization, capital investment, and wage-labor systems. Britain industrialized first; the pattern then spread globally [[Unit-5.4/Industrialization Spreads Overview|Industrialization Spreads Overview]].
 
 **Cottage industry (putting-out system)**
 A preindustrial production arrangement in which merchants supplied raw materials (typically raw cotton) to rural women who spun or wove them into finished cloth in their homes. It provided supplemental income but was too slow to compete with mechanized factories (AMSCO p. 298).

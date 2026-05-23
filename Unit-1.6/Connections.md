@@ -48,11 +48,11 @@ African kingdoms (Mali, Great Zimbabwe) in this period were integrated into tran
 
 ## AP Threads to Track Forward
 
-**Feudalism and coerced labor** → serfdom in Russia and Eastern Europe (Topic 4.7) → persistence of unfree labor into the early modern period
+**Feudalism and coerced labor** → serfdom in Russia and Eastern Europe [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]] → persistence of unfree labor into the early modern period
 
-**Catholic Church as a unifying institution** → Protestant Reformation fractures this (Topic 4.6) → Religious Wars of the 16th–17th centuries
+**Catholic Church as a unifying institution** → Protestant Reformation fractures this [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power Overview]] → Religious Wars of the 16th–17th centuries
 
-**Crusades and cross-cultural contact** → European orientation toward wealth outside Europe → Age of Exploration (Topic 4.1) → Columbian Exchange
+**Crusades and cross-cultural contact** → European orientation toward wealth outside Europe → Age of Exploration [[Unit-4.1/Technological Innovations Overview|Technological Innovations Overview]] → Columbian Exchange
 
 **Antisemitism and religious discrimination** → Jewish expulsions (1290, 1394, 1492) → Jewish migration to Ottoman Empire and Eastern Europe → patterns persist into modern period (Topic 7.6)
 

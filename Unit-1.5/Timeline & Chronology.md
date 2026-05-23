@@ -30,7 +30,7 @@ tags: [apwh, unit-1, topic-1-5, period-1, africa, governance, trade-networks, re
 | **c. 1352** | **Ibn Battuta** visits Mali | Detailed account of Malian society, Islamic practice, and persisting pre-Islamic customs; key primary source |
 | c. **1390** | **Kingdom of Kongo** founded | Central African kingdom; will become important in Topic 6.6 (Atlantic slave trade) |
 | c. late **1400s** | **Great Zimbabwe** abandoned | Overgrazing destroys the surrounding environment; population moves elsewhere |
-| **1464–1492** | **Sunni Ali** rules Songhai | Conquers Timbuktu (1468); Songhai displaces Mali as West Africa's dominant power (Topic 2.4) |
+| **1464–1492** | **Sunni Ali** rules Songhai | Conquers Timbuktu (1468); Songhai displaces Mali as West Africa's dominant power |
 
 ## Key AP Period 1 Focus (c. 1200–c. 1450)
 
@@ -44,4 +44,4 @@ During the AP exam's Period 1 window, the key African developments are:
 > **Mansa Musa's hajj (1324)** is the single most important date in Topic 1.5. It places Mali within Period 1, demonstrates the wealth from the gold-salt trade, shows the connection between Islam and West African kingship, and provides excellent SAQ/DBQ evidence. Memorize this date.
 
 > [!tip]
-> **Memory anchor — West Africa:** "Ghana → Mali → Songhai" — the three great trans-Saharan trading empires in sequence. Ghana peaks 750–1076; Mali rises c. 1235; Songhai takes over after 1468 (Topic 2.4). They occupy the same geographic zone in succession, each built on the same gold-salt trade.
+> **Memory anchor — West Africa:** "Ghana → Mali → Songhai" — the three great trans-Saharan trading empires in sequence. Ghana peaks 750–1076; Mali rises c. 1235; Songhai takes over after 1468 [[Unit-2.4/Trans-Saharan Trade Routes Overview|Trans-Saharan Trade Routes Overview]]. They occupy the same geographic zone in succession, each built on the same gold-salt trade.

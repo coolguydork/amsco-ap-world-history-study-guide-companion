@@ -18,7 +18,7 @@ tags: [apwh, unit-2, topic-2-4, period-1, africa, trade-networks, dar-al-islam, 
 The Sahara Desert — 3.6 million square miles, roughly the size of China — was one of the world's most formidable geographic barriers. Yet for more than a millennium, merchants crossed it regularly, linking West Africa's gold fields to the markets of North Africa, Southwest Asia, and ultimately Europe and Asia. This network of overland routes (seven running north-south, two east-west) made West Africa a central node in Afro-Eurasian commerce and brought Islam deep into sub-Saharan Africa. *(AMSCO pp. 103–107)*
 
 > [!exam-tip]
-> The AP exam frequently asks you to **compare** Trans-Saharan trade with the Silk Roads (Topic 2.1) and Indian Ocean network (Topic 2.3). All three spread goods, religions, and ideas — but their geographies, commodities, and technologies differ. Be ready to compare them in an SAQ or LEQ.
+> The AP exam frequently asks you to **compare** Trans-Saharan trade with the Silk Roads [[Unit-2.1/Silk Roads Overview|Silk Roads Overview]] and Indian Ocean network [[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]]. All three spread goods, religions, and ideas — but their geographies, commodities, and technologies differ. Be ready to compare them in an SAQ or LEQ.
 
 ---
 

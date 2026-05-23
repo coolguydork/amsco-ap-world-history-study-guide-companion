@@ -98,7 +98,7 @@ States in Africa developed where trade made centralized governance profitable an
 
 ### Comparison: African Political Diversity vs. Asian Centralization
 
-| Dimension | Sub-Saharan Africa | South Asia (Topic 1.3) | East Asia (Topic 1.1) |
+| Dimension | Sub-Saharan Africa | South Asia | East Asia |
 |---|---|---|---|
 | **Dominant political form** | Kin-based (most), trading kingdoms (some) | Decentralized kingdoms + sultanate | Centralized dynasties (Song, then Mongol Yuan) |
 | **Social cohesion** | Kinship, age grades, oral tradition | Caste system | Confucian hierarchy, civil service |

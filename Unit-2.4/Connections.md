@@ -48,7 +48,7 @@ Islam spread via trade routes into West Africa the same way Buddhism spread via 
 Camel technology is the 2.4 answer to "what technology enabled this trade network?" Just as lateen sails and the compass enabled Indian Ocean trade, the Somali load saddle enabled trans-Saharan bulk commerce.
 
 **State expansion and trade revenue (GOV)**
-Ghana → Mali → Songhai demonstrates how controlling trade routes generated state revenue, which funded military expansion, which secured more trade nodes. This positive feedback loop between commerce and empire is a classic AP World pattern. Compare with Song China's commercial revenue model (Topic 2.2) or the Ottoman Empire's trade-taxation strategies.
+Ghana → Mali → Songhai demonstrates how controlling trade routes generated state revenue, which funded military expansion, which secured more trade nodes. This positive feedback loop between commerce and empire is a classic AP World pattern. Compare with Song China's commercial revenue model [[Unit-2.2/Mongol Empire Overview|Mongol Empire Overview]] or the Ottoman Empire's trade-taxation strategies.
 
 **Enslaved people as trade commodity**
 Enslaved people were traded across the Sahara long before the Atlantic slave trade. This is historically significant both on its own terms and as a predecessor to later forced-labor systems (Topics 6.4, 6.6).

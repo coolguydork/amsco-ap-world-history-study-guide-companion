@@ -31,7 +31,7 @@ King of Axum who converted the kingdom to Christianity in the 4th century CE —
 | State | Dates | Region | Political Form | Wealth Source | Key Feature |
 |---|---|---|---|---|---|
 | **Ghana** | c. 5th–11th c. | West Africa (modern Mali/Mauritania) | Centralized monarchy | Gold-salt trade | First great trans-Saharan trading kingdom |
-| **Mali Empire** | c. 1235–1600 | West Africa | Centralized monarchy | Gold trade; trans-Saharan | Mansa Musa's hajj; Timbuktu (Topic 2.4) |
+| **Mali Empire** | c. 1235–1600 | West Africa | Centralized monarchy | Gold trade; trans-Saharan | Mansa Musa's hajj; Timbuktu (see Trans-Saharan Trade Routes Overview) |
 | **Hausa Kingdoms** | pre-1000 CE+ | Northern Nigeria | Loose city-states (no center) | Trans-Saharan trade | Seven specialized city-states; no central authority |
 | **Great Zimbabwe** | 12th–15th c. | East Africa (Zimbabwe/Mozambique) | Monarchy | Gold; Indian Ocean trade | Dry-stone architecture; overgrazing collapse |
 | **Swahili city-states** | c. 8th–15th c. | East African coast | Independent merchant city-states | Indian Ocean trade | Swahili language; connected Africa to Asia |
@@ -44,7 +44,7 @@ King of Axum who converted the kingdom to Christianity in the 4th century CE —
 ## Key Movements
 
 ### Islam in Sub-Saharan Africa
-Islam entered sub-Saharan Africa through trade contacts — merchants traveling the trans-Saharan routes and Indian Ocean lanes were the primary vectors. The process was gradual and syncretic: African societies adopted Islam but retained pre-Islamic traditions. Ibn Battuta's criticism that Malian court customs were incompatible with sharia, while Malians considered themselves good Muslims, illustrates this perfectly. The same pattern of **local adaptation** appears in South Asia and Southeast Asia (Topic 1.3) — Islam as a universalizing religion that shaped itself to local contexts.
+Islam entered sub-Saharan Africa through trade contacts — merchants traveling the trans-Saharan routes and Indian Ocean lanes were the primary vectors. The process was gradual and syncretic: African societies adopted Islam but retained pre-Islamic traditions. Ibn Battuta's criticism that Malian court customs were incompatible with sharia, while Malians considered themselves good Muslims, illustrates this perfectly. The same pattern of **local adaptation** appears in South Asia and Southeast Asia [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]] — Islam as a universalizing religion that shaped itself to local contexts.
 
 ### Bantu Migration
 Centuries-long expansion of Bantu-speaking peoples from west-central Africa across sub-Saharan Africa, spreading agriculture, the Bantu language family, and kin-based political structures. By c. 1000 CE, this migration had shaped the political and linguistic map of sub-Saharan Africa. The Swahili language is a product of Bantu-Arabic contact on the East African coast.

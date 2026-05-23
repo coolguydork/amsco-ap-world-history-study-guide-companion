@@ -57,4 +57,4 @@ Demographic collapse → labor scarcity → higher wages → feudal decline
 ```
 
 > [!tip]
-> This chain is the "cycle of cause and effect" AMSCO's Think As a Historian section asks you to analyze. It recurs across AP World History at different scales — compare to the [[Concept Notes/Silk Roads|Columbian Exchange]] (Topic 4.3) and the Industrial Revolution's environmental consequences (Topic 9.8).
+> This chain is the "cycle of cause and effect" AMSCO's Think As a Historian section asks you to analyze. It recurs across AP World History at different scales — compare to the [[Concept Notes/Silk Roads|Columbian Exchange]] [[Unit-4.3/Columbian Exchange Overview|Columbian Exchange Overview]] and the Industrial Revolution's environmental consequences (Topic 9.8).

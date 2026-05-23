@@ -33,7 +33,7 @@ The Islamic Golden Age (8th–13th c.) preserved, translated, and extended Greek
 Enlightenment ideas are the direct intellectual cause of the American Revolution (Locke → natural rights, Montesquieu → separation of powers), the French Revolution (Rousseau → popular sovereignty, General Will), and the Haitian Revolution (universal natural rights applied to enslaved Africans). Nationalism — the idea that a shared culture should mean shared self-governance — is also an Enlightenment product. Topic 5.2 is the political consequence of Topic 5.1.
 
 **Topic 5.7 — Economic Developments and Innovations**
-Adam Smith's laissez-faire capitalism (Topic 5.1) becomes the dominant economic framework for industrializing nations in Topic 5.7. The ideological contest between capitalism, utopian socialism, and later Marxist socialism (which begins here) runs through Topics 5.7–5.8.
+Adam Smith's laissez-faire capitalism [[Unit-5.1/Enlightenment Overview|Enlightenment Overview]] becomes the dominant economic framework for industrializing nations in Topic 5.7. The ideological contest between capitalism, utopian socialism, and later Marxist socialism (which begins here) runs through Topics 5.7–5.8.
 
 **Topic 6.1 — Imperialism**
 Enlightenment ideas were used in contradictory ways in the age of high imperialism: European powers cited their "civilizing mission" (reason, progress, science) as justification for colonizing non-European peoples; at the same time, colonized peoples used Enlightenment language of natural rights and self-determination to argue against colonialism. This double-edged legacy is essential for DBQ and LEQ analysis.
@@ -58,7 +58,7 @@ Both were periods of intense intellectual synthesis and production. But the Isla
 
 **Reason vs. tradition:** The core Enlightenment tension between rational reform and traditional authority recurs across AP World History. It appears in the Protestant Reformation (Unit 4), the Enlightenment (Unit 5), imperialism debates (Unit 6), and 20th-century ideological conflicts (Unit 9).
 
-**Limits of universalism:** Every Enlightenment proclamation of universal rights ran up against specific exclusions — by gender, race, and class. Track how these exclusions were challenged over time: feminism (Topic 5.1), abolition (Topic 5.1–5.2), decolonization (Topics 6–9).
+**Limits of universalism:** Every Enlightenment proclamation of universal rights ran up against specific exclusions — by gender, race, and class. Track how these exclusions were challenged over time: feminism [[Unit-5.1/Enlightenment Overview|Enlightenment Overview]], abolition (Topic 5.1–5.2), decolonization (Topics 6–9).
 
 ---
 

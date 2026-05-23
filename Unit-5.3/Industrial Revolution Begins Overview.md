@@ -70,7 +70,7 @@ Smith's ideas challenged [[Concept Notes/Mercantilism|Mercantilism]] (government
 
 ## Key Outcomes
 
-By the end of this period's industrial foundations, Britain had established a pattern that would spread (Topic 5.4):
+By the end of this period's industrial foundations, Britain had established a pattern that would spread [[Unit-5.4/Industrialization Spreads Overview|Industrialization Spreads Overview]]:
 - Urbanization: cities like Manchester and Liverpool exploded in size
 - Wage labor replaced traditional craft and peasant labor systems
 - Coal became the dominant energy source, beginning the fossil-fuel era

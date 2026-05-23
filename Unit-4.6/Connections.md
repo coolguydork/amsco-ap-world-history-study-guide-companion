@@ -24,9 +24,9 @@ Topic 4.6 closes Unit 4 by showing the underside of empire-building. Units 4.1�
 
 ## Leads To
 
-**Enlightenment (Topic 5.1)** — The Glorious Revolution (1688) helped inspire Enlightenment thinkers. John Locke used it as evidence that governments exist to protect natural rights and can be legitimately overthrown when they fail. The revolts of 4.6 fed the political philosophy of 5.1.
+**Enlightenment [[Unit-5.1/Enlightenment Overview|Enlightenment Overview]]** — The Glorious Revolution (1688) helped inspire Enlightenment thinkers. John Locke used it as evidence that governments exist to protect natural rights and can be legitimately overthrown when they fail. The revolts of 4.6 fed the political philosophy of 5.1.
 
-**Atlantic Revolutions (Topic 5.2)** — The Haitian Revolution (1791), American Revolution (1776), and Latin American independence movements are the direct successors of the resistance patterns established in 4.6. Maroon communities, slave revolts, and indigenous resistance in the Americas all prefigure the Atlantic Revolutionary era.
+**Atlantic Revolutions [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]]** — The Haitian Revolution (1791), American Revolution (1776), and Latin American independence movements are the direct successors of the resistance patterns established in 4.6. Maroon communities, slave revolts, and indigenous resistance in the Americas all prefigure the Atlantic Revolutionary era.
 
 **Nation-States (Topic 7.1)** — The Peace of Westphalia's principle of state sovereignty (1648) — a product of European religious wars — eventually became the foundation of the modern nation-state system.
 
@@ -34,7 +34,7 @@ Topic 4.6 closes Unit 4 by showing the underside of empire-building. Units 4.1�
 
 ## Compare With
 
-**Sunni–Shia split (Topic 3.3) vs. Protestant–Catholic conflict (4.6)**
+**Sunni–Shia split [[Unit-3.3/Empires: Belief Systems Overview|Empires: Belief Systems Overview]] vs. Protestant–Catholic conflict (4.6)**
 Both internal religious fractures used by political actors to wage war. Both ended in (partial) negotiated settlements. Key difference: the Islamic split was about political succession as much as theology; the Christian split involved new doctrinal claims about salvation that imperial authority couldn't simply suppress.
 
 **Decolonization (Topic 8.5)** — The 20th-century independence movements are the long-run consequence of the same dynamic: colonized peoples resisting state power and demanding self-determination. Ana Nzinga, Metacom, and the Pueblo rebels are the ancestors — in spirit if not lineage — of 20th-century independence leaders.

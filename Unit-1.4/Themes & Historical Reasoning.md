@@ -47,7 +47,7 @@ All major American civilizations were built on sophisticated **agricultural inno
 
 **Mississippian maize agriculture:** The spread of corn (maize) northward from Mesoamerica into the Mississippi Valley was the agricultural foundation of Cahokia's rise. As maize agriculture spread, it enabled the sedentary populations and surplus production that supported Cahokia's monumental architecture.
 
-**Environmental Decline:** Multiple American civilizations declined because they exceeded the carrying capacity of their environment. Maya deforestation depleted the soil. Mississippian flooding disrupted agriculture. Great Zimbabwe (Topic 1.5) overgrazing exhausted surrounding pastures. Environmental degradation as a cause of civilizational decline is a recurring CCOT pattern.
+**Environmental Decline:** Multiple American civilizations declined because they exceeded the carrying capacity of their environment. Maya deforestation depleted the soil. Mississippian flooding disrupted agriculture. Great Zimbabwe [[Unit-1.5/Africa Overview|Africa Overview]] overgrazing exhausted surrounding pastures. Environmental degradation as a cause of civilizational decline is a recurring CCOT pattern.
 
 ---
 

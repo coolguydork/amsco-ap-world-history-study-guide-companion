@@ -36,7 +36,7 @@ The three-stage knowledge-transfer process is an excellent AP evidence chain:
 [[Sufism|Sufi missionaries]] adapted Islamic practice to local cultures, incorporating indigenous religious elements into Islam. This **religious syncretism** explains both how Islam spread so rapidly and why it looked different in different places. The AP exam uses this concept to ask how and why Islam became a world religion.
 
 > [!exam-tip]
-> **Historical Process: Cultural Diffusion via Religious Missionaries.** Topic 1.2 is the clearest example of this process in Unit 1. Compare with Buddhism spreading through Southeast Asia (Topic 1.3) — both spread via missionaries who adapted to local cultures.
+> **Historical Process: Cultural Diffusion via Religious Missionaries.** Topic 1.2 is the clearest example of this process in Unit 1. Compare with Buddhism spreading through Southeast Asia [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]] — both spread via missionaries who adapted to local cultures.
 
 ### al-Andalus: Cross-Cultural Intellectual Transfer
 
@@ -111,7 +111,7 @@ The Mamluks flourished by facilitating trade between the Islamic world and Europ
 
 ## Historical Reasoning: Comparison
 
-### Dar al-Islam vs. Song China (Topic 1.1)
+### Dar al-Islam vs. Song China [[Unit-1.1/East Asia Overview|East Asia Overview]]
 
 This is the most important comparison for the AP exam in Unit 1:
 
@@ -124,7 +124,7 @@ This is the most important comparison for the AP exam in Unit 1:
 | Women's status | Some property rights, some restrictions | Increasingly restricted (foot binding) |
 | Political condition c. 1200–1450 | Fragmented, many states | Weakening Song → Mongol Yuan → Ming |
 
-### Dar al-Islam vs. Medieval Europe (Topic 1.6)
+### Dar al-Islam vs. Medieval Europe [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]]
 
 | Feature | Dar al-Islam | Medieval Europe |
 |---|---|---|

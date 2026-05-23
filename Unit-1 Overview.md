@@ -86,7 +86,7 @@ In **Europe**, the Catholic Church was simultaneously a partner and a rival to s
 
 ## The Role of Nomadic Peoples
 
-[[Concept Notes/Mongols\|Mongol]] expansion is the most dramatic development in Unit 1 — though it connects primarily to Unit 2 (Topic 2.2). The key Unit 1 point is that the **Mongols accelerated the end of the Abbasid Caliphate** (Baghdad fell 1258) and temporarily reorganized political power across Central Asia, Persia, and China. The [[Concept Notes/Pax Mongolica\|Pax Mongolica]] that followed created the trade conditions Unit 2 describes.
+[[Concept Notes/Mongols\|Mongol]] expansion is the most dramatic development in Unit 1 — though it connects primarily to Unit 2 [[Unit-2.2/Mongol Empire Overview|Mongol Empire Overview]]. The key Unit 1 point is that the **Mongols accelerated the end of the Abbasid Caliphate** (Baghdad fell 1258) and temporarily reorganized political power across Central Asia, Persia, and China. The [[Concept Notes/Pax Mongolica\|Pax Mongolica]] that followed created the trade conditions Unit 2 describes.
 
 The **Turkic peoples** played an equally large long-term role. Unlike the Mongols, who built one coordinated empire, different Turkic groups built separate empires: the Seljuks controlled the Middle East and reduced the Abbasid caliph to a figurehead; the Ottomans rose in the eastern Mediterranean; the Delhi Sultanate's rulers were Turkic Central Asians. This Turkic pattern — converting to Islam and then conquering Islamic territory — is one of the key mechanisms of Islamic political change in Period 1.
 
@@ -128,10 +128,10 @@ Across all regions, several continuities hold throughout the period: patriarchal
 
 Unit 1 describes regions **in relative isolation**. Unit 2 describes what happens when they become **connected**. The mechanisms of connection are:
 
-- The [[Concept Notes/Silk Roads\|Silk Roads]] (Topic 2.1) — overland Eurasian trade, expanded under the Pax Mongolica
-- The [[Concept Notes/Mongols\|Mongol Empire]] (Topic 2.2) — the political framework that made cross-Eurasian movement possible
-- The [[Concept Notes/Indian Ocean Trade Network\|Indian Ocean Trade Network]] (Topic 2.3) — maritime connections between East Africa, Arabia, South Asia, and China
-- The [[Concept Notes/Trans-Saharan Trade\|Trans-Saharan Trade]] (Topic 2.4) — connections between North and sub-Saharan Africa
+- The [[Concept Notes/Silk Roads\|Silk Roads]] [[Unit-2.1/Silk Roads Overview|Silk Roads Overview]] — overland Eurasian trade, expanded under the Pax Mongolica
+- The [[Concept Notes/Mongols\|Mongol Empire]] [[Unit-2.2/Mongol Empire Overview|Mongol Empire Overview]] — the political framework that made cross-Eurasian movement possible
+- The [[Concept Notes/Indian Ocean Trade Network\|Indian Ocean Trade Network]] [[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]] — maritime connections between East Africa, Arabia, South Asia, and China
+- The [[Concept Notes/Trans-Saharan Trade\|Trans-Saharan Trade]] [[Unit-2.4/Trans-Saharan Trade Routes Overview|Trans-Saharan Trade Routes Overview]] — connections between North and sub-Saharan Africa
 
 Every civilization you studied in Unit 1 will appear again in Unit 2, transformed by contact with the others.
 

@@ -77,7 +77,7 @@ The AMSCO text uses the **devshirme system** as a contextualization exercise: ho
 **Conclusion:** Devshirme was unusual because it combined elements of slavery (forced removal, conversion, lifetime service) with genuine meritocracy (education, promotion, high status). Unlike chattel slavery in the Atlantic world (which had no path to freedom or high status), devshirme recruits could — and often did — rise to positions of great power. This made it a distinct form of coerced labor that served administrative rather than purely economic purposes.
 
 > [!exam-tip]
-> **Contextualization on the AP exam** means connecting your topic to a broader historical development, process, or event that is relevant but *not the immediate focus* of your essay. For Topic 3.2, strong contextualization might describe the broader pattern of empire-building after the Mongol collapse (Topic 2.2) or the role of gunpowder technology in making conquest possible (Topic 3.1) — before explaining how those empires then needed to solve the administration problem.
+> **Contextualization on the AP exam** means connecting your topic to a broader historical development, process, or event that is relevant but *not the immediate focus* of your essay. For Topic 3.2, strong contextualization might describe the broader pattern of empire-building after the Mongol collapse [[Unit-2.2/Mongol Empire Overview|Mongol Empire Overview]] or the role of gunpowder technology in making conquest possible [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] — before explaining how those empires then needed to solve the administration problem.
 
 ---
 
@@ -98,7 +98,7 @@ The AMSCO text uses the **devshirme system** as a contextualization exercise: ho
 
 **Continuity:** The basic challenge of governing diverse, far-flung territories was the same in 1450 as it had been for the Roman Empire, the Abbasid Caliphate, and the Mongol khanates. Solutions — bureaucracy, military loyalty, religious legitimacy — were also not new.
 
-**Change:** What was *new* in 1450–1750 was the *scale* of centralization. The devshirme system, the intendant system, and the sankin-kōtai hostage system all represent more systematic, institutionalized approaches to administration than earlier empires had achieved. Gunpowder weapons (Topic 3.1) also gave rulers new tools for suppressing internal as well as external enemies.
+**Change:** What was *new* in 1450–1750 was the *scale* of centralization. The devshirme system, the intendant system, and the sankin-kōtai hostage system all represent more systematic, institutionalized approaches to administration than earlier empires had achieved. Gunpowder weapons [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] also gave rulers new tools for suppressing internal as well as external enemies.
 
 ### Comparison
 

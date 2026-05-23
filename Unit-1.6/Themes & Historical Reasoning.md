@@ -64,13 +64,13 @@ Key social developments across the period:
 
 ### Comparison
 
-**Europe vs. Dar al-Islam** (Topic 1.2): In 1200, Islamic civilization was more commercially active, more urban, more literate, and more philosophically sophisticated than Europe. The Crusades forced Europeans to confront this gap — and to want the goods that filled it. By 1450 the gap was narrowing, partly because of the Mongol disruption of the Islamic world and partly because of Europe's own commercial revival. (See [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]])
+**Europe vs. Dar al-Islam** [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]]: In 1200, Islamic civilization was more commercially active, more urban, more literate, and more philosophically sophisticated than Europe. The Crusades forced Europeans to confront this gap — and to want the goods that filled it. By 1450 the gap was narrowing, partly because of the Mongol disruption of the Islamic world and partly because of Europe's own commercial revival. (See [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]])
 
-**Europe vs. Song China** (Topic 1.1): Song China was more commercially integrated, had paper money, gunpowder, and printing centuries before Europe. Europe's feudalism looks decidedly backward by comparison. Yet both societies saw a growing merchant class challenge old aristocratic hierarchies. (See [[Unit-1.1/East Asia Overview|East Asia Overview]])
+**Europe vs. Song China** [[Unit-1.1/East Asia Overview|East Asia Overview]]: Song China was more commercially integrated, had paper money, gunpowder, and printing centuries before Europe. Europe's feudalism looks decidedly backward by comparison. Yet both societies saw a growing merchant class challenge old aristocratic hierarchies. (See [[Unit-1.1/East Asia Overview|East Asia Overview]])
 
-**European feudalism vs. Japanese feudalism** (Topic 1.1): Striking structural parallels — warriors (knights/samurai), codes of honor (chivalry/bushido), land-for-loyalty exchanges, and a subordinate peasant class. Key differences: Japan's emperor was a figurehead (real power with shoguns/daimyo), while European monarchs genuinely competed with popes and nobles; Japan had no equivalent to the Catholic Church's pan-regional authority.
+**European feudalism vs. Japanese feudalism** [[Unit-1.1/East Asia Overview|East Asia Overview]]: Striking structural parallels — warriors (knights/samurai), codes of honor (chivalry/bushido), land-for-loyalty exchanges, and a subordinate peasant class. Key differences: Japan's emperor was a figurehead (real power with shoguns/daimyo), while European monarchs genuinely competed with popes and nobles; Japan had no equivalent to the Catholic Church's pan-regional authority.
 
-**Europe vs. Americas** (Topic 1.4): Both were politically decentralized relative to classical empires. But the Americas lacked Europe's overland connections to the Afro-Eurasian trade network, limiting the commercial and cultural exchange that eventually transformed Europe. (See [[Unit-1.4/The Americas Overview|The Americas Overview]])
+**Europe vs. Americas** [[Unit-1.4/The Americas Overview|The Americas Overview]]: Both were politically decentralized relative to classical empires. But the Americas lacked Europe's overland connections to the Afro-Eurasian trade network, limiting the commercial and cultural exchange that eventually transformed Europe. (See [[Unit-1.4/The Americas Overview|The Americas Overview]])
 
 ---
 

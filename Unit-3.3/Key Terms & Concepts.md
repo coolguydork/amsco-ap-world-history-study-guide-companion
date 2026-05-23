@@ -119,7 +119,7 @@ Tax collectors and local administrators in the Mughal Empire. Akbar allowed Hind
 Method of knowledge built on observation and evidence rather than faith or tradition. Developed by Francis Bacon (1620). Represents the shift toward rational, systematic investigation of the natural world.
 
 **Scientific Revolution**
-17th-century intellectual movement challenging traditional authority with reason and evidence. Key figures: Bacon (empiricism), Galileo (terrestrial motion), Kepler (planetary motion), Newton (*Principia*, 1687 — gravitational theory). Laid groundwork for the Enlightenment (Topic 5.1).
+17th-century intellectual movement challenging traditional authority with reason and evidence. Key figures: Bacon (empiricism), Galileo (terrestrial motion), Kepler (planetary motion), Newton (*Principia*, 1687 — gravitational theory). Laid groundwork for the Enlightenment [[Unit-5.1/Enlightenment Overview|Enlightenment Overview]].
 
 > [!exam-tip]
 > The AP Learning Objective for this topic is narrow: "Explain continuity and change within the various belief systems during the period from 1450 to 1750." The Scientific Revolution is mentioned here as supporting context — use it to show how religious authority was challenged by rational inquiry, not as a main argument.

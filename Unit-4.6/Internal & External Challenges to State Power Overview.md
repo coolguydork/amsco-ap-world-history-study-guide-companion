@@ -63,4 +63,4 @@ England's colonial territories generated multiple forms of resistance:
 
 - Builds on [[Unit-3.3/Empires: Belief Systems Overview|Empires: Belief Systems]] — religious tension (Sunni/Shia split) parallels Protestant/Catholic conflict driving several revolts here
 - Builds on [[Unit-1.6/Medieval Europe Overview|Medieval Europe]] — Catholic Church dominance sets the stage for Protestant challenges
-- Leads to **Enlightenment political thought** (Topic 5.1) and **Atlantic Revolutions** (Topic 5.2)
+- Leads to **Enlightenment political thought** [[Unit-5.1/Enlightenment Overview|Enlightenment Overview]] and **Atlantic Revolutions** [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]]

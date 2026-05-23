@@ -9,13 +9,13 @@ tags: [apwh, unit-4, topic-4-4, period-2, maritime-empires, colonialism, labor-s
 
 ## Builds On
 
-**[[Unit-4.2/Exploration: Causes & Events Overview|Exploration: Causes & Events Overview]] (Topic 4.2)**
+**[[Unit-4.2/Exploration: Causes & Events Overview|Exploration: Causes & Events Overview]] [[Unit-4.2/Exploration: Causes & Events Overview|Exploration: Causes & Events Overview]]**
 The European explorations covered in 4.2 are the direct foundation of the maritime empires in 4.4. Prince Henry the Navigator, Vasco da Gama, and Columbus's voyages established the routes, the trading post model, and the legal framework (Treaty of Tordesillas) that made conquest and colonization possible. 4.4 is what happened *after* the ships landed.
 
-**[[Unit-4.3/Columbian Exchange Overview|Columbian Exchange Overview]] (Topic 4.3)**
+**[[Unit-4.3/Columbian Exchange Overview|Columbian Exchange Overview]] [[Unit-4.3/Columbian Exchange Overview|Columbian Exchange Overview]]**
 The Columbian Exchange is the single most important context for 4.4's labor system shift. European diseases (smallpox, measles) caused indigenous population collapse of up to 90% in some regions — this is the primary reason Spanish colonizers turned to African enslaved labor. Without 4.3, 4.4's labor transitions make no sense causally.
 
-**[[Unit-1.4/The Americas Overview|The Americas Overview]] (Topic 1.4)**
+**[[Unit-1.4/The Americas Overview|The Americas Overview]] [[Unit-1.4/The Americas Overview|The Americas Overview]]**
 The Aztec and Inca empires being conquered in 4.4 are the same states studied in 1.4. The mit'a system that Spain adapted for Potosí silver mining was an Inca institution. Understanding their political structures (tribute networks, subject peoples' resentment) explains why conquest was possible and why indigenous alliances with Cortés formed.
 
 **[[Concept Notes/Indian Ocean Trade Network|Indian Ocean Trade Network]]**
@@ -23,13 +23,13 @@ The Indian Ocean trading system that Portugal disrupted in 4.4 had operated for 
 
 ## Leads To
 
-**Maintaining Colonial Empires (Topic 4.5)**
+**Maintaining Colonial Empires [[Unit-4.5/Maritime Empires Develop Overview|Maritime Empires Develop Overview]]**
 The empires established in 4.4 required ongoing administrative mechanisms to function — Topic 4.5 covers how Spain and Portugal governed their colonies over time, including the continued evolution of labor systems.
 
-**Social Hierarchies in Colonial Societies (Topic 4.7)**
+**Social Hierarchies in Colonial Societies [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]]**
 The racial categories and social hierarchies created by conquest and slavery in 4.4 — mestizos, mulattos, creoles, enslaved Africans — are the subject of 4.7. The demographic mixing of 4.4 creates the social structures analyzed in 4.7.
 
-**Latin American Revolutions (Topic 5.2)**
+**Latin American Revolutions [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]]**
 The colonial economic structures built in 4.4 ([[Concept Notes/Mercantilism|mercantilism]], encomienda, silver extraction) create the resentments and inequalities that fuel Latin American independence movements in the early 19th century.
 
 **19th-Century Imperialism (Topic 6.2)**
@@ -37,7 +37,7 @@ The earlier British trading post model in India (EIC, sepoys, treaty expansion) 
 
 ## Compare With
 
-**[[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] (Topic 3.1) — Land-based vs. Maritime Empires**
+**[[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] — Land-based vs. Maritime Empires**
 Land-based empires (Ottoman, Mughal, Qing, Russian) expanded through contiguous territorial conquest and used existing administrative and tribute systems. Maritime empires depended on naval technology and operated through coastal trading posts and distant colonies. Compare their administrative methods: viceroyalties vs. Ottoman devshirme vs. Mughal mansabdari.
 
 **19th-Century Imperialism (Topic 6.2) — Earlier vs. Later Colonial Methods**

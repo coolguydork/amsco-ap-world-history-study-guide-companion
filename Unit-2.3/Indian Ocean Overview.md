@@ -49,7 +49,7 @@ Topic 2.3 examines how the Indian Ocean Basin became one of the world's most act
 **Zheng He's voyages (1405–1433)** represent the peak of Chinese engagement with the Indian Ocean. Ming emperor Yongle dispatched admiral Zheng He on seven voyages reaching Indonesia, Ceylon, Arabia, and East Africa. At its height, the fleet numbered over 300 ships carrying 28,000 people — the largest wooden ships ever built. The primary purpose was tribute collection to display Ming power, not commercial profit. The voyages spread Chinese cultural influence and inspired emigration to Southeast Asian ports, but Confucian critics objected to their cost and foreign entanglements. Emperor Zhu Gaozhi ended the voyages after Yongle's death, and China's withdrawal allowed piracy to resume in the China Sea (AMSCO p. 99).
 
 > [!warning]
-> Zheng He is sometimes mischaracterized as a commercial explorer like Columbus. He was primarily on a **tribute mission** — projecting Ming imperial prestige — not seeking trade routes. The contrast with European exploration (Topic 4.1) is a classic AP comparison.
+> Zheng He is sometimes mischaracterized as a commercial explorer like Columbus. He was primarily on a **tribute mission** — projecting Ming imperial prestige — not seeking trade routes. The contrast with European exploration [[Unit-4.1/Technological Innovations Overview|Technological Innovations Overview]] is a classic AP comparison.
 
 **Significant cultural transfers** accompanied all this commerce. Islam spread to South and Southeast Asia through merchant diasporas. The Swahili language emerged from contact between Bantu-speaking Africans and Arab traders. Technology, religious ideas, artistic styles, and agricultural products all diffused along Indian Ocean routes.
 
@@ -57,7 +57,7 @@ Topic 2.3 examines how the Indian Ocean Basin became one of the world's most act
 
 ## The Big Picture
 
-The Indian Ocean network in 1200–1450 was the world's most sophisticated commercial system. It was driven by Muslim merchant expertise, environmental knowledge of monsoon winds, and accumulated maritime technology. Its effects reshaped cultures across four continents — spreading Islam, building wealthy port cities, and creating diasporic communities that blended peoples and traditions. When the Portuguese arrived at Calicut in 1498 (Topic 4.1), they were not opening a new route so much as inserting themselves into a system that had operated for over a millennium.
+The Indian Ocean network in 1200–1450 was the world's most sophisticated commercial system. It was driven by Muslim merchant expertise, environmental knowledge of monsoon winds, and accumulated maritime technology. Its effects reshaped cultures across four continents — spreading Islam, building wealthy port cities, and creating diasporic communities that blended peoples and traditions. When the Portuguese arrived at Calicut in 1498 [[Unit-4.1/Technological Innovations Overview|Technological Innovations Overview]], they were not opening a new route so much as inserting themselves into a system that had operated for over a millennium.
 
 ---
 

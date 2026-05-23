@@ -143,4 +143,4 @@ This chain of Islamic → Jewish → Christian intellectual transfer, centered i
 | Causes and effects of rise of Islamic states | Abbasid → Seljuk/Mamluk/Delhi Sultanate; Mongol conquest |
 | Effects of intellectual innovation | House of Wisdom, al-Tusi, Averroes, knowledge transfer to Europe |
 
-**Key comparison**: Dar al-Islam vs. Song China (Topic 1.1) — both were commercially sophisticated, intellectually productive civilizations. China had meritocratic bureaucracy; Islam had religious law and scholar-missionaries. Both anchored their respective ends of the trade networks covered in Unit 2.
+**Key comparison**: Dar al-Islam vs. Song China [[Unit-1.1/East Asia Overview|East Asia Overview]] — both were commercially sophisticated, intellectually productive civilizations. China had meritocratic bureaucracy; Islam had religious law and scholar-missionaries. Both anchored their respective ends of the trade networks covered in Unit 2.

@@ -58,7 +58,7 @@ The Columbian Exchange reshaped global economic systems in three major ways.
 
 The Columbian Exchange is AMSCO's primary vehicle for AP **causation** skill practice.
 
-**Causes of the Exchange:** European desire for trade routes to Asia (especially spices and silk); technological advances in navigation (compass, caravel, astrolabe); competitive nation-state rivalries between Spain and Portugal; the earlier model of Portuguese Atlantic island colonization. See [[Unit-4.2/Themes & Historical Reasoning|Themes & Historical Reasoning]] (Topic 4.2) for causes of exploration.
+**Causes of the Exchange:** European desire for trade routes to Asia (especially spices and silk); technological advances in navigation (compass, caravel, astrolabe); competitive nation-state rivalries between Spain and Portugal; the earlier model of Portuguese Atlantic island colonization. See [[Unit-4.2/Themes & Historical Reasoning|Themes & Historical Reasoning]] [[Unit-4.2/Exploration: Causes & Events Overview|Exploration: Causes & Events Overview]] for causes of exploration.
 
 **Effects of the Exchange** operate on multiple levels:
 - *Short-term direct effect:* Disease kills indigenous populations within decades.
@@ -80,7 +80,7 @@ The Columbian Exchange is AMSCO's primary vehicle for AP **causation** skill pra
 
 ## Historical Reasoning: Comparison
 
-| Dimension | Black Death (Topic 2.6) | Columbian Exchange (Topic 4.3) |
+| Dimension | Black Death | Columbian Exchange |
 |---|---|---|
 | Direction | Afro-Eurasian disease | Eurasian disease into Americas |
 | Mortality | ~30–50% of Europe | Up to 90% in some regions |
@@ -88,4 +88,4 @@ The Columbian Exchange is AMSCO's primary vehicle for AP **causation** skill pra
 | Long-term | Contributed to Renaissance, social change | Created Atlantic plantation economy |
 | Ecosystem | Rat/flea vector | Direct human contact + animals |
 
-Compare with [[Unit-2.6/Themes & Historical Reasoning|Themes & Historical Reasoning]] (Topic 2.6) for the Black Death parallel.
+Compare with [[Unit-2.6/Themes & Historical Reasoning|Themes & Historical Reasoning]] [[Unit-2.6/Environmental Consequences Overview|Environmental Consequences Overview]] for the Black Death parallel.

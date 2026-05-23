@@ -23,7 +23,7 @@ European political life was built on **feudalism** — a decentralized system of
 The economic counterpart to feudalism was the **manorial system**. Large estates (manors) were self-sufficient units producing nearly everything residents needed. **Serfs** — peasants tied to the land — could not travel or marry without the lord's permission. They paid tribute in crops or labor in exchange for protection. Many serfs lived and died on a single manor, largely unaware of the wider world.
 
 > [!tip]
-> Compare with Japan (Topic 1.1): both had a warrior class (knights/samurai), codes of honor (chivalry/bushido), and a lord-vassal hierarchy. Key difference — Japan's emperor was a figurehead while Europe's monarchs were genuinely competing for power with the Church.
+> Compare with Japan [[Unit-1.1/East Asia Overview|East Asia Overview]]: both had a warrior class (knights/samurai), codes of honor (chivalry/bushido), and a lord-vassal hierarchy. Key difference — Japan's emperor was a figurehead while Europe's monarchs were genuinely competing for power with the Church.
 
 Agricultural improvements gradually eroded the manor's isolation. The **three-field system** rotated crops across three fields — one in wheat/rye, one in nitrogen-fixing legumes, one left fallow — dramatically raising yields. New plow designs (heavier wheeled plows for northern soils, lighter ones for the south) and windmills further boosted productivity. More food → population growth → more towns.
 

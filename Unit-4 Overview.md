@@ -171,7 +171,7 @@ The Historical Perspectives debate — the Black Legend vs. White Legend on Span
 ## Cross-Unit Connections
 
 **Back to Unit 3 (Foundations):**
-Gunpowder empires (Ottoman, Safavid, Mughal) were founded in Unit 3 and continue into Unit 4, where their social structures (Topic 4.7) and internal challenges (Topic 4.6) are central.
+Gunpowder empires (Ottoman, Safavid, Mughal) were founded in Unit 3 and continue into Unit 4, where their social structures [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]] and internal challenges [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power Overview]] are central.
 
 **Forward to Unit 5 (Revolutions):**
 The social hierarchies constructed in Unit 4 — casta system, Atlantic slavery, European class structures — are precisely what the Atlantic revolutions of Unit 5 challenged. Unit 4's accumulated tensions become Unit 5's explosions.

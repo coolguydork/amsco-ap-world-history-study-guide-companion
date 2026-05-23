@@ -47,7 +47,7 @@ Unit 2 is the most theme-dense unit in the entire course. Six of the seven AP th
 
 **Technology and Innovation (TEC)** runs as a thread through all three networks. The **lateen sail** allowed Indian Ocean dhows to tack against the wind. **Caravanserais** provided rest stops every 20–30 miles across Central Asian deserts. **The magnetic compass** and **astrolabe** improved navigation. Most consequentially, **paper money** from China and Islamic **bills of exchange** enabled high-volume commerce without hauling coins across continents.
 
-**Governance (GOV)** enters through the Mongol Empire (Topic 2.2) and through state-building in Mali (Topic 2.4). The Mongols created the conditions for trade by unifying the Silk Roads under a single authority and establishing the **Yam postal system** — a relay network that moved messages and goods across Eurasia with unprecedented speed.
+**Governance (GOV)** enters through the Mongol Empire [[Unit-2.2/Mongol Empire Overview|Mongol Empire Overview]] and through state-building in Mali [[Unit-2.4/Trans-Saharan Trade Routes Overview|Trans-Saharan Trade Routes Overview]]. The Mongols created the conditions for trade by unifying the Silk Roads under a single authority and establishing the **Yam postal system** — a relay network that moved messages and goods across Eurasia with unprecedented speed.
 
 **Human Migration and Settlement (MIG)** shaped the Indian Ocean world especially. **Diasporic merchant communities** — Chinese merchants in Southeast Asia, Arab traders in East Africa, Indian merchants in Malacca — created permanent settlements along trade routes. These communities became cultural crossroads, translating goods, languages, and faiths between civilizations.
 
@@ -77,7 +77,7 @@ The AP exam frequently asks you to compare, contrast, or connect the three major
 
 ## The Mongol Factor
 
-The [[Concept Notes/Mongols\|Mongol Empire]] (Topic 2.2) is the pivot of this entire unit. Without the Mongol unification of Eurasia, the Silk Roads' peak under the [[Concept Notes/Pax Mongolica\|Pax Mongolica]] would not have happened — and neither would the Black Death's westward journey.
+The [[Concept Notes/Mongols\|Mongol Empire]] [[Unit-2.2/Mongol Empire Overview|Mongol Empire Overview]] is the pivot of this entire unit. Without the Mongol unification of Eurasia, the Silk Roads' peak under the [[Concept Notes/Pax Mongolica\|Pax Mongolica]] would not have happened — and neither would the Black Death's westward journey.
 
 The Mongols created a **security corridor** across Central Asia. Their **Yam postal system** connected China to Persia in a matter of weeks. Their religious **tolerance** allowed Christian, Buddhist, and Muslim merchants to operate freely across the empire. Marco Polo's famous journey (1271–1295) was only possible because a single empire controlled the entire route from Venice to Beijing.
 
@@ -94,7 +94,7 @@ One of Unit 2's most important exam insights is that **Islam served as a common 
 
 This gave Islam a structural advantage in spreading religion through commerce. When Muslim merchants settled permanently in Southeast Asian port cities, they built mosques, married local women, and raised children in the faith — a pattern of **peaceful commercial diffusion** rather than conquest. The result was the Islamization of the Malay Peninsula and coastal Java by c. 1400.
 
-The Mali Empire (Topic 2.4) is the trans-Saharan version of this story. After Sundiata founded Mali in 1235, the empire's ruling class embraced Islam as a legitimizing ideology that also facilitated trade relationships with North African Muslim merchants. Mansa Musa's spectacular **hajj of 1324** — his pilgrimage to Mecca with a retinue of 60,000 and so much gold that he crashed Middle Eastern gold markets — is the unit's single most vivid primary-source moment.
+The Mali Empire [[Unit-2.4/Trans-Saharan Trade Routes Overview|Trans-Saharan Trade Routes Overview]] is the trans-Saharan version of this story. After Sundiata founded Mali in 1235, the empire's ruling class embraced Islam as a legitimizing ideology that also facilitated trade relationships with North African Muslim merchants. Mansa Musa's spectacular **hajj of 1324** — his pilgrimage to Mecca with a retinue of 60,000 and so much gold that he crashed Middle Eastern gold markets — is the unit's single most vivid primary-source moment.
 
 ---
 

@@ -34,10 +34,10 @@ tags: [apwh, unit-1, topic-1-1, period-1, east-asia, chronology]
 | 1192 | Minamoto Yoritomo installed as first shogun | Kamakura Shogunate established; emperor becomes figurehead; feudal era begins |
 | 1206 | Delhi Sultanate established in India | Regional context: Islamic state rises on China's periphery |
 | 1215 | Magna Carta signed in England | Regional context: European political decentralization (compare to Song centralization) |
-| 1258 | Mongols conquer Baghdad; Abbasid Caliphate falls | Mongol expansion reaches Islamic world (Topic 2.2) |
+| 1258 | Mongols conquer Baghdad; Abbasid Caliphate falls | Mongol expansion reaches Islamic world (see Mongol Empire Overview, Topic 2.2) |
 | 1271 | Yuan Dynasty declared by Kublai Khan | Mongols begin formal rule of China |
 | 1279 | Song Dynasty falls | Mongol conquest complete; Kublai Khan rules all China |
-| 1324 | Mansa Musa's pilgrimage to Mecca | Regional context: Mali's wealth and Islam in Africa (Topic 1.5) |
+| 1324 | Mansa Musa's pilgrimage to Mecca | Regional context: Mali's wealth and Islam in Africa (see Africa Overview, Topic 1.5) |
 | c. 1333 | Kamakura Shogunate ends | Japan's feudal instability continues |
 | 1368 | Zhu Yuanzhang founds Ming Dynasty | Expels Mongols; restores native Chinese rule and Confucian governance |
 

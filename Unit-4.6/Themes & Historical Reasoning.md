@@ -76,7 +76,7 @@ Every revolt in 4.6 has a specific, exam-ready causal chain:
 
 ## Comparison Ready for the Exam
 
-**Sunni–Shia split (Topic 3.3) vs. Protestant–Catholic conflict (Topic 4.6)**
+**Sunni–Shia split [[Unit-3.3/Empires: Belief Systems Overview|Empires: Belief Systems Overview]] vs. Protestant–Catholic conflict [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power Overview]]**
 Both represent religious fractures within broader religious traditions (Islam / Christianity). Both were used by political actors to justify wars and realignments of state power. Both led to prolonged conflict and eventual negotiated settlements (or ongoing tension).
 → [[Unit-3.3/Themes & Historical Reasoning|Themes & Historical Reasoning (3.3)]]
 
