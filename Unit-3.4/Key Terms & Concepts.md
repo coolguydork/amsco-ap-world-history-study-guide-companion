@@ -11,7 +11,7 @@ These are the core vocabulary items for Topic 3.4. Most appear in comparison or 
 
 ---
 
-**Gunpowder Empires**
+**[[Concept Notes/Gunpowder Empires|Gunpowder Empires]]**
 A term coined by historian Marshall G. S. Hodgson in the 1950s referring to the large land-based empires of Southwest and South Asia — chiefly the Ottoman, Safavid, and Mughal — that flourished c. 1450–1750 and whose military power rested on gunpowder weapons, especially large cannons. The term emphasizes their shared technological foundation and is widely used in AP World History. (AMSCO p. 182)
 
 **Devshirme**

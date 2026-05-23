@@ -60,7 +60,7 @@ Founded by **Kublai Khan** after completing the Mongol conquest of China. The Yu
 
 ### Ming Dynasty (1368–1644)
 
-Founded by **Zhu Yuanzhang (Hongwu Emperor)**. Restored native Chinese rule, reinstituted Confucian governance, and became one of the most powerful states in the world. The Ming sponsored **Zheng He**'s massive naval expeditions (1405–1433), which demonstrated Chinese maritime power and extended the tributary system. The Ming is also a key Topic 3.1 subject (gunpowder empire).
+Founded by **Zhu Yuanzhang (Hongwu Emperor)**. Restored native Chinese rule, reinstituted Confucian governance, and became one of the most powerful states in the world. The Ming sponsored **Zheng He**'s massive naval expeditions (1405–1433), which demonstrated Chinese maritime power and extended the tributary system. The Ming is also a key Topic 3.1 subject ([[Concept Notes/Gunpowder Empires|gunpowder empire]]).
 
 ### Kamakura Shogunate (1192–1333)
 

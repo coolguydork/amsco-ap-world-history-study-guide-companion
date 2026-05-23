@@ -10,13 +10,13 @@ tags: [apwh, unit-4, topic-4-8, period-2, ccot, ap-themes, historical-reasoning,
 ## AP Themes
 
 **ECN — Economic Systems**
-Topic 4.8's central theme. The period sees the emergence of a truly global economy centered on the Atlantic System and silver trade. Mercantilism governed state economic policy; capitalism began to emerge as a market-driven alternative. Joint-stock companies transformed how capital was organized and deployed. The Price Revolution demonstrated that regional economies were now globally interdependent — a change from 1450.
+Topic 4.8's central theme. The period sees the emergence of a truly global economy centered on the Atlantic System and silver trade. [[Concept Notes/Mercantilism|Mercantilism]] governed state economic policy; capitalism began to emerge as a market-driven alternative. Joint-stock companies transformed how capital was organized and deployed. The Price Revolution demonstrated that regional economies were now globally interdependent — a change from 1450.
 
 **SIO — Social Interactions and Organization**
-Economic change drove social change. The Atlantic slave trade caused gender imbalances in West African communities and demographic decline. The demand for plantation labor created new coercive social structures. The integration of indigenous, African, and European populations in the Americas produced entirely new racial social categories (casta system from Topic 4.7). The middle class expanded in Europe as merchant wealth grew.
+Economic change drove social change. The [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] caused gender imbalances in West African communities and demographic decline. The demand for plantation labor created new coercive social structures. The integration of indigenous, African, and European populations in the Americas produced entirely new racial social categories (casta system from Topic 4.7). The middle class expanded in Europe as merchant wealth grew.
 
 **GOV — Governance**
-Mercantilist policies reflect how states used economic control as a tool of governance. Joint-stock companies blurred the line between state and private governance — the VOC could wage war and govern territory. The Thirty Years War and its resolution (Peace of Westphalia, 1648) established the modern sovereign state system. Social unrest (German Peasants' War, Salt Riot) shows the limits of state economic control.
+Mercantilist policies reflect how states used economic control as a tool of governance. [[Concept Notes/Joint-Stock Companies|Joint-stock companies]] blurred the line between state and private governance — the VOC could wage war and govern territory. The Thirty Years War and its resolution (Peace of Westphalia, 1648) established the modern sovereign state system. Social unrest (German Peasants' War, Salt Riot) shows the limits of state economic control.
 
 ## Historical Reasoning: CCOT (Continuity and Change Over Time)
 
@@ -32,7 +32,7 @@ This is the primary skill for Topic 4.8. The AP exam will ask you to evaluate "t
 
 **The strongest argument:** Coercive labor is the defining continuity. Serfdom, slavery, debt peonage, and tribute labor all existed before 1450 and all persisted after 1750. What the period changed was the *scale* and *location* — Atlantic chattel slavery represented a new form, but the underlying logic (elites extracting surplus from unfree workers) was ancient.
 
-**Supporting evidence:** Russian serfdom intensifies; encomienda/hacienda adapt pre-Columbian mit'a; German peasants are still fighting serfdom in 1525; indentured servitude replicates feudal obligation in a new context.
+**Supporting evidence:** Russian serfdom intensifies; [[Concept Notes/Encomienda|encomienda]]/hacienda adapt pre-Columbian mit'a; German peasants are still fighting serfdom in 1525; indentured servitude replicates feudal obligation in a new context.
 
 > [!exam-tip]
 > The AP LEQ for a CCOT prompt requires: (1) a thesis arguing the *extent* of change or continuity, (2) contextualization situating the period historically, (3) specific evidence from multiple categories, (4) a historical reasoning skill applied to the argument. For Topic 4.8, the most effective thesis structure is: "While [continuity X] persisted throughout the period, the [change Y] represented a fundamental transformation because [reason]."

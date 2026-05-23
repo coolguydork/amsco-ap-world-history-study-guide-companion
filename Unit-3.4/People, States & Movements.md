@@ -43,7 +43,7 @@ Quoted at the opening of the chapter: "Foreigners appreciate only military power
 ## Key States & Empires
 
 **Ottoman Empire (c. 1299–1922)**
-The longest-lived of the Gunpowder Empires. Centered in Anatolia (present-day Turkey), it controlled the eastern Mediterranean, North Africa, and southeastern Europe at its height. Key features for 3.4: Janissaries, devshirme, tax farming, the caliphate title, miniature paintings, and the Sunni–Shi'a conflict with the Safavids. See [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|3.1]] and [[Unit-3.2/Empires: Administration Overview|3.2]].
+The longest-lived of the [[Concept Notes/Gunpowder Empires|Gunpowder Empires]]. Centered in Anatolia (present-day Turkey), it controlled the eastern Mediterranean, North Africa, and southeastern Europe at its height. Key features for 3.4: Janissaries, devshirme, tax farming, the caliphate title, miniature paintings, and the Sunni–Shi'a conflict with the Safavids. See [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|3.1]] and [[Unit-3.2/Empires: Administration Overview|3.2]].
 
 **Safavid Empire (1501–1722)**
 Founded by Shah Ismail I; made Shi'a Islam the state religion — a defining choice that set the Safavids apart from (and at war with) the Sunni Ottoman Empire. Key features for 3.4: Ghulams, Qizilbash, "men of the pen" bureaucrats. Declined due to military weakness, theocratic ideological decay, and inability to modernize. See [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|3.1]].

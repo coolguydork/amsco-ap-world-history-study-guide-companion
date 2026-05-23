@@ -32,7 +32,7 @@ The Pax Mongolica was the Silk Roads' third and final golden age. Unified Mongol
 **Topic 2.5 — Cultural Exchange and Diffusion** *(forward-looking)*
 The Mongol Empire facilitated one of history's greatest episodes of cultural exchange. Islamic science moved to China; paper and gunpowder moved westward; Greco-Islamic medical knowledge reached Europe; the Arabic numeral system spread to Western Europe. These transfers shaped the Renaissance and early modern science.
 
-**Topic 3.1 — Gunpowder Empires** *(forward-looking)*
+**Topic 3.1 — [[Concept Notes/Gunpowder Empires|Gunpowder Empires]]** *(forward-looking)*
 The collapse of Mongol power in the mid-14th century created a power vacuum that the gunpowder empires — Ottoman, Safavid, Mughal — partially filled. These new empires inherited Mongol administrative models, trade networks, and military technologies, especially gunpowder weapons the Mongols had helped spread.
 
 ---

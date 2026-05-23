@@ -14,10 +14,10 @@ tags: [apwh, unit-4, topic-4-5, period-2, governance, trade-networks, europe, af
 ## Key People
 
 **Philip II of Spain (r. 1556–1598)**
-Presided over Spain at the height of its imperial power. Managed the largest colonial bureaucracy in the world, spanning the Americas, the Philippines, and parts of Europe. His reign saw maximum Potosí silver extraction and peak mercantilist policy. Also launched the failed Spanish Armada against England (1588), signaling the beginning of Spanish imperial overstretch. (p. 236 context; Summary Card)
+Presided over Spain at the height of its imperial power. Managed the largest colonial bureaucracy in the world, spanning the Americas, the Philippines, and parts of Europe. His reign saw maximum Potosí silver extraction and peak [[Concept Notes/Mercantilism|mercantilist]] policy. Also launched the failed Spanish Armada against England (1588), signaling the beginning of Spanish imperial overstretch. (p. 236 context; Summary Card)
 
 **Bartolomé de las Casas (1484–1566)**
-Spanish Dominican friar and the most prominent advocate for indigenous rights in the early colonial period. His *A Short Account of the Destruction of the Indies* documented Spanish atrocities. His lobbying helped produce the **New Laws of 1542**, which limited — though did not eliminate — the encomienda system. An important figure for historiography questions about bias and source evaluation. (p. 236 context; Summary Card)
+Spanish Dominican friar and the most prominent advocate for indigenous rights in the early colonial period. His *A Short Account of the Destruction of the Indies* documented Spanish atrocities. His lobbying helped produce the **New Laws of 1542**, which limited — though did not eliminate — the [[Concept Notes/Encomienda|encomienda]] system. An important figure for historiography questions about bias and source evaluation. (p. 236 context; Summary Card)
 
 > [!exam-tip]
 > Las Casas is an AP favorite for **sourcing** (POV) practice. His accounts have a clear advocacy purpose — he wanted to end the encomienda — which shapes what he reported and how. Know: Dominican friar, pro-indigenous, New Laws 1542, *Short Account of the Destruction of the Indies*.
@@ -33,10 +33,10 @@ Spanish conquistador who conquered the Aztec Empire 1519–1521. Relevant here f
 ## Key States & Empires
 
 **Spanish Empire**
-The dominant maritime power in the Americas through c. 1650. Extracted silver from Potosí (Bolivia) and Zacatecas (Mexico) on a massive scale; governed through the viceroy/audiencia system. Spain's mercantilist model funneled colonial wealth to the crown and fueled the Price Revolution in Europe. Cultural policy: Catholic conversion, language imposition, destruction of indigenous records. By 1750, creoles increasingly resented Iberian-born administrators monopolizing top positions.
+The dominant maritime power in the Americas through c. 1650. Extracted silver from Potosí (Bolivia) and Zacatecas (Mexico) on a massive scale; governed through the viceroy/audiencia system. Spain's mercantilist model funneled colonial wealth to the crown and fueled the [[Concept Notes/Price Revolution|Price Revolution]] in Europe. Cultural policy: Catholic conversion, language imposition, destruction of indigenous records. By 1750, creoles increasingly resented Iberian-born administrators monopolizing top positions.
 
 **Portuguese Empire**
-Focused on Brazil, the African coast, and Indian Ocean trade routes. Portugal's government funded exploration through direct royal grants rather than joint-stock companies. The Portuguese pioneered the Atlantic slave trade, establishing trading posts along the West African coast and importing enslaved Africans to Brazilian sugar plantations. **Candomblé** developed among Yoruba, Fon, and Bantu peoples enslaved in Brazil.
+Focused on Brazil, the African coast, and Indian Ocean trade routes. Portugal's government funded exploration through direct royal grants rather than joint-stock companies. The Portuguese pioneered the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]], establishing trading posts along the West African coast and importing enslaved Africans to Brazilian sugar plantations. **Candomblé** developed among Yoruba, Fon, and Bantu peoples enslaved in Brazil.
 
 **Dutch Republic (United Provinces)**
 The rising commercial power of the late 16th–17th centuries. Dutch advantages: faster and lighter ships, early stock exchange (1602), Bank of Amsterdam (1609), highest standard of living in Europe. The **VOC** dominated spice trade in Southeast Asia, displacing the Portuguese after establishing Batavia (Jakarta) c. 1619–1620. The Dutch model — private capital driving empire, not royal treasury — became the template for later British commercial imperialism.
@@ -52,7 +52,7 @@ France established colonies in Canada (New France) and the Caribbean. Like Engla
 ## Key Movements & Institutions
 
 **Dutch East India Company (VOC)**
-*Vereenigde Oost-Indische Compagnie* — founded 1602. The world's first major joint-stock company. Issued shares to the public, offered limited liability, and generated enormous profits from spice trade in Southeast Asia. Its charter (quoted in AMSCO p. 232) allowed any Dutch resident to invest. Established Batavia as its Asian headquarters; displaced Portuguese dominance in the Spice Islands. Set the institutional template for British imperialism.
+*Vereenigde Oost-Indische Compagnie* — founded 1602. The world's first major [[Concept Notes/Joint-Stock Companies|joint-stock company]]. Issued shares to the public, offered limited liability, and generated enormous profits from spice trade in Southeast Asia. Its charter (quoted in AMSCO p. 232) allowed any Dutch resident to invest. Established Batavia as its Asian headquarters; displaced Portuguese dominance in the Spice Islands. Set the institutional template for British imperialism.
 
 **East India Company (British EIC)**
 Founded 1600 by Queen Elizabeth I's royal charter. A joint-stock company that began with Asian spice and textile trade, eventually evolving into the governing authority over much of the Indian subcontinent. In this period (1450–1750) it is in its commercial phase.

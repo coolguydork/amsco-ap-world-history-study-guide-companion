@@ -59,7 +59,7 @@ All three major civilizations had clear social hierarchies. The **Aztec hierarch
 
 **Women's roles:** More diverse than stereotypes suggest. Most Aztec women worked in the home; women wove the tribute cloth that was the empire's economic lifeblood. Some Aztec women were priestesses, midwives, healers, or merchants. Noblewomen served as scribes to female royalty. Among the Maya, **female priests** could conduct religious ceremonies. The Mississippian **matrilineal system** gave women structural social power not found in most Eurasian societies.
 
-**Coercive labor** is the defining SIO feature: both mit'a (Inca) and tribute (Aztec) were systems for extracting value from conquered or subject peoples. This connects forward to colonial-era labor systems (hacienda, encomienda, mit'a continued under Spanish rule) and backward to other coercive systems (serfdom, slavery) covered elsewhere in the course.
+**Coercive labor** is the defining SIO feature: both mit'a (Inca) and tribute (Aztec) were systems for extracting value from conquered or subject peoples. This connects forward to colonial-era labor systems (hacienda, [[Concept Notes/Encomienda|encomienda]], mit'a continued under Spanish rule) and backward to other coercive systems (serfdom, slavery) covered elsewhere in the course.
 
 ---
 

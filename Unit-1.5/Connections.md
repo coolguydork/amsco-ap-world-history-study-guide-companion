@@ -27,7 +27,7 @@ Topic 1.5 introduces Mali; Topic 2.4 develops it fully — the growth of **Timbu
 ### Topic 6.2 — European Colonization of Africa
 The diverse and often decentralized political structures documented in Topic 1.5 are part of what European colonial powers exploited in the 19th century. The absence of unified African resistance — rooted in the kin-based, regional nature of African political organization — enabled rapid colonial partition (the "Scramble for Africa" after 1880).
 
-### Topic 6.6 — The Atlantic Slave Trade
+### Topic 6.6 — The [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]]
 The **Indian Ocean slave trade** documented in Topic 1.5 (the *zanj* trade to the Middle East) is the historical precursor to the Atlantic slave trade. Both exploited existing African slave-trading networks and practices — but the Atlantic trade was vastly larger in scale and more racially codified. West African states were deeply implicated in supplying the Atlantic trade, often capturing and selling enslaved people from rival communities. Understanding pre-existing African slavery is essential context for understanding the Atlantic trade's scale and operation.
 
 ---

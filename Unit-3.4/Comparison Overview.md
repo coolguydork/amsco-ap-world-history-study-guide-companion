@@ -46,7 +46,7 @@ Strong militaries did not prevent wars among land empires. Key conflicts:
 - **Morocco vs. Songhai (1591)**: Morocco invaded, sacked the capital at Gao, and ended the Songhai Empire — though Morocco could not hold all the territory it conquered.
 
 > [!tip]
-> The Ottoman–Safavid conflict is a classic AP comparison: both were Muslim gunpowder empires, but the Sunni–Shi'a split made them deadly rivals. This is a great example of **religion deepening political conflict** rather than uniting empires.
+> The Ottoman–Safavid conflict is a classic AP comparison: both were Muslim [[Concept Notes/Gunpowder Empires|gunpowder empires]], but the Sunni–Shi'a split made them deadly rivals. This is a great example of **religion deepening political conflict** rather than uniting empires.
 
 ---
 

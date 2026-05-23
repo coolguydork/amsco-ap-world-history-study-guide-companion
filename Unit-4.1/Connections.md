@@ -33,7 +33,7 @@ The technologies of Topic 4.1 are the direct preconditions for the voyages descr
 The technologies of 4.1 enabled the transatlantic contact that produced the Columbian Exchange — the transfer of crops, animals, diseases, and people between Eastern and Western hemispheres that fundamentally altered global demographics, agriculture, and ecology.
 
 **[[Unit-4.4/Maritime Empires Link Regions Overview|Unit 4.4 — Maritime Empires Link Regions]]**
-The caravel, gunpowder weapons, and joint-stock company model (all introduced in 4.1) are the foundational tools of maritime empire-building described in 4.4. The VOC and EIC (introduced in 4.1's timeline) become the instruments of empire in 4.4 and 4.5.
+The caravel, gunpowder weapons, and [[Concept Notes/Joint-Stock Companies|joint-stock company]] model (all introduced in 4.1) are the foundational tools of maritime empire-building described in 4.4. The VOC and EIC (introduced in 4.1's timeline) become the instruments of empire in 4.4 and 4.5.
 
 ## Compare With
 
@@ -44,7 +44,7 @@ This is a classic AP comparison prompt. Both Chinese and European powers had nav
 
 **Technology diffusion through cross-cultural interaction** — The central argument of 4.1's Learning Objective. Technologies from China, the Islamic world, and classical Greece combined in European hands through trade networks, Al-Andalus, and scholarly exchange. This is the model to apply in FRQ evidence: *name the technology, name its origin, name the mechanism of diffusion*.
 
-**State sponsorship of exploration** — Portugal and Spain demonstrate how state competition and mercantilist logic drove technology investment. This thread continues through 4.2 (state-sponsored voyages), 4.4 (trading post empires as state projects), and 4.5 (companies as state instruments).
+**State sponsorship of exploration** — Portugal and Spain demonstrate how state competition and [[Concept Notes/Mercantilism|mercantilist]] logic drove technology investment. This thread continues through 4.2 (state-sponsored voyages), 4.4 (trading post empires as state projects), and 4.5 (companies as state instruments).
 
 **Capitalism and new financial instruments** — Joint-stock companies (EIC, VOC) represent an early form of capital pooling for commercial risk. This connects forward to early modern capitalism and the economic structures that define Period 4.
 

@@ -30,7 +30,7 @@ Merchants and conquerors moved crops into new regions, transforming land use and
 
 **Bananas** — Indonesian seafarers introduced bananas to sub-Saharan Africa during Indian Ocean voyages. Rich in nutrition, bananas allowed Bantu-speaking peoples to migrate into regions where yams — their traditional staple — could not grow, supporting population growth across equatorial Africa. Indonesians also settled Madagascar. (AMSCO p. 122)
 
-**Sugar, cotton, and citrus** — As caliphs expanded the Dar al-Islam, they spread cultivation of these crops across the Islamic world. The markets of Samarkand distributed citrus and rice products from Southwest Asia into Europe. Demand for sugar would later fuel the Atlantic slave trade of the 1500s. (AMSCO p. 122)
+**Sugar, cotton, and citrus** — As caliphs expanded the Dar al-Islam, they spread cultivation of these crops across the Islamic world. The markets of Samarkand distributed citrus and rice products from Southwest Asia into Europe. Demand for sugar would later fuel the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] of the 1500s. (AMSCO p. 122)
 
 ## Environmental Degradation
 

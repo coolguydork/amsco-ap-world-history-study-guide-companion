@@ -46,7 +46,7 @@ Italian poet and father of the Italian literary language. His *Divine Comedy* �
 English poet who wrote *The Canterbury Tales* in Middle English vernacular, portraying a cross-section of medieval English society — including satirical portraits of monks and nuns — with wit and realism. Like Dante, his choice of vernacular over Latin reflected growing confidence in regional languages and cultures. (AMSCO p. 61)
 
 **Johannes Gutenberg (c. 1400–1468)**
-German inventor of the movable-type printing press (c. 1450). His invention allowed manuscripts to be mass-produced at affordable cost, rapidly spreading literacy and ideas across Europe. The printing press was a precondition for both the Renaissance and the Protestant Reformation. (AMSCO p. 60)
+German inventor of the movable-type printing press (c. 1450). His invention allowed manuscripts to be mass-produced at affordable cost, rapidly spreading literacy and ideas across Europe. The printing press was a precondition for both the Renaissance and the [[Concept Notes/Protestant Reformation|Protestant Reformation]]. (AMSCO p. 60)
 
 **Ivan the Great (r. 1462–1505)**
 Moscow-based Russian ruler who threw off Mongol rule in the late 15th century and established the foundations of the modern Russian state. His reign marks the transition from Mongol-dominated Kievan Rus to an independent, centralized Russian principality. (AMSCO p. 61)

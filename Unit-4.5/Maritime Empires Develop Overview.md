@@ -14,7 +14,7 @@ tags: [apwh, unit-4, topic-4-5, period-2, trade-networks, economic-systems, gove
 **Printed Pages:** 232–242 (AMSCO)
 
 > [!exam-tip]
-> Three words capture this topic on the AP exam: **silver, sugar, and slavery**. These were the engines of maritime empire — know how each powered mercantilism and what each cost indigenous and African peoples.
+> Three words capture this topic on the AP exam: **silver, sugar, and slavery**. These were the engines of maritime empire — know how each powered [[Concept Notes/Mercantilism|mercantilism]] and what each cost indigenous and African peoples.
 
 ---
 
@@ -39,9 +39,9 @@ The shift to a gold-and-silver trade economy is called the **Commercial Revoluti
 3. Population growth
 4. Inflation — partly from population pressure, partly from increased gold and silver in circulation
 
-The high inflation of the 16th–early 17th century is the **Price Revolution**, caused significantly by American silver flooding European markets.
+The high inflation of the 16th–early 17th century is the **[[Concept Notes/Price Revolution|Price Revolution]]**, caused significantly by American silver flooding European markets.
 
-### Joint-Stock Companies
+### [[Concept Notes/Joint-Stock Companies|Joint-Stock Companies]]
 
 The Dutch, English, and French created **joint-stock companies** — corporations in which investors bought shares and split both profits and risks. **Limited liability** meant an investor's loss was capped at their initial investment. This made empire-building commercially viable for the middle class.
 
@@ -70,7 +70,7 @@ European rulers chartered **monopolies** — exclusive trading rights granted to
 
 Meanwhile, traditional regional markets in Afro-Eurasia continued. Improved shipping increased volume: wool and linen from Western Europe, cotton from India, silk from China all circulated through globally connected port cities.
 
-### Effects of the Atlantic Slave Trade on Africa
+### Effects of the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] on Africa
 
 The slave trade devastated West African societies (AMSCO p. 235–236):
 

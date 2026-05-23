@@ -65,4 +65,4 @@ The Indian Ocean trade was the primary vehicle by which Islam reached South and 
 Monsoon winds forced merchants to wait months in foreign ports, accelerating cultural exchange and intermarriage. Muslim, Chinese, Sogdian, Jewish, and Malay merchant diasporas formed across the basin, each occupying commercial niches while blending with local cultures. See [[Unit-2.3/Key Terms & Concepts|Key Terms & Concepts]] for the diaspora table.
 
 **Indian Ocean slave trade**
-A long-running forced migration from East Africa to the Middle East, India, and North Africa — predating the Atlantic slave trade by many centuries and peaking in the 18th–19th centuries. See [[Unit-1.5/People, States & Movements|People, States & Movements]] for earlier East African context.
+A long-running forced migration from East Africa to the Middle East, India, and North Africa — predating the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] by many centuries and peaking in the 18th–19th centuries. See [[Unit-1.5/People, States & Movements|People, States & Movements]] for earlier East African context.

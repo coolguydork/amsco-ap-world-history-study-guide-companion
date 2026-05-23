@@ -12,7 +12,7 @@ tags: [apwh, unit-3, topic-3-3, period-2, religion, reformation, governance]
 ## Key People
 
 **Martin Luther (1483–1546)**
-German Augustinian monk whose 95 Theses (1517) sparked the Protestant Reformation. He challenged indulgences, simony, and the Church's role as mediator of salvation (*sola fide*). Excommunicated by Pope Leo X in 1521, he found protection among German princes who used his movement for political gain. Luther promoted women's literacy and Bible reading in the vernacular, but he did not support the German Peasants' Revolt — he was a religious, not a social, revolutionary. (AMSCO p. 168)
+German Augustinian monk whose 95 Theses (1517) sparked the [[Concept Notes/Protestant Reformation|Protestant Reformation]]. He challenged indulgences, simony, and the Church's role as mediator of salvation (*sola fide*). Excommunicated by Pope Leo X in 1521, he found protection among German princes who used his movement for political gain. Luther promoted women's literacy and Bible reading in the vernacular, but he did not support the German Peasants' Revolt — he was a religious, not a social, revolutionary. (AMSCO p. 168)
 
 **John Calvin (1509–1564)**
 French theologian who broke with Rome around 1530 and developed the doctrine of predestination. Established a strict Calvinist community in Geneva that served as a model for Reformed churches across Europe. His theology motivated the Huguenots (France), the Puritans (England/America), and the Reformed Church of Scotland. His "Protestant work ethic" concept was later analyzed by Max Weber as a driver of capitalism. (AMSCO p. 168)

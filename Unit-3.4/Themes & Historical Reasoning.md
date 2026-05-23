@@ -42,7 +42,7 @@ The AP exam tests Comparison through questions like:
 
 ---
 
-## Historical Perspectives: Why Did the Gunpowder Empires Rise and Decline?
+## Historical Perspectives: Why Did the [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] Rise and Decline?
 
 This section synthesizes the unit review content from AMSCO p. 182. AP exam free-response questions sometimes ask you to evaluate one of these perspectives.
 

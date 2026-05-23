@@ -12,7 +12,7 @@ How were social categories, roles, and practices maintained or changed from 1450
 
 ## Overview
 
-Between 1450 and 1750, the expansion of gunpowder empires, European colonialism, and global trade networks dramatically reshaped social hierarchies across the world. Societies did not simply inherit their old class structures — they adapted them, imposed new ones, or constructed entirely new systems of categorization based on race, religion, ethnicity, and military power.
+Between 1450 and 1750, the expansion of [[Concept Notes/Gunpowder Empires|gunpowder empires]], European colonialism, and global trade networks dramatically reshaped social hierarchies across the world. Societies did not simply inherit their old class structures — they adapted them, imposed new ones, or constructed entirely new systems of categorization based on race, religion, ethnicity, and military power.
 
 The period's key theme is **transformation under pressure**: rulers used social hierarchies to maintain control (granting land, enforcing religious conformity, assigning caste), while marginalized groups — enslaved Africans, indigenous peoples, religious minorities, serfs — struggled within systems designed to limit their mobility.
 

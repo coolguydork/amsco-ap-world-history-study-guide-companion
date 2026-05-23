@@ -55,7 +55,7 @@ A kingdom on India's northwest coast that became the go-between for East-West tr
 System in which weaker states or peoples offer gifts, goods, and submission to a more powerful ruler in acknowledgment of subordination. Zheng He's voyages were primarily tribute-collection missions — the Ming emperor sought recognition of Chinese supremacy from Indian Ocean rulers — not commercial expeditions in the modern sense. Compare with [[Concept Notes/Tribute System|Tribute System]].
 
 **Indian Ocean slave trade**
-A long-running trade in enslaved people from East Africa, predating the Atlantic slave trade by many centuries. Enslaved Africans were transported by land and sea to North Africa, the Middle East, and India. Unlike Atlantic slavery, many worked in urban settings (seaports, households, as soldiers or sailors) and, within Islamic communities, held certain legal rights. African cultural traces remain in Oman and India today (AMSCO p. 96).
+A long-running trade in enslaved people from East Africa, predating the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] by many centuries. Enslaved Africans were transported by land and sea to North Africa, the Middle East, and India. Unlike Atlantic slavery, many worked in urban settings (seaports, households, as soldiers or sailors) and, within Islamic communities, held certain legal rights. African cultural traces remain in Oman and India today (AMSCO p. 96).
 
 > [!exam-tip]
 > The AP exam expects you to **distinguish** the Indian Ocean slave trade from the later Atlantic slave trade. Key differences: Indian Ocean trade predates 1500; enslaved people came from **East** Africa (not West/Central); labor roles were more varied (sailors, soldiers, servants); Islamic legal frameworks granted certain rights.

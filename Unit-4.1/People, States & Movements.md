@@ -50,7 +50,7 @@ By the early 17th century, the Dutch displaced the Portuguese as the dominant Eu
 ## Key Institutions
 
 **English East India Company (EIC) — founded 1600**
-A joint-stock company that pooled investor capital to fund trade with Asia. The EIC model distributed risk and allowed voyages that no single merchant could afford. It eventually became a governing power in South Asia. (Clean Key Dates)
+A [[Concept Notes/Joint-Stock Companies|joint-stock company]] that pooled investor capital to fund trade with Asia. The EIC model distributed risk and allowed voyages that no single merchant could afford. It eventually became a governing power in South Asia. (Clean Key Dates)
 
 **Dutch East India Company (VOC) — founded 1602**
 The most powerful joint-stock trading company of the 17th century. The VOC had the authority to negotiate treaties, mint coins, and wage war — essentially functioning as a state within the Indian Ocean trade network. It displaced Portugal as the dominant European power in Asian trade. (Clean Key Dates)

@@ -27,7 +27,7 @@ Topic 4.8 explicitly connects to Unit 2's treatment of pre-1450 exchange network
 ## Leads To
 
 **Topic 5.3 — Industrialization**
-The joint-stock companies, accumulated merchant capital, and mercantile-to-capitalist transition of 1450–1750 are the direct preconditions for the Industrial Revolution. Britain's commercial wealth — built through Atlantic trade — financed the factories and infrastructure of industrialization. **(Topic 5.3 — not yet built)**
+The [[Concept Notes/Joint-Stock Companies|joint-stock companies]], accumulated merchant capital, and mercantile-to-capitalist transition of 1450–1750 are the direct preconditions for the Industrial Revolution. Britain's commercial wealth — built through Atlantic trade — financed the factories and infrastructure of industrialization. **(Topic 5.3 — not yet built)**
 
 ## Compare With
 
@@ -37,14 +37,14 @@ How did the Indian Ocean trade of 1200–1450 compare to the Atlantic System of 
 
 ## AP Threads Through This Topic
 
-**Mercantilism to Capitalism Transition**
+**[[Concept Notes/Mercantilism|Mercantilism]] to Capitalism Transition**
 This is one of the great economic transformations in world history. The AP wants you to understand that in 1450, states controlled trade (mercantilism); by 1750, private investors operating through joint-stock companies were beginning to shape the global economy in ways that states could not fully control. The VOC is the hinge point.
 
 **Global Trade Circuits**
 Silver is the connective tissue of the 1450–1750 global economy. American silver flows west to Europe (financing wars and expansion), east across the Pacific to China (where it was in insatiable demand), and south to the Ottoman and Mughal empires (through Levantine trade). The silver trade circuit is the first truly global commodity network.
 
 **Coercive Labor Continuity**
-Serfdom, slavery, encomienda, hacienda, mit'a, and indentured servitude all represent the same underlying logic: elites need unfree or semi-free labor to extract surplus. The specific forms change by region and era; the logic persists. This is the period's most important continuity thread.
+Serfdom, slavery, [[Concept Notes/Encomienda|encomienda]], hacienda, mit'a, and indentured servitude all represent the same underlying logic: elites need unfree or semi-free labor to extract surplus. The specific forms change by region and era; the logic persists. This is the period's most important continuity thread.
 
 ## Wikilinks Quick Reference
 

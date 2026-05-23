@@ -21,7 +21,7 @@ Between 1750 and 1900, Enlightenment ideas about natural rights, popular soverei
 
 ## The American Revolution (1776–1783)
 
-The American colonists combined Enlightenment ideology with practical economic and political grievances. Enlightenment philosophy — especially John Locke's ideas about natural rights and government by consent — gave the revolution its intellectual foundation, while opposition to British mercantilism and taxation without representation supplied the economic fuel. The **Declaration of Independence** (July 4, 1776), drafted by Thomas Jefferson, declared that all men possessed "unalienable rights" to life, liberty, and the pursuit of happiness. With crucial military aid from France, the colonists won independence in 1783.
+The American colonists combined Enlightenment ideology with practical economic and political grievances. Enlightenment philosophy — especially John Locke's ideas about natural rights and government by consent — gave the revolution its intellectual foundation, while opposition to British [[Concept Notes/Mercantilism|mercantilism]] and taxation without representation supplied the economic fuel. The **Declaration of Independence** (July 4, 1776), drafted by Thomas Jefferson, declared that all men possessed "unalienable rights" to life, liberty, and the pursuit of happiness. With crucial military aid from France, the colonists won independence in 1783.
 
 > [!tip]
 > The American Revolution was the first successful colonial revolution against a European power, but it was limited: it preserved slavery and excluded women from political rights. Connect to 5.1 Enlightenment ideas and forward to 8.5 decolonization movements.

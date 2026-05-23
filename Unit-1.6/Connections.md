@@ -22,7 +22,7 @@ The Eastern Roman (Byzantine) Empire preserved classical Greek learning and Orth
 **Topic 4.1 — European Exploration**
 The Crusades reoriented European ambitions outward. Marco Polo's accounts of Asian wealth fueled desire for direct trade routes. When the Ottoman Empire (after 1453) controlled overland routes to Asia, European powers — especially Portugal and Spain — sought sea routes around Africa and across the Atlantic. Without the Crusades and the commercial contacts they created, the Age of Exploration is hard to explain.
 
-**Topic 4.6 — Protestant Reformation**
+**Topic 4.6 — [[Concept Notes/Protestant Reformation|Protestant Reformation]]**
 The Church corruption that built up during the High Middle Ages — wealthy monasteries, politically ambitious clergy, the sale of indulgences — fed the Reformation. Martin Luther (1517) attacked exactly the practices that AMSCO flags as problems already visible in the 13th–14th centuries. The printing press (c. 1450) made Luther's ideas spread with unprecedented speed.
 
 **Topic 5.1 — Renaissance and Enlightenment**

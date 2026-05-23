@@ -33,10 +33,10 @@ Featured in the Busbecq letters (Topic 4.8's DBQ Document 7). The Ottoman-Safavi
 ## Key States & Empires
 
 **Dutch Republic / Netherlands**
-The Netherlands was the dominant global commercial power of the 17th century. The Dutch East India Company (VOC, founded 1602) was the world's first multinational joint-stock company, with the power to wage war, negotiate treaties, and govern territory. Dutch commercial innovation — from the VOC to the Amsterdam stock exchange — represents the emergence of capitalist financial structures. The Netherlands was also notably tolerant of religious minorities including Jews.
+The Netherlands was the dominant global commercial power of the 17th century. The Dutch East India Company (VOC, founded 1602) was the world's first multinational [[Concept Notes/Joint-Stock Companies|joint-stock company]], with the power to wage war, negotiate treaties, and govern territory. Dutch commercial innovation — from the VOC to the Amsterdam stock exchange — represents the emergence of capitalist financial structures. The Netherlands was also notably tolerant of religious minorities including Jews.
 
 **Spanish Empire (Americas)**
-Created the largest European colonial empire in this period. Spain's extraction of American silver (Potosí, Zacatecas) drove global trade and the Price Revolution. Spain's mercantilist policies, encomienda system, and casta hierarchy are the defining example of colonial economic and social structures. The letter from Don Alonzo to Morgan and the debate over the Black Legend both reflect the contested legacy of Spanish imperial power.
+Created the largest European colonial empire in this period. Spain's extraction of American silver (Potosí, Zacatecas) drove global trade and the Price Revolution. Spain's [[Concept Notes/Mercantilism|mercantilist]] policies, encomienda system, and casta hierarchy are the defining example of colonial economic and social structures. The letter from Don Alonzo to Morgan and the debate over the Black Legend both reflect the contested legacy of Spanish imperial power.
 
 **Ottoman Empire**
 The Ottoman Empire's naval rivalry with Portugal in the Indian Ocean (illustrated by the Seydi-Ali document) shows that European maritime expansion was contested — not a simple takeover. The Ottoman-Safavid rivalry (Busbecq letters) shows intra-Muslim great-power competition operating simultaneously.
@@ -47,7 +47,7 @@ The first major European maritime empire, establishing footholds in Africa, Asia
 ## Key Movements
 
 **German Peasants' War / Great Peasants' Revolt (1524–1525)**
-A mass uprising of German peasants protesting serfdom and feudal obligations, articulated in the Twelve Articles of the Swabian Peasants. The Third Article demanded freedom from serfdom on biblical grounds; others sought relief from unjust taxation and arbitrary law. The revolt was crushed. Its relevance to Topic 4.8: economic disruptions from the early capitalist transition and the Price Revolution increased pressure on peasants, contributing to social unrest. (AMSCO p. 270)
+A mass uprising of German peasants protesting serfdom and feudal obligations, articulated in the Twelve Articles of the Swabian Peasants. The Third Article demanded freedom from serfdom on biblical grounds; others sought relief from unjust taxation and arbitrary law. The revolt was crushed. Its relevance to Topic 4.8: economic disruptions from the early capitalist transition and the [[Concept Notes/Price Revolution|Price Revolution]] increased pressure on peasants, contributing to social unrest. (AMSCO p. 270)
 
 **Salt Riot in Moscow (1648)**
 Russian artisans and serfs rioted against Czar Alexei I's universal salt tax. Like the German Peasants' War, this illustrates how economic policy — especially taxation of necessities — could generate social upheaval among lower-class groups who bore the heaviest burdens of emerging commercial economies. (AMSCO p. 272)

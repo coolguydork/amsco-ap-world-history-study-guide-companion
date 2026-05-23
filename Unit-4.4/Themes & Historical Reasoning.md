@@ -13,10 +13,10 @@ tags: [apwh, unit-4, topic-4-4, period-2, governance, economic-systems, social-i
 
 Topic 4.4 is fundamentally about how European maritime states built empires between 1450 and 1750. The AP exam expects students to explain the **process** of expansion — not just list who conquered what, but identify the mechanisms:
 
-European states used a combination of **military technology** (superior naval firepower), **political maneuvering** (treaties with local rulers, exploitation of existing rivalries like Aztec vs. subject peoples and Mughal Hindu-Muslim tensions), **commercial institutions** (joint-stock companies like the British East India Company), and **religious justification** (Christianization as the stated rationale for encomienda) to build and administer empires.
+European states used a combination of **military technology** (superior naval firepower), **political maneuvering** (treaties with local rulers, exploitation of existing rivalries like Aztec vs. subject peoples and Mughal Hindu-Muslim tensions), **commercial institutions** ([[Concept Notes/Joint-Stock Companies|joint-stock companies]] like the British East India Company), and **religious justification** (Christianization as the stated rationale for encomienda) to build and administer empires.
 
 **Administration mechanisms:**
-- Spanish Americas: viceroyalties governed by viceroys directly answerable to the crown; encomienda granted local labor authority to conquistadores
+- Spanish Americas: viceroyalties governed by viceroys directly answerable to the crown; [[Concept Notes/Encomienda|encomienda]] granted local labor authority to conquistadores
 - Portuguese empire: network of armed coastal trading posts rather than deep territorial control
 - British India: EIC as a commercial-turned-governing entity, using sepoys and local treaties
 
@@ -35,9 +35,9 @@ The period 1450–1750 saw significant **continuity and change** in economic sys
 - Coerced agricultural labor (serfdom, manorial systems) existed in Europe; the encomienda was modeled partly on European manorial logic
 
 **Changes:**
-- **Scale:** The Atlantic slave trade vastly exceeded prior African slave trades in scale and systematization
+- **Scale:** The [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] vastly exceeded prior African slave trades in scale and systematization
 - **Racial basis:** Chattel slavery in the Americas became racially defined and hereditary in a way earlier slavery had not
-- **Mercantilism** replaced medieval guild-based economic thinking as the dominant framework for state economic policy
+- **[[Concept Notes/Mercantilism|Mercantilism]]** replaced medieval guild-based economic thinking as the dominant framework for state economic policy
 - **Silver** from the Americas fueled global trade on an unprecedented scale — connecting the Americas, Europe, and China in a single commercial system
 - **Joint-stock companies** (EIC, Dutch VOC) represent a new form of commercial institution combining private capital with state authorization
 

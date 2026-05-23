@@ -12,27 +12,27 @@ tags: [apwh, unit-4, topic-4-8, period-2, ccot, economic-systems, vocabulary]
 **Atlantic System**
 The transoceanic trading network connecting Western Europe, West Africa, and the Americas that emerged after 1492. Its key flows were: enslaved Africans to the Americas; American raw materials (sugar, tobacco, silver, cotton) to Europe; European manufactured goods to Africa and the Americas. The Atlantic System replaced the Mediterranean as the world's economic core. (AMSCO p. 262)
 
-**Mercantilism**
+**[[Concept Notes/Mercantilism|Mercantilism]]**
 The dominant European economic policy of 1450–1750: states controlled trade to maximize exports over imports, accumulate gold and silver, and generate state revenue. Colonies were valued primarily as sources of raw materials and captive markets for manufactured goods. Mercantilist thinking shaped colonialism — colonies existed for the benefit of the mother country, not themselves. (AMSCO p. 263)
 
 **Capitalism**
-An economic system in which private individuals invest capital to generate profit, with markets (rather than states) allocating resources. Capitalism began to emerge in this period as an alternative to mercantilism, driven by joint-stock companies and expanding merchant wealth. By 1750 it was not yet dominant — that comes in Topic 5.3 with the Industrial Revolution. (AMSCO p. 263)
+An economic system in which private individuals invest capital to generate profit, with markets (rather than states) allocating resources. Capitalism began to emerge in this period as an alternative to mercantilism, driven by [[Concept Notes/Joint-Stock Companies|joint-stock companies]] and expanding merchant wealth. By 1750 it was not yet dominant — that comes in Topic 5.3 with the Industrial Revolution. (AMSCO p. 263)
 
 **Joint-stock company (chartered company)**
 A business organization in which multiple investors pool their capital and share the risks and profits of a venture. The Dutch East India Company (VOC, 1602) and the English East India Company (EIC, 1600) were the most powerful examples. Joint-stock companies allowed private citizens to fund empire-building at scale, effectively privatizing parts of European expansion. (AMSCO p. 263)
 
-**Price Revolution**
+**[[Concept Notes/Price Revolution|Price Revolution]]**
 The sustained inflation across Europe (roughly 1500–1650) caused by the massive influx of American silver into the global economy. As the money supply grew faster than the production of goods, prices rose — sometimes dramatically. The Price Revolution disrupted traditional economic relationships and contributed to social unrest. (AMSCO p. 263)
 
 **Columbian Exchange**
-The biological exchange of crops, animals, people, and diseases between the Eastern and Western Hemispheres that began with Columbus's first voyage (1492). Long-term consequences included population collapse in the Americas (disease), population growth in Afro-Eurasia (new crops), and the Atlantic slave trade (demand for labor to replace lost indigenous workers). See [[Unit-4.3/Columbian Exchange Overview|Columbian Exchange Overview]]. (AMSCO p. 262)
+The biological exchange of crops, animals, people, and diseases between the Eastern and Western Hemispheres that began with Columbus's first voyage (1492). Long-term consequences included population collapse in the Americas (disease), population growth in Afro-Eurasia (new crops), and the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] (demand for labor to replace lost indigenous workers). See [[Unit-4.3/Columbian Exchange Overview|Columbian Exchange Overview]]. (AMSCO p. 262)
 
 ## Labor Systems
 
 **Indentured servitude**
 A labor contract in which a worker agreed to serve an employer for a fixed period (typically 4–7 years) in exchange for passage to the Americas. Many early European settlers arrived as indentured servants. After completing their contracts, they were legally free. Indentured servitude eventually declined as chattel slavery became cheaper and more controllable. (AMSCO p. 264)
 
-**Encomienda**
+**[[Concept Notes/Encomienda|Encomienda]]**
 A Spanish colonial labor system in which the Crown granted a colonist (encomendero) the right to demand labor and tribute from a specified indigenous community. In return, the encomendero was supposed to provide Christian instruction. In practice, encomienda was often brutal forced labor. (AMSCO p. 264)
 
 **Hacienda**

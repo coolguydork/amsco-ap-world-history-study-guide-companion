@@ -7,11 +7,11 @@ tags: [apwh, unit-4, topic-4-2, period-2, exploration, mercantilism, maritime, t
 
 # Key Terms & Concepts — Topic 4.2
 
-**Mercantilism**
+**[[Concept Notes/Mercantilism|Mercantilism]]**
 The dominant economic theory of early modern European states: a nation's wealth was measured by its stockpile of gold and silver. Governments set policies to maximize precious metal inflows (by exporting goods) and minimize outflows (by restricting imports). Mercantilism made state sponsorship of exploration rational — finding new sources of silver and gold was a national security priority. (AMSCO p. 200)
 
 > [!tip]
-> Mercantilism explains *why* states paid for exploration. It also explains later policies like the Navigation Acts (England) and encomienda system (Spain) — all designed to channel wealth back to the home country.
+> Mercantilism explains *why* states paid for exploration. It also explains later policies like the Navigation Acts (England) and [[Concept Notes/Encomienda|encomienda]] system (Spain) — all designed to channel wealth back to the home country.
 
 **Trading Post Empire**
 Portugal's model of global commercial control through a network of fortified coastal outposts rather than territorial conquest. Key forts at Hormuz (1507), Goa (1510), and Malacca (1511) gave Portugal choke-point control over Indian Ocean and Southeast Asian spice routes. Ships trading between these posts were required to buy Portuguese licenses. (AMSCO p. 201)

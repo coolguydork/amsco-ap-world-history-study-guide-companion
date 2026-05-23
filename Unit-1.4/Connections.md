@@ -55,6 +55,6 @@ Inca mit'a and European feudal serfdom are both **coercive labor systems** in wh
 
 - **State-building under diverse constraints** — How do civilizations build complexity without iron, wheel, or horses? The Americas answer this question directly.
 - **Agricultural innovation** — Chinampas, terrace farming, waru waru: all examples of adapting agriculture to extreme environments.
-- **Coercive labor systems** — Mit'a (Inca), tribute (Aztec) — connect forward to colonial encomienda/mit'a, backward to other coercive systems.
+- **Coercive labor systems** — Mit'a (Inca), tribute (Aztec) — connect forward to colonial [[Concept Notes/Encomienda|encomienda]]/mit'a, backward to other coercive systems.
 - **Religion and political legitimacy** — Divine rulers across all three major civilizations; human sacrifice as a state institution.
 - **Oral tradition and non-text record-keeping** — Quipu without writing; connects to African griot tradition.

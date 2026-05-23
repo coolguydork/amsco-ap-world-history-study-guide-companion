@@ -58,7 +58,7 @@ Originally invented in China, improved by the Mongols into offensive weapons, an
 **Prince Henry the Navigator (Portugal, 1394–1460)**
 Portuguese prince who bankrolled expeditions down Africa's Atlantic coast toward the Cape of Good Hope. Never sailed far out to sea himself, but his court at Sagres synthesized knowledge from Greek, Islamic, and Asian navigational traditions. His patronage established Portugal's early lead in maritime exploration. (AMSCO p. 192)
 
-**Joint-stock companies**
+**[[Concept Notes/Joint-Stock Companies|Joint-stock companies]]**
 Business organizations in which investors pool capital and share profits and risks proportionally. Critical for funding expensive, high-risk long-distance trade voyages. The English East India Company (EIC, founded 1600) and the Dutch East India Company (VOC, founded 1602) were the most powerful, effectively acting as arms of state power in the Indian Ocean. (Clean Key Dates)
 
 **Al-Andalus**

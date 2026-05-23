@@ -15,11 +15,11 @@ tags: [apwh, unit-4, topic-4-5, period-2, economic-systems, governance, cultural
 
 ### ECN — Economic Systems
 
-Topic 4.5 is centrally about **how maritime empires generated and controlled wealth**. The key economic framework is **mercantilism**: colonies exist to enrich the mother country through extraction of precious metals and raw materials, while serving as captive markets for finished goods.
+Topic 4.5 is centrally about **how maritime empires generated and controlled wealth**. The key economic framework is **[[Concept Notes/Mercantilism|mercantilism]]**: colonies exist to enrich the mother country through extraction of precious metals and raw materials, while serving as captive markets for finished goods.
 
-The **Commercial Revolution** transformed European and global economies: joint-stock companies enabled middle-class investment in empire; limited liability made risk manageable; the Price Revolution reshaped purchasing power across Eurasia; and the triangular trade built an integrated Atlantic economy.
+The **Commercial Revolution** transformed European and global economies: joint-stock companies enabled middle-class investment in empire; limited liability made risk manageable; the [[Concept Notes/Price Revolution|Price Revolution]] reshaped purchasing power across Eurasia; and the triangular trade built an integrated Atlantic economy.
 
-**Change:** The scale, speed, and mechanisms of trade changed dramatically — joint-stock companies, stock exchanges, global silver circulation were all new in this period. The triangular trade created entirely new commodity flows (sugar, rum, enslaved people) that had no prior equivalent.
+**Change:** The scale, speed, and mechanisms of trade changed dramatically — [[Concept Notes/Joint-Stock Companies|joint-stock companies]], stock exchanges, global silver circulation were all new in this period. The triangular trade created entirely new commodity flows (sugar, rum, enslaved people) that had no prior equivalent.
 
 **Continuity:** Regional markets (Indian Ocean, overland Eurasian routes) continued alongside new Atlantic circuits. Existing demand for Asian luxury goods (silk, porcelain, spices) persisted and intensified. Coercive labor systems were not new — they continued and scaled up.
 
@@ -61,7 +61,7 @@ The **gender dimension** of the slave trade is frequently overlooked: because tw
 - Syncretic religions were produced by the cultural collision of the Atlantic world
 
 **What continued:**
-- Coercive labor systems (enslaved, encomienda, mita) — not new, just expanded and adapted
+- Coercive labor systems (enslaved, [[Concept Notes/Encomienda|encomienda]], mita) — not new, just expanded and adapted
 - Indian Ocean trade continued alongside Atlantic trade
 - Regional markets in Afro-Eurasia persisted (wool, cotton, silk)
 - Elite extraction of peasant and artisan labor
@@ -98,7 +98,7 @@ The TAH skill for this topic is **identifying a claim in a visual/non-text sourc
 
 ## Historical Perspectives / Historiography
 
-**On the slave trade's impact:** Scholars debate whether the Atlantic slave trade primarily *caused* West African underdevelopment or whether African states *adapted* to and in some cases benefited from it. The AMSCO narrative emphasizes disruption and dependence (Dahomey and Oyo became economically dependent on European trade goods, setting the stage for 19th-century imperialism), but newer scholarship examines African agency — elites who enriched themselves through slave-raiding, and who shaped the trade's dynamics.
+**On the slave trade's impact:** Scholars debate whether the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] primarily *caused* West African underdevelopment or whether African states *adapted* to and in some cases benefited from it. The AMSCO narrative emphasizes disruption and dependence (Dahomey and Oyo became economically dependent on European trade goods, setting the stage for 19th-century imperialism), but newer scholarship examines African agency — elites who enriched themselves through slave-raiding, and who shaped the trade's dynamics.
 
 **On indigenous cultural survival:** The narrative of total cultural erasure (as implied by Cortés's book-burning) is challenged by evidence of indigenous cultural persistence — syncretic religions, surviving indigenous languages in Guatemala and highland Mexico, and the Florentine Codex itself. The AP values nuance here: yes, enormous cultural destruction occurred; no, it was not complete.
 

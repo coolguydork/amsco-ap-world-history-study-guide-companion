@@ -28,7 +28,7 @@ The population collapse caused by Columbian Exchange diseases directly enabled S
 The New World crops introduced through the Columbian Exchange — potatoes, maize, and others — sustained the population growth that fed industrial-era workforces in Europe. The nutritional transformation of the 17th–18th centuries is background for understanding why industrialization was possible in Topic 5.3. *(Not yet built — see Topic 5.3)*
 
 **Topic 6.6 — Labor Migration**
-The demographic collapse of indigenous American populations (from Columbian Exchange disease) created a permanent labor deficit that drove the Atlantic slave trade. This forced migration shapes the ethnic and cultural landscape that Topic 6.6 addresses when treating labor systems of the industrial era. *(Not yet built — see Topic 6.6)*
+The demographic collapse of indigenous American populations (from Columbian Exchange disease) created a permanent labor deficit that drove the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]]. This forced migration shapes the ethnic and cultural landscape that Topic 6.6 addresses when treating labor systems of the industrial era. *(Not yet built — see Topic 6.6)*
 
 ---
 
@@ -59,4 +59,4 @@ The environmental patterns initiated by the Columbian Exchange — deforestation
 
 **Agricultural Transformation** — The bidirectional movement of crops reshaped diets, population levels, and economic systems across all four continents involved. New World crops (especially potato, maize, manioc) are among the most consequential agricultural introductions in world history.
 
-**Unintended Consequences** — The Price Revolution, the acceleration of slavery, the rise of creole cultures — none were planned by Columbus, Spain, or Portugal. This topic is a model for arguing that historical outcomes often diverge dramatically from actors' intentions.
+**Unintended Consequences** — The [[Concept Notes/Price Revolution|Price Revolution]], the acceleration of slavery, the rise of creole cultures — none were planned by Columbus, Spain, or Portugal. This topic is a model for arguing that historical outcomes often diverge dramatically from actors' intentions.

@@ -31,7 +31,7 @@ Song China anchored the eastern end of the Silk Roads. China's porcelain, silk, 
 **[[Topic 2.3]] — Exchange in the Indian Ocean**
 The Ming Dynasty's naval expeditions under Zheng He (1405–1433) extended the tributary system into the Indian Ocean world. China's compass technology and shipbuilding advances (both Song-era innovations) made these voyages possible.
 
-**[[Topic 3.1]] — European, East Asian, and Gunpowder Empires Expand**
+**[[Topic 3.1]] — European, East Asian, and [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] Expand**
 The Ming Dynasty (founded 1368) becomes a major subject of Topic 3.1 as one of the great gunpowder empires of the period c. 1450–1750. Neo-Confucian governance, the civil service exam system, and the tributary structure all continue from the Song into the Ming.
 
 **[[Topic 3.2]] — Empires: Administrations**

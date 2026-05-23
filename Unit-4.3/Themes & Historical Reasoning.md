@@ -35,7 +35,7 @@ The Columbian Exchange reshaped global economic systems in three major ways.
 
 **The plantation economy** emerged as a new economic institution linking American land, African labor, and European capital and markets. Sugar plantations in Brazil and the Caribbean were among the most profitable enterprises of the 16th–17th centuries. Cash crop production (sugar, tobacco, cacao) created Atlantic commercial networks connecting four continents.
 
-**Silver and the Price Revolution** illustrate unintended economic consequences. The Potosí silver mines (discovered 1545) flooded European markets with precious metal, causing inflation across the continent. Spain, which extracted the silver, paradoxically saw its purchasing power erode — a textbook example of the dangers of commodity dependence. Silver also flowed eastward into Asian markets, connecting American mining to Chinese and Indian Ocean economies.
+**Silver and the [[Concept Notes/Price Revolution|Price Revolution]]** illustrate unintended economic consequences. The Potosí silver mines (discovered 1545) flooded European markets with precious metal, causing inflation across the continent. Spain, which extracted the silver, paradoxically saw its purchasing power erode — a textbook example of the dangers of commodity dependence. Silver also flowed eastward into Asian markets, connecting American mining to Chinese and Indian Ocean economies.
 
 **New World crops and economic transformation** allowed populations to grow and new industries to emerge. Potato cultivation in Europe freed agricultural labor from subsistence farming; maize's adaptability to diverse climates made it a global staple. These effects were gradual but long-term, feeding industrial-era populations (Topics 5.3, 6.6).
 
@@ -62,7 +62,7 @@ The Columbian Exchange is AMSCO's primary vehicle for AP **causation** skill pra
 
 **Effects of the Exchange** operate on multiple levels:
 - *Short-term direct effect:* Disease kills indigenous populations within decades.
-- *Medium-term effect:* Labor vacuum drives expansion of Atlantic slave trade.
+- *Medium-term effect:* Labor vacuum drives expansion of [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]].
 - *Long-term indirect effect:* New World crops feed population growth in Europe and Africa; silver drives global inflation; African cultural traditions reshape American music, language, and food.
 
 > [!exam-tip]
@@ -74,7 +74,7 @@ The Columbian Exchange is AMSCO's primary vehicle for AP **causation** skill pra
 
 **What changed:** The biological isolation of the two hemispheres ended permanently. Indigenous American populations collapsed. New global agricultural systems emerged. The Atlantic became an economic and demographic highway. African and American cultures fused into new forms.
 
-**What continued:** European states continued to pursue mercantilist wealth extraction. Coerced labor remained the foundation of large-scale agriculture (shifting from indigenous to African slavery, but the logic continued). Long-distance trade networks (Silk Roads, Indian Ocean) continued alongside the new Atlantic networks rather than being replaced.
+**What continued:** European states continued to pursue [[Concept Notes/Mercantilism|mercantilist]] wealth extraction. Coerced labor remained the foundation of large-scale agriculture (shifting from indigenous to African slavery, but the logic continued). Long-distance trade networks (Silk Roads, Indian Ocean) continued alongside the new Atlantic networks rather than being replaced.
 
 ---
 

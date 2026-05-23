@@ -65,7 +65,7 @@ Defeated rival daimyo at the **Battle of Sekigahara (1600)** and was appointed s
 
 ## Key States
 
-**Ottoman Empire** — The largest and most durable of the Islamic gunpowder empires. Governed through the devshirme system, the millet system for religious minorities, and tax farming. Istanbul (formerly Constantinople) remained one of the world's great cities — a center of trade, arts, and Islamic learning. *AMSCO pp. 158–159, 161–162*
+**Ottoman Empire** — The largest and most durable of the Islamic [[Concept Notes/Gunpowder Empires|gunpowder empires]]. Governed through the devshirme system, the millet system for religious minorities, and tax farming. Istanbul (formerly Constantinople) remained one of the world's great cities — a center of trade, arts, and Islamic learning. *AMSCO pp. 158–159, 161–162*
 
 **Mughal Empire** — Ruled Muslim rulers over a Hindu-majority population in South Asia. Administrative success depended on the mansabdar/zamindar bureaucracy and, under Akbar, on religious tolerance. Mughal India was one of the wealthiest states in the world in 1700, producing roughly 25% of global GDP. *AMSCO pp. 159–161*
 

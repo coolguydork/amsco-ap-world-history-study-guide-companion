@@ -37,10 +37,10 @@ tags: [apwh, unit-4, topic-4-8, period-2, ccot, timeline]
 European technological capacity meets political will. Portuguese sailing the African coast; Columbus in 1492; Vasco da Gama reaches India (1498). The world's seams begin to be sewn together.
 
 **Middle Period (1520–1640): The Atlantic System Matures**
-Silver flows from Potosí. Sugar plantations expand in Brazil and Caribbean. The Price Revolution disrupts European economies. Social unrest (German Peasants' War) accompanies economic transformation. Gunpowder empires consolidate their social hierarchies. Joint-stock companies emerge.
+Silver flows from Potosí. Sugar plantations expand in Brazil and Caribbean. The [[Concept Notes/Price Revolution|Price Revolution]] disrupts European economies. Social unrest (German Peasants' War) accompanies economic transformation. Gunpowder empires consolidate their social hierarchies. Joint-stock companies emerge.
 
 **Late Period (1640–1750): Atlantic Dominance and Early Capitalism**
-Dutch and English displace Portuguese and Spanish commercial dominance. VOC and EIC demonstrate power of joint-stock capitalism. Qing Dynasty imposes new ethnic hierarchy in China. Peace of Westphalia creates modern state system. Atlantic slave trade reaches its peak volume. The middle class expands; capital for Industrial Revolution accumulates.
+Dutch and English displace Portuguese and Spanish commercial dominance. VOC and EIC demonstrate power of joint-stock capitalism. Qing Dynasty imposes new ethnic hierarchy in China. Peace of Westphalia creates modern state system. [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] reaches its peak volume. The middle class expands; capital for Industrial Revolution accumulates.
 
 > [!tip]
 > The key causal chain for CCOT essays: European technology (1450s) → transoceanic voyages (1492+) → Columbian Exchange → Atlantic System → silver economy → Price Revolution → economic disruption → social change (new hierarchies, expanded middle class, intensified coercive labor). Each link is testable on the AP.

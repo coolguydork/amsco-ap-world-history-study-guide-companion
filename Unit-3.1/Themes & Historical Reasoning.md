@@ -43,7 +43,7 @@ tags: [apwh, unit-3, topic-3-1, period-2, governance, technology, migration, his
 
 **Evidence:**
 - **Russian expansion:** Ivan IV's use of Cossack warriors pushed Russia's frontier from Eastern Europe to the Pacific. Missionaries followed, converting indigenous Siberian peoples to Eastern Orthodox Christianity — creating new Christian settlements across a vast region.
-- **Tamerlane's massacres:** Tamerlane's campaigns across Central Asia, Persia, and India displaced enormous populations and destroyed cities, creating the demographic and political vacuums the Gunpowder Empires later filled.
+- **Tamerlane's massacres:** Tamerlane's campaigns across Central Asia, Persia, and India displaced enormous populations and destroyed cities, creating the demographic and political vacuums the [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] later filled.
 - **Manchu migration into China:** The Manchu conquest of the Ming moved a foreign ruling elite into the Chinese heartland. The Manchu maintained ethnic boundaries while governing through Chinese administrative institutions.
 - **Ottoman expansion into the Balkans:** Ottoman expansion pushed Slavic and Greek populations, reshaped settlement patterns in southeastern Europe, and created the multi-religious social landscape of the Balkans that persists today.
 

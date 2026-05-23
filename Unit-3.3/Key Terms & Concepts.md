@@ -9,7 +9,7 @@ tags: [apwh, unit-3, topic-3-3, period-2, religion, reformation, vocabulary]
 
 ---
 
-## Protestant Reformation Terms
+## [[Concept Notes/Protestant Reformation|Protestant Reformation]] Terms
 
 **Protestant Reformation**
 The 16th-century movement that fractured Western Christianity into Catholic and Protestant branches. Triggered by theological disputes (faith vs. works, Church authority) and exploited by monarchs seeking to break free from papal power. (AMSCO pp. 167–169)

@@ -44,7 +44,7 @@ tags: [apwh, unit-4, topic-4-5, period-2, trade-networks, economic-systems, gove
 **Indigenous Cultural Disruption Arc**
 1519 Aztec conquest → book-burning → 1542 New Laws (partial protection) → 1555 Florentine Codex → cultural erasure + syncretic survival
 
-**Atlantic Slave Trade Impact Arc**
+**[[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] Impact Arc**
 1494 (Iberian monopolies establish framework) → Portuguese slave trade begins mid-1400s → triangular trade formalized 1600s → Dahomey/Oyo rise on firearms → gender imbalance → polygyny → Columbian Exchange crops offset population decline
 
 **Religious Syncretism Arc**

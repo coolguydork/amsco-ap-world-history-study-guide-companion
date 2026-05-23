@@ -10,7 +10,7 @@ tags: [apwh, unit-4, topic-4-2, period-2, exploration, explorers, portugal, spai
 ## Key Explorers
 
 **Prince Henry the Navigator (1394–1460)**
-Portuguese prince and the first European monarch to systematically sponsor maritime expeditions. Henry established a school of navigation at Sagres, funded voyages down the African coast, and sought both an all-water route to Asia and African gold. Under his patronage, Portugal began importing enslaved Africans by sea, initiating what would become the Atlantic slave trade. His work laid the foundation for all subsequent Portuguese exploration. (AMSCO p. 200)
+Portuguese prince and the first European monarch to systematically sponsor maritime expeditions. Henry established a school of navigation at Sagres, funded voyages down the African coast, and sought both an all-water route to Asia and African gold. Under his patronage, Portugal began importing enslaved Africans by sea, initiating what would become the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]]. His work laid the foundation for all subsequent Portuguese exploration. (AMSCO p. 200)
 
 **Bartholomew Dias (c. 1450–1500)**
 Portuguese explorer who became the first European to round the Cape of Good Hope in 1488, proving that the Atlantic and Indian Oceans were connected. His crew threatened mutiny in unknown waters, forcing a return before reaching India. The route he opened was completed a decade later by Vasco da Gama. (AMSCO p. 200)

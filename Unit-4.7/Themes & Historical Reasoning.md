@@ -36,7 +36,7 @@ The most important CCOT argument for Topic 4.7:
 **Why did new hierarchies form?**
 - European colonialism brought three distinct populations (European, African, indigenous American) into contact in a single space — making racial categorization seem administratively necessary to rulers
 - The need to allocate labor and tax burdens created incentives to codify racial status
-- African enslaved labor replaced indigenous labor lost to epidemic disease — driving the Atlantic slave trade and embedding racial slavery in the colonial economy
+- African enslaved labor replaced indigenous labor lost to epidemic disease — driving the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] and embedding racial slavery in the colonial economy
 
 **Why did existing hierarchies persist?**
 - Elites (boyars, Ottoman Janissaries, European nobility) used legal structures to entrench their privileges across generations

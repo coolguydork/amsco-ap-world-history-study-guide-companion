@@ -14,7 +14,7 @@ tags: [apwh, unit-4, topic-4-3, period-2, columbian-exchange, vocabulary]
 ## Core Concept
 
 **Columbian Exchange**
-The bidirectional transfer of crops, animals, diseases, people, and ideas between the Eastern Hemisphere (Afro-Eurasia) and the Western Hemisphere (the Americas) following Columbus's 1492 voyage. Named for Columbus because his arrival established the first *sustained* contact between the two hemispheres. Effects were profound and often unintended — disease devastated indigenous populations, New World crops transformed Afro-Eurasian diets, and the demand for plantation labor drove the Atlantic slave trade.
+The bidirectional transfer of crops, animals, diseases, people, and ideas between the Eastern Hemisphere (Afro-Eurasia) and the Western Hemisphere (the Americas) following Columbus's 1492 voyage. Named for Columbus because his arrival established the first *sustained* contact between the two hemispheres. Effects were profound and often unintended — disease devastated indigenous populations, New World crops transformed Afro-Eurasian diets, and the demand for plantation labor drove the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]].
 
 ---
 
@@ -45,7 +45,7 @@ The forced movement of millions of Africans across the Atlantic to work on Ameri
 **Sugarcane**
 The defining cash crop of the early Atlantic plantation economy, cultivated primarily in Brazil and the Caribbean. Portugal pioneered large-scale sugarcane cultivation in Brazil, relying on enslaved African labor after indigenous populations were devastated by disease. Sugar's profitability dramatically accelerated the transatlantic slave trade and eventually eclipsed silver as the primary revenue source for European empires in the Americas.
 
-**Price Revolution**
+**[[Concept Notes/Price Revolution|Price Revolution]]**
 The sustained inflation in 16th–17th century Europe caused largely by the massive influx of silver from American mines, especially Potosí (discovered 1545 in present-day Bolivia). Spain flooded European markets with silver, eroding its purchasing power and contributing to long-term economic instability — an unintended consequence of colonial mining success.
 
 ---

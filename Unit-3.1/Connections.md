@@ -12,7 +12,7 @@ tags: [apwh, unit-3, topic-3-1, period-2, connections, land-based-empires, gunpo
 ## Builds On
 
 **Topic 2.2 — Mongol Empire** | [[Unit-2.2/Mongol Empire Overview|Mongol Empire Overview]]
-The collapse of Mongol khanates in the 14th century created the political vacuums that the Gunpowder Empires filled. Tamerlane's Mongol-Turkic military model directly preceded the Ottoman, Safavid, and Mughal empires. The Qing Dynasty's Manchu founders were themselves from the Mongol-influenced northeast. See also: [[Concept Notes/Mongols|Mongols]], [[Concept Notes/Pax Mongolica|Pax Mongolica]].
+The collapse of Mongol khanates in the 14th century created the political vacuums that the [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] filled. Tamerlane's Mongol-Turkic military model directly preceded the Ottoman, Safavid, and Mughal empires. The Qing Dynasty's Manchu founders were themselves from the Mongol-influenced northeast. See also: [[Concept Notes/Mongols|Mongols]], [[Concept Notes/Pax Mongolica|Pax Mongolica]].
 
 **Topic 1.2 — Dar al-Islam** | [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]]
 The Ottoman, Safavid, and Mughal empires are all heirs to the Islamic civilization that developed from 600–1450. Islamic institutions (religious law, pilgrimage routes, scholarly networks), the Arabic script, and the concept of the *umma* (global Muslim community) gave these empires their cultural foundation. The Sunni-Shia split — originating in the 7th century — became the defining geopolitical fault line of Topic 3.1.
@@ -34,7 +34,7 @@ How did gunpowder empires govern the territories they conquered? Topic 3.2 cover
 How did empires manage religious diversity? Topic 3.3 examines continuity and change in Islam, Christianity, and other belief systems within land-based empires — directly building on the religious tensions introduced here (Sunni-Shia divide, Mughal tolerance/intolerance, Russian Orthodox expansion).
 
 **Topic 4.6 — European State Building** (forward)
-The emergence of new monarchies in Europe (Tudor England, Valois France, Habsburg Spain) runs parallel to gunpowder empire expansion. The Protestant Reformation (triggered partly by the Gutenberg press introduced here) transformed European governance in ways that both competed with and ultimately outlasted the land-based empires.
+The emergence of new monarchies in Europe (Tudor England, Valois France, Habsburg Spain) runs parallel to gunpowder empire expansion. The [[Concept Notes/Protestant Reformation|Protestant Reformation]] (triggered partly by the Gutenberg press introduced here) transformed European governance in ways that both competed with and ultimately outlasted the land-based empires.
 
 ---
 

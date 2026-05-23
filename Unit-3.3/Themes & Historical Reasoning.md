@@ -57,7 +57,7 @@ Akbar's removal of the jizya was both a religious and social policy — it chang
 
 ### Causation
 
-**Why did the Protestant Reformation succeed when earlier reform movements failed?** Several factors combined: (1) printing press allowed Luther's ideas to spread faster than the Church could suppress them; (2) German princes had political incentives to support Luther; (3) the Church was weakened by the Babylonian Captivity, the Black Death, and corruption; (4) growing literacy created an audience for theological debate.
+**Why did the [[Concept Notes/Protestant Reformation|Protestant Reformation]] succeed when earlier reform movements failed?** Several factors combined: (1) printing press allowed Luther's ideas to spread faster than the Church could suppress them; (2) German princes had political incentives to support Luther; (3) the Church was weakened by the Babylonian Captivity, the Black Death, and corruption; (4) growing literacy created an audience for theological debate.
 
 **Why did the Safavids impose Shia Islam so aggressively?** Shia identity served as the clearest possible marker of Safavid legitimacy *against* the Sunni Ottomans. Without a dynastic or ethnic claim to universal Islamic leadership, Shia orthodoxy was the Safavids' core source of legitimacy and territorial identity.
 

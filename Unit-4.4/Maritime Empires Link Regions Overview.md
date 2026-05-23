@@ -10,11 +10,11 @@ tags: [apwh, unit-4, topic-4-4, period-2, maritime-empires, colonialism, labor-s
 **Essential Question:** How were the empires of European states established between 1450 to 1750, and what economic and labor systems fueled them?
 
 > [!exam-tip]
-> Topic 4.4 is one of the most heavily tested in Unit 4. Expect questions on **encomienda**, **chattel slavery vs. indentured servitude**, **mercantilism**, **the Middle Passage**, and **how indigenous population collapse drove African enslavement**. Know how the Atlantic system compares to the Indian Ocean slave trade.
+> Topic 4.4 is one of the most heavily tested in Unit 4. Expect questions on **encomienda**, **chattel slavery vs. indentured servitude**, **[[Concept Notes/Mercantilism|mercantilism]]**, **the Middle Passage**, and **how indigenous population collapse drove African enslavement**. Know how the Atlantic system compares to the Indian Ocean slave trade.
 
 ## Big Picture
 
-European states, driven by political, religious, and economic rivalries, built maritime empires after 1450. They administered trading posts in Africa and Asia and established full colonies in the Americas. These empires depended on **coercive labor systems** — encomienda, chattel slavery, indentured servitude, and an adapted mit'a — to generate wealth, especially through silver and plantation agriculture. (AMSCO pp. 218–228)
+European states, driven by political, religious, and economic rivalries, built maritime empires after 1450. They administered trading posts in Africa and Asia and established full colonies in the Americas. These empires depended on **coercive labor systems** — [[Concept Notes/Encomienda|encomienda]], chattel slavery, indentured servitude, and an adapted mit'a — to generate wealth, especially through silver and plantation agriculture. (AMSCO pp. 218–228)
 
 ## Trading Posts in Africa and Asia
 
@@ -83,7 +83,7 @@ The colonial economy demanded labor. Different regions used different systems, o
 **Why African enslaved labor?** Indigenous people died in massive numbers from European disease. Survivors knew the land and could escape more easily. Indentured servants became free after 7 years. Enslaved Africans could not escape as readily and remained enslaved for life — and their enslaved status passed to children under chattel slavery.
 
 > [!exam-tip]
-> Know the **continuity** here: slavery existed in Africa (especially enslaved women as household workers) and the Arab-Indian Ocean trade before Europeans arrived. But the **Atlantic slave trade was uniquely large-scale and brutal**, creating a racially defined hereditary system of chattel slavery.
+> Know the **continuity** here: slavery existed in Africa (especially enslaved women as household workers) and the Arab-Indian Ocean trade before Europeans arrived. But the **[[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] was uniquely large-scale and brutal**, creating a racially defined hereditary system of chattel slavery.
 
 ## The Atlantic Slave Trade and the Middle Passage
 

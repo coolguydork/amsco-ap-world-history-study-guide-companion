@@ -22,7 +22,7 @@ North African Muslim states were the northern counterparts to West African gold-
 ## Leads To
 
 **Topic 6.4 — Extractive Colonial Economy**
-European colonial economies in Africa eventually replaced African-controlled trade networks. The wealth and infrastructure of trans-Saharan commerce that enriched Mali and Songhai was disrupted by European encroachment and the Atlantic slave trade. Comparing African-controlled vs. European-controlled trade in Africa is a high-value CCOT prompt.
+European colonial economies in Africa eventually replaced African-controlled trade networks. The wealth and infrastructure of trans-Saharan commerce that enriched Mali and Songhai was disrupted by European encroachment and the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]]. Comparing African-controlled vs. European-controlled trade in Africa is a high-value CCOT prompt.
 
 **Topic 6.6 — Atlantic Slave Trade**
 The trans-Saharan enslaved people trade predates the Atlantic slave trade by centuries. Both systems commodified human beings, but they differed in scale, direction, and racial ideology. The AP exam may ask you to compare them or trace how one preceded and influenced the other.

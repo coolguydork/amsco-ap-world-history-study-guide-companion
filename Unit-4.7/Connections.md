@@ -43,7 +43,7 @@ Topic 4.6 shows what happens when social hierarchies are challenged from below (
 → [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power Overview]]
 
 **Topic 4.5 — Maritime Empires Develop**
-The Mughal Empire's social structures and the Protestant Reformation's effects on European hierarchies are developed in Topic 4.5, which provides context for 4.7's treatment of religious minorities.
+The Mughal Empire's social structures and the [[Concept Notes/Protestant Reformation|Protestant Reformation]]'s effects on European hierarchies are developed in Topic 4.5, which provides context for 4.7's treatment of religious minorities.
 → [[Unit-4.5/Maritime Empires Develop Overview|Maritime Empires Develop Overview]]
 
 ## AP Threads Running Through This Topic
@@ -58,7 +58,7 @@ Roxelana represents the exceptional but real possibility of female political pow
 Every hierarchy in this period officially limited mobility but contained exceptional cases. Roxelana (enslaved → sultan's wife), Jewish scholars in the Ottoman court, and mestizos who moved up through intermarriage all illustrate both the rigidity and the cracks in social systems.
 
 **Coercive Labor and Social Control**
-Russian serfdom, Ottoman impressment, colonial encomienda, and Atlantic chattel slavery all connect social hierarchy to forced labor. This thread runs directly from Topic 4.3 (Columbian Exchange) through Topic 4.7 and into Unit 5.
+Russian serfdom, Ottoman impressment, colonial [[Concept Notes/Encomienda|encomienda]], and Atlantic chattel slavery all connect social hierarchy to forced labor. This thread runs directly from Topic 4.3 (Columbian Exchange) through Topic 4.7 and into Unit 5.
 
 ## Wikilinks Quick Reference
 

@@ -13,7 +13,7 @@ tags: [apwh, unit-3, topic-3-1, period-2, governance, technology, land-based-emp
 
 ## Core Concepts
 
-**Gunpowder Empires**
+**[[Concept Notes/Gunpowder Empires|Gunpowder Empires]]**
 A term historians use to describe the large, multiethnic states in Southwest, Central, and South Asia (specifically Ottoman, Safavid, and Mughal) that relied on firearms — especially artillery and cannons — to conquer and control vast territories. Their shared Turkic-nomadic origins, use of gunpowder, and Islamic identity distinguish them from other land-based empires of the period. (p. 143)
 
 **Land-based empires**
@@ -58,7 +58,7 @@ The centralized states that emerged in Western Europe in the late 1400s–1500s,
 Invented in China, gunpowder spread via trade routes and became the transformative military technology of the 1450–1750 period. Artillery and cannons allowed smaller forces to breach fortifications and conquer territories that would have been impregnable in earlier eras. Mehmed II's 26-foot bronze cannon destroyed Constantinople's triple walls in 1453. (p. 143, 147)
 
 **Gutenberg printing press**
-Invented in the mid-1400s by Johannes Gutenberg, this technology dramatically increased literacy rates in Europe by making books affordable. It accelerated the spread of ideas (including the Protestant Reformation) and contributed to the emergence of powerful new European states. (p. 144)
+Invented in the mid-1400s by Johannes Gutenberg, this technology dramatically increased literacy rates in Europe by making books affordable. It accelerated the spread of ideas (including the [[Concept Notes/Protestant Reformation|Protestant Reformation]]) and contributed to the emergence of powerful new European states. (p. 144)
 
 **Artillery / Cannons**
 Heavy firearms mounted on wheeled carriages, capable of destroying stone fortifications. The Ottoman use of massive cannons at the siege of Constantinople (1453) demonstrated their game-changing role in land-based imperial expansion. Both the Safavids and Mughals similarly relied on artillery. (p. 147)

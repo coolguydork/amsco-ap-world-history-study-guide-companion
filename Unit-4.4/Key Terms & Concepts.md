@@ -8,7 +8,7 @@ tags: [apwh, unit-4, topic-4-4, period-2, maritime-empires, labor-systems, colon
 # Key Terms & Concepts
 
 > [!exam-tip]
-> Labor system terminology is heavily tested. Know the **differences** between encomienda, mit'a, chattel slavery, indentured servitude, and the hacienda system — and the specific regions/contexts for each.
+> Labor system terminology is heavily tested. Know the **differences** between [[Concept Notes/Encomienda|encomienda]], mit'a, chattel slavery, indentured servitude, and the hacienda system — and the specific regions/contexts for each.
 
 ## Governance: African States
 
@@ -62,7 +62,7 @@ The primary source of Spanish colonial wealth after gold proved scarce in the Ca
 
 ## Economy: Economic Systems
 
-**Mercantilism**
+**[[Concept Notes/Mercantilism|Mercantilism]]**
 The dominant economic theory of European colonial powers in this period. Key principles: government control of the economy through high tariffs; colonies exist to supply raw materials and precious metals to the mother country; goal is to export more than import (favorable balance of trade). Spain used American silver to build its military and fund foreign trade.
 
 **Colonies**

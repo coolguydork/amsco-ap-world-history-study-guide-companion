@@ -15,7 +15,7 @@ tags: [apwh, unit-3, topic-3-3, period-2, religion, connections, cross-topic]
 Islam's origins, early spread, Sunni-Shia split, and Sufism all provide the foundation for understanding why the Ottoman-Safavid rivalry was so intense. The Sunni-Shia divide (632 CE) had centuries of history before it became a state-level conflict in 1501. Sikhism's Sufi influences also trace back to the Islamic mystical tradition introduced in Topic 1.2.
 
 **[[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]] (Topic 1.6)**
-The Catholic Church's medieval dominance — and the problems of corruption, the Babylonian Captivity, and failed reform movements (Wycliffe, Hus) — set up the Protestant Reformation. Understand Topic 1.6's Church to understand why Topic 3.3's Reformation succeeded.
+The Catholic Church's medieval dominance — and the problems of corruption, the Babylonian Captivity, and failed reform movements (Wycliffe, Hus) — set up the [[Concept Notes/Protestant Reformation|Protestant Reformation]]. Understand Topic 1.6's Church to understand why Topic 3.3's Reformation succeeded.
 
 **[[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] (Topic 3.1)**
 The Ottoman, Safavid, and Mughal empires whose religious policies dominate Topic 3.3 are introduced in Topic 3.1. Their expansion and administrative structures provide the political context in which religious policies operated.

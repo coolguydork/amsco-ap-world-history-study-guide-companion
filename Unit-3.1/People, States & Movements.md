@@ -14,7 +14,7 @@ tags: [apwh, unit-3, topic-3-1, period-2, governance, land-based-empires, gunpow
 ## Key Leaders
 
 ### Tamerlane (Timur the Lame) — Central Asia, late 14th century
-Mongol-Turkic conqueror who operated from Samarkand (modern Uzbekistan). Used the **ghazi ideal** to justify holy war conquests across Persia and India; massacred approximately 100,000 Hindus outside Delhi. His empire largely fragmented after his death, but his invasions cleared the path for the three Islamic Gunpowder Empires. Despite brutal tactics, he was a patron of arts, architecture, and literature — his buildings in Samarkand still stand. His descendant Babur would use the remnant of his empire to found the Mughal Dynasty. (pp. 146–147)
+Mongol-Turkic conqueror who operated from Samarkand (modern Uzbekistan). Used the **ghazi ideal** to justify holy war conquests across Persia and India; massacred approximately 100,000 Hindus outside Delhi. His empire largely fragmented after his death, but his invasions cleared the path for the three Islamic [[Concept Notes/Gunpowder Empires|Gunpowder Empires]]. Despite brutal tactics, he was a patron of arts, architecture, and literature — his buildings in Samarkand still stand. His descendant Babur would use the remnant of his empire to found the Mughal Dynasty. (pp. 146–147)
 
 > [!tip]
 > Tamerlane is the **bridge figure** between Mongol disruption (Topic 2.2) and Gunpowder Empire rise (Topic 3.1). He demonstrates that destruction and cultural patronage could coexist — a pattern the Mughals later perfected.

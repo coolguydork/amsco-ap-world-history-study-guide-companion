@@ -32,7 +32,7 @@ The network of trade routes crossing the Sahara Desert connecting sub-Saharan We
 The specific exchange that drove West African state power. West African kingdoms possessed abundant gold but scarce salt; North African and Saharan regions had salt but needed gold. Rulers who controlled the exchange points became enormously wealthy. Ghana and Mali were built on this trade. (AMSCO p. 45)
 
 **Indian Ocean slave trade**
-The trade in enslaved East Africans (*zanj*) to the Middle East, which preceded the Atlantic slave trade by centuries. Enslaved East Africans provided labor on sugar plantations in Mesopotamia. The Zanj Rebellion (869–883 CE) — in which enslaved people captured and held the city of Basra for a decade — was one of the largest slave revolts in history. (AMSCO p. 48)
+The trade in enslaved East Africans (*zanj*) to the Middle East, which preceded the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] by centuries. Enslaved East Africans provided labor on sugar plantations in Mesopotamia. The Zanj Rebellion (869–883 CE) — in which enslaved people captured and held the city of Basra for a decade — was one of the largest slave revolts in history. (AMSCO p. 48)
 
 **Swahili**
 A Bantu-based language with significant Arabic vocabulary, developed along the East African coast through centuries of interaction between Bantu-speaking Africans and Arab merchants. Today spoken by tens of millions across East Africa. The language itself is a product of cultural synthesis through trade. (AMSCO p. 46)

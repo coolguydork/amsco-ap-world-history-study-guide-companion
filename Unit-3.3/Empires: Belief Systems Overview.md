@@ -16,7 +16,7 @@ Religion was both a unifying force and a divisive one in this era. Christianity 
 
 ---
 
-## The Protestant Reformation in Europe
+## The [[Concept Notes/Protestant Reformation|Protestant Reformation]] in Europe
 
 The Roman Catholic Church had long dominated European life, but by the early 1500s, corruption, theological dissent, and the ambitions of centralizing monarchs had weakened its authority. The Babylonian Captivity (1309–1377), when the papacy relocated to France under French royal influence, damaged the Church's credibility. Reformers like John Wycliffe and Jan Hus had already challenged clerical authority before Luther — Hus was burned at the stake for it.
 

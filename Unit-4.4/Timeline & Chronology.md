@@ -8,7 +8,7 @@ tags: [apwh, unit-4, topic-4-4, period-2, maritime-empires, colonialism, atlanti
 # Timeline & Chronology
 
 > [!exam-tip]
-> The AP exam rarely asks for precise dates, but it does expect you to sequence events and understand causation across time. Focus on the **logical order**: exploration → conquest → encomienda → indigenous collapse → African enslavement → plantation economy.
+> The AP exam rarely asks for precise dates, but it does expect you to sequence events and understand causation across time. Focus on the **logical order**: exploration → conquest → [[Concept Notes/Encomienda|encomienda]] → indigenous collapse → African enslavement → plantation economy.
 
 ## Key Dates
 
@@ -37,7 +37,7 @@ Understanding the **logic of transition** between labor systems is more importan
 3. **Indigenous collapse:** Epidemic disease and brutal working conditions devastate the indigenous labor force; enslaved indigenous people escape more easily than Africans
 4. **Indentured servitude proves inadequate:** European indentured servants struggle with climate; gain freedom after ~7 years; not a permanent solution
 5. **African enslavement scales up (late 1500s onward):** Chattel slavery — already practiced by Portuguese in Europe and Atlantic islands — is massively expanded for plantation labor in Brazil and Caribbean
-6. **Atlantic slave trade peak (17th–18th centuries):** 10–15 million Africans transported; 10–15% die during Middle Passage; plantation economies generate enormous European wealth
+6. **[[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] peak (17th–18th centuries):** 10–15 million Africans transported; 10–15% die during Middle Passage; plantation economies generate enormous European wealth
 
 ## Parallel Timelines: Asian Responses
 

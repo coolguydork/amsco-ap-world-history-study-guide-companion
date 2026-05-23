@@ -43,7 +43,7 @@ Individuals who had escaped slavery in Haiti and lived independently before the 
 French Enlightenment intellectuals (e.g., Montesquieu, Voltaire, Rousseau) who popularized ideas about natural rights, religious liberty, and representative government. Their writings circulated widely in Europe and the Americas, giving intellectual justification to revolutionaries. (AMSCO pp. 276, 286)
 
 **Creoles**
-In colonial Latin America, people of European ancestry born in the Americas. Better educated and wealthier than mestizos or indigenous people, creoles led most Latin American independence movements. They resented Spain's mercantilism and peninsulares' monopoly on high government posts. (AMSCO p. 288)
+In colonial Latin America, people of European ancestry born in the Americas. Better educated and wealthier than mestizos or indigenous people, creoles led most Latin American independence movements. They resented Spain's [[Concept Notes/Mercantilism|mercantilism]] and peninsulares' monopoly on high government posts. (AMSCO p. 288)
 
 **Peninsulares**
 Colonists born in Spain or Portugal, considered the social elite in colonial Latin America. They monopolized top government and church positions in the colonies, fueling resentment among creoles. See also [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]] for the full casta hierarchy. (AMSCO pp. 255, 288)

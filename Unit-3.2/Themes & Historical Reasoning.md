@@ -124,7 +124,7 @@ The AP exam frequently asks students to compare administrative methods across em
 
 ## Cross-Topic Connections
 
-- [[Unit-3.1/Themes & Historical Reasoning|Topic 3.1 Themes]] — Gunpowder empires' expansion created the administration problem
+- [[Unit-3.1/Themes & Historical Reasoning|Topic 3.1 Themes]] — [[Concept Notes/Gunpowder Empires|Gunpowder empires]]' expansion created the administration problem
 - [[Unit-1.1/Themes & Historical Reasoning|Topic 1.1 Themes]] — Chinese civil service tradition as comparison
 - **Topic 3.3** — How belief systems were specifically deployed as administrative tools
 - **Topic 4.6** — When these administrative methods failed: challenges to imperial authority

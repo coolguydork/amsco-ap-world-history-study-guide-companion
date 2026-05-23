@@ -33,7 +33,7 @@ tags: [apwh, unit-4, topic-4-3, period-2, columbian-exchange, timeline]
 
 **1490s–1520s — First Contact and Catastrophe:** Columbus's 1492 voyage opens sustained contact. Within decades, epidemic smallpox spreads ahead of European armies. The Aztec and Inca empires — already weakened by disease — fall to small Spanish forces supported by indigenous allies. The scale of demographic collapse is without historical parallel.
 
-**1520s–1560s — Silver, Sugar, and Forced Labor:** Spanish colonists discover the great silver deposits of Potosí (1545) and Huancavelica in Peru. Portugal expands *engenho* sugar production in Brazil, importing enslaved Africans from the Kongo Kingdom and Swahili coast. The Atlantic slave trade becomes the primary mechanism for meeting plantation labor demands.
+**1520s–1560s — Silver, Sugar, and Forced Labor:** Spanish colonists discover the great silver deposits of Potosí (1545) and Huancavelica in Peru. Portugal expands *engenho* sugar production in Brazil, importing enslaved Africans from the Kongo Kingdom and Swahili coast. The [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] becomes the primary mechanism for meeting plantation labor demands.
 
 **1560s–1650s — Global Ecological Transformation:** New World crops diffuse across Afro-Eurasia. Maize and manioc become staples in West Africa, China, and southeastern Europe. Potatoes transform European peasant diets, particularly in Ireland and Germany. These nutritional improvements drive sustained population growth — even as the slave trade removes millions from Africa.
 

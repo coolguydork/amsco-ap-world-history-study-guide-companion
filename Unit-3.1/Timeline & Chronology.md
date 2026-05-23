@@ -42,7 +42,7 @@ tags: [apwh, unit-3, topic-3-1, period-2, chronology, land-based-empires, gunpow
 
 **The cascade of declines:** The Safavids fell first (1722), followed by the Mughals (fragmented after 1707, British takeover 19th century), then the Ottomans (WWI, 1922). Note that declines were gradual and overlapping, not sudden — a common AP essay trap.
 
-**China's parallel timeline:** Ming (1368–1644) → Qing (1644–1912) runs parallel to the Gunpowder Empires but follows a different arc: the Qing was a *foreign* (Manchu) dynasty that adopted Chinese institutions, rather than a Turkic warrior state reshaping a conquered culture.
+**China's parallel timeline:** Ming (1368–1644) → Qing (1644–1912) runs parallel to the [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] but follows a different arc: the Qing was a *foreign* (Manchu) dynasty that adopted Chinese institutions, rather than a Turkic warrior state reshaping a conquered culture.
 
 ---
 

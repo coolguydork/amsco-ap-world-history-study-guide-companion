@@ -39,7 +39,7 @@ By 1750, the Atlantic System had displaced the Mediterranean as the world's econ
 
 ### 4.1 — Technological Innovations
 
-European maritime expansion did not happen by accident. Advances in navigation technology — the magnetic compass (from China), the astrolabe (refined from Arab and ancient Greek designs), the lateen sail (borrowed from Arab sailors), and ship designs like the caravel and later the carrack and fluyt — made long ocean voyages feasible. Portugal led early, establishing the model of state-sponsored exploration. The joint-stock company (formalized with the English EIC in 1600 and the Dutch VOC in 1602) later provided the financial infrastructure to sustain global trade.
+European maritime expansion did not happen by accident. Advances in navigation technology — the magnetic compass (from China), the astrolabe (refined from Arab and ancient Greek designs), the lateen sail (borrowed from Arab sailors), and ship designs like the caravel and later the carrack and fluyt — made long ocean voyages feasible. Portugal led early, establishing the model of state-sponsored exploration. The [[Concept Notes/Joint-Stock Companies|joint-stock company]] (formalized with the English EIC in 1600 and the Dutch VOC in 1602) later provided the financial infrastructure to sustain global trade.
 
 Key figures: Prince Henry the Navigator, Bartolomeu Dias (Cape of Good Hope, 1488), Vasco da Gama (India, 1498).
 
@@ -55,7 +55,7 @@ Key events: Columbus 1492; da Gama 1498; Magellan 1519–1522; Manila Galleon tr
 
 ### 4.3 — Columbian Exchange
 
-Columbus's voyages triggered a biological exchange that permanently transformed both hemispheres. From the Americas to the Eastern Hemisphere: maize, potatoes, tomatoes, cacao, tobacco, and American diseases (none devastating to Afro-Eurasians). From the Eastern Hemisphere to the Americas: horses, cattle, wheat, sugar, rice, smallpox, measles, influenza, and other epidemic diseases. The disease exchange was catastrophic: indigenous American populations fell by 50–90% within a century of contact. This demographic collapse drove the Atlantic slave trade — with indigenous labor gone, European colonizers imported enslaved Africans. Cash crops (sugar, tobacco) required plantation labor that justified, in colonizers' logic, the slave trade's massive scale.
+Columbus's voyages triggered a biological exchange that permanently transformed both hemispheres. From the Americas to the Eastern Hemisphere: maize, potatoes, tomatoes, cacao, tobacco, and American diseases (none devastating to Afro-Eurasians). From the Eastern Hemisphere to the Americas: horses, cattle, wheat, sugar, rice, smallpox, measles, influenza, and other epidemic diseases. The disease exchange was catastrophic: indigenous American populations fell by 50–90% within a century of contact. This demographic collapse drove the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] — with indigenous labor gone, European colonizers imported enslaved Africans. Cash crops (sugar, tobacco) required plantation labor that justified, in colonizers' logic, the slave trade's massive scale.
 
 → [[Unit-4.3/Columbian Exchange Overview|Columbian Exchange Overview]]
 
@@ -63,13 +63,13 @@ Columbus's voyages triggered a biological exchange that permanently transformed 
 
 European maritime states built trading empires that linked previously separate regional economies. Portuguese footholds in the Indian Ocean displaced Arab merchants from dominant trade positions. Spain created a territorial empire in the Americas, extracting silver from Potosí (Bolivia) and Zacatecas (Mexico). Silver was the connective tissue of the new global economy: flowing west to Spain (financing wars), east across the Pacific to China (where demand was insatiable), and south through Levantine routes to the Ottoman and Mughal empires.
 
-Labor systems in the Americas — encomienda, hacienda, adapted Inca mit'a, chattel slavery — all reflected the same basic logic: coercing unfree or semi-free labor to extract natural resources for European markets.
+Labor systems in the Americas — [[Concept Notes/Encomienda|encomienda]], hacienda, adapted Inca mit'a, chattel slavery — all reflected the same basic logic: coercing unfree or semi-free labor to extract natural resources for European markets.
 
 → [[Unit-4.4/Maritime Empires Link Regions Overview|Maritime Empires Link Regions Overview]]
 
 ### 4.5 — Maritime Empires Develop
 
-As maritime empires matured, they developed internal governance structures. Mercantilist economic policies kept colonial wealth flowing to the mother country. Joint-stock companies (VOC, EIC) blurred the line between state and private governance, wielding quasi-sovereign power in Asia. Simultaneously, the Protestant Reformation reshaped European societies: religious wars (Thirty Years War, 1618–1648), Protestant and Catholic rivalries, and the spread of Calvinist work ethic contributed to European commercial culture. Jesuit missionaries carried Christianity globally. The Peace of Westphalia (1648) established the modern sovereign state system.
+As maritime empires matured, they developed internal governance structures. Mercantilist economic policies kept colonial wealth flowing to the mother country. Joint-stock companies (VOC, EIC) blurred the line between state and private governance, wielding quasi-sovereign power in Asia. Simultaneously, the [[Concept Notes/Protestant Reformation|Protestant Reformation]] reshaped European societies: religious wars (Thirty Years War, 1618–1648), Protestant and Catholic rivalries, and the spread of Calvinist work ethic contributed to European commercial culture. Jesuit missionaries carried Christianity globally. The Peace of Westphalia (1648) established the modern sovereign state system.
 
 → [[Unit-4.5/Maritime Empires Develop Overview|Maritime Empires Develop Overview]]
 
@@ -85,13 +85,13 @@ States responded with varying success — using military force, legal codificati
 
 The colonial encounter produced the period's most distinctive social innovation: the race-based casta system in Spanish colonial Latin America. Social categories (peninsulares → criollos → mestizos → mulattos → zambos → indigenous/enslaved Africans) were assigned at baptism and carried legal weight. Race, not class or faith, became the primary social marker in the Americas.
 
-Across the gunpowder empires, established hierarchies adapted. The Ottoman millet system tolerated Jews and Christians as protected minorities. Akbar the Great abolished the jizya and integrated Hindu elites, demonstrating religious pluralism as a governance strategy. The Qing Dynasty (1644–) imposed ethnic hierarchy: Manchu minority over Han majority, enforced by the queue requirement. In Europe, Louis XIV neutralized the French nobility at Versailles; in Russia, Ivan IV crushed boyar independence.
+Across the [[Concept Notes/Gunpowder Empires|gunpowder empires]], established hierarchies adapted. The Ottoman millet system tolerated Jews and Christians as protected minorities. Akbar the Great abolished the jizya and integrated Hindu elites, demonstrating religious pluralism as a governance strategy. The Qing Dynasty (1644–) imposed ethnic hierarchy: Manchu minority over Han majority, enforced by the queue requirement. In Europe, Louis XIV neutralized the French nobility at Versailles; in Russia, Ivan IV crushed boyar independence.
 
 → [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]]
 
 ### 4.8 — Continuity and Change, c. 1450–c. 1750
 
-The synthesis topic asks: what changed most, and what persisted? The defining *change* is the integration of the Western Hemisphere into the global economy — structurally new, unprecedented, and irreversible. The defining *continuity* is coercive labor: serfdom, slavery, debt peonage, and tribute labor all persist across the period, differing in form but not in logic. Mercantilism gave way to early capitalism by the period's end; joint-stock companies channeled merchant wealth into the capital accumulation that would fuel the Industrial Revolution.
+The synthesis topic asks: what changed most, and what persisted? The defining *change* is the integration of the Western Hemisphere into the global economy — structurally new, unprecedented, and irreversible. The defining *continuity* is coercive labor: serfdom, slavery, debt peonage, and tribute labor all persist across the period, differing in form but not in logic. [[Concept Notes/Mercantilism|Mercantilism]] gave way to early capitalism by the period's end; joint-stock companies channeled merchant wealth into the capital accumulation that would fuel the Industrial Revolution.
 
 The Historical Perspectives debate — the Black Legend vs. White Legend on Spanish colonialism — illustrates how national identity, religion, and context shape historical interpretation.
 

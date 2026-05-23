@@ -13,7 +13,7 @@ tags: [apwh, unit-4, topic-4-1, period-2, TEC, ECN, causation, contextualization
 This is the central theme of 4.1. The core argument: European maritime expansion was enabled by a *synthesized toolkit* of technologies that diffused across cultures through trade and scholarly contact. No single civilization invented everything needed for ocean navigation. The compass (China), the astrolabe (improved by Islamic scholars), the lateen sail (Arab/Indian Ocean), and wind-pattern knowledge (accumulated globally) all converged in European hands, primarily through Al-Andalus and Indian Ocean trade networks.
 
 **ECN — Economic Systems**
-Technology directly changed economic possibilities. The caravel and compass made sea routes to Asia viable, undercutting Ottoman-controlled overland routes. Joint-stock companies (EIC, VOC) applied new financial instruments to fund risky, capital-intensive voyages. The result was the transformation of Western European states into maritime empires — a new model of economic power based on controlling sea lanes rather than land.
+Technology directly changed economic possibilities. The caravel and compass made sea routes to Asia viable, undercutting Ottoman-controlled overland routes. [[Concept Notes/Joint-Stock Companies|Joint-stock companies]] (EIC, VOC) applied new financial instruments to fund risky, capital-intensive voyages. The result was the transformation of Western European states into maritime empires — a new model of economic power based on controlling sea lanes rather than land.
 
 ## Historical Reasoning Skills
 

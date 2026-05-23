@@ -13,7 +13,7 @@ tags: [apwh, unit-5, topic-5-2, period-3, nationalism, revolutions, connections]
 Enlightenment thinkers provided the ideological arsenal for every Atlantic revolution. Locke's natural rights language appeared in the Declaration of Independence word-for-word. Rousseau's popular sovereignty shaped French revolutionary doctrine. Montesquieu's separation of powers influenced constitutional designs across the Americas. Without 5.1, there is no 5.2.
 
 **Topic 4.5 — Maritime Empires Develop** → [[Unit-4.5/Maritime Empires Develop Overview|Maritime Empires Develop Overview]]
-Colonial exploitation — mercantilism, plantation slavery, peninsulares privilege — created the economic and social grievances that motivated revolutionaries in America, Haiti, and Latin America. The Atlantic slave trade that built European colonial wealth is the direct backdrop to the Haitian Revolution.
+Colonial exploitation — mercantilism, plantation slavery, peninsulares privilege — created the economic and social grievances that motivated revolutionaries in America, Haiti, and Latin America. The [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] that built European colonial wealth is the direct backdrop to the Haitian Revolution.
 
 **Topic 4.7 — Changing Social Hierarchies** → [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]]
 The casta system — peninsulares → creoles → mestizos → mulattoes → indigenous/enslaved — structured who was motivated to revolt and who led the revolts in Latin America. Creoles used independence to displace peninsulares, not to flatten the hierarchy. This is why the limits of the Latin American revolutions are so legible from 4.7.

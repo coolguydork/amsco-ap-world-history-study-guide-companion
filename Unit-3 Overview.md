@@ -47,7 +47,7 @@ Once empires conquered territory, they faced a harder problem: ruling diverse po
 
 One of Unit 3's most important geopolitical threads is the **Sunni–Shi'a divide** that split the Islamic world. When Shah Ismail I founded the Safavid Empire in 1501 and declared **Twelver Shi'a Islam** the state religion, he drew a permanent religious boundary with the Sunni Ottoman Empire. The Ottomans and Safavids fought repeatedly — not just over territory, but over which version of Islam was correct. Each regarded the other as heretics. This conflict structured Southwest Asian politics for centuries and echoes in modern tensions between Iran and Turkey/Iraq.
 
-### Decline: Why the Gunpowder Empires Fell
+### Decline: Why the [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] Fell
 
 By the mid-1700s, the Safavid Empire had collapsed (1722), the Mughal Empire was fracturing, and the Ottoman Empire was under increasing military pressure from European powers. Historians offer three major explanations:
 
@@ -78,7 +78,7 @@ By the mid-1700s, the Safavid Empire had collapsed (1722), the Mughal Empire was
 
 **GOV — Governance** runs through every topic. The unit is fundamentally about how states organize and justify power. Devshirme, civil service exams, zamindars, divine right, the caliphate — all are governance mechanisms. See [[Unit-3.2/Themes & Historical Reasoning|3.2 Themes]] and [[Unit-3.4/Themes & Historical Reasoning|3.4 Themes]].
 
-**CDI — Cultural Developments and Interactions** appears most in 3.3 and 3.4. The Sunni–Shi'a conflict, the Protestant Reformation, Akbar's syncretism, and the use of art and architecture as legitimacy tools are all CDI. The Reformation in Europe is a parallel development — religious authority being challenged and reshaped in the same period the Safavids were imposing Shi'a orthodoxy on Persia.
+**CDI — Cultural Developments and Interactions** appears most in 3.3 and 3.4. The Sunni–Shi'a conflict, the [[Concept Notes/Protestant Reformation|Protestant Reformation]], Akbar's syncretism, and the use of art and architecture as legitimacy tools are all CDI. The Reformation in Europe is a parallel development — religious authority being challenged and reshaped in the same period the Safavids were imposing Shi'a orthodoxy on Persia.
 
 **SIO — Social Interactions and Organization** underlies the discussion of devshirme (enslaved boys rising to positions of power), the millet system (Ottoman religious community autonomy), and the caste/jati tensions in Mughal India between Hindu and Muslim populations.
 

@@ -31,7 +31,7 @@ Topic 3.4 spans the entire period c. 1450–c. 1750 — the AP exam era of domin
 ## Chronological Themes
 
 **Early period (c. 1450–c. 1600): Rise and consolidation**
-The Gunpowder Empires expanded rapidly using superior military technology (cannons, firearms) and developed centralized bureaucratic systems to govern conquered territories. Suleiman I's reign (1520–1566) represented the Ottoman apex. The Safavid–Ottoman conflict became entrenched along the Sunni–Shi'a divide.
+The [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] expanded rapidly using superior military technology (cannons, firearms) and developed centralized bureaucratic systems to govern conquered territories. Suleiman I's reign (1520–1566) represented the Ottoman apex. The Safavid–Ottoman conflict became entrenched along the Sunni–Shi'a divide.
 
 **Middle period (c. 1600–c. 1700): Stress fractures appear**
 After c. 1600 the Ottoman military fell behind European innovation. Harem politics and succession crises weakened all three Gunpowder Empires. The Mughal Empire reached its greatest territorial extent under Aurangzeb (r. 1658–1707) but at the cost of religious tolerance, deepening Hindu–Muslim tensions that would accelerate Mughal decline.

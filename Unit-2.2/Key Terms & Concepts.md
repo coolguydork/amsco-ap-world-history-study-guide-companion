@@ -63,7 +63,7 @@ A devastating epidemic disease spread by fleas carried on rodents. The Mongol co
 > The bubonic plague is one of the most important unintended consequences of the Pax Mongolica — the same roads that carried silk and ideas also carried disease. The AP exam often asks about this irony.
 
 **Tamerlane (Timur the Lame)**
-A Central Asian conqueror of Turco-Mongol origin who conquered most of the Central Asian territories formerly held by the Mongols around 1369. He is sometimes seen as a transitional figure between Mongol and later gunpowder empire rule. (AMSCO p. 90)
+A Central Asian conqueror of Turco-Mongol origin who conquered most of the Central Asian territories formerly held by the Mongols around 1369. He is sometimes seen as a transitional figure between Mongol and later [[Concept Notes/Gunpowder Empires|gunpowder empire]] rule. (AMSCO p. 90)
 
 **Uyghur Alphabet**
 The script adapted to write Mongolian under Genghis Khan's direction by a captured Uyghur scribe in 1204. Though the attempt to impose a single script empire-wide failed, the adapted Uyghur alphabet remains in use in Mongolia today. (AMSCO p. 87)

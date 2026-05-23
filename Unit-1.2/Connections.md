@@ -28,7 +28,7 @@ Muslim merchants were the dominant middlemen of the Silk Roads throughout Period
 ### Topic 2.4 — Trans-Saharan Trade Routes
 Islam spread into sub-Saharan Africa via the trans-Saharan routes. The **Ulama**, Sufi missionaries, and Muslim merchants who dominate Topic 1.2 are the same actors who carried Islam to Mali, Songhai, and the Swahili Coast in Topics 2.4 and 1.5. The connection between Islamic scholarship/governance in the north and sub-Saharan kingdoms is direct.
 
-### Topic 3.1 — Gunpowder Empires Expand
+### Topic 3.1 — [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] Expand
 The three great Islamic empires of Period 2 — Ottoman, Safavid, and Mughal — all have their roots in the Turkic successor states of Period 1 covered in Topic 1.2. The Mamluks, Seljuks, and Delhi Sultanate established the pattern of Turkic Islamic governance that the gunpowder empires inherited and built upon. Topic 1.2 provides the necessary context for understanding why the Islamic empires of Period 2 look the way they do.
 
 ### Topic 3.3 — Empires: Belief Systems

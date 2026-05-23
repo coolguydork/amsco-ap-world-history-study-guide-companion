@@ -16,16 +16,16 @@ tags: [apwh, unit-4, topic-4-5, period-2, trade-networks, economic-systems, gove
 **Capital**
 Material wealth available to produce more wealth. As European entrepreneurs entered long-distance markets, capital accumulation grew — passing from entrepreneurs to laborers, enabling investment. Silver from the Americas dramatically increased actual capital in circulation. (p. 232)
 
-**Mercantilism**
+**[[Concept Notes/Mercantilism|Mercantilism]]**
 The economic doctrine that national wealth equals gold and silver reserves. Mercantilist states maximized exports, minimized imports, and used colonies as sources of raw materials and captive markets for finished goods. The dominant European economic framework c. 1450–1750.
 
 **Commercial Revolution**
 The transformation from barter-based local trade to a gold-and-silver international economy, driven by four factors: European overseas colonies, new ocean trade routes, population growth, and inflation. Affected all world regions. (p. 233)
 
-**Price Revolution**
+**[[Concept Notes/Price Revolution|Price Revolution]]**
 The high rate of inflation during the 16th and early 17th centuries, caused partly by population growth and partly by the massive influx of American silver and gold into European markets. A direct consequence of Potosí silver mining. (p. 233)
 
-**Joint-stock companies**
+**[[Concept Notes/Joint-Stock Companies|Joint-stock companies]]**
 Corporations in which investors bought shares (stock) and split both profits and risks of trade and colonization ventures. Offered **limited liability** — investors could not lose more than their initial investment. Made large-scale empire-building commercially viable for the European middle class. (p. 233)
 
 **Limited liability**
@@ -82,7 +82,7 @@ A syncretic Catholic cult that emerged in Mexico around a dark-complexioned Virg
 People born in the Americas of Spanish (or European) descent. By 1750, creoles dominated political life in New Spain. Their exclusion from top colonial offices held by peninsulares (Spanish-born) fueled the independence movements of the early 19th century (Topic 5.2). (p. 237)
 
 **Polygyny**
-The practice of a man having more than one wife. Became more common in West African societies affected by the Atlantic slave trade, which removed more than two-thirds of the enslaved population from male-dominated age groups, creating gender imbalance. (p. 236)
+The practice of a man having more than one wife. Became more common in West African societies affected by the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]], which removed more than two-thirds of the enslaved population from male-dominated age groups, creating gender imbalance. (p. 236)
 
 ---
 

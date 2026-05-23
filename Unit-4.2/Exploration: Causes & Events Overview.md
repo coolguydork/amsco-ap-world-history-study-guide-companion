@@ -19,7 +19,7 @@ By the mid-1400s, Italian city-states controlled the overland trade routes conne
 Exploration was expensive — far beyond what individual merchants or explorers could finance alone. States stepped in because they had powerful reasons to do so:
 
 - **Wealth and trade rivalry**: European states competed fiercely for access to Asian goods (spices, silk, porcelain). Controlling a new route meant enormous tax revenue and commercial advantage.
-- **Mercantilism**: Prevailing economic theory held that a state's wealth was measured by its gold and silver reserves. Governments set policies to maximize precious metal inflows and minimize outflows — which made finding new sources of gold and silver a national priority.
+- **[[Concept Notes/Mercantilism|Mercantilism]]**: Prevailing economic theory held that a state's wealth was measured by its gold and silver reserves. Governments set policies to maximize precious metal inflows and minimize outflows — which made finding new sources of gold and silver a national priority.
 - **Religious conversion**: Christianity was deeply woven into European governance. Spreading the faith was seen as both a moral duty and a justification for conquest.
 - **Inter-state rivalry**: If one power claimed a territory, others were locked out. The fear of being left behind accelerated exploration across multiple nations simultaneously.
 

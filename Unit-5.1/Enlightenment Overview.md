@@ -49,7 +49,7 @@ The **philosophes** were 18th-century French-language writers who popularized En
 
 ### Adam Smith and Economic Enlightenment
 
-**Adam Smith** (*The Wealth of Nations*, 1776) attacked mercantilism and argued for **laissez-faire** ("leave alone") economics. He believed that if individuals pursued their own economic interests, an "invisible hand" would guide markets to produce outcomes beneficial to all. Smith's work provided the intellectual foundation for **capitalism** — private ownership of the means of production operated for profit. His ideas will resurface in **Topic 5.7** (Economic Developments & Innovations).
+**Adam Smith** (*The Wealth of Nations*, 1776) attacked [[Concept Notes/Mercantilism|mercantilism]] and argued for **laissez-faire** ("leave alone") economics. He believed that if individuals pursued their own economic interests, an "invisible hand" would guide markets to produce outcomes beneficial to all. Smith's work provided the intellectual foundation for **capitalism** — private ownership of the means of production operated for profit. His ideas will resurface in **Topic 5.7** (Economic Developments & Innovations).
 
 ### Deism
 
@@ -90,7 +90,7 @@ The Enlightenment's political ideas reached far beyond Europe. They provided the
 
 ## Connections
 
-**Builds on:** [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power]] (Topic 4.6) — the Protestant Reformation already challenged church and monarchical authority; [[Unit-1.6/Medieval Europe Overview|Medieval Europe]] (Topic 1.6) — European scholasticism as earlier rationalist tradition; [[Unit-4.5/Maritime Empires Develop Overview|Maritime Empires Develop]] (Topic 4.5) — colonial wealth funded European intellectual culture
+**Builds on:** [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power]] (Topic 4.6) — the [[Concept Notes/Protestant Reformation|Protestant Reformation]] already challenged church and monarchical authority; [[Unit-1.6/Medieval Europe Overview|Medieval Europe]] (Topic 1.6) — European scholasticism as earlier rationalist tradition; [[Unit-4.5/Maritime Empires Develop Overview|Maritime Empires Develop]] (Topic 4.5) — colonial wealth funded European intellectual culture
 
 **Leads to:** **Nationalism & Revolutions** (Topic 5.2) — Enlightenment ideas ignite Atlantic revolutions; **Economic Developments** (Topic 5.7) — Smith's capitalism vs. socialist responses; **Imperialism** (Topic 6.1) — Enlightenment ideas used to justify AND critique empire
 

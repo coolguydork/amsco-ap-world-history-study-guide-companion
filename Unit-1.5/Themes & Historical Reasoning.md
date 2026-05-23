@@ -51,7 +51,7 @@ The kingdoms that arose — Ghana, Mali, Songhai — were essentially **toll-col
 > When comparing West and East African trade systems: West Africa = **trans-Saharan** (overland camel caravans); East Africa = **Indian Ocean** (maritime dhow trade). Both generated wealthy states, but through geographically distinct networks. This is a productive comparison frame for AP LEQs about trade networks.
 
 ### Slavery as an Economic Institution
-Long before the Atlantic slave trade, slavery was embedded in African economies. Three forms: chattel (person as legal property), domestic (household service), and debt bondage (enslavement to repay debt). The Indian Ocean slave trade connected East African enslaved people (*zanj*) to sugar plantations in Mesopotamia. The Zanj Rebellion (869–883 CE) shows enslaved people's agency in resisting this system. This pre-existing institution is important context for understanding **why** the Atlantic slave trade could scale so quickly after 1492 — it exploited existing slave-trading networks and practices.
+Long before the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]], slavery was embedded in African economies. Three forms: chattel (person as legal property), domestic (household service), and debt bondage (enslavement to repay debt). The Indian Ocean slave trade connected East African enslaved people (*zanj*) to sugar plantations in Mesopotamia. The Zanj Rebellion (869–883 CE) shows enslaved people's agency in resisting this system. This pre-existing institution is important context for understanding **why** the Atlantic slave trade could scale so quickly after 1492 — it exploited existing slave-trading networks and practices.
 
 ---
 

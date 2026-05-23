@@ -158,7 +158,7 @@ All three trade networks **continued to function** throughout the period, even s
 
 Unit 2 sets up the next three units in critical ways. The exam will expect you to recall Unit 2 evidence when writing essays on later topics.
 
-**To Unit 3 (Land-Based Empires):** The Mongol Empire's successor states — the Ottomans, Safavids, and Mughals — all drew on Mongol administrative models. Ottoman expansion eventually disrupted the Silk Roads (c. 1450), a key cause of European maritime exploration. The gunpowder technologies that the Mongols spread westward became the foundation for the "Gunpowder Empires" of Unit 3.
+**To Unit 3 (Land-Based Empires):** The Mongol Empire's successor states — the Ottomans, Safavids, and Mughals — all drew on Mongol administrative models. Ottoman expansion eventually disrupted the Silk Roads (c. 1450), a key cause of European maritime exploration. The gunpowder technologies that the Mongols spread westward became the foundation for the "[[Concept Notes/Gunpowder Empires|Gunpowder Empires]]" of Unit 3.
 
 **To Unit 4 (Maritime Empires):** The decline of the Silk Roads pushed European merchants to seek oceanic alternatives. Zheng He's voyages (1405–1433) demonstrated that the Indian Ocean was reachable and profitable — though China chose not to exploit this. European sailors made the same journey sixty years later and chose differently. The trans-Saharan gold trade that enriched Mali was the same West African gold that Portuguese merchants sought when they began sailing down the African coast in the 1440s.
 

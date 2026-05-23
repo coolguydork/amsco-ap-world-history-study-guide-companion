@@ -30,7 +30,7 @@ Modern historian and author of *The Columbian Exchange: Biological and Cultural 
 ## Key States & Empires
 
 **Spain**
-The dominant European power in the Americas during the 16th century. Spain financed Columbus's 1492 voyage, sponsored conquistadores Cortés and Pizarro, and extracted enormous wealth from American silver mines (Potosí, Huancavelica). Spanish colonies developed plantation agriculture in the Caribbean — sugar, tobacco — using enslaved African labor. The silver Spain extracted paradoxically fueled inflation (the Price Revolution) that contributed to its long-term economic decline.
+The dominant European power in the Americas during the 16th century. Spain financed Columbus's 1492 voyage, sponsored conquistadores Cortés and Pizarro, and extracted enormous wealth from American silver mines (Potosí, Huancavelica). Spanish colonies developed plantation agriculture in the Caribbean — sugar, tobacco — using enslaved African labor. The silver Spain extracted paradoxically fueled inflation (the [[Concept Notes/Price Revolution|Price Revolution]]) that contributed to its long-term economic decline.
 
 **Portugal**
 Spain's rival and the pioneer of Atlantic plantation agriculture. Portugal established sugar-producing colonies in Brazil, developing the *engenho* system that became the model for Atlantic slavery. Portugal imported enslaved Africans primarily from the Kongo Kingdom and the Swahili coast, making Brazil the destination for more enslaved Africans than any other region. See [[Unit-4.2/People, States & Movements|People, States & Movements]] (Topic 4.2) for Portugal's earlier Indian Ocean and Atlantic exploration.
@@ -48,7 +48,7 @@ A powerful Central African kingdom (present-day Republic of Congo, Democratic Re
 **African Diaspora**
 The forced dispersal of millions of Africans across the Atlantic (16th–19th centuries) produced one of history's most significant demographic and cultural migrations. Despite arriving under conditions of extreme coercion, enslaved Africans preserved elements of their cultures: they created creole languages, maintained musical traditions, brought food crops (okra, rice, manioc), and blended African spiritual practices with Christianity. The diaspora fundamentally shaped the Americas — in population, culture, language, and cuisine.
 
-**Transatlantic Slave Trade**
+**[[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]]**
 The systematic, commercially organized forced migration of Africans to the Americas to supply plantation labor. Driven by the profitability of sugar (and later tobacco and cacao), the trade expanded dramatically from the late 15th century through the 19th. Brazil and the Caribbean received the vast majority of captives. The trade is treated in more detail in Topic 4.4 (conquest and labor systems).
 
 > [!tip]

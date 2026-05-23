@@ -30,7 +30,7 @@ tags: [apwh, unit-4, topic-4-7, period-2, social-hierarchy, timeline]
 
 ## Chronological Patterns
 
-**Early period (1450–1520):** Social hierarchies in gunpowder empires form and stabilize. Ottoman millet system matures. Mughal Empire not yet founded. Spanish colonialism begins restructuring American societies. Jewish expulsions from Spain create Sephardic diaspora.
+**Early period (1450–1520):** Social hierarchies in [[Concept Notes/Gunpowder Empires|gunpowder empires]] form and stabilize. Ottoman millet system matures. Mughal Empire not yet founded. Spanish colonialism begins restructuring American societies. Jewish expulsions from Spain create Sephardic diaspora.
 
 **Middle period (1520–1620):** Akbar's reign represents peak of Mughal religious tolerance. Casta system codified in Spanish Americas. Ivan IV crushes Russian boyar independence. Ottoman harem politics at its height (Roxelana).
 
@@ -40,4 +40,4 @@ tags: [apwh, unit-4, topic-4-7, period-2, social-hierarchy, timeline]
 > Remember: 1492 is the most important single year in this topic — it marks both the Spanish expulsion of Jews AND Columbus's first voyage, two events that reshape social hierarchies on different continents for the next 300 years.
 
 > [!exam-tip]
-> The AP exam often uses dates to test causation. Know these chains: Columbus (1492) → Atlantic slave trade → Columbian Exchange demographic collapse → casta system → colonial racial hierarchy. Akbar (1556–1605) → Mughal tolerance → jizya abolished → Hindu-Muslim cooperation → Mughal stability.
+> The AP exam often uses dates to test causation. Know these chains: Columbus (1492) → [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] → Columbian Exchange demographic collapse → casta system → colonial racial hierarchy. Akbar (1556–1605) → Mughal tolerance → jizya abolished → Hindu-Muslim cooperation → Mughal stability.

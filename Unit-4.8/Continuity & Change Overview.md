@@ -19,9 +19,9 @@ The historian Alfred Crosby captured the era's defining feature: *"The seams of 
 ## Key Continuities
 
 **Coercive Labor Systems**
-Forced labor did not begin in 1450 and did not end in 1750. Serfdom continued across Afro-Eurasia; the Russian serf system intensified. What changed was the form: the Atlantic world added chattel slavery, indentured servitude, encomienda, hacienda, and the adapted Inca mit'a to the menu of coerced labor. The total scale of coercive labor expanded dramatically, but the logic — elites extracting surplus from unfree laborers — was ancient. (AMSCO p. 264)
+Forced labor did not begin in 1450 and did not end in 1750. Serfdom continued across Afro-Eurasia; the Russian serf system intensified. What changed was the form: the Atlantic world added chattel slavery, indentured servitude, [[Concept Notes/Encomienda|encomienda]], hacienda, and the adapted Inca mit'a to the menu of coerced labor. The total scale of coercive labor expanded dramatically, but the logic — elites extracting surplus from unfree laborers — was ancient. (AMSCO p. 264)
 
-**Mercantilism as State Economic Policy**
+**[[Concept Notes/Mercantilism|Mercantilism]] as State Economic Policy**
 Throughout the period, European rulers used mercantilist policies to ensure that trade generated state revenue. Mercantilism — controlling exports and imports to accumulate gold and silver — was the dominant economic framework from 1450 through much of 1750. It represented continuity in *state intervention in the economy*, even as the specific mechanisms evolved. (AMSCO p. 263)
 
 **Regional Trade Networks**
@@ -39,7 +39,7 @@ Before 1492, the Americas were entirely outside the Afro-Eurasian world system. 
 A new transoceanic trading network emerged linking Western Europe, West Africa, and the Americas. Its defining features were the slave trade, cash-crop plantation agriculture (sugar, tobacco, cotton), and the circulation of silver. The Mediterranean-centered economy of 1450 gave way to an Atlantic-centered economy by 1750. (AMSCO p. 262)
 
 **Mercantilism → Capitalism**
-By the late 17th and early 18th centuries, joint-stock companies (Dutch East India Company / VOC, British East India Company / EIC) transformed commerce. Investors could pool risk and profit across multiple ventures. This represents the early emergence of capitalism as a system — distinct from mercantilism in that profit-seeking drove economic decisions rather than state revenue targets. The middle class expanded. Capital for the coming Industrial Revolution accumulated. (AMSCO p. 263)
+By the late 17th and early 18th centuries, [[Concept Notes/Joint-Stock Companies|joint-stock companies]] (Dutch East India Company / VOC, British East India Company / EIC) transformed commerce. Investors could pool risk and profit across multiple ventures. This represents the early emergence of capitalism as a system — distinct from mercantilism in that profit-seeking drove economic decisions rather than state revenue targets. The middle class expanded. Capital for the coming Industrial Revolution accumulated. (AMSCO p. 263)
 
 **New Social Structures Based on Race**
 The colonial encounter created genuinely new social hierarchies based on racial ancestry — the casta system, chattel slavery, and the racially stratified plantation economy. These were not adaptations of earlier class or religious hierarchies; they were new. (AMSCO p. 264)
@@ -49,7 +49,7 @@ By 1750, European maritime empires had displaced Arab, Indian, and Chinese merch
 
 ## Scope of Change: The Silver Economy
 
-One of the clearest measures of global integration is silver. American silver (primarily from Potosí, Bolivia) flowed across the Pacific to China, where demand was insatiable. It flowed east to Europe, where it financed wars and commercial expansion. The amount of silver in the global economy roughly tripled in the 16th century. This flood of silver caused the **Price Revolution** — sustained inflation across Europe and parts of Asia — demonstrating that regional economies were now truly interdependent. (AMSCO p. 263)
+One of the clearest measures of global integration is silver. American silver (primarily from Potosí, Bolivia) flowed across the Pacific to China, where demand was insatiable. It flowed east to Europe, where it financed wars and commercial expansion. The amount of silver in the global economy roughly tripled in the 16th century. This flood of silver caused the **[[Concept Notes/Price Revolution|Price Revolution]]** — sustained inflation across Europe and parts of Asia — demonstrating that regional economies were now truly interdependent. (AMSCO p. 263)
 
 ## Demand for Labor Intensifies
 

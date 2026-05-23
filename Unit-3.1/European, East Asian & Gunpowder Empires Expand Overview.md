@@ -5,7 +5,7 @@ period: 2
 tags: [apwh, unit-3, topic-3-1, period-2, governance, technology, land-based-empires, gunpowder-empires, ottoman, safavid, mughal, china, russia]
 ---
 
-# European, East Asian, and Gunpowder Empires Expand
+# European, East Asian, and [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] Expand
 
 **Period:** 1450–1750 | **AP Themes:** GOV · TEC · MIG
 **Essential Question:** How did certain land-based empires develop and expand in the period from 1450–1750?

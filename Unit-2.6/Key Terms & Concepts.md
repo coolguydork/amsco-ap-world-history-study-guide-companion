@@ -19,7 +19,7 @@ A quick-ripening, drought-resistant, flood-resistant rice variety originating in
 Introduced to sub-Saharan Africa by Indonesian seafarers crossing the Indian Ocean. Nutritious and easy to cultivate in equatorial climates, bananas allowed [[Concept Notes/Indian Ocean Trade Network|Bantu-speaking peoples]] to migrate into regions where their traditional food staple (yams) could not grow, boosting population and agricultural land use. (AMSCO p. 122)
 
 **Sugar**
-Spread across the Islamic world and into Europe via Dar al-Islam trade networks. European demand for sugar grew so high it became a driving force behind the Atlantic slave trade of the 1500s. (AMSCO p. 122)
+Spread across the Islamic world and into Europe via Dar al-Islam trade networks. European demand for sugar grew so high it became a driving force behind the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] of the 1500s. (AMSCO p. 122)
 
 **Citrus crops**
 Citrus fruits (lemons, oranges, limes) spread via Islamic trade networks from Southwest Asia into the Mediterranean basin and Europe, diversifying diets and trade goods. (AMSCO p. 121)

@@ -36,7 +36,7 @@ Montesquieu's idea (*The Spirit of the Laws*, 1748) that government should be di
 Rousseau's concept (*The Social Contract*, 1762) of the collective expression of a free citizenry. A sovereign government's obligation was to carry out the General Will rather than the will of a monarch or aristocracy. Provided ideological fuel for the French Revolution's claim to govern in the name of "the people."
 
 **Laissez-faire**
-French for "leave alone." Adam Smith's argument that governments should minimize interference in economic decisions. If individuals pursue their own interests, the "invisible hand" of the market guides outcomes beneficial to all. Anti-mercantilist; foundation of classical economic liberalism.
+French for "leave alone." Adam Smith's argument that governments should minimize interference in economic decisions. If individuals pursue their own interests, the "invisible hand" of the market guides outcomes beneficial to all. Anti-[[Concept Notes/Mercantilism|mercantilist]]; foundation of classical economic liberalism.
 
 **Capitalism**
 An economic system in which the means of production (factories, land, natural resources) are privately owned and operated for profit. Adam Smith's *Wealth of Nations* (1776) provided its intellectual foundation. Contrasts with socialism (worker/public ownership) and mercantilism (state-directed trade for national benefit).
@@ -66,7 +66,7 @@ A late-19th-century British socialist organization that advocated gradual reform
 The movement for women's rights and equality, grounded in Enlightenment logic: if natural rights apply to all humans, they must apply to women as well. Key milestones: de Gouges's *Declaration of the Rights of Woman* (1791), Wollstonecraft's *A Vindication of the Rights of Women* (1792), and the Seneca Falls Convention (1848).
 
 **Abolitionism**
-The movement to end the Atlantic slave trade and slavery. Grew from Enlightenment arguments about natural rights applied to enslaved people. Denmark (1807), Britain (1807), and the U.S. (1808) banned the slave trade first; slavery was abolished across most of the Americas within decades. Brazil was last (1888).
+The movement to end the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] and slavery. Grew from Enlightenment arguments about natural rights applied to enslaved people. Denmark (1807), Britain (1807), and the U.S. (1808) banned the slave trade first; slavery was abolished across most of the Americas within decades. Brazil was last (1888).
 
 **Anti-Semitism**
 Hostility toward Jewish people. A persistent feature of European history that intensified in the late 19th century despite (or alongside) Enlightenment ideals. The Dreyfus Affair (1894) exposed anti-Semitism even in "enlightened" France, galvanizing Zionism.

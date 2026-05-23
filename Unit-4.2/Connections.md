@@ -47,7 +47,7 @@ Compare 15th–16th-century exploration with 19th-century imperialism: both invo
 
 **European expansion** — 4.2 is the launch point for the entire European expansion narrative that runs through Units 4, 5, and 6.
 
-**Mercantilism** — introduced here; reappears in 4.4 (encomienda), 4.8 (economic systems), and later in discussions of the Navigation Acts and colonial trade policies.
+**[[Concept Notes/Mercantilism|Mercantilism]]** — introduced here; reappears in 4.4 (encomienda), 4.8 (economic systems), and later in discussions of the Navigation Acts and colonial trade policies.
 
 **Religious conversion motives** — introduced here as a cause of exploration; reappears in 4.3 and 4.4 as Spanish missionaries follow conquistadors into the Americas.
 

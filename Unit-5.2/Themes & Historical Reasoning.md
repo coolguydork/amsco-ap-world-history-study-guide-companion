@@ -23,7 +23,7 @@ tags: [apwh, unit-5, topic-5-2, period-3, nationalism, revolutions, themes, hist
 
 **Ideological causes** — [[Unit-5.1/Enlightenment Overview|Enlightenment Overview]] supplied the intellectual framework: natural rights (Locke), popular sovereignty (Rousseau), separation of powers (Montesquieu). Without Enlightenment ideas, there was no language for challenging monarchy.
 
-**Economic causes** — British mercantilism restricted American colonial trade. France's fiscal crisis (partly caused by funding the American Revolution) triggered the Estates-General. Spain's mercantilism and peninsulares' monopoly on colonial offices alienated creoles in Latin America.
+**Economic causes** — British [[Concept Notes/Mercantilism|mercantilism]] restricted American colonial trade. France's fiscal crisis (partly caused by funding the American Revolution) triggered the Estates-General. Spain's mercantilism and peninsulares' monopoly on colonial offices alienated creoles in Latin America.
 
 **Political causes** — Colonial legislatures in America had grown accustomed to self-governance. The French Estates-General's voting inequality made the commoners' grievances structural. Colonial subjects everywhere chafed under laws made without their representation.
 
