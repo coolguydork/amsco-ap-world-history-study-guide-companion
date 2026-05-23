@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "black death",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.7365286026744855,
-  "close": false
+  "scale": 0.4337914321327613,
+  "close": true
 }
