@@ -26,7 +26,7 @@ Specific technologies enabled the economic structures in 5.7. The Bessemer proce
 
 ## Leads To
 
-**Reactions to the Industrial Economy (Topic 5.8)** ← not yet built
+**Reactions to the Industrial Economy [[Unit-5.8/Reactions to the Industrial Economy Overview|Reactions to the Industrial Economy Overview]]** ← not yet built
 The monopolies, wage inequality, and concentration of power described in Topic 5.7 directly provoked the responses in 5.8: labor unions, socialism, Marxism, and the political demands of the working class. You cannot understand 5.8 without 5.7 — they are cause and effect.
 
 **Global Economic Development (Topic 6.4)** ← not yet built

@@ -46,7 +46,7 @@ Krupp monopolizes German steel industry
     ↓
 Monopoly capitalism → political power concentration
     ↓
-Backlash → socialism, antitrust movements (Topic 5.8)
+Backlash → socialism, antitrust movements [[Unit-5.8/Reactions to the Industrial Economy Overview|Reactions to the Industrial Economy Overview]]
 ```
 
 ### Causation Chain: Corporations → Colonialism

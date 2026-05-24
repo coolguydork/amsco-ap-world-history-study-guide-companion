@@ -23,7 +23,7 @@ Britain's laissez-faire, private-market model (see [[Unit-5.3/Industrial Revolut
 
 ## Leads To
 
-**Reactions to the Industrial Economy (Topic 5.8)** ← folder not yet built
+**Reactions to the Industrial Economy [[Unit-5.8/Reactions to the Industrial Economy Overview|Reactions to the Industrial Economy Overview]]** ← folder not yet built
 The exploitation of female workers in Japanese textile mills (mentioned in AMSCO) connects directly to Topic 5.8's examination of labor movements, socialism, and reform efforts. Japan's industrial workers faced the same conditions that drove European workers to organize unions.
 
 **Shifting Power After World War I (Topic 7.1)** ← folder not yet built
