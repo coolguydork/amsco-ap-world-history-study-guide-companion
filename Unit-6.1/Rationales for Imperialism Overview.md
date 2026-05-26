@@ -46,7 +46,7 @@ The **East India Company (EIC)** was the institutional vehicle for British econo
 
 **Builds on:** [[Unit-5.4/Industrialization Spreads Overview\|Industrialization Spreads Overview]]  · [[Unit-5.5/Technology in the Industrial Age Overview\|Technology in the Industrial Age Overview]] 
 
-**Leads to:** **State Expansion** (Topic 6.2) · **Indigenous Responses to State Expansion** (Topic 6.3)
+**Leads to:** **State Expansion** [[Unit-6.2/State Expansion Overview|State Expansion Overview]] · **Indigenous Responses to State Expansion** [[Unit-6.3/Indigenous Responses to State Expansion Overview|Indigenous Responses to State Expansion Overview]]
 
 > [!exam-tip]
 > All four motives—nationalist, cultural, scientific-racist, and economic—appeared simultaneously in most imperial projects. When an AP prompt asks you to explain the causes of New Imperialism, the strongest responses identify *how these motives reinforced each other*, not just list them as parallel and separate.

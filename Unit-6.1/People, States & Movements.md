@@ -13,7 +13,7 @@ tags: [apwh, unit-6, topic-6-1, period-3, imperialism, key-figures, nationalism]
 British novelist and poet raised in colonial India. His poem "The White Man's Burden" (1899) urged Western powers to accept the supposed duty of governing "inferior" peoples, describing the colonized as "half-devil and half-child." Whether Kipling personally endorsed this view is debated by historians, but the poem became the defining statement of cultural and paternalistic justifications for imperialism and the "civilizing mission" ideology across the English-speaking world.
 
 > [!exam-tip]
-> "The White Man's Burden" is a primary source the AP exam uses regularly. Always identify it as evidence of **cultural/paternalistic justifications** for imperialism—not primarily economic or nationalist ones. It also serves as evidence of the condescending racial attitudes that generated resistance (Topic 6.3).
+> "The White Man's Burden" is a primary source the AP exam uses regularly. Always identify it as evidence of **cultural/paternalistic justifications** for imperialism—not primarily economic or nationalist ones. It also serves as evidence of the condescending racial attitudes that generated resistance [[Unit-6.3/Indigenous Responses to State Expansion Overview|Indigenous Responses to State Expansion Overview]].
 
 **Charles Darwin (1809–1882)**
 British naturalist who published *On the Origin of Species* (1859), establishing evolution by natural selection. His work was later distorted by Social Darwinists who applied "survival of the fittest" to racial hierarchies to justify conquest and colonial rule. Darwin never endorsed this application. On the AP exam, always distinguish Darwin's actual biological theory from Social Darwinism, which misuses it.

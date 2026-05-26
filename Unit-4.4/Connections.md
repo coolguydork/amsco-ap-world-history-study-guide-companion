@@ -32,7 +32,7 @@ The racial categories and social hierarchies created by conquest and slavery in 
 **Latin American Revolutions [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]]**
 The colonial economic structures built in 4.4 ([[Concept Notes/Mercantilism|mercantilism]], encomienda, silver extraction) create the resentments and inequalities that fuel Latin American independence movements in the early 19th century.
 
-**19th-Century Imperialism (Topic 6.2)**
+**19th-Century Imperialism [[Unit-6.2/State Expansion Overview|State Expansion Overview]]**
 The earlier British trading post model in India (EIC, sepoys, treaty expansion) directly prefigures the formal British Raj. Comparing 4.4's commercial empire-building with 6.2's formal colonial state reveals continuity and change in imperial methods.
 
 ## Compare With
@@ -40,7 +40,7 @@ The earlier British trading post model in India (EIC, sepoys, treaty expansion) 
 **[[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] — Land-based vs. Maritime Empires**
 Land-based empires (Ottoman, Mughal, Qing, Russian) expanded through contiguous territorial conquest and used existing administrative and tribute systems. Maritime empires depended on naval technology and operated through coastal trading posts and distant colonies. Compare their administrative methods: viceroyalties vs. Ottoman devshirme vs. Mughal mansabdari.
 
-**19th-Century Imperialism (Topic 6.2) — Earlier vs. Later Colonial Methods**
+**19th-Century Imperialism [[Unit-6.2/State Expansion Overview|State Expansion Overview]] — Earlier vs. Later Colonial Methods**
 Topic 4.4 maritime empires were primarily driven by extraction (silver, slaves, spices) and operated through trading posts and [[Concept Notes/Encomienda|encomienda]]. Topic 6.2 imperialism added economic motivations for industrial raw materials, the "civilizing mission" ideology, and formal territorial annexation backed by industrial military technology.
 
 ## AP Threads Running Through 4.4
