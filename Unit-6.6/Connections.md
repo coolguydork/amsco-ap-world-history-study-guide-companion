@@ -23,7 +23,7 @@ Industrialization is the structural cause of the migration era. Steamship techno
 
 ## Leads To
 
-**Effects of Migration (Topic 6.7)** ← folder not yet built
+**Effects of Migration [[Unit-6.7/Effects of Migration Overview|Effects of Migration Overview]]** ← folder not yet built
 Where 6.6 asks *why* people migrated, 6.7 asks *what happened when they arrived*. Cultural diffusion, demographic transformation, new diasporic identities, and social hierarchies in receiving societies are all consequences of the migration patterns established here. The Indian communities of Fiji and Trinidad, the Chinese communities of California and Southeast Asia, the Irish communities of New York and Boston — all originate in 6.6 and their effects are analyzed in 6.7.
 
 ---

@@ -17,10 +17,10 @@ Topic 5.4 covers industrialization's geographic spread to Europe, the U.S., and 
 
 ## Leads To
 
-**Causes of Migration in an Interconnected World (Topic 6.6)** ← folder not yet built
+**Causes of Migration in an Interconnected World [[Unit-6.6/Causes of Migration in an Interconnected World Overview|Causes of Migration in an Interconnected World Overview]]** ← folder not yet built
 Industrialization in 5.9 drives migration in 6.6: urban poverty, industrial slums, and economic dislocation push people out of cities and out of unindustrialized regions; industrial centers pull migrants in. The Five Points neighborhood (cited in the SAQ practice) is a direct bridge.
 
-**Effects of Migration (Topic 6.7)** ← folder not yet built
+**Effects of Migration [[Unit-6.7/Effects of Migration Overview|Effects of Migration Overview]]** ← folder not yet built
 The demographic transformations begun by industrialization — urbanization, class formation, ethnic mixing in industrial cities — continue in 6.7 as global migration intensifies.
 
 ## Compare With

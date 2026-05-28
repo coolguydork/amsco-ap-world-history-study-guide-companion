@@ -23,7 +23,7 @@ Topic 6.2 covers the political mechanisms of imperialism — how European states
 
 ## Leads To
 
-**Economic Imperialism (Topic 6.5)** ← folder not yet built
+**Economic Imperialism [[Unit-6.5/Economic Imperialism Overview|Economic Imperialism Overview]]** ← folder not yet built
 Topic 6.5 will deepen the economic imperialism story beyond raw material extraction — examining how financial investment, debt relationships, and informal empire extended European economic control even without formal colonization. Latin American states, nominally independent, were structurally dependent on British capital, railroads, and markets in ways that made them economic colonies without formal colonial status.
 
 **Economics in the Global Age (Topic 9.4)** ← folder not yet built

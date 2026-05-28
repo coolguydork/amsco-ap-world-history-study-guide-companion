@@ -101,7 +101,7 @@ Improvements in transportation — especially the steamship — changed the natu
 - [[Unit-5.9/Society & the Industrial Age Overview\|Society & the Industrial Age Overview]] — industrialization creates the labor demand and the transportation that enable mass migration
 
 **Topics this prepares (leads_to):**
-- **Effects of Migration** (Topic 6.7) ← folder not yet built
+- **Effects of Migration** [[Unit-6.7/Effects of Migration Overview|Effects of Migration Overview]] ← folder not yet built
 
 **AP comparison topics (compare_with):**
 - [[Unit-4.7/Changing Social Hierarchies Overview\|Changing Social Hierarchies Overview]] — compare labor systems: enslaved Africans (Unit 4) vs. indentured/contract workers (Unit 6)

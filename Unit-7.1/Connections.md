@@ -23,7 +23,7 @@ The 19th-century wave of nationalist thought and revolutionary practice created 
 
 ## Leads To
 
-**Causes of World War I** (Topic 7.2)
+**Causes of World War I** [[Unit-7.2/Causes of World War I Overview|Causes of World War I Overview]]
 The Ottoman decline and the Young Turks' decisions are directly connected to WWI's origins. The empire's weakness made the Balkans a zone of great-power rivalry; Ottoman alliance with Germany brought Ottoman collapse and the Middle East's post-war reorganization.
 
 **Economy in the Interwar Period** (Topic 7.4)

@@ -50,7 +50,7 @@ Without the Somali saddle innovation — designed for carrying loads rather than
 The **gold-salt dynamic** was the foundation: West Africa had abundant gold but lacked salt; North Africa had salt but craved gold. This complementarity drove centuries of exchange. By c. 800 CE, West African gold was supplying monetary systems across Europe, the Middle East, and Asia.
 
 > [!warning]
-> Don't forget that **enslaved people** were a significant trade commodity on trans-Saharan routes — this predates and differs from the later [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] (Topic 6.6), but the AP exam may ask you to compare or connect them.
+> Don't forget that **enslaved people** were a significant trade commodity on trans-Saharan routes — this predates and differs from the later [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] [[Unit-6.6/Causes of Migration in an Interconnected World Overview|Causes of Migration in an Interconnected World Overview]], but the AP exam may ask you to compare or connect them.
 
 ---
 

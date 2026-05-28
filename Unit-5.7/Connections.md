@@ -29,10 +29,10 @@ Specific technologies enabled the economic structures in 5.7. The Bessemer proce
 **Reactions to the Industrial Economy [[Unit-5.8/Reactions to the Industrial Economy Overview|Reactions to the Industrial Economy Overview]]** ← not yet built
 The monopolies, wage inequality, and concentration of power described in Topic 5.7 directly provoked the responses in 5.8: labor unions, socialism, Marxism, and the political demands of the working class. You cannot understand 5.8 without 5.7 — they are cause and effect.
 
-**Global Economic Development (Topic 6.4)** ← not yet built
+**Global Economic Development [[Unit-6.4/Global Economic Development Overview|Global Economic Development Overview]]** ← not yet built
 The global banking system, transnational corporations, and free-trade ideology of the 19th century laid the infrastructure for 20th-century economic globalization.
 
-**Economic Imperialism (Topic 6.5)** ← not yet built
+**Economic Imperialism [[Unit-6.5/Economic Imperialism Overview|Economic Imperialism Overview]]** ← not yet built
 De Beers, Unilever, HSBC — all the transnational companies in Topic 5.7 were instruments of economic imperialism. Topic 6.5 examines this relationship systematically: how industrial capitalism drove the conquest and economic subordination of non-European regions.
 
 ---

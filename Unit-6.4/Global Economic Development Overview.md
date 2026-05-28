@@ -112,5 +112,5 @@ Rhodes's vision — a Cape-to-Cairo railroad connecting all British African terr
 - [[Unit-6.2/State Expansion Overview\|State Expansion Overview]] — the political framework (imperialism, colonialism) within which economic extraction operated
 
 **Leads to:**
-- **Economic Imperialism** (Topic 6.5) ← folder not yet built
+- **Economic Imperialism** [[Unit-6.5/Economic Imperialism Overview|Economic Imperialism Overview]] ← folder not yet built
 - **Economics in the Global Age** (Topic 9.4) ← folder not yet built

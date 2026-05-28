@@ -26,7 +26,7 @@ Britain's laissez-faire, private-market model (see [[Unit-5.3/Industrial Revolut
 **Reactions to the Industrial Economy [[Unit-5.8/Reactions to the Industrial Economy Overview|Reactions to the Industrial Economy Overview]]** ← folder not yet built
 The exploitation of female workers in Japanese textile mills (mentioned in AMSCO) connects directly to Topic 5.8's examination of labor movements, socialism, and reform efforts. Japan's industrial workers faced the same conditions that drove European workers to organize unions.
 
-**Shifting Power After World War I (Topic 7.1)** ← folder not yet built
+**Shifting Power After World War I [[Unit-7.1/Shifting Power Overview|Shifting Power Overview]]** ← folder not yet built
 Japan's Meiji industrialization is what makes it a significant military power by the time of WWI. The same modernization program that built railways and subsidized silk factories also built warships and trained a conscript army. Japan's post-WWI imperial ambitions flow directly from Meiji success.
 
 ---

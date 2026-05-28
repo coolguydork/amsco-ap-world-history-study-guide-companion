@@ -31,7 +31,7 @@ Topic 6.5 covers informal empire — economic control without direct political r
 **[[Unit-6.6/Causes of Migration in an Interconnected World Overview\|Causes of Migration in an Interconnected World Overview]]**
 Topic 6.6 identifies push and pull factors for migration. Topic 6.8 places migration in its causal context: imperialism and industrialization were the structural forces that set millions of people in motion.
 
-**Effects of Migration (Topic 6.7)**
+**Effects of Migration [[Unit-6.7/Effects of Migration Overview|Effects of Migration Overview]]**
 Topic 6.7 covers the social effects of migration (discrimination, enclaves, nativism). Topic 6.8 draws on those effects as one of the four major consequences of imperialism it asks students to evaluate in relative significance.
 
 ---

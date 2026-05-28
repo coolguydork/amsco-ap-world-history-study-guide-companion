@@ -19,7 +19,7 @@ tags: [apwh, unit-5, topic-5-7, period-3, timeline, economics, industrialization
 | 1856 | Bessemer process developed | Mass steel production becomes possible; enables monopoly-scale industry (Krupp) and railroad expansion |
 | 1865 | Hong Kong and Shanghai Banking Corporation (HSBC) founded | First major transnational bank; channels global capital into colonial investments |
 | c. 1870s–1880s | Standard Oil (Rockefeller) and Carnegie Steel dominate U.S. markets | Monopoly capitalism at full scale in the world's largest economy |
-| 1867 | Karl Marx publishes *Das Kapital* | Systematic critique of industrial capitalism; intellectual foundation for socialism and labor movements (Topic 5.8) |
+| 1867 | Karl Marx publishes *Das Kapital* | Systematic critique of industrial capitalism; intellectual foundation for socialism and labor movements [[Unit-5.8/Reactions to the Industrial Economy Overview\|Reactions to the Industrial Economy Overview]] |
 | c. 1870s–1890s | Alfred Krupp monopolizes German steel industry | European example of monopoly capitalism via the Bessemer process |
 | c. 1880s | Cecil Rhodes founds De Beers Diamonds; proposes Cape-to-Cairo railroad | Transnational corporate capitalism fuses with imperial expansion in Africa |
 | c. 1880s–1900 | Unilever Corporation establishes soap factories and palm oil plantations | Transnational manufacturing exploits colonial labor and resources |

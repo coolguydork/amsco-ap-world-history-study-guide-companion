@@ -65,7 +65,7 @@ Economic imperialism deepened global inequality and created structural dependenc
 - [[Unit-6.4/Global Economic Development Overview\|Global Economic Development Overview]] — how industrialization created demand for raw materials
 
 **Leads to:**
-- **Shifting Power After World War I** (Topic 7.1) — colonial grievances fuel post-war independence movements
+- **Shifting Power After World War I** [[Unit-7.1/Shifting Power Overview|Shifting Power Overview]] — colonial grievances fuel post-war independence movements
 
 **Compare with:**
 - [[Unit-4.5/Maritime Empires Develop Overview\|Maritime Empires Develop Overview]] — earlier European extraction through trade monopolies; economic imperialism is the industrial-era continuation

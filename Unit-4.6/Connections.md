@@ -28,7 +28,7 @@ Topic 4.6 closes Unit 4 by showing the underside of empire-building. Units 4.1�
 
 **Atlantic Revolutions [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]]** — The Haitian Revolution (1791), American Revolution (1776), and Latin American independence movements are the direct successors of the resistance patterns established in 4.6. Maroon communities, slave revolts, and indigenous resistance in the Americas all prefigure the Atlantic Revolutionary era.
 
-**Nation-States (Topic 7.1)** — The Peace of Westphalia's principle of state sovereignty (1648) — a product of European religious wars — eventually became the foundation of the modern nation-state system.
+**Nation-States [[Unit-7.1/Shifting Power Overview|Shifting Power Overview]]** — The Peace of Westphalia's principle of state sovereignty (1648) — a product of European religious wars — eventually became the foundation of the modern nation-state system.
 
 ---
 

@@ -19,7 +19,7 @@ Industrial cities created an unprecedented environmental crisis: coal-smoke smog
 The "cult of domesticity" was a cultural formation — an ideology embedded in advertising, pamphlets, and consumer culture that idealized the female homemaker. Feminism arose as a counter-cultural movement. The emergence of middle-class leisure culture (theaters, concert halls, sports) was another cultural development of industrialization.
 
 **MIG — Migration and Settlement**
-Urbanization *was* internal migration. Millions moved from rural areas to cities; others moved across national borders toward industrializing regions. The working-class city was built by migrants. This directly connects to **Causes of Migration in an Interconnected World** (Topic 6.6).
+Urbanization *was* internal migration. Millions moved from rural areas to cities; others moved across national borders toward industrializing regions. The working-class city was built by migrants. This directly connects to **Causes of Migration in an Interconnected World** [[Unit-6.6/Causes of Migration in an Interconnected World Overview|Causes of Migration in an Interconnected World Overview]].
 
 ## Historical Reasoning Skills
 

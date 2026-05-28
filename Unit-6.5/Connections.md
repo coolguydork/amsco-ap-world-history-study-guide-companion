@@ -23,7 +23,7 @@ Industrialization created the demand that drove economic imperialism. Factories 
 
 ## Leads To
 
-**Shifting Power After World War I (Topic 7.1)** ← folder not yet built
+**Shifting Power After World War I [[Unit-7.1/Shifting Power Overview|Shifting Power Overview]]** ← folder not yet built
 Economic imperialism generated the colonial grievances—land dispossession, forced labor, commodity extraction, cultural humiliation—that fueled anti-colonial nationalism after WWI. When Wilson's "self-determination" rhetoric clashed with colonial powers' refusal to grant independence, the seeds sown by economic imperialism began producing organized resistance movements across Asia and Africa.
 
 ---

@@ -57,7 +57,7 @@ Early industrialization was brutal for children. Children as young as five worke
 
 ## Effects on the Environment
 
-Industrial production ran on coal, which meant toxic air (smog = smoke + fog), respiratory illness, and acid deposits. Rivers and lakes absorbed factory waste, spreading cholera and typhoid. The environmental damage of early industrialization set patterns that worsened through the 19th century and into the 20th — connecting directly to **Causes of Migration in an Interconnected World** (Topic 6.6) as polluted urban environments pushed and pulled migration flows.
+Industrial production ran on coal, which meant toxic air (smog = smoke + fog), respiratory illness, and acid deposits. Rivers and lakes absorbed factory waste, spreading cholera and typhoid. The environmental damage of early industrialization set patterns that worsened through the 19th century and into the 20th — connecting directly to **Causes of Migration in an Interconnected World** [[Unit-6.6/Causes of Migration in an Interconnected World Overview|Causes of Migration in an Interconnected World Overview]] as polluted urban environments pushed and pulled migration flows.
 
 ## Industrial Revolution's Legacy
 

@@ -79,7 +79,7 @@ A strong argument might prioritize **overseas expansion and global inequality** 
 - [[Unit-6.4/Global Economic Development Overview\|Global Economic Development Overview]] — economic foundations
 - [[Unit-6.5/Economic Imperialism Overview\|Economic Imperialism Overview]] — economic dimensions of imperialism
 - [[Unit-6.6/Causes of Migration in an Interconnected World Overview\|Causes of Migration in an Interconnected World Overview]] — migration causes
-- **Effects of Migration** (Topic 6.7)
+- **Effects of Migration** [[Unit-6.7/Effects of Migration Overview|Effects of Migration Overview]]
 
 **Compare with:**
 - [[Unit-5.10/Continuity & Change Overview\|Continuity & Change Overview]] — synthesis approach in Unit 5

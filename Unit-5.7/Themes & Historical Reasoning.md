@@ -60,7 +60,7 @@ Colonial extraction: palm oil from Congo, diamonds from S. Africa
     ↓
 Native workers paid fraction of European wages
     ↓
-Economic imperialism (Topic 6.5)
+Economic imperialism [[Unit-6.5/Economic Imperialism Overview|Economic Imperialism Overview]]
 ```
 
 > [!exam-tip]

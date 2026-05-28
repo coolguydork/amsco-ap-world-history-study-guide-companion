@@ -112,5 +112,5 @@ Japan's rapid industrialization came with costs. Female mill workers in Japan ex
 - Builds on: [[Unit-5.4/Industrialization Spreads Overview|Industrialization Spreads Overview]] — how industrialization spread and what role government played
 - Compare with: [[Unit-5.3/Industrial Revolution Begins Overview|Industrial Revolution Begins Overview]] — Britain's private/market-driven model vs. Japan's state-directed model
 - Leads to: **Reactions to the Industrial Economy** [[Unit-5.8/Reactions to the Industrial Economy Overview|Reactions to the Industrial Economy Overview]] — how workers and reformers responded to industrial conditions
-- Leads to: **Shifting Power After World War I** (Topic 7.1) — Japan's industrial strength feeds its imperial ambitions
+- Leads to: **Shifting Power After World War I** [[Unit-7.1/Shifting Power Overview|Shifting Power Overview]] — Japan's industrial strength feeds its imperial ambitions
 - See also: [[Concept Notes/Meiji Restoration|Meiji Restoration]] for cross-topic context

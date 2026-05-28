@@ -55,5 +55,5 @@ The revolution was devastating — roughly 2 million deaths out of a population 
 - [[Unit-5.2/Nationalism & Revolutions Overview\|Nationalism & Revolutions Overview]] — 19th-century nationalist ideology shaped all four revolutionary movements
 
 **Leads to:**
-- **Causes of World War I** (Topic 7.2)
+- **Causes of World War I** [[Unit-7.2/Causes of World War I Overview|Causes of World War I Overview]]
 - **Economy in the Interwar Period** (Topic 7.4)

@@ -26,7 +26,7 @@ Exchange where shares of corporations are bought and sold. Allowed industrialist
 Control of an entire industry or market by a single company, eliminating competition. Classic AP examples: Rockefeller's Standard Oil (U.S.), Krupp steel (Germany). Monopolies concentrate economic and political power — a key target of socialist and labor critics in Topic 5.8.
 
 **transnational**
-Describes companies or organizations operating across national boundaries. 19th-century transnational firms like HSBC and Unilever sourced raw materials from colonies and sold goods globally, gaining wealth and influence on a scale previously impossible. Directly connected to economic imperialism (Topic 6.5).
+Describes companies or organizations operating across national boundaries. 19th-century transnational firms like HSBC and Unilever sourced raw materials from colonies and sold goods globally, gaining wealth and influence on a scale previously impossible. Directly connected to economic imperialism [[Unit-6.5/Economic Imperialism Overview|Economic Imperialism Overview]].
 
 ---
 
