@@ -35,3 +35,18 @@ AMSCO AP World History Modern PDF/
 references/
 tools/
 instruct.md
+
+build-reference-index-prompt.md
+reference-system-rebuild-prompt.md
+instruct_new.md
+CONVENTIONS.md
+tools_new/
+references_new/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
