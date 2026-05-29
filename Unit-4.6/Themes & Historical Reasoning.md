@@ -82,6 +82,6 @@ Both represent religious fractures within broader religious traditions (Islam / 
 
 **Mughal Hindu–Muslim tension (4.6) vs. Ottoman tolerance (3.1)**
 The Mughals faced internal revolt from their Hindu majority partly because of the lack of the accommodating pluralism that helped the Ottomans manage diversity.
-→ [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Gunpowder Empires Overview (3.1)]]
+→ [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|Gunpowder Empires Overview (3.1)]]
 
 **Later decolonization (Topic 8.5)** represents a much later, 20th-century form of the same fundamental challenge: colonized peoples resisting state power and seeking self-determination.

@@ -48,7 +48,7 @@ Political radicalization: Hitler (1933), expanded fascism in Italy/Spain
         ↓
 Fascist aggression: Ethiopia (1935), Spanish Civil War (1936–39), Anschluss (1938)
         ↓
-→ WWII (Topic 7.6)
+→ WWII [[Unit-7.6/Causes of World War II Overview|Causes of World War II Overview]]
 ```
 
 > [!tip]

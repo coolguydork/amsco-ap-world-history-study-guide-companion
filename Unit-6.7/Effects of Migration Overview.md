@@ -55,7 +55,7 @@ Chinese migration expanded dramatically in the second half of the 19th century, 
 
 After Britain abolished slavery in 1833, **indentured servants** replaced enslaved laborers across British colonies. Indians were among the first:
 
-- **Africa:** Large numbers went to Mauritius and Natal (now South Africa) for sugar plantations; 32,000 went to Kenya for railroad construction. The Hindu and Muslim Indian communities in South Africa were divided by class and religion, but united in facing discrimination — a context that drew Mohandas Gandhi into activism.
+- **Africa:** Large numbers went to Mauritius and Natal (now South Africa) for sugar plantations; 32,000 went to Kenya for railroad construction. The Hindu and Muslim Indian communities in South Africa were divided by class and religion, but united in facing discrimination — a context that drew [[Concept Notes/Mohandas Gandhi\|Mohandas Gandhi]] into activism.
 - **Southeast Asia:** Between roughly the 1830s and 1900s, India was the primary labor source for British colonies in Ceylon, Burma, and Malaya. Indentured servitude was eventually replaced by the **kangani system**, under which whole families were recruited. Around 6 million Indians migrated to Southeast Asia this way.
 - **Caribbean:** So many Indians went to Caribbean plantations that they became the largest ethnic group in Guyana and Trinidad and Tobago. Their Hindu and Muslim traditions, cuisine, and music became central to Caribbean culture.
 

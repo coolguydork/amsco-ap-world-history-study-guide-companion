@@ -41,6 +41,6 @@ tags: [apwh, unit-4, topic-4-1, period-2, chronology, exploration, portugal, spa
 
 ## Connections to Other Timelines
 
-- The lateen sail and compass both appear in earlier units: [[Unit-2.3/Timeline & Chronology|Unit 2.3 Timeline]] (Indian Ocean), [[Unit-2.5/Timeline & Chronology|Unit 2.5 Timeline]] (Mongols & technology diffusion)
+- The lateen sail and compass both appear in earlier units: [[Unit-2.3/Timeline & Chronology|Unit 2.3 Timeline]] (Indian Ocean), [[Unit-2.5/Timeline & Chronology|Unit 2.5 Timeline]] ([[Concept Notes/Mongols\|Mongols]] & technology diffusion)
 - Zheng He's voyages (1405–1433) precede and contextualize European exploration — see [[Unit-2.3/Timeline & Chronology|Unit 2.3 Timeline]]
 - Ottoman Empire's rise (blocks overland routes) — see [[Unit-3.1/Timeline & Chronology|Unit 3.1 Timeline]]

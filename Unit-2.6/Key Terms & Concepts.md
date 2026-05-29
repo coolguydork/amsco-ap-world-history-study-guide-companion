@@ -42,7 +42,7 @@ Clearing of forests for agricultural land and fuel, which destabilizes soil and 
 Loss of fertile topsoil caused by deforestation and overuse of farmland. Reduced agricultural productivity and contributed to food shortages in Europe. (AMSCO p. 123)
 
 **Little Ice Age (c. 1300–c. 1800)**
-A prolonged cooling period that reduced agricultural output across Europe and other parts of Eurasia, compounding the population stress caused by the Black Death. (AMSCO p. 123)
+A prolonged cooling period that reduced agricultural output across Europe and other parts of Eurasia, compounding the population stress caused by the [[Concept Notes/Black Death\|Black Death]]. (AMSCO p. 123)
 
 > [!warning]
 > The Little Ice Age and the Black Death are distinct but overlapping stresses on Europe, c. 1300–1350. Don't conflate them — the Little Ice Age is climate-driven; the Black Death is disease-driven. Both reduced agricultural output, but through different mechanisms.

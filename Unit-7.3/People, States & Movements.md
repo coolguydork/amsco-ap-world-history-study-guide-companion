@@ -51,7 +51,7 @@ Russian soldier who commanded the First Russian Women's Battalion of Death (1917
 
 ## Key States and Powers
 
-**Germany / Weimar Republic**
+**Germany / [[Concept Notes/Weimar Republic\|Weimar Republic]]**
 The war ended with Germany's defeat in November 1918; Kaiser Wilhelm II abdicated. The new democratic **Weimar Republic** was forced to sign the humiliating Treaty of Versailles. The reparations burden, hyperinflation, and association with national defeat made Weimar perpetually fragile. It survived until 1933 when the Nazi Party took power — a direct legacy of the punitive peace.
 
 **Ottoman Empire**

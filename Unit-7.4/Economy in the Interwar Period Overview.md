@@ -33,7 +33,7 @@ Stalin abandoned Lenin's [[New Economic Plan (NEP)]] in 1928–29 and launched t
 
 ## Weimar Germany and Hyperinflation
 
-Germany's path to fascism began with economic humiliation. WWI reparations forced the Weimar Republic to print money, producing catastrophic [[inflation]] in the early 1920s — savings wiped out overnight. The Great Depression (1929) then drove mass unemployment. The combination of economic desperation, national resentment over Versailles, and a weak democratic system enabled Hitler's rise to power by 1933.
+Germany's path to fascism began with economic humiliation. WWI reparations forced the [[Concept Notes/Weimar Republic\|Weimar Republic]] to print money, producing catastrophic [[inflation]] in the early 1920s — savings wiped out overnight. The Great Depression (1929) then drove mass unemployment. The combination of economic desperation, national resentment over Versailles, and a weak democratic system enabled Hitler's rise to power by 1933.
 
 > [!warning]
 > Don't confuse hyperinflation (early 1920s Germany) with the Great Depression (1929–1930s). They are two separate economic crises — both contributed to Nazi rise, but at different times.
@@ -52,4 +52,4 @@ The Depression devastated colonial and semi-colonial economies dependent on comm
 ## Connected Topics
 
 - [[Unit-7.3/Conducting World War I Overview|Conducting World War I Overview]] — WWI's economic devastation and reparations created the conditions for the Great Depression and political radicalism
-- **Causes of World War II** (Topic 7.6) — The Depression's political fallout (Hitler, Mussolini, Japanese militarism) leads directly to WWII
+- **Causes of World War II** [[Unit-7.6/Causes of World War II Overview|Causes of World War II Overview]] — The Depression's political fallout (Hitler, Mussolini, Japanese militarism) leads directly to WWII

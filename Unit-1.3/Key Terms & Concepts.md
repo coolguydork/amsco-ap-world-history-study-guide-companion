@@ -12,7 +12,7 @@ tags: [apwh, unit-1, topic-1-3, period-1, south-asia, southeast-asia, religion, 
 ## Political Terms
 
 **Delhi Sultanate** (1206–1526)
-Muslim sultanate that governed northern India for ~300 years after conquering Delhi in the early 13th century. Never built an efficient bureaucracy; imposed the *jizya* tax on non-Muslims. Successfully repelled the Mongols but fell to the Mughal Empire in 1526. Key political example of decentralized, contested governance in South Asia. (AMSCO pp. 24–25)
+Muslim sultanate that governed northern India for ~300 years after conquering Delhi in the early 13th century. Never built an efficient bureaucracy; imposed the *jizya* tax on non-Muslims. Successfully repelled the [[Concept Notes/Mongols\|Mongols]] but fell to the Mughal Empire in 1526. Key political example of decentralized, contested governance in South Asia. (AMSCO pp. 24–25)
 
 **Rajput kingdoms**
 Hindu warrior-clan kingdoms of northern India and present-day Pakistan that filled the power vacuum after the Gupta collapse. Constant inter-clan warfare prevented political centralization, leaving northern India vulnerable to Muslim conquest. (AMSCO p. 24)
@@ -31,13 +31,13 @@ To actively seek converts to one's religion. Islam is a universalizing religion 
 
 ## Religious & Cultural Terms
 
-**Bhakti Movement**
-12th-century Hindu devotional movement originating in southern India. Emphasized personal, emotional connection to a deity over scripture or ritual. Open to women and low-caste Hindus. Parallel to Sufism in Islam — both were mystical movements that spread their religions by appealing beyond traditional boundaries. Key figure: poet-saint Mira Bai (16th c.). (AMSCO p. 27)
+**[[Concept Notes/Bhakti Movement\|Bhakti Movement]]**
+12th-century Hindu devotional movement originating in southern India. Emphasized personal, emotional connection to a deity over scripture or ritual. Open to women and low-caste Hindus. Parallel to [[Concept Notes/Sufism\|Sufism]] in Islam — both were mystical movements that spread their religions by appealing beyond traditional boundaries. Key figure: poet-saint Mira Bai (16th c.). (AMSCO p. 27)
 
 **Sufism** *(see also [[Unit-1.2/Key Terms & Concepts|Key Terms & Concepts — Topic 1.2]])*
 Mystical branch of Islam emphasizing inner experience and personal connection to Allah. Sufis were crucial missionaries in both South and Southeast Asia because their tolerance for local customs lowered barriers to conversion. (AMSCO p. 29)
 
-**Syncretism**
+**[[Concept Notes/Syncretism\|Syncretism]]**
 The blending of two or more cultural or religious traditions. Dominant pattern throughout this topic: Hindu-Buddhist synthesis in Southeast Asia, Hindu-Islamic fusion in northern India's art and architecture.
 
 **Caste system (*jati*)**

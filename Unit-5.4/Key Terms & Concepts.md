@@ -10,7 +10,7 @@ tags: [apwh, unit-5, topic-5-4, period-3, economic-systems, technology, governan
 ## Economic & Industrial Terms
 
 **Company rule**
-The period of British East India Company (EIC) control over parts of the Indian subcontinent, from **1757 to 1858**. During company rule, the EIC imposed steep tariffs that deindustrialized India's metalworking, shipbuilding, and textile industries. Company rule ended when the British Crown assumed direct control after the 1857 Indian Rebellion. The period is a prime exam example of how colonial governance actively suppressed economic development in colonized regions. *(AMSCO p. 306)*
+The period of British [[Concept Notes/East India Company\|East India Company]] (EIC) control over parts of the Indian subcontinent, from **1757 to 1858**. During company rule, the EIC imposed steep tariffs that deindustrialized India's metalworking, shipbuilding, and textile industries. Company rule ended when the British Crown assumed direct control after the 1857 Indian Rebellion. The period is a prime exam example of how colonial governance actively suppressed economic development in colonized regions. *(AMSCO p. 306)*
 
 **Human capital**
 The workforce — the collective skills, labor, and productive capacity of a population. The United States drew on waves of European and East Asian immigrants plus rural-to-urban migrants as its primary source of human capital for industrial growth in the 19th century. *(AMSCO p. 305)*

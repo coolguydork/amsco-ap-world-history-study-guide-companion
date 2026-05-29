@@ -19,8 +19,8 @@ The Mongols conquered the Jin Empire (northern China) starting in 1210 and compl
 **[[Unit-1.2/Dar al-Islam Overview|Topic 1.2 — Dar al-Islam (Abbasid Caliphate)]]**
 Hulagu Khan's destruction of Baghdad in 1258 ended the Abbasid Caliphate — the political and cultural center of Dar al-Islam since 750 CE. The [[Concept Notes/House of Wisdom|House of Wisdom]] was burned, and perhaps 200,000 people were killed. This event permanently shifted the Islamic world's political geography.
 
-**[[Unit-1.6/Medieval Europe Overview|Topic 1.6 — Medieval Europe (Crusades)]]**
-The Crusader states in Palestine were weakened when the Mamluks defeated the Mongols at Ain Jalut (1260) — a joint Mamluk–Crusader alliance. The Mongol threat briefly united Muslim and Christian enemies. Additionally, the end of the Crusades and the Black Death — spread via Mongol trade routes — both contributed to the transformations of late medieval Europe.
+**[[Unit-1.6/Medieval Europe Overview|Topic 1.6 — Medieval Europe ([[Concept Notes/Crusades\|Crusades]])]]**
+The Crusader states in Palestine were weakened when the Mamluks defeated the Mongols at Ain Jalut (1260) — a joint Mamluk–Crusader alliance. The Mongol threat briefly united Muslim and Christian enemies. Additionally, the end of the Crusades and the [[Concept Notes/Black Death\|Black Death]] — spread via Mongol trade routes — both contributed to the transformations of late medieval Europe.
 
 ---
 

@@ -48,7 +48,7 @@ Small Slavic kingdom that became the flashpoint of WWI. Serbian nationalists wan
 
 ## Key Movements
 
-**Serbian Nationalism**
+**Serbian [[Concept Notes/Nationalism\|Nationalism]]**
 The driving force behind Princip's assassination and the Black Hand's activities. Serbian nationalists saw themselves as liberators of Slavic peoples from Austro-Hungarian domination. Russia supported Serbia as a fellow Slavic Orthodox nation, making Serbian nationalism the tripwire that activated the Russian-Austrian-German-French-British cascade. On the AP, Serbian nationalism is the clearest example of how nationalism was a *cause* of WWI.
 
 **Pan-Slavism**

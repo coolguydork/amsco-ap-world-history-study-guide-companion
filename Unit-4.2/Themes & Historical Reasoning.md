@@ -67,7 +67,7 @@ This is one of the most-tested comparisons in Unit 4. The core question: both Ch
 
 ### Continuity & Change Over Time (CCOT)
 
-**Continuity**: The desire for Asian luxury goods (spices, silk, porcelain) drove trade from antiquity through this period and beyond. The Silk Roads and Indian Ocean networks (Units 2–3) created the demand that European exploration sought to meet more cheaply.
+**Continuity**: The desire for Asian luxury goods (spices, silk, porcelain) drove trade from antiquity through this period and beyond. The [[Concept Notes/Silk Roads\|Silk Roads]] and Indian Ocean networks (Units 2–3) created the demand that European exploration sought to meet more cheaply.
 
 **Change**: By 1600, the dominant trade routes had shifted. Overland Silk Roads and Italian-brokered Mediterranean trade declined as Atlantic and Pacific sea routes grew. The center of commercial gravity shifted from the Mediterranean and Indian Ocean to the Atlantic world.
 

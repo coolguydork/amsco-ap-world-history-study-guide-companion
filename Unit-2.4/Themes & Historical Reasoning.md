@@ -33,7 +33,7 @@ Timbuktu became the clearest expression of this cultural interaction: simultaneo
 The **Think As a Historian** section of AMSCO (p. 110) asks students to identify *historical processes* — the "how" behind change. The spread of Islam into West Africa is a process, not a single event: merchants arrive → commercial relationships form → rulers convert for economic and political advantage → mosques and schools built → Islam institutionalized. Each step follows logically and can be traced through evidence. *(AMSCO p. 110)*
 
 > [!tip]
-> **Comparison thread:** On the Silk Roads, Buddhism spread from India into Central and East Asia via merchants. On the Indian Ocean network, Islam spread to Southeast Asia and the East African coast. On trans-Saharan routes, Islam spread into West Africa. The *mechanism* is the same — commerce carrying religion — but the *religion* and *region* differ. AP exams frequently test this comparison. See [[Unit-2.1/Themes & Historical Reasoning|Themes & Historical Reasoning]] and [[Unit-2.3/Themes & Historical Reasoning|Themes & Historical Reasoning]].
+> **Comparison thread:** On the [[Concept Notes/Silk Roads\|Silk Roads]], [[Concept Notes/Buddhism\|Buddhism]] spread from India into Central and East Asia via merchants. On the Indian Ocean network, Islam spread to Southeast Asia and the East African coast. On trans-Saharan routes, Islam spread into West Africa. The *mechanism* is the same — commerce carrying religion — but the *religion* and *region* differ. AP exams frequently test this comparison. See [[Unit-2.1/Themes & Historical Reasoning|Themes & Historical Reasoning]] and [[Unit-2.3/Themes & Historical Reasoning|Themes & Historical Reasoning]].
 
 ---
 

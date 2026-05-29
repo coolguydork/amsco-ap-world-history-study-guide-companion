@@ -71,7 +71,7 @@ Not a conventional kingdom but arguably the most powerful institution in medieva
 The eastern continuation of the Roman Empire, centered in Constantinople. Preserved classical Greek learning and Orthodox Christianity. Sacked by the Fourth Crusade in 1204 (an act that deepened the Catholic-Orthodox rift). Fell to the Ottoman Turks in 1453. (AMSCO p. 56)
 
 **Kievan Rus (c. 882–1240)**
-The dominant city-state of early Russia, centered in modern Kyiv. Built a trade network linking Scandinavia to Byzantium and Central Asia. Adopted Orthodox Christianity, placing it culturally closer to Byzantium than to Catholic Europe. Overrun by Mongols in the 13th century. (AMSCO p. 61)
+The dominant city-state of early Russia, centered in modern Kyiv. Built a trade network linking Scandinavia to Byzantium and Central Asia. Adopted Orthodox Christianity, placing it culturally closer to Byzantium than to Catholic Europe. Overrun by [[Concept Notes/Mongols\|Mongols]] in the 13th century. (AMSCO p. 61)
 
 **Venetian Republic**
 A powerful Italian city-state and commercial empire. Venice dominated Mediterranean trade and redirected the Fourth Crusade to sack its trade rival, Constantinople, in 1204. Marco Polo was Venetian. Venice exemplifies the emerging merchant-capitalist class of late medieval Europe. (AMSCO p. 58)
@@ -80,7 +80,7 @@ A powerful Italian city-state and commercial empire. Venice dominated Mediterran
 
 ## Key Movements
 
-**The Crusades (1095–late 1200s)**
+**The [[Concept Notes/Crusades\|Crusades]] (1095–late 1200s)**
 A series of papally-sponsored military campaigns to reclaim the Holy Land. Caused by religious zeal, primogeniture, merchant ambition, and Church political goals. The First Crusade (1095–1099) succeeded; the Fourth Crusade (1202–1204) infamously sacked Constantinople instead. Long-term effect: dramatically increased European exposure to Islamic scholarship, goods, and trade routes. (AMSCO pp. 57–58)
 
 **The Reconquista**

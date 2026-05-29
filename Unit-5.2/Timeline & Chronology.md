@@ -47,7 +47,7 @@ tags: [apwh, unit-5, topic-5-2, period-3, nationalism, revolutions, timeline]
 **Anti-colonial challenges to Spain**
 1868 (Puerto Rico & Cuba uprisings) → 1892–1896 (Philippine Propaganda Movement → Revolution)
 
-**European Nationalism and Unification**
+**European [[Concept Notes/Nationalism\|Nationalism]] and Unification**
 1827 (Greek independence) → 1848 (revolutions) → 1858 (Italian realpolitik) → 1864/1866/1870–71 (Bismarck's three wars) → 1871 (German Empire)
 
 **New Zealand**

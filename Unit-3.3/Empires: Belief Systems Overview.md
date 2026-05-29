@@ -35,7 +35,7 @@ Europe's fragmentation into Catholic and Protestant states drove decades of conf
 The **Thirty Years' War** (1618–1648) was the final and most destructive religious conflict, spreading famine, disease, and economic ruin across the Holy Roman Empire. The **Peace of Westphalia** (1648) ended it by expanding the options to Catholicism, Lutheranism, or Calvinism — and crucially, it increased the autonomy of German princes and smaller states, fragmenting the Holy Roman Empire further and empowering states like Prussia and Austria.
 
 > [!tip]
-> The Thirty Years' War is also significant as a turning point toward *secular* state sovereignty — after Westphalia, religion was less central to interstate relations. This connects forward to [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] (state-building) and backward to [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]] (Church authority).
+> The Thirty Years' War is also significant as a turning point toward *secular* state sovereignty — after Westphalia, religion was less central to interstate relations. This connects forward to [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] (state-building) and backward to [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]] (Church authority).
 
 ---
 

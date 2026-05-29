@@ -12,7 +12,7 @@ tags: [apwh, unit-2, topic-2-5, period-1, cultural-diffusion, technology, religi
 
 ## Religion & Syncretism
 
-**Chan Buddhism (Zen Buddhism)**
+**Chan [[Concept Notes/Buddhism\|Buddhism]] (Zen Buddhism)**
 A syncretic faith that fused Indian Buddhism with Chinese Daoist principles, popularized in part by the 7th-century monk Xuanzang. Under the Song Dynasty (960–1279), it spread widely among the scholar gentry. Its influence extended to Korea, Japan, and Vietnam. Chan Buddhist painting — exemplified by Mu-ch'i's c. 1250 "sketch style" — became influential across East Asia. (AMSCO p. 112)
 
 **Neo-Confucianism**
@@ -63,7 +63,7 @@ A language of South Asia combining Sanskrit-based Hindi with Arabic and Persian 
 
 ## Disease
 
-**Black Death (bubonic plague)**
+**[[Concept Notes/Black Death\|Black Death]] (bubonic plague)**
 Caused by the bacterium *Yersinia pestis*; spread westward along trade routes from Central Asia, reaching Europe via the Mediterranean in 1347. A major epidemic 1347–1351 killed an estimated 25 million in Europe alone. Devastated Constantinople in 1346 and 1349. Weakened the European feudal system by reducing agricultural labor. A prime example of the *unintended consequences* of trade connectivity. (AMSCO p. 115)
 
 ## Urban Centers
@@ -72,10 +72,10 @@ Caused by the bacterium *Yersinia pestis*; spread westward along trade routes fr
 A Chinese city of approximately one million people under the Song Dynasty; center of culture and trade at the southern end of the Grand Canal. Described by Marco Polo. Home to poets and artists as well as a thriving Arab merchant community. (AMSCO p. 114)
 
 **Timbuktu**
-A West African city on the Niger River that became a major center of Islamic scholarship and trans-Saharan trade. Evidence of Islam's intellectual diffusion into sub-Saharan Africa. See [[Unit-2.4/Trans-Saharan Trade Routes Overview|Trans-Saharan Trade Routes Overview]]. (AMSCO p. 113)
+A West African city on the Niger River that became a major center of Islamic scholarship and trans-Saharan trade. Evidence of Islam's intellectual diffusion into sub-Saharan Africa. See [[Unit-2.4/[[Concept Notes/Trans-Saharan Trade\|Trans-Saharan Trade]] Routes Overview|Trans-Saharan Trade Routes Overview]]. (AMSCO p. 113)
 
 **Samarkand**
-A Central Asian city on the Silk Roads; known for Islamic scholarship, bustling markets, and as a waystation for merchants. Raided and ultimately weakened by Tamerlane. See [[Unit-2.1/Silk Roads Overview|Silk Roads Overview]]. (AMSCO pp. 79, 114)
+A Central Asian city on the [[Concept Notes/Silk Roads\|Silk Roads]]; known for Islamic scholarship, bustling markets, and as a waystation for merchants. Raided and ultimately weakened by Tamerlane. See [[Unit-2.1/Silk Roads Overview|Silk Roads Overview]]. (AMSCO pp. 79, 114)
 
 **Constantinople**
 Byzantine capital at the crossroads of Europe and Asia. Weakened by the Fourth Crusade (1204) and devastated by the plague (1346, 1349). Fell to the Ottoman Turks in 1453 — an event often used to mark the end of the Middle Ages. See [[Concept Notes/Crusades|Crusades]]. (AMSCO p. 114)

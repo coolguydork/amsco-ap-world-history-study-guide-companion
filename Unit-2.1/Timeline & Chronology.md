@@ -52,11 +52,11 @@ tags: [apwh, unit-2, topic-2-1, period-1, trade-networks, economic-systems]
 ## Chronological Thinking
 
 > [!exam-tip]
-> The AP exam may ask you to identify a **turning point** in the growth of exchange networks. The correct answer for this period is almost always the **Mongol conquest and the establishment of the Pax Mongolica (1258 onward)** — it unified fragmented routes, improved security, and enabled a dramatic increase in trade volume.
+> The AP exam may ask you to identify a **turning point** in the growth of exchange networks. The correct answer for this period is almost always the **Mongol conquest and the establishment of the [[Concept Notes/Pax Mongolica\|Pax Mongolica]] (1258 onward)** — it unified fragmented routes, improved security, and enabled a dramatic increase in trade volume.
 
 > [!tip]
 > **Memory scaffold for the key sequence:**
-> Abbasid revival (8th–9th c.) → Mongol conquests (1200s) → Pax Mongolica peak trade (1258–1350s) → Black Death via trade routes (1347) → Ottoman disruption + European sea routes (post-1450)
+> Abbasid revival (8th–9th c.) → Mongol conquests (1200s) → Pax Mongolica peak trade (1258–1350s) → [[Concept Notes/Black Death\|Black Death]] via trade routes (1347) → Ottoman disruption + European sea routes (post-1450)
 
 ---
 

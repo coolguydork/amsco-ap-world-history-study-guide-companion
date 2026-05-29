@@ -101,7 +101,7 @@ The middle leg of the triangular Atlantic trade: the ocean crossing from West Af
 > Don't confuse the **Middle Passage** (ocean crossing, Africa → Americas) with the full triangular trade route. The "middle" refers to the second leg: Europe → Africa → Americas → Europe.
 
 **Sepoys**
-Indian soldiers trained and employed by the British East India Company to help extend British political control inland in India. They represented a key mechanism by which a commercial company (not just a government) expanded European territorial power.
+Indian soldiers trained and employed by the British [[Concept Notes/East India Company\|East India Company]] to help extend British political control inland in India. They represented a key mechanism by which a commercial company (not just a government) expanded European territorial power.
 
 **Mestizos**
 People of mixed Spanish and indigenous American ancestry, a new demographic group produced by the colonial encounter. Their emergence reflected both the gendered nature of conquest (most conquistadores were men) and the social mixing that made Spanish colonies demographically distinct from British ones.

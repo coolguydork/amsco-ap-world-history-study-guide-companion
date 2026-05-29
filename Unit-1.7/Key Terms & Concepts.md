@@ -43,7 +43,7 @@ A labor tribute system used by the Inca Empire in which subjects owed a set peri
 ## Religion and Legitimacy
 
 **Political Legitimacy**
-The recognized right of a ruler to govern. In this period, religion was the primary source of legitimacy across most of the world: Islam for the Mali Empire and Delhi Sultanate, Confucianism for the Song Dynasty, Hinduism and Buddhism for South and Southeast Asian rulers, Christianity for European monarchs. The key AP insight is that this cross-regional pattern of religion-as-legitimacy is itself a **similarity** for comparison essays. (AMSCO pp. 65–66)
+The recognized right of a ruler to govern. In this period, religion was the primary source of legitimacy across most of the world: Islam for the Mali Empire and Delhi Sultanate, Confucianism for the Song Dynasty, Hinduism and [[Concept Notes/Buddhism\|Buddhism]] for South and Southeast Asian rulers, Christianity for European monarchs. The key AP insight is that this cross-regional pattern of religion-as-legitimacy is itself a **similarity** for comparison essays. (AMSCO pp. 65–66)
 
 **Diffusion of Religion**
 The spread of belief systems through trade, migration, conquest, and missionary activity. Islam spread across Sub-Saharan Africa, South Asia, and Southeast Asia via trade routes and military conquest. Buddhism spread through East and Southeast Asia. Christianity spread through European expansion and Catholic missionary orders. Religious diffusion and state-building were closely linked — new rulers often adopted or promoted the religion of powerful trading partners or conquering armies. (AMSCO p. 67)
@@ -56,7 +56,7 @@ A Chinese practice in which girls' feet were tightly bound to prevent growth, pr
 **Champa Rice**
 A fast-ripening, drought-resistant variety of rice that originated in Vietnam (the Champa region) and spread to China during the Song Dynasty. Its adoption enabled double-cropping, fueled population growth, supported urban expansion, and increased manufacturing output — all of which strengthened the Song state. (AMSCO p. 67)
 
-**House of Wisdom (Bayt al-Hikma)**
+**[[Concept Notes/House of Wisdom\|House of Wisdom]] (Bayt al-Hikma)**
 A major center of intellectual and scientific learning in Baghdad under the Abbasid Caliphate, where scholars translated Greek, Persian, and Indian texts and made advances in mathematics, medicine, and astronomy. Paper-making technology from China helped this institution produce and circulate knowledge, boosting Islamic intellectual culture and eventually transmitting knowledge to Europe. (AMSCO p. 67)
 
 **Manorial System**
@@ -67,7 +67,7 @@ A labor system in medieval Europe (and Russia) in which peasants were legally bo
 
 ## Nomadic Peoples
 
-**Pax Mongolica ("Mongol Peace")**
+**[[Concept Notes/Pax Mongolica\|Pax Mongolica]] ("Mongol Peace")**
 The period of relative stability and security across Eurasia created by Mongol dominance in the 13th and 14th centuries. Although established through brutal conquest, the Pax Mongolica allowed Silk Road trade to expand dramatically, facilitated direct Europe–China contacts, and accelerated the transfer of technologies including paper, gunpowder, and the printing press. See [[Concept Notes/Mongols|Mongols]]. (AMSCO p. 67)
 
 **Pastoral Nomads**

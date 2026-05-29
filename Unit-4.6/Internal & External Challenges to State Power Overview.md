@@ -29,7 +29,7 @@ The **Cossacks** — fierce, semi-independent warriors living on the steppes nea
 
 ## Rebellion in South Asia
 
-The [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Mughal Empire]] centralized authority over most of the Indian subcontinent, spreading Persian culture and Islam over a predominantly Hindu population. Starting in **1680**, the **Marathas** — a Hindu warrior group from the Deccan plateau — fought a long series of battles against the Mughals. They established the Maratha Empire, which lasted until 1818 and effectively ended Mughal dominance over India.
+The [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|Mughal Empire]] centralized authority over most of the Indian subcontinent, spreading Persian culture and Islam over a predominantly Hindu population. Starting in **1680**, the **Marathas** — a Hindu warrior group from the Deccan plateau — fought a long series of battles against the Mughals. They established the Maratha Empire, which lasted until 1818 and effectively ended Mughal dominance over India.
 
 ## Revolts in the Spanish Empire
 
@@ -63,4 +63,4 @@ England's colonial territories generated multiple forms of resistance:
 
 - Builds on [[Unit-3.3/Empires: Belief Systems Overview|Empires: Belief Systems]] — religious tension (Sunni/Shia split) parallels Protestant/Catholic conflict driving several revolts here
 - Builds on [[Unit-1.6/Medieval Europe Overview|Medieval Europe]] — Catholic Church dominance sets the stage for Protestant challenges
-- Leads to **Enlightenment political thought** [[Unit-5.1/Enlightenment Overview|Enlightenment Overview]] and **Atlantic Revolutions** [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]]
+- Leads to **Enlightenment political thought** [[Unit-5.1/Enlightenment Overview|Enlightenment Overview]] and **Atlantic Revolutions** [[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview|Nationalism & Revolutions Overview]]

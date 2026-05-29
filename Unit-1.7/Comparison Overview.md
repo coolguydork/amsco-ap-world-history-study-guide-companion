@@ -16,8 +16,8 @@ Topic 1.7 is the capstone of Unit 1. Its entire purpose is to train your AP **Co
 Between c. 1200 and c. 1450, states in core areas of civilization grew larger and more centralized while smaller states declined. The broad trend was toward greater centralization — but the **mechanism** varied by region. Three forces dominated state-building across the globe:
 
 - **Military conquest** — especially the Mongols in Asia and Eastern Europe; Turkish groups in the Mediterranean and South Asia
-- **Religion** — Islam in Africa, the Middle East, and South Asia; Confucianism in East Asia; Christianity in Europe; Hinduism and Buddhism in South and Southeast Asia
-- **Trade** — sustained by the Indian Ocean, Silk Roads, and trans-Saharan networks
+- **Religion** — Islam in Africa, the Middle East, and South Asia; Confucianism in East Asia; Christianity in Europe; Hinduism and [[Concept Notes/Buddhism\|Buddhism]] in South and Southeast Asia
+- **Trade** — sustained by the Indian Ocean, [[Concept Notes/Silk Roads\|Silk Roads]], and trans-Saharan networks
 
 ## Religion as a Tool of State Power
 
@@ -44,11 +44,11 @@ AMSCO provides a taxonomy that is an excellent framework for any comparison essa
 
 Trade networks amplified state power across regions. Champa rice, originating in Vietnam, spread to China and fueled Song population growth and urban expansion. China's manufacturing output — porcelain, silk, steel, iron — was the largest in the world, and the Song Dynasty was the strongest Chinese state since the Han, roughly a millennium earlier.
 
-Paper-making technology traveled from China across Eurasia, boosting literacy and intellectual culture in the Islamic world (the House of Wisdom in Baghdad) and in Europe. The [[Unit-1.5/Africa Overview|Mali Empire]] built upon the trans-Saharan gold and salt trade to become larger and more centrally administered than its predecessor, the Ghana Kingdom. In South and Southeast Asia, the Chola Kingdom and Vijayanagar Empire used Indian Ocean commerce to build strong states. (AMSCO pp. 66–67)
+Paper-making technology traveled from China across Eurasia, boosting literacy and intellectual culture in the Islamic world (the [[Concept Notes/House of Wisdom\|House of Wisdom]] in Baghdad) and in Europe. The [[Unit-1.5/Africa Overview|Mali Empire]] built upon the trans-Saharan gold and salt trade to become larger and more centrally administered than its predecessor, the Ghana Kingdom. In South and Southeast Asia, the Chola Kingdom and Vijayanagar Empire used Indian Ocean commerce to build strong states. (AMSCO pp. 66–67)
 
 ## The Impact of Nomadic Peoples
 
-[[Concept Notes/Mongols|The Mongols]] were the defining military force of the era. From the Central Asian steppes, they built the largest land empire in world history. Paradoxically, their brutal conquests created the Pax Mongolica — a zone of political stability that dramatically expanded Silk Road trade and enabled direct Europe–China contact for the first time since the classical period.
+[[Concept Notes/Mongols|The Mongols]] were the defining military force of the era. From the Central Asian steppes, they built the largest land empire in world history. Paradoxically, their brutal conquests created the [[Concept Notes/Pax Mongolica\|Pax Mongolica]] — a zone of political stability that dramatically expanded Silk Road trade and enabled direct Europe–China contact for the first time since the classical period.
 
 Turkish peoples played a parallel role. The Seljuk and Ottoman Turks built empires across the eastern Mediterranean, Persia, and South Asia. Unlike the unified Mongol campaigns, different Turkish groups built separate empires. By the late 15th century, nomadic influence over politics and trade was diminishing as organized merchant networks replaced pastoral intermediaries. (AMSCO pp. 67–68)
 

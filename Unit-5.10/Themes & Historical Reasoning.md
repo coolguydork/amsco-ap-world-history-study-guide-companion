@@ -98,7 +98,7 @@ Use these in LEQ body paragraphs:
 - Women paid less than men for identical work
 - Non-industrialized regions remain raw material exporters
 - Rigid social hierarchies persist (just with different actors at top)
-- Nationalism and inter-state rivalry continue from earlier periods
+- [[Concept Notes/Nationalism\|Nationalism]] and inter-state rivalry continue from earlier periods
 - Patriarchal gender ideology ("good wives and mothers") continues in Japan and Argentina (DBQ docs)
 
 **Evidence of Complexity (Both/And):**

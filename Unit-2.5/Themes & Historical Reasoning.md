@@ -24,7 +24,7 @@ Trade route stability under the [[Concept Notes/Pax Mongolica|Pax Mongolica]] �
 
 Islamic trade networks in the Indian Ocean → Muslim merchants settling in Southeast Asian port cities → intermarriage and royal conversion → Islam spreads to Java and the Malay Peninsula by c. 1200–1450.
 
-Crusader contact with Byzantine and Islamic worlds → European demand for Eastern goods → expanded trade → Black Death spreads to Europe (1347) → 25 million deaths → labor shortage → weakening of [[Concept Notes/Feudalism|Feudalism]].
+Crusader contact with Byzantine and Islamic worlds → European demand for Eastern goods → expanded trade → [[Concept Notes/Black Death\|Black Death]] spreads to Europe (1347) → 25 million deaths → labor shortage → weakening of [[Concept Notes/Feudalism|Feudalism]].
 
 > [!exam-tip]
 > The Black Death is the exam's go-to example of **unintended consequences** of exchange networks. If a prompt asks you to explain a consequence of Afro-Eurasian trade, disease diffusion is a strong, specific argument.
@@ -40,7 +40,7 @@ Crusader contact with Byzantine and Islamic worlds → European demand for Easte
 
 **What stayed the same (continuity):**
 - Core religious identities (Buddhism, Islam, Hinduism, Christianity) persisted even as they adapted locally
-- Trade routes themselves were a structural continuity — the Silk Roads, Indian Ocean, and Trans-Saharan networks had functioned for centuries; 2.5 shows their *cultural* effects, not their creation
+- Trade routes themselves were a structural continuity — the [[Concept Notes/Silk Roads\|Silk Roads]], Indian Ocean, and Trans-Saharan networks had functioned for centuries; 2.5 shows their *cultural* effects, not their creation
 - Scholar-merchant-pilgrim networks within Dar al-Islam remained intact
 
 > [!tip]

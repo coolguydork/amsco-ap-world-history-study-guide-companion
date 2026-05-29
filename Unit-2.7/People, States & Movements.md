@@ -43,7 +43,7 @@ The first woman to rule the Delhi Sultanate in northern India — and one of the
 Japanese female samurai (*onna-bugeisha*) renowned for her bravery, archery, and horsemanship during the Genpei War. One of the rare documented female warriors in Japanese history. Represents the limited but real spaces that specific political and military crises opened for women to operate outside traditional gender roles.
 
 **Genghis Khan** (r. 1206–1227)
-Founder of the Mongol Empire. Topic 2.7 includes a Historical Perspectives reading asking: was Genghis Khan a brutal destroyer or a great empire builder? See [[Unit-2.2/Mongol Empire Overview|Mongol Empire Overview]] and [[Concept Notes/Mongols|Mongols]] for full treatment. For 2.7, the relevance is his role in creating the [[Concept Notes/Pax Mongolica|Pax Mongolica]] that supercharged Silk Roads trade. (AMSCO p. 134)
+Founder of the Mongol Empire. Topic 2.7 includes a Historical Perspectives reading asking: was Genghis Khan a brutal destroyer or a great empire builder? See [[Unit-2.2/Mongol Empire Overview|Mongol Empire Overview]] and [[Concept Notes/Mongols|Mongols]] for full treatment. For 2.7, the relevance is his role in creating the [[Concept Notes/Pax Mongolica|Pax Mongolica]] that supercharged [[Concept Notes/Silk Roads\|Silk Roads]] trade. (AMSCO p. 134)
 
 ---
 
@@ -53,7 +53,7 @@ Founder of the Mongol Empire. Topic 2.7 includes a Historical Perspectives readi
 Muslim sultanate controlling the Strait of Malacca — the narrow waterway connecting the Indian Ocean to the South China Sea. Malacca levied fees on all passing ships and used the revenue to build a powerful navy. The clearest example of how trading cities grew into centralized polities through commercial wealth. (AMSCO p. 129)
 
 **Mali Empire** (c. 1235–1468)
-West African empire that dominated the trans-Saharan gold and salt trade. Controlled by a Muslim ruling class, including the famous Mansa Musa, while much of the population maintained older religious practices. Ibn Battuta's 1352 account of Mali is a primary source on this network. See [[Unit-2.4/Trans-Saharan Trade Routes Overview|Trans-Saharan Trade Routes Overview]].
+West African empire that dominated the trans-Saharan gold and salt trade. Controlled by a Muslim ruling class, including the famous Mansa Musa, while much of the population maintained older religious practices. Ibn Battuta's 1352 account of Mali is a primary source on this network. See [[Unit-2.4/[[Concept Notes/Trans-Saharan Trade\|Trans-Saharan Trade]] Routes Overview|Trans-Saharan Trade Routes Overview]].
 
 **Vijayanagara Empire** (1336–1646)
 Hindu empire in southern India. Domingo Paes's account of its massive labor mobilization illustrates how state power organized large-scale projects in a trading-zone context. (AMSCO p. 132)

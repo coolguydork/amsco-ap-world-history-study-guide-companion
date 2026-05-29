@@ -10,7 +10,7 @@ tags: [apwh, unit-2, topic-2-6, period-1]
 ## Backward Connections — What Makes 2.6 Possible
 
 **Topics 2.1–2.5 — The exchange networks themselves**
-The Silk Roads, Indian Ocean network, and trans-Saharan routes are the vectors for everything in 2.6. Without those networks, Champa rice stays in Vietnam, bananas stay in Southeast Asia, and the Black Death stays in Central Asia. The environmental consequences of 2.6 are the direct byproduct of the connectivity built in 2.1–2.5. See: [[Concept Notes/Silk Roads|Silk Roads]], [[Concept Notes/Indian Ocean Trade Network|Indian Ocean Trade Network]], [[Concept Notes/Trans-Saharan Trade|Trans-Saharan Trade]].
+The Silk Roads, Indian Ocean network, and trans-Saharan routes are the vectors for everything in 2.6. Without those networks, Champa rice stays in Vietnam, bananas stay in Southeast Asia, and the [[Concept Notes/Black Death\|Black Death]] stays in Central Asia. The environmental consequences of 2.6 are the direct byproduct of the connectivity built in 2.1–2.5. See: [[Concept Notes/Silk Roads|Silk Roads]], [[Concept Notes/Indian Ocean Trade Network|Indian Ocean Trade Network]], [[Concept Notes/Trans-Saharan Trade|Trans-Saharan Trade]].
 
 **Topic 1.1 — East Asian agriculture**
 Champa rice transforms Chinese agriculture — but that story begins with the farming practices already in place in Song China [[Unit-1.1/East Asia Overview|East Asia Overview]]. AMSCO explicitly asks students to compare Chinese farming techniques with Indonesian or Vietnamese techniques. (AMSCO p. 122)

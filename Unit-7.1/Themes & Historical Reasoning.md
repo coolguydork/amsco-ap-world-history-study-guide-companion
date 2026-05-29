@@ -29,7 +29,7 @@ Three ideological frameworks competed for dominance in this period:
 
 **Communism** (Russia): Marx's theory, adapted by Lenin, proposed collective ownership and worker governance as the path to a just society. The Soviet model's early success terrified capitalist governments and inspired revolutionaries worldwide. The communism-vs-capitalism tension born here structured much of 20th-century world history.
 
-**Secular Nationalism** (Turkey, China): Both Atatürk and Sun Yat-sen combined Western political models with indigenous cultural traditions. Atatürk explicitly Westernized Turkey's institutions while retaining Turkish ethnic identity. Sun Yat-sen blended Confucian values with democratic and nationalist ideas in his Three People's Principles. Both cases show non-Western leaders selectively borrowing Western concepts rather than wholesale adopting them.
+**Secular [[Concept Notes/Nationalism\|Nationalism]]** (Turkey, China): Both Atatürk and Sun Yat-sen combined Western political models with indigenous cultural traditions. Atatürk explicitly Westernized Turkey's institutions while retaining Turkish ethnic identity. Sun Yat-sen blended Confucian values with democratic and nationalist ideas in his Three People's Principles. Both cases show non-Western leaders selectively borrowing Western concepts rather than wholesale adopting them.
 
 **Turkification** (Ottoman Empire): The Young Turks' effort to impose cultural homogeneity on a multiethnic empire was a response to perceived weakness — by erasing ethnic difference, they hoped to create a unified, strong nation. This led directly to the persecution of Armenians, demonstrating how cultural nationalism can generate state-sponsored violence.
 

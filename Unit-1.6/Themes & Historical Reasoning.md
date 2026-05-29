@@ -11,7 +11,7 @@ tags: [apwh, unit-1, topic-1-6, period-1, europe, governance, social-interaction
 
 ### GOV — Governance
 
-The central governance story of Topic 1.6 is **political decentralization giving way to centralization**. Feudalism was, by design, a fragmented system — authority was local, personal, and rooted in land rather than impersonal law. By 1450, that picture was changing significantly.
+The central governance story of Topic 1.6 is **political decentralization giving way to centralization**. [[Concept Notes/Feudalism\|Feudalism]] was, by design, a fragmented system — authority was local, personal, and rooted in land rather than impersonal law. By 1450, that picture was changing significantly.
 
 In England, noble pressure on the crown produced the Magna Carta (1215) and Parliament (1265) — institutions that constrained royal power but also created durable frameworks for governance. In France, Philip II built bureaucracy and Philip IV created the Estates-General — but the French version remained weaker because the privileged classes paid no taxes. The Holy Roman Empire, by contrast, failed to centralize at all, remaining a patchwork of princely territories throughout.
 
@@ -26,7 +26,7 @@ Topic 1.6 is rich in social hierarchy and social change. The feudal pyramid — 
 
 Key social developments across the period:
 
-**Serfs and agriculture**: Serfs were bound to manors with no mobility and few rights. Agricultural improvements (three-field system, new plows) expanded food supply and population, which eventually increased demand for labor. The Black Death (1347) reversed population growth catastrophically — but the resulting labor scarcity gave survivors more leverage, accelerating the decline of serfdom. This is a strong CCOT: continuity of serfdom through most of the period → change as plague disrupted the labor market. (AMSCO pp. 54, 59)
+**Serfs and agriculture**: Serfs were bound to manors with no mobility and few rights. Agricultural improvements (three-field system, new plows) expanded food supply and population, which eventually increased demand for labor. The [[Concept Notes/Black Death\|Black Death]] (1347) reversed population growth catastrophically — but the resulting labor scarcity gave survivors more leverage, accelerating the decline of serfdom. This is a strong CCOT: continuity of serfdom through most of the period → change as plague disrupted the labor market. (AMSCO pp. 54, 59)
 
 **Gender roles**: Women had very limited rights under feudalism and manorialism. The code of chivalry romanticized their status while delivering little actual power. One notable exception: religious orders gave women unusual opportunities for administration and leadership. As Europe shifted toward more urban commercial life, patriarchal patterns actually intensified in some ways — women had fewer property rights in the emerging guild economy. Women in Islamic societies (per AMSCO) tended to have higher levels of equality in parts of Africa and Southeast Asia, a useful comparison point. (AMSCO p. 60)
 
@@ -40,7 +40,7 @@ Key social developments across the period:
 
 **Scholasticism**: The intellectual effort to merge Aristotle with Christian theology was not just academic — it established the university as a European institution and legitimized rational inquiry within a faith framework. Thomas Aquinas represents its peak; the movement laid intellectual groundwork for later Renaissance and Scientific Revolution thinking. (AMSCO p. 57)
 
-**Crusades as contact zone**: The Crusades — despite military failure — were enormously consequential culturally and economically. European Crusaders encountered a wealthier, more sophisticated Islamic world. Demand for Middle Eastern goods (spices, textiles, scholarship) surged. The fall of Constantinople (Fourth Crusade, 1204) damaged Catholic-Orthodox relations for centuries and set Venice up as a dominant commercial power. (AMSCO pp. 57–58)
+**[[Concept Notes/Crusades\|Crusades]] as contact zone**: The Crusades — despite military failure — were enormously consequential culturally and economically. European Crusaders encountered a wealthier, more sophisticated Islamic world. Demand for Middle Eastern goods (spices, textiles, scholarship) surged. The fall of Constantinople (Fourth Crusade, 1204) damaged Catholic-Orthodox relations for centuries and set Venice up as a dominant commercial power. (AMSCO pp. 57–58)
 
 **The Renaissance as synthesis**: The Renaissance was not a break from the medieval world — it was built on it. Church patronage funded Italian Renaissance art. Trade wealth created the merchant patrons (Medici) who funded the rest. The recovery of classical manuscripts (many preserved in Islamic libraries) brought Aristotle, Plato, and Roman authors back into European intellectual life. Vernacular literature — Dante, Chaucer — reflected both growing regional identities and the confidence of a literate middle class. (AMSCO pp. 60–61)
 

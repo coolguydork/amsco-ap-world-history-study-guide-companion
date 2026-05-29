@@ -18,7 +18,7 @@ Topic 5.10 is the synthesis node for all of Unit 5. Every prior topic feeds into
 **[[Unit-5.1/Enlightenment Overview\|Enlightenment Overview]] — Topic 5.1**
 The Enlightenment provided the ideological framework that political movements of the Industrial Age drew upon: natural rights, social contracts, rational governance. The demand for voting rights and press freedom in the Revolutions of 1848 directly echoes Enlightenment philosophy. This is a key *continuity* — Enlightenment ideas born in the 18th century continued to drive political change well into the 19th century.
 
-**[[Unit-5.2/Nationalism & Revolutions Overview\|Nationalism & Revolutions Overview]] — Topic 5.2**
+**[[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview\|Nationalism & Revolutions Overview]] — Topic 5.2**
 The Atlantic Revolutions demonstrated that popular political mobilization could force structural change. The Industrial Age inherited this tradition: workers and citizens demanded rights not as charity but as natural entitlements. Nationalism also persisted as a driver of inter-state rivalry — a political continuity from the revolutionary era.
 
 **[[Unit-5.3/Industrial Revolution Begins Overview\|Industrial Revolution Begins Overview]] — Topic 5.3**

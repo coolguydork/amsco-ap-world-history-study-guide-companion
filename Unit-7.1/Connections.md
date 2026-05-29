@@ -16,7 +16,7 @@ tags: [apwh, unit-7, topic-7-1, period-4, connections, causation, revolution]
 **[[Unit-6.5/Economic Imperialism Overview\|Economic Imperialism Overview]]**
 Foreign economic penetration is the crucial *external cause* linking Topic 6.5 to the revolutions of Topic 7.1. In China, European spheres of influence and unequal trade treaties humiliated the Qing and undermined the dynasty's legitimacy. In Mexico, U.S. investors controlling key industries and the wealthiest 1% owning 97% of the land created the inequality that drove the revolution. In the Ottoman Empire, British and French economic policies generated the resentment that pushed it toward Germany in WWI. Economic imperialism did not merely exploit — it destabilized governments.
 
-**[[Unit-5.2/Nationalism & Revolutions Overview\|Nationalism & Revolutions Overview]]**
+**[[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview\|Nationalism & Revolutions Overview]]**
 The 19th-century wave of nationalist thought and revolutionary practice created the intellectual and organizational templates for 20th-century upheaval. Sun Yat-sen's Three People's Principles drew directly on European nationalist ideology. Atatürk's Turkish nationalism was shaped by Young Turk engagement with Western political thought. The Bolsheviks adapted Marx's revolutionary theory (itself a product of 19th-century European thought) to Russian conditions. Each revolution in Topic 7.1 is, in part, a 20th-century application of 19th-century nationalist and socialist ideas.
 
 ---
@@ -26,7 +26,7 @@ The 19th-century wave of nationalist thought and revolutionary practice created 
 **Causes of World War I** [[Unit-7.2/Causes of World War I Overview|Causes of World War I Overview]]
 The Ottoman decline and the Young Turks' decisions are directly connected to WWI's origins. The empire's weakness made the Balkans a zone of great-power rivalry; Ottoman alliance with Germany brought Ottoman collapse and the Middle East's post-war reorganization.
 
-**Economy in the Interwar Period** (Topic 7.4)
+**Economy in the Interwar Period** [[Unit-7.4/Economy in the Interwar Period Overview|Economy in the Interwar Period Overview]]
 The Bolshevik Revolution created the Soviet Union, whose command economy and communist ideology shaped the interwar economic and political landscape. Soviet industrialization, collectivization, and the competing appeal of communism to workers in depression-era capitalist countries all trace back to the 1917 revolution.
 
 ---

@@ -33,7 +33,7 @@ Featured in the Busbecq letters (Topic 4.8's DBQ Document 7). The Ottoman-Safavi
 ## Key States & Empires
 
 **Dutch Republic / Netherlands**
-The Netherlands was the dominant global commercial power of the 17th century. The Dutch East India Company (VOC, founded 1602) was the world's first multinational [[Concept Notes/Joint-Stock Companies|joint-stock company]], with the power to wage war, negotiate treaties, and govern territory. Dutch commercial innovation — from the VOC to the Amsterdam stock exchange — represents the emergence of capitalist financial structures. The Netherlands was also notably tolerant of religious minorities including Jews.
+The Netherlands was the dominant global commercial power of the 17th century. The Dutch [[Concept Notes/East India Company\|East India Company]] (VOC, founded 1602) was the world's first multinational [[Concept Notes/Joint-Stock Companies|joint-stock company]], with the power to wage war, negotiate treaties, and govern territory. Dutch commercial innovation — from the VOC to the Amsterdam stock exchange — represents the emergence of capitalist financial structures. The Netherlands was also notably tolerant of religious minorities including Jews.
 
 **Spanish Empire (Americas)**
 Created the largest European colonial empire in this period. Spain's extraction of American silver (Potosí, Zacatecas) drove global trade and the Price Revolution. Spain's [[Concept Notes/Mercantilism|mercantilist]] policies, encomienda system, and casta hierarchy are the defining example of colonial economic and social structures. The letter from Don Alonzo to Morgan and the debate over the Black Legend both reflect the contested legacy of Spanish imperial power.

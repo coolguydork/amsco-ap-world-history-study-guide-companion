@@ -29,7 +29,7 @@ Vasco da Gama's arrival at Calicut in 1498 was the beginning of European disrupt
 The driving motivation for European exploration was to find a direct sea route to the Indian Ocean spice trade — bypassing the Muslim and Italian middlemen who profited from overland routes. The Indian Ocean network of 2.3 is the destination that Columbus, da Gama, and Magellan were all, in different ways, trying to reach.
 
 **Topic 6.5 — European Economic Imperialism**
-The Indian Ocean's commercial infrastructure — diasporic merchant communities, port city hierarchies, established commodity flows — became the target of European [[Concept Notes/Mercantilism|mercantilist]] and later imperialist policies. The Dutch East India Company's seizure of the Spice Islands and the British East India Company's domination of South Asian trade both trace directly back to the systems built in 2.3.
+The Indian Ocean's commercial infrastructure — diasporic merchant communities, port city hierarchies, established commodity flows — became the target of European [[Concept Notes/Mercantilism|mercantilist]] and later imperialist policies. The Dutch [[Concept Notes/East India Company\|East India Company]]'s seizure of the Spice Islands and the British East India Company's domination of South Asian trade both trace directly back to the systems built in 2.3.
 
 ---
 

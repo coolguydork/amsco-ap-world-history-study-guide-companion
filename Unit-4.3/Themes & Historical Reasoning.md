@@ -74,7 +74,7 @@ The Columbian Exchange is AMSCO's primary vehicle for AP **causation** skill pra
 
 **What changed:** The biological isolation of the two hemispheres ended permanently. Indigenous American populations collapsed. New global agricultural systems emerged. The Atlantic became an economic and demographic highway. African and American cultures fused into new forms.
 
-**What continued:** European states continued to pursue [[Concept Notes/Mercantilism|mercantilist]] wealth extraction. Coerced labor remained the foundation of large-scale agriculture (shifting from indigenous to African slavery, but the logic continued). Long-distance trade networks (Silk Roads, Indian Ocean) continued alongside the new Atlantic networks rather than being replaced.
+**What continued:** European states continued to pursue [[Concept Notes/Mercantilism|mercantilist]] wealth extraction. Coerced labor remained the foundation of large-scale agriculture (shifting from indigenous to African slavery, but the logic continued). Long-distance trade networks ([[Concept Notes/Silk Roads\|Silk Roads]], Indian Ocean) continued alongside the new Atlantic networks rather than being replaced.
 
 ---
 
@@ -88,4 +88,4 @@ The Columbian Exchange is AMSCO's primary vehicle for AP **causation** skill pra
 | Long-term | Contributed to Renaissance, social change | Created Atlantic plantation economy |
 | Ecosystem | Rat/flea vector | Direct human contact + animals |
 
-Compare with [[Unit-2.6/Themes & Historical Reasoning|Themes & Historical Reasoning]] [[Unit-2.6/Environmental Consequences Overview|Environmental Consequences Overview]] for the Black Death parallel.
+Compare with [[Unit-2.6/Themes & Historical Reasoning|Themes & Historical Reasoning]] [[Unit-2.6/Environmental Consequences Overview|Environmental Consequences Overview]] for the [[Concept Notes/Black Death\|Black Death]] parallel.

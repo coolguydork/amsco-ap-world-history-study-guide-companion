@@ -21,7 +21,7 @@ Consolidated the Chola Empire in southern India and built the monumental **Briha
 Extended Chola naval power to Ceylon (Sri Lanka) and mounted naval expeditions into Southeast Asia. Key example of how Indian states projected power through maritime trade and military force, connecting South Asia to the broader Indian Ocean world.
 
 ### Jayavarman VII (r. 1181–c. 1218) — Khmer Empire
-The most powerful ruler of the Khmer Empire. Built **Angkor Thom** as the new capital and converted the empire from Hinduism to Buddhism. His reign represents both the apex of Khmer power and a key moment of **religious transition** in Southeast Asia. Angkor Thom's temples housed both Hindu and Buddhist artwork — a physical record of the empire's religious evolution.
+The most powerful ruler of the Khmer Empire. Built **Angkor Thom** as the new capital and converted the empire from Hinduism to [[Concept Notes/Buddhism\|Buddhism]]. His reign represents both the apex of Khmer power and a key moment of **religious transition** in Southeast Asia. Angkor Thom's temples housed both Hindu and Buddhist artwork — a physical record of the empire's religious evolution.
 
 ### Prithviraj III (r. 1178–1192) — Rajput kingdoms
 The last major Hindu ruler of Delhi before Muslim conquest. His defeat by Muhammad of Ghori at the Second Battle of Tarain (1192) opened northern India to the Delhi Sultanate. Represents the failure of Rajput disunity to resist organized Muslim military power.

@@ -78,7 +78,7 @@ International peacekeeping organization proposed by Wilson in the Fourteen Point
 Financial penalties imposed on Germany by the Treaty of Versailles to compensate Allies for war damage. Germany was required to pay billions of dollars — a burden that devastated its economy, fueled hyperinflation through the 1920s, and generated bitter resentment. Widely viewed by historians as a direct cause of the conditions that enabled Nazi rise to power.
 
 **Treaty of Versailles**
-The 1919 peace treaty with Germany; the central product of the Paris Peace Conference. Key terms: billions in reparations, surrender of all colonies, severe military restrictions, and the "war guilt clause" (Article 231) forcing Germany to accept sole responsibility for WWI. Germans found the treaty humiliating. The Weimar Republic that signed it became deeply unpopular, creating the political conditions for the Nazi Party.
+The 1919 peace treaty with Germany; the central product of the Paris Peace Conference. Key terms: billions in reparations, surrender of all colonies, severe military restrictions, and the "war guilt clause" (Article 231) forcing Germany to accept sole responsibility for WWI. Germans found the treaty humiliating. The [[Concept Notes/Weimar Republic\|Weimar Republic]] that signed it became deeply unpopular, creating the political conditions for the Nazi Party.
 
 **Weimar Republic**
 The democratic German government established after WWI's end (1919–1933). Accepted the Treaty of Versailles, making it permanently associated with national humiliation and economic hardship. Struggled with hyperinflation, reparations, political extremism from left and right. Its instability enabled the Nazi Party to win power in 1933 — barely 15 years after the war ended.

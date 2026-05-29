@@ -28,7 +28,7 @@ Islamic philosopher and jurist from al-Andalus (Spain). Wrote influential commen
 Islamic scholar from North Africa. Widely considered the founder of **historiography** (the study of historical methods) and **sociology** (the study of society and social institutions). His *Muqaddimah* introduced concepts of cyclical history and the sociological forces driving the rise and fall of civilizations (AMSCO p. 17).
 
 ### Al-Ghazali (1058–1111)
-Islamic theologian and philosopher who reconciled [[Sufism]] with orthodox Sunni thought, making Sufism acceptable to mainstream Islamic society and enabling its rapid spread. His synthesis is one of the reasons Sufism became a mainstream force rather than a fringe movement.
+Islamic theologian and philosopher who reconciled [[[[Concept Notes/Sufism\|Sufism]]]] with orthodox Sunni thought, making Sufism acceptable to mainstream Islamic society and enabling its rapid spread. His synthesis is one of the reasons Sufism became a mainstream force rather than a fringe movement.
 
 ### 'A'ishah al-Ba'uniyyah (1460–1507)
 Sufi poet and mystic, likely the most prolific female Muslim writer before the 20th century. Her best-known work — a long poem honoring Muhammad — demonstrates her mastery of Islamic literary tradition and her engagement with the Sufi path toward mystical experience. Her life and work highlight that educated women could achieve intellectual renown within Islamic society, while also illustrating the gendered restrictions of the period (AMSCO p. 17).
@@ -50,10 +50,10 @@ Afghan sultan who conducted raids into northern India in the early 11th century,
 ## Key States & Empires
 
 ### Abbasid Caliphate (750–1258)
-The dominant Islamic empire from 750 to 1258, centered in Baghdad. Built by Arab and Persian leadership, it oversaw the Islamic Golden Age and the [[Concept Notes/House of Wisdom|House of Wisdom]]. Served as the hub of Afro-Eurasian trade. Gradually weakened by Seljuk Turks (political), Crusaders (western pressure), shifting trade routes (economic), and finally destroyed by the Mongols in 1258. Its fall is one of the pivotal events of Period 1.
+The dominant Islamic empire from 750 to 1258, centered in Baghdad. Built by Arab and Persian leadership, it oversaw the Islamic Golden Age and the [[Concept Notes/House of Wisdom|House of Wisdom]]. Served as the hub of Afro-Eurasian trade. Gradually weakened by Seljuk Turks (political), Crusaders (western pressure), shifting trade routes (economic), and finally destroyed by the [[Concept Notes/Mongols\|Mongols]] in 1258. Its fall is one of the pivotal events of Period 1.
 
 > [!warning]
-> The Abbasid Caliphate didn't collapse all at once. It was progressively hollowed out — Seljuks took real power (11th century), the Crusades added pressure (11th–12th centuries), Baghdad's trade position eroded (12th century) — before the Mongols delivered the final blow in 1258.
+> The Abbasid Caliphate didn't collapse all at once. It was progressively hollowed out — Seljuks took real power (11th century), the [[Concept Notes/Crusades\|Crusades]] added pressure (11th–12th centuries), Baghdad's trade position eroded (12th century) — before the Mongols delivered the final blow in 1258.
 
 ### Mamluk Sultanate (1250–1517)
 Established by enslaved Turkic soldiers who seized control of Egypt. Prospered through cotton and sugar trade between the Islamic world and Europe. Critically important for two reasons: (1) they stopped the Mongol advance at the Battle of Ain Jalut (1260), preventing total Islamic collapse; (2) they declined when Portuguese sea routes bypassed their overland trade networks in the late 1400s. Connects forward to Unit 2 (trade networks) and Topic 4.2 (European exploration).
@@ -78,7 +78,7 @@ The Islamic state in Spain, centered on Córdoba. Lasted nearly eight centuries,
 A mystical movement within Islam emphasizing personal experience of God through introspection, prayer, poetry, and music. Made orthodox by **Al-Ghazali** in the 11th century. Spread Islam far beyond the Arab heartland through the work of **Sufi missionaries** who adapted to local cultures. Represents the most important mechanism of Islamic expansion in Period 1.
 
 ### The Crusades (1095–1291)
-European Christian military expeditions to recapture the Holy Land from Muslim control, triggered by Seljuk restrictions on pilgrimages to Jerusalem. From the Islamic perspective, the Crusades were a significant but ultimately unsuccessful external challenge. The Crusades also generated intellectual exchange: European contact with Islamic learning in the Holy Land and Spain contributed to the later Renaissance. Connects to [[Unit-1.1/East Asia Overview|Topic 1.1]] indirectly (both regions benefited from Silk Roads disrupted by conflict) and directly to Topic 1.6 (European perspective).
+European Christian military expeditions to recapture the Holy Land from Muslim control, triggered by Seljuk restrictions on pilgrimages to Jerusalem. From the Islamic perspective, the Crusades were a significant but ultimately unsuccessful external challenge. The Crusades also generated intellectual exchange: European contact with Islamic learning in the Holy Land and Spain contributed to the later Renaissance. Connects to [[Unit-1.1/East Asia Overview|Topic 1.1]] indirectly (both regions benefited from [[Concept Notes/Silk Roads\|Silk Roads]] disrupted by conflict) and directly to Topic 1.6 (European perspective).
 
 ### Islamic Missionary Activity
 Beyond Sufi missionaries, Islamic merchants regularly served as missionaries. Trade and religion reinforced each other: a Muslim merchant who conducted fair dealings and gave to charity embodied the Five Pillars and demonstrated Islam's virtues to non-Muslim trading partners. This pattern meant Islam spread wherever Islamic merchants traded — the Indian Ocean, the Silk Roads, and sub-Saharan Africa.

@@ -25,7 +25,7 @@ Forced labor did not begin in 1450 and did not end in 1750. Serfdom continued ac
 Throughout the period, European rulers used mercantilist policies to ensure that trade generated state revenue. Mercantilism — controlling exports and imports to accumulate gold and silver — was the dominant economic framework from 1450 through much of 1750. It represented continuity in *state intervention in the economy*, even as the specific mechanisms evolved. (AMSCO p. 263)
 
 **Regional Trade Networks**
-The Indian Ocean trade network, Silk Roads, and trans-Saharan trade all continued operating. European maritime expansion supplemented rather than replaced these networks in the short run, though Europeans increasingly dominated and redirected existing trade flows over time. (AMSCO p. 262)
+The Indian Ocean trade network, [[Concept Notes/Silk Roads\|Silk Roads]], and trans-Saharan trade all continued operating. European maritime expansion supplemented rather than replaced these networks in the short run, though Europeans increasingly dominated and redirected existing trade flows over time. (AMSCO p. 262)
 
 **Patriarchal Social Structures**
 In every region, men dominated political, religious, and economic life. Women could exercise influence through exceptional pathways (harem politics, religious life, elite marriage) but the fundamental patriarchal structure of society was not challenged in this period.
@@ -38,8 +38,8 @@ Before 1492, the Americas were entirely outside the Afro-Eurasian world system. 
 **The Atlantic System**
 A new transoceanic trading network emerged linking Western Europe, West Africa, and the Americas. Its defining features were the slave trade, cash-crop plantation agriculture (sugar, tobacco, cotton), and the circulation of silver. The Mediterranean-centered economy of 1450 gave way to an Atlantic-centered economy by 1750. (AMSCO p. 262)
 
-**Mercantilism → Capitalism**
-By the late 17th and early 18th centuries, [[Concept Notes/Joint-Stock Companies|joint-stock companies]] (Dutch East India Company / VOC, British East India Company / EIC) transformed commerce. Investors could pool risk and profit across multiple ventures. This represents the early emergence of capitalism as a system — distinct from mercantilism in that profit-seeking drove economic decisions rather than state revenue targets. The middle class expanded. Capital for the coming Industrial Revolution accumulated. (AMSCO p. 263)
+**Mercantilism → [[Concept Notes/Capitalism\|Capitalism]]**
+By the late 17th and early 18th centuries, [[Concept Notes/Joint-Stock Companies|joint-stock companies]] (Dutch [[Concept Notes/East India Company\|East India Company]] / VOC, British East India Company / EIC) transformed commerce. Investors could pool risk and profit across multiple ventures. This represents the early emergence of capitalism as a system — distinct from mercantilism in that profit-seeking drove economic decisions rather than state revenue targets. The middle class expanded. Capital for the coming Industrial Revolution accumulated. (AMSCO p. 263)
 
 **New Social Structures Based on Race**
 The colonial encounter created genuinely new social hierarchies based on racial ancestry — the casta system, chattel slavery, and the racially stratified plantation economy. These were not adaptations of earlier class or religious hierarchies; they were new. (AMSCO p. 264)

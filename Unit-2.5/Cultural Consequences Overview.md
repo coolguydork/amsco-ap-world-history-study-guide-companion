@@ -19,11 +19,11 @@ Between c. 1200 and c. 1450, the same trade routes that moved silk, spices, and 
 
 ## Three Categories of Cultural Consequence
 
-**Religion and Intellectual Life.** Buddhism, Islam, and Hinduism all spread beyond their heartlands through trade and missionary activity. Buddhism fused with Daoism in China to produce Chan (Zen) Buddhism, and [[Concept Notes/Neo-Confucianism|Neo-Confucianism]] spread from China to Korea, Japan, and Vietnam. Islam spread across West Africa, South Asia, and Southeast Asia, creating blended languages (Swahili, Urdu) and shared scholarly networks centered on cities like Timbuktu. See [[Unit-2.5/Themes & Historical Reasoning|Themes & Historical Reasoning]] for AP analysis of syncretism and diffusion.
+**Religion and Intellectual Life.** [[Concept Notes/Buddhism\|Buddhism]], Islam, and Hinduism all spread beyond their heartlands through trade and missionary activity. Buddhism fused with Daoism in China to produce Chan (Zen) Buddhism, and [[Concept Notes/Neo-Confucianism|Neo-Confucianism]] spread from China to Korea, Japan, and Vietnam. Islam spread across West Africa, South Asia, and Southeast Asia, creating blended languages (Swahili, Urdu) and shared scholarly networks centered on cities like Timbuktu. See [[Unit-2.5/Themes & Historical Reasoning|Themes & Historical Reasoning]] for AP analysis of syncretism and diffusion.
 
 **Technology and Science.** Papermaking, gunpowder, the magnetic compass, the lateen sail, and the stern rudder all diffused along trade routes — many originating in China and reaching Europe via the Islamic world. Islamic scholars also preserved and transmitted Greek philosophy and medicine, laying groundwork for the European Renaissance. See [[Unit-2.5/Key Terms & Concepts|Key Terms & Concepts]] for full definitions.
 
-**Unintended Consequences — Disease.** The same networks that carried goods and ideas also carried the *Yersinia pestis* bacterium. The Black Death (1347–1351) killed an estimated 25 million in Europe and devastated Constantinople. Trade routes were literally lethal. This is a major AP argument about the *unintended consequences* of connectivity.
+**Unintended Consequences — Disease.** The same networks that carried goods and ideas also carried the *Yersinia pestis* bacterium. The [[Concept Notes/Black Death\|Black Death]] (1347–1351) killed an estimated 25 million in Europe and devastated Constantinople. Trade routes were literally lethal. This is a major AP argument about the *unintended consequences* of connectivity.
 
 ## Travelers as Primary Sources
 
@@ -31,7 +31,7 @@ Marco Polo, Ibn Battuta, and Margery Kempe all documented cross-cultural exchang
 
 ## Urban Hubs of Exchange
 
-Cities grew at the intersections of trade routes and became cultural melting pots: **Hangzhou** (Song China), **Samarkand** and **Kashgar** (Silk Roads), **Timbuktu** (Trans-Saharan), **Constantinople** (Byzantine crossroads), **Calicut** (Indian Ocean). Cities also *declined* when trade routes shifted or invaders struck — Kashgar was ravaged by Tamerlane in 1389–90; Constantinople fell to the Ottomans in 1453. (AMSCO p. 114)
+Cities grew at the intersections of trade routes and became cultural melting pots: **Hangzhou** (Song China), **Samarkand** and **Kashgar** ([[Concept Notes/Silk Roads\|Silk Roads]]), **Timbuktu** (Trans-Saharan), **Constantinople** (Byzantine crossroads), **Calicut** (Indian Ocean). Cities also *declined* when trade routes shifted or invaders struck — Kashgar was ravaged by Tamerlane in 1389–90; Constantinople fell to the Ottomans in 1453. (AMSCO p. 114)
 
 ## Connections at a Glance
 

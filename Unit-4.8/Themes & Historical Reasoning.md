@@ -10,7 +10,7 @@ tags: [apwh, unit-4, topic-4-8, period-2, ccot, ap-themes, historical-reasoning,
 ## AP Themes
 
 **ECN — Economic Systems**
-Topic 4.8's central theme. The period sees the emergence of a truly global economy centered on the Atlantic System and silver trade. [[Concept Notes/Mercantilism|Mercantilism]] governed state economic policy; capitalism began to emerge as a market-driven alternative. Joint-stock companies transformed how capital was organized and deployed. The Price Revolution demonstrated that regional economies were now globally interdependent — a change from 1450.
+Topic 4.8's central theme. The period sees the emergence of a truly global economy centered on the Atlantic System and silver trade. [[Concept Notes/Mercantilism|Mercantilism]] governed state economic policy; capitalism began to emerge as a market-driven alternative. Joint-stock companies transformed how capital was organized and deployed. The [[Concept Notes/Price Revolution\|Price Revolution]] demonstrated that regional economies were now globally interdependent — a change from 1450.
 
 **SIO — Social Interactions and Organization**
 Economic change drove social change. The [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] caused gender imbalances in West African communities and demographic decline. The demand for plantation labor created new coercive social structures. The integration of indigenous, African, and European populations in the Americas produced entirely new racial social categories (casta system from Topic 4.7). The middle class expanded in Europe as merchant wealth grew.

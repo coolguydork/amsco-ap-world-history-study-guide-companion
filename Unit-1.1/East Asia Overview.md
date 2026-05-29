@@ -51,7 +51,7 @@ The expansion of the bureaucracy created a new and dominant social class: the **
 
 ### Religion and Intellectual Life
 
-Buddhism spread to China from India via the Silk Roads and became widespread during the Tang. Three main branches shaped East Asia:
+[[Concept Notes/Buddhism\|Buddhism]] spread to China from India via the Silk Roads and became widespread during the Tang. Three main branches shaped East Asia:
 
 | Branch | Emphasis | Strongest In |
 |--------|----------|--------------|
@@ -67,7 +67,7 @@ The Tang briefly suppressed Buddhism (monasteries closed, land seized), but it r
 
 ## Dynastic Change: Yuan and Ming
 
-The Song Dynasty fell in **1279** when **[[Unit-1.1/People, States & Movements|Kublai Khan]]**'s Mongols completed their conquest of China, establishing the **Yuan Dynasty (1271–1368)**. The Mongol period is explored more deeply in [[Topic 2.2 — The Mongol Empire|Topic 2.2]]; for 1.1, the key point is that the Yuan represented a break in Chinese governance — ruled by foreign conquerors who nonetheless adopted many Chinese administrative practices.
+The Song Dynasty fell in **1279** when **[[Unit-1.1/People, States & Movements|Kublai Khan]]**'s [[Concept Notes/Mongols\|Mongols]] completed their conquest of China, establishing the **Yuan Dynasty (1271–1368)**. The Mongol period is explored more deeply in [[Topic 2.2 — The Mongol Empire|Topic 2.2]]; for 1.1, the key point is that the Yuan represented a break in Chinese governance — ruled by foreign conquerors who nonetheless adopted many Chinese administrative practices.
 
 In **1368**, **[[Unit-1.1/People, States & Movements|Zhu Yuanzhang]] (the Hongwu Emperor)** led a peasant revolt that expelled the Mongols and founded the **Ming Dynasty (1368–1644)**. The Ming restored native Chinese rule and Confucian governance structures. They also sponsored [[Unit-2.3/People, States & Movements|Zheng He]]'s famous naval expeditions (covered in Topic 2.3).
 

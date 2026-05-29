@@ -14,7 +14,7 @@ tags: [apwh, unit-2, topic-2-7, period-1, comparison, trade-networks, economic-s
 
 ## AP Theme 1: Economic Systems (ECN)
 
-**How trade networks functioned.** All three networks emerged from the same basic economic logic: exchange what you can produce for what you cannot. But the *way* each network organized exchange differed significantly. The Silk Roads prioritized luxury goods — silk, porcelain, spices — that were high in value relative to their weight, because the overland journey was expensive and slow. The Indian Ocean carried bulk goods — textiles, grain, timber, gold, spices — because ships could handle heavy cargo that camels could not. The trans-Saharan network was defined by a stark geographic complementarity: West Africa had gold but desperately needed salt; North Africa had salt but needed gold. The desert itself shaped what was traded.
+**How trade networks functioned.** All three networks emerged from the same basic economic logic: exchange what you can produce for what you cannot. But the *way* each network organized exchange differed significantly. The [[Concept Notes/Silk Roads\|Silk Roads]] prioritized luxury goods — silk, porcelain, spices — that were high in value relative to their weight, because the overland journey was expensive and slow. The Indian Ocean carried bulk goods — textiles, grain, timber, gold, spices — because ships could handle heavy cargo that camels could not. The trans-Saharan network was defined by a stark geographic complementarity: West Africa had gold but desperately needed salt; North Africa had salt but needed gold. The desert itself shaped what was traded.
 
 **State role.** All three networks depended on stable polities to function. States built infrastructure (caravanserais, harbors, warehouses), guaranteed legal protection for merchants and their contracts, issued currencies, and suppressed piracy and banditry. The [[Concept Notes/Pax Mongolica|Pax Mongolica]] is the clearest case: Mongol military power made the overland Silk Roads safer than at any time since the Han dynasty, causing commerce to surge. When the Mongol Empire fragmented after 1368, overland trade declined.
 
@@ -65,7 +65,7 @@ The AMSCO unit review poses this historiographical debate directly. (AMSCO p. 13
 **The "Man of Energy" synthesis** — A Persian historian's assessment tries to hold both: "Genghis was possessed of great energy, discernment, genius, and understanding, awe-inspiring, a butcher, just, resolute, an over-thrower of enemies, intrepid, sanguinary, and cruel." This both/and framing is actually a reasonable historiographical position — the destruction was real, and so were the long-term commercial and cultural consequences.
 
 > [!tip]
-> For LEQs asking you to "evaluate the extent" of the Mongols' impact on trade or culture, the best answers acknowledge complexity: the destruction was massive, and so was the commercial and cultural integration that followed.
+> For LEQs asking you to "evaluate the extent" of the [[Concept Notes/Mongols\|Mongols]]' impact on trade or culture, the best answers acknowledge complexity: the destruction was massive, and so was the commercial and cultural integration that followed.
 
 ---
 

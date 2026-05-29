@@ -8,11 +8,11 @@ tags: [apwh, unit-2, topic-2-7, period-1, trade-networks, comparison, economic-s
 # Topic 2.7 — Comparison of Economic Exchange
 
 > [!exam-tip]
-> Topic 2.7 is the **synthesis and comparison** topic for Unit 2. The AP exam loves it for LEQs and DBQs. Master the three-column comparison (Silk Roads / Indian Ocean / Trans-Saharan) cold: what was similar, what was different, and *why*.
+> Topic 2.7 is the **synthesis and comparison** topic for Unit 2. The AP exam loves it for LEQs and DBQs. Master the three-column comparison ([[Concept Notes/Silk Roads\|Silk Roads]] / Indian Ocean / Trans-Saharan) cold: what was similar, what was different, and *why*.
 
 ## The Big Picture
 
-Between c. 1200 and c. 1450, three major interregional trade networks stitched Africa, Asia, and Europe together: the [[Unit-2.1/Silk Roads Overview|Silk Roads]], the [[Unit-2.3/Indian Ocean Overview|Indian Ocean]] trade routes, and the [[Unit-2.4/Trans-Saharan Trade Routes Overview|Trans-Saharan Trade Routes]]. Topic 2.7 asks you to zoom out and compare all three simultaneously — what made them alike, what made them different, and what those differences meant for the people who lived along them.
+Between c. 1200 and c. 1450, three major interregional trade networks stitched Africa, Asia, and Europe together: the [[Unit-2.1/Silk Roads Overview|Silk Roads]], the [[Unit-2.3/Indian Ocean Overview|Indian Ocean]] trade routes, and the [[Unit-2.4/[[Concept Notes/Trans-Saharan Trade\|Trans-Saharan Trade]] Routes Overview|Trans-Saharan Trade Routes]]. Topic 2.7 asks you to zoom out and compare all three simultaneously — what made them alike, what made them different, and what those differences meant for the people who lived along them.
 
 As the traveler Abd al-Razzaq wrote in his *Description of Calicut* (1442), wealthy merchants could "unload and unhesitatingly send [their goods] into the markets without thinking in the meantime of any security" — a detail that captures the interconnected, trust-based commercial world these networks created. (AMSCO p. 127)
 

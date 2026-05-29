@@ -37,7 +37,7 @@ How did the Indian Ocean trade of 1200–1450 compare to the Atlantic System of 
 
 ## AP Threads Through This Topic
 
-**[[Concept Notes/Mercantilism|Mercantilism]] to Capitalism Transition**
+**[[Concept Notes/Mercantilism|Mercantilism]] to [[Concept Notes/Capitalism\|Capitalism]] Transition**
 This is one of the great economic transformations in world history. The AP wants you to understand that in 1450, states controlled trade (mercantilism); by 1750, private investors operating through joint-stock companies were beginning to shape the global economy in ways that states could not fully control. The VOC is the hinge point.
 
 **Global Trade Circuits**

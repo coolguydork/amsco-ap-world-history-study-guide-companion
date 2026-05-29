@@ -21,7 +21,7 @@ Topic 1.7 draws all six Unit 1 regional topics together for comparison. Its cont
 The Song Dynasty's civil-service bureaucracy and Neo-Confucianism are the primary examples of religion-as-legitimacy and centralized state-building. Japan's feudalization is the primary counter-example of decentralization. Both are essential to any comparison of East Asian governance. See also [[Unit-1.1/Key Terms & Concepts|Key Terms & Concepts]] and [[Unit-1.1/Themes & Historical Reasoning|Themes & Historical Reasoning]].
 
 **[[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]] [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]]**
-The fragmentation of the Abbasid Caliphate and the rise of successor states (Mamluks, Seljuks, later Ottomans) directly illustrate the "Emergence of New States" pattern. The House of Wisdom and Islamic intellectual culture are examples of cross-cultural exchange through trade. See also [[Unit-1.2/People, States & Movements|People, States & Movements]].
+The fragmentation of the Abbasid Caliphate and the rise of successor states (Mamluks, Seljuks, later Ottomans) directly illustrate the "Emergence of New States" pattern. The [[Concept Notes/House of Wisdom\|House of Wisdom]] and Islamic intellectual culture are examples of cross-cultural exchange through trade. See also [[Unit-1.2/People, States & Movements|People, States & Movements]].
 
 **[[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]] [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]]**
 The Delhi Sultanate is the key example of both "Emergence of New States" and "Synthesis of Different Traditions" — blending Islamic political authority with Hindu society. The Chola Kingdom and Vijayanagar Empire illustrate trade-based state-building. See also [[Unit-1.3/People, States & Movements|People, States & Movements]].
@@ -41,10 +41,10 @@ Europe provides the contrast case: state-building was slower and more contested 
 
 Topic 1.7's state-building comparison directly sets up the Unit 2 question: *how did networks of exchange connect and transform the states built in Unit 1?*
 
-- The Silk Roads [[Unit-2.1/Silk Roads Overview|Silk Roads Overview]] connected Song China, the Islamic world, and Europe
+- The [[Concept Notes/Silk Roads\|Silk Roads]] [[Unit-2.1/Silk Roads Overview|Silk Roads Overview]] connected Song China, the Islamic world, and Europe
 - The Mongol Empire [[Unit-2.2/Mongol Empire Overview|Mongol Empire Overview]] is the single most important force reshaping the states identified in Unit 1
 - Trans-Saharan trade [[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]] carried Mali's gold and Islam across Sub-Saharan Africa
-- The Indian Ocean network [[Unit-2.4/Trans-Saharan Trade Routes Overview|Trans-Saharan Trade Routes Overview]] linked the Chola, Vijayanagar, Delhi Sultanate, and East African city-states
+- The Indian Ocean network [[Unit-2.4/[[Concept Notes/Trans-Saharan Trade\|Trans-Saharan Trade]] Routes Overview|Trans-Saharan Trade Routes Overview]] linked the Chola, Vijayanagar, Delhi Sultanate, and East African city-states
 - Cultural syncretism [[Unit-2.5/Cultural Consequences Overview|Cultural Consequences Overview]] shows how the synthesis-type state-building of 1.7 continued and deepened through trade contact
 
 ---
@@ -52,7 +52,7 @@ Topic 1.7's state-building comparison directly sets up the Unit 2 question: *how
 ## Concept Notes Referenced
 
 - [[Concept Notes/Neo-Confucianism|Neo-Confucianism]] — key to East Asian state legitimacy and diffusion to Korea and Japan
-- [[Concept Notes/Mongols|Mongols]] — the era's dominant military force; Pax Mongolica connects directly to Unit 2 trade topics
+- [[Concept Notes/Mongols|Mongols]] — the era's dominant military force; [[Concept Notes/Pax Mongolica\|Pax Mongolica]] connects directly to Unit 2 trade topics
 - [[Concept Notes/Feudalism|Feudalism]] — Europe and Japan as counter-examples to centralization
 - [[Concept Notes/Tribute System|Tribute System]] — Aztec Empire and the tributary model of expansion
 - [[Concept Notes/Sufism|Sufism]] — role of Sufi orders in the spread of Islam across Sub-Saharan Africa and Southeast Asia

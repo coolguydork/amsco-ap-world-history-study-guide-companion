@@ -39,7 +39,7 @@ A Chinese Buddhist monk who traveled to India and back along the Silk Roads, bri
 ## Key States & Kingdoms
 
 **Song Dynasty China (960–1279)**
-Under the Song, Neo-Confucianism developed and spread to neighboring states. The printing press made Buddhist and Confucian texts widely available. Hangzhou was the cultural and commercial capital of southern China. (AMSCO p. 112)
+Under the Song, [[Concept Notes/Neo-Confucianism\|Neo-Confucianism]] developed and spread to neighboring states. The printing press made Buddhist and Confucian texts widely available. Hangzhou was the cultural and commercial capital of southern China. (AMSCO p. 112)
 
 **Srivijaya Empire (Sumatra, c. 7th–13th c.)**
 A sea-based Hindu kingdom on Sumatra that facilitated Indian Ocean trade and spread Hindu culture through maritime Southeast Asia. (AMSCO p. 113)
@@ -59,7 +59,7 @@ Buddhist kingdoms where monasteries became major centers of Buddhist study. Budd
 Moved from India to China via the Silk Roads (Xuanzang, 7th c.), then adapted into Chan/Zen Buddhism. Spread to Korea, Japan, and Vietnam through Chinese cultural influence. Spread to Southeast Asia via Indian Ocean trade. See [[Concept Notes/Buddhism|Buddhism]].
 
 **Spread of Islam**
-Carried by merchants, missionaries, and conquerors into West Africa (Timbuktu), South Asia (Urdu language, Bhakti response), and Southeast Asia (Java, Malay Peninsula). Islam unified its recipients into the [[Concept Notes/Silk Roads|Silk Roads]]–connected Dar al-Islam. See [[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]] and [[Unit-2.4/Trans-Saharan Trade Routes Overview|Trans-Saharan Trade Routes Overview]].
+Carried by merchants, missionaries, and conquerors into West Africa (Timbuktu), South Asia (Urdu language, Bhakti response), and Southeast Asia (Java, Malay Peninsula). Islam unified its recipients into the [[Concept Notes/Silk Roads|Silk Roads]]–connected Dar al-Islam. See [[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]] and [[Unit-2.4/[[Concept Notes/Trans-Saharan Trade\|Trans-Saharan Trade]] Routes Overview|Trans-Saharan Trade Routes Overview]].
 
 **The Crusades (as cultural exchange)**
 Western European Crusaders encountered Byzantine and Islamic cultures, stimulating demand for Eastern goods and opening Europe to new ideas — and to disease. The resulting economic activity (credit, land markets) contributed to the rise of a European middle class. See [[Concept Notes/Crusades|Crusades]]. (AMSCO p. 115)

@@ -27,7 +27,7 @@ tags: [apwh, unit-4, period-2, unit-overview, transoceanic, maritime, economic-s
 
 ## The Big Picture
 
-Before 1450, the Eastern Hemisphere's civilizations — Afro-Eurasia — formed an interconnected, if imperfect, world system linked by the Indian Ocean trade network, the Silk Roads, and trans-Saharan routes. The Western Hemisphere — the Americas — was entirely outside this system, developing independently for over 10,000 years.
+Before 1450, the Eastern Hemisphere's civilizations — Afro-Eurasia — formed an interconnected, if imperfect, world system linked by the Indian Ocean trade network, the [[Concept Notes/Silk Roads\|Silk Roads]], and trans-Saharan routes. The Western Hemisphere — the Americas — was entirely outside this system, developing independently for over 10,000 years.
 
 Between 1450 and 1750, European maritime states closed that gap. The technology was available (compass, astrolabe, caravel, lateen sail); the motivation was present (Ottoman control of overland trade routes to Asia, desire for silver and spices); and the political will existed (competitive European monarchies willing to fund exploration). The result was a global transformation unprecedented in scale: new trade networks, new diseases, new crops, new social hierarchies, and new economic systems — all emerging from the meeting of worlds that had been separate for millennia.
 

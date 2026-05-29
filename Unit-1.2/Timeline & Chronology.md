@@ -43,7 +43,7 @@ tags: [apwh, unit-1, topic-1-2, period-1, dar-al-islam, governance, religion]
 ## Key Chronological Patterns
 
 ### The Abbasid Arc
-The Abbasid Caliphate's history traces a classic rise-and-fall pattern: establishment (750) → Golden Age (8th–10th centuries) → gradual decline under Seljuk pressure (11th century) → economic decline as trade shifted (12th century) → final destruction by Mongols (1258). Understanding this arc is essential for answering causes-of-state-decline questions.
+The Abbasid Caliphate's history traces a classic rise-and-fall pattern: establishment (750) → Golden Age (8th–10th centuries) → gradual decline under Seljuk pressure (11th century) → economic decline as trade shifted (12th century) → final destruction by [[Concept Notes/Mongols\|Mongols]] (1258). Understanding this arc is essential for answering causes-of-state-decline questions.
 
 ### The Turkic Succession
 A consistent pattern across Period 1: **Turkic peoples from Central Asia** successively conquered Islamic territory and then adopted Islam, creating new states. Seljuk Turks (11th c.) → Mamluks in Egypt (13th c.) → Delhi Sultanate in South Asia (13th c.). This same pattern continues into Period 2 with the Ottoman, Safavid, and Mughal Empires.

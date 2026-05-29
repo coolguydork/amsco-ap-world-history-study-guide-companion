@@ -22,7 +22,7 @@ American naval commander who arrived in Japan in **1853–1854** with a fleet of
 The figurehead of the **Meiji Restoration**, under whose reign Japan transformed from a feudal society to an industrialized world power within four decades. The **Charter Oath of 1868** (the SAQ source for this topic) set out five principles: deliberative assemblies, broad class participation in governance, freedom of occupation, rejection of feudal customs, and worldwide pursuit of knowledge. In practice, the Meiji government sent delegations abroad (notably the Iwakura Mission, 1871–1873) to study Western industry, law, and military organization, then selectively adapted them — the essence of **defensive modernization**. *(AMSCO p. 305)*
 
 **Otto von Bismarck (1815–1898)**
-Chancellor who unified Germany through three wars (against Denmark 1864, Austria 1866, France 1870–71), creating the German Empire in **1871**. German unification ended the political fragmentation that had delayed industrialization. Under Bismarck, state-directed investment rapidly made Germany a leading steel and coal producer. See also [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]] for the political history of German unification.
+Chancellor who unified Germany through three wars (against Denmark 1864, Austria 1866, France 1870–71), creating the German Empire in **1871**. German unification ended the political fragmentation that had delayed industrialization. Under Bismarck, state-directed investment rapidly made Germany a leading steel and coal producer. See also [[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview|Nationalism & Revolutions Overview]] for the political history of German unification.
 
 ## Industrializing States — Comparative Overview
 
@@ -37,7 +37,7 @@ Chancellor who unified Germany through three wars (against Denmark 1864, Austria
 
 ## Movements and Institutions
 
-**British East India Company (EIC)**
+**British [[Concept Notes/East India Company\|East India Company]] (EIC)**
 The [[Concept Notes/Joint-Stock Companies|joint-stock company]] that ruled India from 1757 to 1858 (**company rule**). The EIC systematically deindustrialized India through tariff policy, mine closures, and legislative restrictions, transforming India from a manufacturing economy into a supplier of raw materials. After the **Indian Rebellion of 1857**, the British Crown replaced the EIC with direct colonial rule — but the suppression of Indian industry continued.
 
 **Indian Rebellion of 1857 (Sepoy Mutiny)**

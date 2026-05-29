@@ -40,7 +40,7 @@ French explorer who in 1534 sailed from the Atlantic into the St. Lawrence River
 French explorer and founder of Quebec (1608), the first permanent French settlement in North America. Champlain explored the Great Lakes region and helped establish the French fur trade network that would define New France's colonial economy. (AMSCO p. 203)
 
 **Henry Hudson (c. 1565–1611)**
-English explorer sailing for the Dutch East India Company who in 1609 explored the East Coast of North America and sailed up what became the Hudson River. His voyage gave the Netherlands its claim to the Hudson Valley and Manhattan. Hudson later died on a voyage for England while still searching for a northwest passage. (AMSCO p. 204)
+English explorer sailing for the Dutch [[Concept Notes/East India Company\|East India Company]] who in 1609 explored the East Coast of North America and sailed up what became the Hudson River. His voyage gave the Netherlands its claim to the Hudson Valley and Manhattan. Hudson later died on a voyage for England while still searching for a northwest passage. (AMSCO p. 204)
 
 ---
 

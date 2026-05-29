@@ -8,7 +8,7 @@ tags: [apwh, unit-2, topic-2-6, period-1]
 # Timeline & Chronology
 
 > [!exam-tip]
-> The AP exam rarely asks you to memorize exact dates for this topic — but you must know the **sequence** and approximate **century**: crop diffusion is ongoing c. 1000–1300; environmental degradation accelerates c. 1200–1450; the Black Death peaks 1347–1351. Knowing these anchors lets you contextualize any primary source.
+> The AP exam rarely asks you to memorize exact dates for this topic — but you must know the **sequence** and approximate **century**: crop diffusion is ongoing c. 1000–1300; environmental degradation accelerates c. 1200–1450; the [[Concept Notes/Black Death\|Black Death]] peaks 1347–1351. Knowing these anchors lets you contextualize any primary source.
 
 ## Chronological Overview
 

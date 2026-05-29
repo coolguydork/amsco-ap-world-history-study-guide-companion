@@ -69,7 +69,7 @@ A large Chinese sailing vessel developed in the Han Dynasty. The junk could reac
 A city at the western edge of China where the northern and southern branches of the Silk Roads converged, at the junction of the Taklamakan Desert and Tian Shan Mountains. Watered by the Kashgar River, it produced textiles, rugs, leather goods, and pottery, and became a center of Islamic scholarship as well as trade. (AMSCO pp. 78–79)
 
 **Samarkand**
-A major Silk Roads city in present-day Uzbekistan, located in the Zeravshan River valley between China and the Mediterranean. Archaeological remains reveal the presence of Christianity, Buddhism, Zoroastrianism, and Islam — a testament to Samarkand's role as a crossroads of cultural exchange. It was also famed for its artisans and Islamic learning. (AMSCO p. 79)
+A major Silk Roads city in present-day Uzbekistan, located in the Zeravshan River valley between China and the Mediterranean. Archaeological remains reveal the presence of Christianity, [[Concept Notes/Buddhism\|Buddhism]], Zoroastrianism, and Islam — a testament to Samarkand's role as a crossroads of cultural exchange. It was also famed for its artisans and Islamic learning. (AMSCO p. 79)
 
 > [!exam-tip]
 > Kashgar and Samarkand are both strong pieces of exam evidence for **effects of the Silk Roads** — specifically the rise of cosmopolitan trading cities and centers of cultural diffusion.
@@ -90,5 +90,5 @@ The largest contiguous land empire in history, established by Genghis Khan and e
 
 - For the Silk Roads concept hub: [[Concept Notes/Silk Roads|Silk Roads]]
 - For the cultural diffusion effects of these routes: Topic 2.5
-- For the Black Death spreading along these routes: Topic 2.6
+- For the [[Concept Notes/Black Death\|Black Death]] spreading along these routes: Topic 2.6
 - For comparison with sea-based trade: [[Concept Notes/Indian Ocean Trade Network|Indian Ocean Trade Network]]

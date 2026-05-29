@@ -87,7 +87,7 @@ A scholar from al-Andalus (Córdoba, Spain) who wrote about West Africa based on
 ## Movements and Forces
 
 **The Mongols**
-See [[Concept Notes/Mongols|Mongols]]. The dominant military force of the 13th–14th centuries, whose conquests paradoxically created the Pax Mongolica and facilitated cross-Eurasian trade and exchange. (AMSCO pp. 67–68)
+See [[Concept Notes/Mongols|Mongols]]. The dominant military force of the 13th–14th centuries, whose conquests paradoxically created the [[Concept Notes/Pax Mongolica\|Pax Mongolica]] and facilitated cross-Eurasian trade and exchange. (AMSCO pp. 67–68)
 
 **Turkish Peoples (Seljuks, Ottomans, and others)**
 Multiple distinct Turkish groups from Central Asia who built separate empires across the eastern Mediterranean, Persia, and South Asia. Unlike the Mongols, Turkish rulers typically converted to Islam and integrated into existing Islamic political structures rather than destroying them. (AMSCO pp. 67–68)

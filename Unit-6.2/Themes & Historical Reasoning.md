@@ -21,7 +21,7 @@ Topic 6.2 is fundamentally about the mechanisms of state expansion: how states a
 
 **Economic domination (informal empire):** The colonizing power does not install a formal government but uses military threat and economic leverage to control trade and resources. The host state nominally retains sovereignty. Examples: European spheres of influence in China; U.S. influence in Latin America under the Monroe Doctrine and Roosevelt Corollary.
 
-**Corporate colonialism (transitional):** Private companies (East India Company, VOC) initially administer territory, later transferring control to the state when company rule proves too abusive or inefficient. This transition occurred in India (1858), the Dutch East Indies (1800), and the Belgian Congo (1908).
+**Corporate colonialism (transitional):** Private companies ([[Concept Notes/East India Company\|East India Company]], VOC) initially administer territory, later transferring control to the state when company rule proves too abusive or inefficient. This transition occurred in India (1858), the Dutch East Indies (1800), and the Belgian Congo (1908).
 
 > [!exam-tip]
 > A favorite AP question type: "Explain ONE way in which European expansion in the 19th century was similar to or different from European expansion in the 15th–17th centuries." Key answers: 19th-century expansion was faster and more total due to industrialization; earlier expansion relied more on corporate intermediaries and trade networks; 19th-century expansion was more ideologically justified through Social Darwinism and "civilizing mission."
@@ -63,7 +63,7 @@ The primary AP skill for 6.2 is **causation** — explaining *why* state expansi
 
 **Motivating causes (making expansion desired):**
 - Economic demand for raw materials (cotton, rubber, ivory, diamonds) to feed industrial production
-- Nationalism and great-power competition (the "Scramble for Africa" was partly about prestige)
+- [[Concept Notes/Nationalism\|Nationalism]] and great-power competition (the "Scramble for Africa" was partly about prestige)
 - Social Darwinism and "civilizing mission" ideology legitimizing conquest
 - Need for overseas markets for industrial goods
 

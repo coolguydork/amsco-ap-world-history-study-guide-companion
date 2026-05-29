@@ -76,13 +76,13 @@ In the **Philippines**, young educated Filipinos studying in Europe absorbed nat
 
 ## Nationalism and Unification in Europe
 
-Nationalism — the idea that people sharing a language, culture, and history should form one political state — threatened multi-ethnic empires and drove unification movements. Napoleon's conquests had paradoxically spread both revolutionary ideals and nationalist backlash across Europe.
+[[Concept Notes/Nationalism\|Nationalism]] — the idea that people sharing a language, culture, and history should form one political state — threatened multi-ethnic empires and drove unification movements. Napoleon's conquests had paradoxically spread both revolutionary ideals and nationalist backlash across Europe.
 
 **Italian Unification:** Count di **Cavour**, prime minister of Piedmont-Sardinia, pursued unification through **realpolitik** — practical political manipulation rather than idealism. In 1858 he maneuvered France into a war with Austria to weaken Austrian control over the Italian Peninsula. He allied with **Giuseppe Garibaldi's** "Red Shirts" in the south and incorporated the revolutionary vision of **Giuseppe Mazzini** (Risorgimento — Italian resurgence). Regions voted by plebiscite to join Piedmont, completing Italian unification by the early 1860s–1870s.
 
 **German Unification:** Prussian chancellor **Otto von Bismarck** used realpolitik to engineer three wars: against Denmark (1864), Austria (Seven Weeks' War, 1866), and France (Franco-Prussian War, 1870–71). Prussia won all three, gaining territory including Alsace-Lorraine from France. In 1871, Bismarck founded the **German Empire** — a powerful new state that would reshape European balance of power.
 
-**Balkan Nationalism:** Ottoman decline opened space for nationalist movements among subject peoples. Greek nationalism combined Enlightenment ideas with reverence for ancient Greek culture. Greek independence was secured in 1827 with British, French, and Russian naval support. Serbia, Bulgaria, and Romania followed similar paths. The Ottomans responded with **Ottomanism** — standardizing curriculum and minimizing ethnic/religious differences — but this paradoxically intensified subject peoples' desire for independence.
+**[[Concept Notes/Balkan Nationalism\|Balkan Nationalism]]:** Ottoman decline opened space for nationalist movements among subject peoples. Greek nationalism combined Enlightenment ideas with reverence for ancient Greek culture. Greek independence was secured in 1827 with British, French, and Russian naval support. Serbia, Bulgaria, and Romania followed similar paths. The Ottomans responded with **Ottomanism** — standardizing curriculum and minimizing ethnic/religious differences — but this paradoxically intensified subject peoples' desire for independence.
 
 > [!exam-tip]
 > Both Cavour (Italy) and Bismarck (Germany) exemplify **realpolitik** — the use of practical power politics rather than idealistic principles to achieve national goals. The AP exam loves comparing these two figures as case studies in nationalism and state-building.

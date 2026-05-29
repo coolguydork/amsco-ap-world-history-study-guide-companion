@@ -21,7 +21,7 @@ Arkwright patented the water frame in 1769, a textile machine driven by waterpow
 **Eli Whitney (1765–1825) — Interchangeable Parts**
 American inventor Whitney created a system of standardized, interchangeable parts for U.S. military firearms (~1798). If a component broke, it could be replaced with an identical manufactured part rather than requiring a skilled craftsman to hand-make a replacement. Entrepreneurs rapidly adapted this concept to other industries, enabling the **division of labor** — workers could specialize in one task without needing to know how to build an entire product. Whitney's innovation is a foundational step toward mass production and, eventually, the assembly line (AMSCO p. 298).
 
-**Adam Smith (1723–1790) — Laissez-Faire Capitalism**
+**Adam Smith (1723–1790) — Laissez-Faire [[Concept Notes/Capitalism\|Capitalism]]**
 Scottish economist and moral philosopher, Smith published *The Wealth of Nations* in 1776 — one of the most influential economic texts ever written. His opening example of a pin factory illustrated how dividing production into specialized tasks multiplied output dramatically. Smith argued that free markets, guided by the "invisible hand" of self-interest and competition, would allocate resources more efficiently than government-managed economies. His framework, **laissez-faire capitalism**, became the dominant economic ideology of the industrial era and directly challenged [[Concept Notes/Mercantilism|Mercantilism]]. Smith was also influenced by the [[Unit-5.1/Enlightenment Overview|Enlightenment]] rationalist tradition (AMSCO pp. 297, 301).
 
 **James Watt (1736–1819) — Improved Steam Engine**

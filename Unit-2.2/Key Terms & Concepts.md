@@ -56,7 +56,7 @@ A secret Chinese Buddhist society that organized resistance to Yuan Dynasty rule
 **Ming Dynasty (1368–1644)**
 The Chinese dynasty founded by **Zhu Yuanzhang** after expelling the Mongols. Zhu was a Buddhist monk from a poor peasant family — one of history's most dramatic examples of social mobility. The Ming reversed many Yuan policies, restoring the civil service examination and emphasizing Chinese cultural traditions. (AMSCO p. 90)
 
-**Bubonic Plague (Black Death)**
+**Bubonic Plague ([[Concept Notes/Black Death\|Black Death]])**
 A devastating epidemic disease spread by fleas carried on rodents. The Mongol conquests and the resulting trade networks facilitated its transmission from southern China through Central Asia to Southeast Asia and Europe in the mid-14th century. It killed perhaps one-third of Europe's population. (AMSCO p. 91)
 
 > [!warning]

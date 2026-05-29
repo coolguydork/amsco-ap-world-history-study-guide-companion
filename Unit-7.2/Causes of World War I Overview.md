@@ -17,7 +17,7 @@ tags: [apwh, unit-7, topic-7-2, period-4, wwi, europe, nationalism, alliances, m
 
 World War I (1914–1918) — the "Great War" — was the product of decades of mounting tension in Europe suddenly detonated by a single act of political violence. No previous war had drawn in so many nations from so many parts of the world, or produced such staggering casualties. The war shattered the European order, toppled four empires, redrawn borders, and set the conditions for an even more catastrophic conflict a generation later.
 
-Understanding WWI requires separating the **immediate cause** (the assassination that lit the fuse) from the **long-term structural causes** (the pile of gunpowder). Historians use the acronym **MAIN** — Militarism, Alliances, Imperialism, Nationalism — to organize those long-term forces.
+Understanding WWI requires separating the **immediate cause** (the assassination that lit the fuse) from the **long-term structural causes** (the pile of gunpowder). Historians use the acronym **MAIN** — Militarism, Alliances, Imperialism, [[Concept Notes/Nationalism\|Nationalism]] — to organize those long-term forces.
 
 ---
 
@@ -74,5 +74,5 @@ The war's results were transformative and mostly catastrophic:
 - [[Unit-6.2/State Expansion Overview\|State Expansion Overview]] — imperialism that fueled European rivalries
 
 **Leads to:**
-- **Conducting World War I** (Topic 7.3) — how the war was actually fought
-- **Causes of World War II** (Topic 7.6) — Versailles's harsh terms as a direct cause of WWII
+- **Conducting World War I** [[Unit-7.3/Conducting World War I Overview|Conducting World War I Overview]] — how the war was actually fought
+- **Causes of World War II** [[Unit-7.6/Causes of World War II Overview|Causes of World War II Overview]] — Versailles's harsh terms as a direct cause of WWII

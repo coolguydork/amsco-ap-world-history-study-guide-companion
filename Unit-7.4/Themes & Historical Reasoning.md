@@ -60,7 +60,7 @@ Historians debate whether the New Deal actually ended the Great Depression. Libe
 
 **Historiography on Fascism's Origins:**
 
-Historians debate whether fascism emerged primarily from economic crisis (the Depression enabled Hitler) or from longer-term structural factors (German authoritarianism, hyperinflation, Versailles resentment). Hannah Arendt's *Origins of Totalitarianism* (1951) connects Nazism to imperialism and bureaucratic dehumanization. More recently, historians like Robert Paxton have emphasized fascism as a political *behavior* — a set of practices — rather than a fixed ideology. For the AP, the key point is that economic crisis alone does not produce fascism; pre-existing political weaknesses matter.
+Historians debate whether fascism emerged primarily from economic crisis (the Depression enabled Hitler) or from longer-term structural factors (German authoritarianism, hyperinflation, Versailles resentment). Hannah Arendt's *Origins of Totalitarianism* (1951) connects [[Concept Notes/Nazism\|Nazism]] to imperialism and bureaucratic dehumanization. More recently, historians like Robert Paxton have emphasized fascism as a political *behavior* — a set of practices — rather than a fixed ideology. For the AP, the key point is that economic crisis alone does not produce fascism; pre-existing political weaknesses matter.
 
 **Historiography on Stalin:**
 

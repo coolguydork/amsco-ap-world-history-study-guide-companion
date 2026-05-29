@@ -17,10 +17,10 @@ tags: [apwh, unit-4, topic-4-5, period-2, trade-networks, economic-systems, gove
 4.4 established *that* maritime empires formed and connected regions; 4.5 explains *how* they governed, extracted wealth, and managed cultural collision. The VOC and EIC (introduced here) are the institutional result of the empire-building 4.4 described.
 
 **Topic 4.3 — [[Unit-4.3/Columbian Exchange Overview|Columbian Exchange Overview]]**
-The Columbian Exchange provided the economic rationale for maritime empires: silver and sugar were the commodities that powered [[Concept Notes/Mercantilism|mercantilism]]. Potosí silver and Caribbean sugar directly drove the Price Revolution and triangular trade described in 4.5.
+The Columbian Exchange provided the economic rationale for maritime empires: silver and sugar were the commodities that powered [[Concept Notes/Mercantilism|mercantilism]]. Potosí silver and Caribbean sugar directly drove the [[Concept Notes/Price Revolution\|Price Revolution]] and triangular trade described in 4.5.
 
 **Topic 3.2 — [[Unit-3.2/Empires: Administration Overview|Empires: Administration Overview]]**
-Land-based empires (Mongols, Ottomans, early Mughals) developed administrative systems to govern diverse peoples. Spanish colonial administration (viceroy/audiencia) is the maritime counterpart — compare how both types of empires balanced central control with distance/local autonomy.
+Land-based empires ([[Concept Notes/Mongols\|Mongols]], Ottomans, early Mughals) developed administrative systems to govern diverse peoples. Spanish colonial administration (viceroy/audiencia) is the maritime counterpart — compare how both types of empires balanced central control with distance/local autonomy.
 
 ---
 
@@ -48,7 +48,7 @@ The Ottoman–Safavid conflict (Sunni vs. Shi'a) was intensified by the same per
 
 **Colonial administration** — viceroy/audiencia (Spain) → compare all Unit 3 land empires; forward to 19th-century colonial bureaucracies
 
-**Mercantilism and trade control** — [[Concept Notes/Joint-Stock Companies|joint-stock companies]], monopolies, triangular trade → compare to earlier Silk Roads and Indian Ocean trade organization; forward to 19th-century free trade ideology
+**Mercantilism and trade control** — [[Concept Notes/Joint-Stock Companies|joint-stock companies]], monopolies, triangular trade → compare to earlier [[Concept Notes/Silk Roads\|Silk Roads]] and Indian Ocean trade organization; forward to 19th-century free trade ideology
 
 **Coercive labor systems** — [[Concept Notes/Encomienda|encomienda]] → mita → plantation slavery → connect to Unit 1 serfdom, Unit 3 labor systems; forward to 19th-century abolition debates
 

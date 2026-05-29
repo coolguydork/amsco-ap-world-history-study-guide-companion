@@ -46,9 +46,9 @@ tags: [apwh, unit-1, topic-1-6, period-1, europe, feudalism, crusades, catholic-
 962 (HRE founded, fragmented) → 1066 (Norman England, organized feudalism) → 1122 (Church wins investiture) → 1180s (French bureaucracy) → 1215 (Magna Carta limits crown) → 1265 (Parliament) → 1285 (Estates-General)
 
 **Agricultural and demographic change**
-Three-field system adoption (11th–12th c.) → Population growth (High Middle Ages) → Little Ice Age (c. 1300) → Black Death (1347) → Labor scarcity, serf bargaining power → Decline of manorialism
+Three-field system adoption (11th–12th c.) → Population growth (High Middle Ages) → Little Ice Age (c. 1300) → [[Concept Notes/Black Death\|Black Death]] (1347) → Labor scarcity, serf bargaining power → Decline of manorialism
 
-**Crusades and cross-cultural contact**
+**[[Concept Notes/Crusades\|Crusades]] and cross-cultural contact**
 1095 (First Crusade) → 1099 (Jerusalem taken) → 1187 (Saladin retakes Jerusalem) → 1202–1204 (Fourth Crusade, Constantinople sacked) → Late 13th c. (Islamic forces prevail in Levant) → European demand for eastern goods surges
 
 **Church power: rise and strain**

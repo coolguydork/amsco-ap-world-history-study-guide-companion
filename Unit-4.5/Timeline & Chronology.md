@@ -47,7 +47,7 @@ tags: [apwh, unit-4, topic-4-5, period-2, trade-networks, economic-systems, gove
 **[[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] Impact Arc**
 1494 (Iberian monopolies establish framework) → Portuguese slave trade begins mid-1400s → triangular trade formalized 1600s → Dahomey/Oyo rise on firearms → gender imbalance → polygyny → Columbian Exchange crops offset population decline
 
-**Religious Syncretism Arc**
+**Religious [[Concept Notes/Syncretism\|Syncretism]] Arc**
 c. 1531 Virgin of Guadalupe → 1550s–1600s Santería/Vodun/Candomblé develop → African American church emerges in North America
 
 ---

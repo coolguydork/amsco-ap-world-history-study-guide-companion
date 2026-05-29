@@ -88,7 +88,7 @@ The Mongol legacy reshaped Eurasia in lasting ways (AMSCO p. 91):
 - **End of feudal warfare** — heavily armored knights proved useless against Mongol speed and siege technology; the walled city became obsolete
 - **Russian distinctiveness** — centuries of Golden Horde rule cut Russia off from Western European cultural development, producing a more distinctly Russian identity
 - **Demographic collapse** — millions killed; cities depopulated; Iraq's agricultural infrastructure never fully recovered from the destruction of its irrigation systems
-- **Disease corridor** — the Black Death followed the paths of Mongol trade and conquest
+- **Disease corridor** — the [[Concept Notes/Black Death\|Black Death]] followed the paths of Mongol trade and conquest
 
 > [!exam-tip]
 > The AP exam frequently asks students to evaluate the Mongols as either primarily destructive or primarily constructive. The best answers acknowledge both — conquest was brutal, but the Pax Mongolica enabled an era of extraordinary cultural and commercial exchange.

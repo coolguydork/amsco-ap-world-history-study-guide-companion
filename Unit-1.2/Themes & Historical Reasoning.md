@@ -33,10 +33,10 @@ The three-stage knowledge-transfer process is an excellent AP evidence chain:
 
 ### Religious Syncretism and the Spread of Islam
 
-[[Sufism|Sufi missionaries]] adapted Islamic practice to local cultures, incorporating indigenous religious elements into Islam. This **religious syncretism** explains both how Islam spread so rapidly and why it looked different in different places. The AP exam uses this concept to ask how and why Islam became a world religion.
+[[[[Concept Notes/Sufism\|Sufism]]|Sufi missionaries]] adapted Islamic practice to local cultures, incorporating indigenous religious elements into Islam. This **religious syncretism** explains both how Islam spread so rapidly and why it looked different in different places. The AP exam uses this concept to ask how and why Islam became a world religion.
 
 > [!exam-tip]
-> **Historical Process: Cultural Diffusion via Religious Missionaries.** Topic 1.2 is the clearest example of this process in Unit 1. Compare with Buddhism spreading through Southeast Asia [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]] — both spread via missionaries who adapted to local cultures.
+> **Historical Process: Cultural Diffusion via Religious Missionaries.** Topic 1.2 is the clearest example of this process in Unit 1. Compare with [[Concept Notes/Buddhism\|Buddhism]] spreading through Southeast Asia [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]] — both spread via missionaries who adapted to local cultures.
 
 ### al-Andalus: Cross-Cultural Intellectual Transfer
 
@@ -73,7 +73,7 @@ One of Islam's most politically significant governance innovations was the **dhi
 
 The **Think As a Historian** exercise asks students to apply cause-and-effect thinking to the decline of Baghdad. Here is that chain:
 
-Trade routes shifted northward → Baghdad lost its central position in trade → City lost wealth and population → Canals fell into disrepair → Agricultural production declined → Urban infrastructure decayed → City was already weakened before the Mongols arrived in 1258.
+Trade routes shifted northward → Baghdad lost its central position in trade → City lost wealth and population → Canals fell into disrepair → Agricultural production declined → Urban infrastructure decayed → City was already weakened before the [[Concept Notes/Mongols\|Mongols]] arrived in 1258.
 
 ---
 
@@ -81,7 +81,7 @@ Trade routes shifted northward → Baghdad lost its central position in trade �
 
 ### Islamic Merchants as Cultural Agents
 
-Islam elevated the status of merchants more than contemporary European or Chinese society did. Because the Prophet Muhammad was himself a merchant, commercial success was not seen as morally suspect. Merchants were expected to conduct fair dealing and give charity (zakat), but within those obligations they could legitimately accumulate great wealth. This attitude facilitated an extraordinary commercial expansion — Islamic merchants dominated the Indian Ocean and Silk Roads trades (AMSCO p. 17).
+Islam elevated the status of merchants more than contemporary European or Chinese society did. Because the Prophet Muhammad was himself a merchant, commercial success was not seen as morally suspect. Merchants were expected to conduct fair dealing and give charity (zakat), but within those obligations they could legitimately accumulate great wealth. This attitude facilitated an extraordinary commercial expansion — Islamic merchants dominated the Indian Ocean and [[Concept Notes/Silk Roads\|Silk Roads]] trades (AMSCO p. 17).
 
 ### The Mamluk Sultanate's Economic Logic
 

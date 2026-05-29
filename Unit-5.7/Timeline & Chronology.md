@@ -34,7 +34,7 @@ All events in this topic fall in **AP Period 3 (1750–1900)**. The economic str
 
 - **Topic 5.8:** Workers and critics respond to these same structures → socialism, labor unions
 - **Topic 6.4–6.5:** Transnational corporations and global finance → formal economic imperialism
-- **Topic 7.x:** Industrial capitalism's contradictions → world wars, Great Depression
+- **Topic 7.x:** Industrial capitalism's contradictions → world wars, [[Concept Notes/Great Depression\|Great Depression]]
 
 > [!tip]
 > The AP often asks you to identify **turning points**. The 1850s–1870s are a strong candidate: the Bessemer process (1856), *Das Kapital* (1867), and HSBC (1865) all cluster here — the moment when industrial capitalism became truly global and systematically organized.

@@ -61,7 +61,7 @@ The political process by which trading cities accumulated wealth from commerce, 
 The pandemic caused by the bacterium *Yersinia pestis*, transmitted by fleas on rats and spread rapidly along all three trade networks in the mid-14th century. Killed an estimated one-third or more of Europe's population, tens of millions in China, and devastated trading cities across Afro-Eurasia. A dramatic illustration of how trade connectivity could spread catastrophe. (AMSCO p. 132)
 
 **[[Concept Notes/Pax Mongolica|Pax Mongolica]]**
-"Mongol Peace" — the relative political stability and security for merchants across the Mongol Empire (c. 1206–1368) that allowed overland Silk Roads trade to reach its peak. Under the Mongols, a merchant could travel from China to Eastern Europe with relative safety. Collapsed when the Mongol Empire fragmented. See [[Unit-2.2/Mongol Empire Overview|Mongol Empire Overview]]. (AMSCO p. 134)
+"Mongol Peace" — the relative political stability and security for merchants across the Mongol Empire (c. 1206–1368) that allowed overland Silk Roads trade to reach its peak. Under the [[Concept Notes/Mongols\|Mongols]], a merchant could travel from China to Eastern Europe with relative safety. Collapsed when the Mongol Empire fragmented. See [[Unit-2.2/Mongol Empire Overview|Mongol Empire Overview]]. (AMSCO p. 134)
 
 **Cottage industry**
 Small-scale production of goods (textiles, ceramics, metalwork) by craftworkers in their own homes, typically organized by a merchant who supplied raw materials and bought finished goods. A widespread labor form across all three networks.

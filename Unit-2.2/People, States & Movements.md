@@ -42,7 +42,7 @@ Wife of Ögedei Khan. After Ögedei's death, and while his son Güyük was away 
 ## Key States & Empires
 
 **Mongol Empire (1206–c. 1370s)**
-The largest contiguous land empire in history. At its peak it stretched from the Korean Peninsula to Eastern Europe and from Siberia to Southeast Asia. Founded by Genghis Khan and governed in theory by a single Great Khan, it functionally divided into four major khanates after 1260. Unified by the yam postal system, a common legal code (yasa), and religious toleration. The empire enabled the Pax Mongolica before declining through military overextension, internal succession conflicts, and the Black Death. (AMSCO pp. 85–91)
+The largest contiguous land empire in history. At its peak it stretched from the Korean Peninsula to Eastern Europe and from Siberia to Southeast Asia. Founded by Genghis Khan and governed in theory by a single Great Khan, it functionally divided into four major khanates after 1260. Unified by the yam postal system, a common legal code (yasa), and religious toleration. The empire enabled the Pax Mongolica before declining through military overextension, internal succession conflicts, and the [[Concept Notes/Black Death\|Black Death]]. (AMSCO pp. 85–91)
 
 **Yuan Dynasty (1271–1368)**
 The Mongol-ruled dynasty in China, established by Kublai Khan. Notable for: adopting Chinese administrative structures, dismantling the civil service examination (which alienated the scholar-gentry), promoting religious minorities (Buddhists, Daoists, Muslims), and enabling enormous trade prosperity. Fell to the revolt led by Zhu Yuanzhang. (AMSCO pp. 89–90)

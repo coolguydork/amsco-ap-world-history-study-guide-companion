@@ -55,7 +55,7 @@ The largest colonial empire in the Americas, comprising the former territories o
 **Portuguese Empire**
 Portugal built a trading-post empire rather than a settler-colony empire. It controlled coastal enclaves in Africa (including the Kingdom of the Kongo trade), India (Goa), and Brazil, plus a chain of armed trading posts around the Indian Ocean. Portugal pioneered the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] by first bringing enslaved Africans to Europe as domestic servants in the late 1400s. By the era of large-scale plantation agriculture, Portuguese colonies (especially Brazil) received the largest share of enslaved Africans — 39% of the total.
 
-**British East India Company (EIC)**
+**British [[Concept Notes/East India Company\|East India Company]] (EIC)**
 A [[Concept Notes/Joint-Stock Companies|joint-stock company]] that began as a commercial trading enterprise with the Mughal Empire in the 17th century. It eventually expanded inland using sepoys and political alliances, transforming from a trading company into a governing body. Britain's Seven Years' War victory (1763) drove France from India, leaving the EIC dominant. This trajectory — commercial enterprise becoming colonial government — is a key pattern for AP.
 
 **Kingdom of the Kongo**

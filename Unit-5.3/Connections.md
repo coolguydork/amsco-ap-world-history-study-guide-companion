@@ -50,7 +50,7 @@ Both the [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] revolution and th
 
 **Technology and production** — How do new tools and machines change what societies can produce, and who controls production?
 
-**Capitalism and wage labor** — The Industrial Revolution established the core structures of industrial capitalism: private ownership of factories, wage-earning workers who sell their labor, market competition.
+**[[Concept Notes/Capitalism\|Capitalism]] and wage labor** — The Industrial Revolution established the core structures of industrial capitalism: private ownership of factories, wage-earning workers who sell their labor, market competition.
 
 **Urbanization** — The movement of populations from rural to urban settings — driven in Britain by the enclosure movement and factory jobs — is a defining feature of modern history.
 

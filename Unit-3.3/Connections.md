@@ -17,7 +17,7 @@ Islam's origins, early spread, Sunni-Shia split, and Sufism all provide the foun
 **[[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]] [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]]**
 The Catholic Church's medieval dominance — and the problems of corruption, the Babylonian Captivity, and failed reform movements (Wycliffe, Hus) — set up the [[Concept Notes/Protestant Reformation|Protestant Reformation]]. Understand Topic 1.6's Church to understand why Topic 3.3's Reformation succeeded.
 
-**[[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]]**
+**[[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]]**
 The Ottoman, Safavid, and Mughal empires whose religious policies dominate Topic 3.3 are introduced in Topic 3.1. Their expansion and administrative structures provide the political context in which religious policies operated.
 
 ---
@@ -53,7 +53,7 @@ The same Reformation that fragmented Europe also drove missionary activity globa
 
 **Syncretism vs. orthodoxy** — Sikhism (organic synthesis from below) vs. Din-i-Ilahi (imposed synthesis from above) vs. Calvinist Geneva (strict orthodoxy) illustrates the creative tension between religious blending and religious purity. See [[Concept Notes/Syncretism|Syncretism]].
 
-**New religious movements** — Sikhism joins Buddhism, Christianity, and Islam as religions that emerged from existing traditions in new cultural contexts. Pattern: new religions tend to emerge at cultural contact zones.
+**New religious movements** — Sikhism joins [[Concept Notes/Buddhism\|Buddhism]], Christianity, and Islam as religions that emerged from existing traditions in new cultural contexts. Pattern: new religions tend to emerge at cultural contact zones.
 
 ---
 

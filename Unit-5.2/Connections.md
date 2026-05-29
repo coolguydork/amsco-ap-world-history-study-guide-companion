@@ -48,7 +48,7 @@ Cavour and Bismarck used similar methods (realpolitik, wars as diplomatic tools)
 
 ## AP Threads Running Through This Topic
 
-**Nationalism** — from cultural identity to political program to great-power competition. Track how nationalism morphs from a liberating force (1776, 1789, 1804) to a destabilizing one (post-1871 European rivalry).
+**[[Concept Notes/Nationalism\|Nationalism]]** — from cultural identity to political program to great-power competition. Track how nationalism morphs from a liberating force (1776, 1789, 1804) to a destabilizing one (post-1871 European rivalry).
 
 **Popular sovereignty** — the core political idea of the period. Who counts as "the people"? The answer varied by revolution and exposed the limits of each.
 

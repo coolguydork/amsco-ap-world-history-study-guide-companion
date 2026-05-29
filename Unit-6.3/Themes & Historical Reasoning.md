@@ -17,7 +17,7 @@ tags: [apwh, unit-6, topic-6-3, period-3, resistance, causation, gov, cdi, sio, 
 
 Colonial expansion forced a political response from every society it encountered. The form of resistance depended heavily on existing political structures. Where strong centralized states existed (Zulu, Asante, Sokoto Caliphate), armed military resistance was possible and sometimes temporarily successful. Where colonial rule had fragmented indigenous political structures (Cherokee, Aboriginal Australia), resistance took cultural, legal, or spiritual forms — often less effective against raw colonial power.
 
-The Indian Rebellion of 1857 triggered a fundamental restructuring of British colonial governance: the abolition of the East India Company and the imposition of direct Crown rule via the British Raj. This illustrates a recurring colonial pattern — resistance provokes tighter control, which in turn radicalizes future resistance.
+The Indian Rebellion of 1857 triggered a fundamental restructuring of British colonial governance: the abolition of the [[Concept Notes/East India Company\|East India Company]] and the imposition of direct Crown rule via the British Raj. This illustrates a recurring colonial pattern — resistance provokes tighter control, which in turn radicalizes future resistance.
 
 The Sokoto Caliphate and Mahdist Sudan represent a distinct model: building an alternative Islamic state as resistance to external political domination. Both eventually fell to British military force, but both held power for decades and demonstrated that resistance could be generative, not merely reactive.
 

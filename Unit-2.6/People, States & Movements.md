@@ -13,7 +13,7 @@ tags: [apwh, unit-2, topic-2-6, period-1]
 ## Key People
 
 **Giovanni Boccaccio (1313–1375)**
-Italian author who lived through the Black Death in Florence and described it in *The Decameron* — a collection of stories framed as tales told by people sheltering from the plague. His account is a primary source for the plague's social impact: "Dead bodies filled every corner." AMSCO opens Topic 2.6 with this quote. Useful for SAQ/DBQ document analysis. (AMSCO p. 121)
+Italian author who lived through the [[Concept Notes/Black Death\|Black Death]] in Florence and described it in *The Decameron* — a collection of stories framed as tales told by people sheltering from the plague. His account is a primary source for the plague's social impact: "Dead bodies filled every corner." AMSCO opens Topic 2.6 with this quote. Useful for SAQ/DBQ document analysis. (AMSCO p. 121)
 
 **Ibn Khaldun (Moroccan historian, c. 1332–1406)**
 Wrote that the plague "devastated nations and caused populations to vanish… Civilization decreased with the decrease of mankind." His account emphasizes the civilizational scope of the catastrophe. Tested in SAQ practice questions for this topic. (AMSCO practice, p. 125)
@@ -47,4 +47,4 @@ The Mongols' conquest of Central Asia and China created the trade corridors — 
 Bantu-speaking peoples migrated into new regions of sub-Saharan Africa partly enabled by banana cultivation introduced by Indonesian seafarers. Their metallurgy skills and farming techniques — now augmented by bananas — allowed settlement in zones previously inhospitable to yam farming. (AMSCO p. 122)
 
 **Indonesian seafaring**
-Indonesian sailors crossed the Indian Ocean to trade and settle, introducing bananas to sub-Saharan Africa and establishing communities in Madagascar. A key vector for crop diffusion that the AP exam may contrast with overland Silk Roads diffusion. (AMSCO p. 122)
+Indonesian sailors crossed the Indian Ocean to trade and settle, introducing bananas to sub-Saharan Africa and establishing communities in Madagascar. A key vector for crop diffusion that the AP exam may contrast with overland [[Concept Notes/Silk Roads\|Silk Roads]] diffusion. (AMSCO p. 122)

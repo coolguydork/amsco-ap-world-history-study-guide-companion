@@ -13,7 +13,7 @@ tags: [apwh, unit-2, topic-2-1, period-1, trade-networks, economic-systems, cult
 
 ### ECN — Economic Systems
 
-Topic 2.1 is primarily an economic story. The Silk Roads represent one of the clearest exam examples of how **state power, demand, and innovation** drive economic expansion. Key ECN evidence includes:
+Topic 2.1 is primarily an economic story. The [[Concept Notes/Silk Roads\|Silk Roads]] represent one of the clearest exam examples of how **state power, demand, and innovation** drive economic expansion. Key ECN evidence includes:
 
 - The Mongol Empire's unification of trade routes under a single authority (reduced transaction costs)
 - Commercial innovations: flying cash, paper money, bills of exchange, banking houses
@@ -22,7 +22,7 @@ Topic 2.1 is primarily an economic story. The Silk Roads represent one of the cl
 - The role of luxury goods demand in stimulating production and exchange
 
 > [!exam-tip]
-> ECN on the AP exam often asks you to explain how **states facilitate or hinder** economic activity. The Pax Mongolica is the go-to example for state facilitation of trade in Period 2 (c. 1200–1450).
+> ECN on the AP exam often asks you to explain how **states facilitate or hinder** economic activity. The [[Concept Notes/Pax Mongolica\|Pax Mongolica]] is the go-to example for state facilitation of trade in Period 2 (c. 1200–1450).
 
 ### TEC — Technology and Innovation
 
@@ -41,7 +41,7 @@ The Silk Roads were themselves a technology diffusion highway: paper, gunpowder,
 The Silk Roads were as much a cultural corridor as a trade route. Religions, ideas, and technologies all moved along them:
 
 - Islam spread into Central Asia via Silk Roads merchants
-- Buddhism previously spread from India into Central Asia and China along the same routes
+- [[Concept Notes/Buddhism\|Buddhism]] previously spread from India into Central Asia and China along the same routes
 - Kashgar and Samarkand became centers of Islamic scholarship — multicultural cities where Buddhism, Christianity, Zoroastrianism, and Islam coexisted (AMSCO pp. 78–79)
 - Chinese technologies (papermaking, gunpowder, compass) diffused westward
 - Bubonic plague spread eastward to westward, killing an estimated one-third of Europe (covered more fully in Topic 2.6)
@@ -74,7 +74,7 @@ The AP Learning Objective explicitly asks for **causes AND effects**. Use the fo
 
 **What changed after 1200:**
 - Volume and geographic scope of Silk Roads trade increased dramatically
-- Political unification under the Mongols created unprecedented security
+- Political unification under the [[Concept Notes/Mongols\|Mongols]] created unprecedented security
 - New financial instruments (paper money, bills of exchange) enabled higher trade volumes
 - New trade cities and caravanserais expanded the route's physical infrastructure
 

@@ -26,7 +26,7 @@ Topic 4.6 closes Unit 4 by showing the underside of empire-building. Units 4.1�
 
 **Enlightenment [[Unit-5.1/Enlightenment Overview|Enlightenment Overview]]** — The Glorious Revolution (1688) helped inspire Enlightenment thinkers. John Locke used it as evidence that governments exist to protect natural rights and can be legitimately overthrown when they fail. The revolts of 4.6 fed the political philosophy of 5.1.
 
-**Atlantic Revolutions [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]]** — The Haitian Revolution (1791), American Revolution (1776), and Latin American independence movements are the direct successors of the resistance patterns established in 4.6. Maroon communities, slave revolts, and indigenous resistance in the Americas all prefigure the Atlantic Revolutionary era.
+**Atlantic Revolutions [[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview|Nationalism & Revolutions Overview]]** — The Haitian Revolution (1791), American Revolution (1776), and Latin American independence movements are the direct successors of the resistance patterns established in 4.6. Maroon communities, slave revolts, and indigenous resistance in the Americas all prefigure the Atlantic Revolutionary era.
 
 **Nation-States [[Unit-7.1/Shifting Power Overview|Shifting Power Overview]]** — The Peace of Westphalia's principle of state sovereignty (1648) — a product of European religious wars — eventually became the foundation of the modern nation-state system.
 

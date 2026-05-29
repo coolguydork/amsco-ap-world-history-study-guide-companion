@@ -15,11 +15,11 @@ The transoceanic trading network connecting Western Europe, West Africa, and the
 **[[Concept Notes/Mercantilism|Mercantilism]]**
 The dominant European economic policy of 1450–1750: states controlled trade to maximize exports over imports, accumulate gold and silver, and generate state revenue. Colonies were valued primarily as sources of raw materials and captive markets for manufactured goods. Mercantilist thinking shaped colonialism — colonies existed for the benefit of the mother country, not themselves. (AMSCO p. 263)
 
-**Capitalism**
+**[[Concept Notes/Capitalism\|Capitalism]]**
 An economic system in which private individuals invest capital to generate profit, with markets (rather than states) allocating resources. Capitalism began to emerge in this period as an alternative to mercantilism, driven by [[Concept Notes/Joint-Stock Companies|joint-stock companies]] and expanding merchant wealth. By 1750 it was not yet dominant — that comes in Topic 5.3 with the Industrial Revolution. (AMSCO p. 263)
 
 **Joint-stock company (chartered company)**
-A business organization in which multiple investors pool their capital and share the risks and profits of a venture. The Dutch East India Company (VOC, 1602) and the English East India Company (EIC, 1600) were the most powerful examples. Joint-stock companies allowed private citizens to fund empire-building at scale, effectively privatizing parts of European expansion. (AMSCO p. 263)
+A business organization in which multiple investors pool their capital and share the risks and profits of a venture. The Dutch [[Concept Notes/East India Company\|East India Company]] (VOC, 1602) and the English East India Company (EIC, 1600) were the most powerful examples. Joint-stock companies allowed private citizens to fund empire-building at scale, effectively privatizing parts of European expansion. (AMSCO p. 263)
 
 **[[Concept Notes/Price Revolution|Price Revolution]]**
 The sustained inflation across Europe (roughly 1500–1650) caused by the massive influx of American silver into the global economy. As the money supply grew faster than the production of goods, prices rose — sometimes dramatically. The Price Revolution disrupted traditional economic relationships and contributed to social unrest. (AMSCO p. 263)

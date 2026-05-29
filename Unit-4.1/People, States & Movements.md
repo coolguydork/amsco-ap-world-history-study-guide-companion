@@ -39,13 +39,13 @@ The pioneer of European maritime exploration in this period. Under Prince Henry'
 Followed Portugal into maritime expansion, sponsoring Columbus's 1492 voyage westward and Magellan's circumnavigation (1519–1522). Spain's focus turned toward the Americas after Columbus's landfall — building a territorial empire rather than a trading-post empire. (AMSCO p. 192)
 
 **Ottoman Empire**
-While not a maritime exploration power in this period, the Ottomans are critical *context* for Topic 4.1. Ottoman control of eastern Mediterranean and Middle Eastern overland trade routes raised the cost of accessing Asian goods for Western Europeans. This economic pressure — the need to bypass Ottoman intermediaries — was a primary motivation for European exploration of sea routes to Asia. (AMSCO p. 191; connects to [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Unit 3.1]])
+While not a maritime exploration power in this period, the Ottomans are critical *context* for Topic 4.1. Ottoman control of eastern Mediterranean and Middle Eastern overland trade routes raised the cost of accessing Asian goods for Western Europeans. This economic pressure — the need to bypass Ottoman intermediaries — was a primary motivation for European exploration of sea routes to Asia. (AMSCO p. 191; connects to [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|Unit 3.1]])
 
 **Ming China**
 China possessed navigational technology equal to or exceeding Europe's — the magnetic compass was Chinese, and Zheng He's voyages (1405–1433) demonstrated China's capacity for large-scale ocean exploration. But the Ming state *withdrew* from Indian Ocean exploration after 1433 due to court politics, Confucian prioritization of agriculture over commerce, and the absence of the economic pressures driving Europeans. This contrast is a high-frequency AP comparison question. (connects to [[Unit-2.3/Indian Ocean Overview|Unit 2.3]])
 
 **Dutch Republic (Netherlands)**
-By the early 17th century, the Dutch displaced the Portuguese as the dominant European power in Indian Ocean trade. The Dutch East India Company (VOC, 1602) was the most powerful joint-stock trading company of the era, operating with quasi-governmental authority. The Dutch fluyt ship was purpose-built for high-volume commercial trade. (Clean Key Dates)
+By the early 17th century, the Dutch displaced the Portuguese as the dominant European power in Indian Ocean trade. The Dutch [[Concept Notes/East India Company\|East India Company]] (VOC, 1602) was the most powerful joint-stock trading company of the era, operating with quasi-governmental authority. The Dutch fluyt ship was purpose-built for high-volume commercial trade. (Clean Key Dates)
 
 ## Key Institutions
 

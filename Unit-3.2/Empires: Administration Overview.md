@@ -12,7 +12,7 @@ tags: [apwh, unit-3, topic-3-2, period-2, governance, land-based-empires, europe
 
 ## The Central Problem of Empire
 
-Conquering territory is one thing; holding it is another. By 1450, the great land-based empires studied in [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Topic 3.1]] had established their borders. Now they faced the harder task: administering vast, multi-ethnic realms across enormous distances. Every ruler answered the same question differently — but all needed three things to survive: **money** (taxation), **loyalty** (bureaucracy or military), and **legitimacy** (religion, law, or spectacle). *AMSCO pp. 155–166*
+Conquering territory is one thing; holding it is another. By 1450, the great land-based empires studied in [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|Topic 3.1]] had established their borders. Now they faced the harder task: administering vast, multi-ethnic realms across enormous distances. Every ruler answered the same question differently — but all needed three things to survive: **money** (taxation), **loyalty** (bureaucracy or military), and **legitimacy** (religion, law, or spectacle). *AMSCO pp. 155–166*
 
 > [!tip]
 > The AP exam loves to ask you to **compare** administrative methods across empires. Know at least two specific examples for each method: bureaucratic elites, military loyalty, religious justification, and monumental architecture.

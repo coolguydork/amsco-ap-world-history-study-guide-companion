@@ -13,7 +13,7 @@ tags: [apwh, unit-6, topic-6-7, period-3, migration, south-africa, ireland, chin
 
 ## Key People
 
-**Mohandas Gandhi (1869–1948)**
+**[[Concept Notes/Mohandas Gandhi\|Mohandas Gandhi]] (1869–1948)**
 Indian lawyer who arrived in Pretoria, South Africa in 1893 to practice law and was immediately confronted by systematic racial discrimination against Indians. Gandhi transformed from a London-educated barrister into an activist after experiencing the injustice firsthand. He founded the **Natal Indian Congress** (1894) to organize resistance to anti-Indian discrimination and developed his philosophy of *satyagraha* (nonviolent resistance/devotion to truth) during his South African years. He returned to India in 1914 and led the mass nationalist movement against British colonial rule that culminated in Indian independence in 1947. Gandhi is the most important individual in Topic 6.7 because his trajectory connects 19th-century migration patterns directly to 20th-century decolonization — the AP may ask you to trace this causation.
 
 > [!tip]

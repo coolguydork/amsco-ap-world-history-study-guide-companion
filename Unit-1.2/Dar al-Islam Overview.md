@@ -89,7 +89,7 @@ Islamic scholars accomplished three major intellectual tasks (AMSCO p. 16–17):
 
 ### Commerce and Class
 
-Islamic society valued merchants more highly than did contemporary European or Chinese society. Muhammad himself was a merchant, as was his first wife. Merchants could grow wealthy through Indian Ocean and Silk Roads trade as long as they conducted fair dealings and gave to charity — two obligations tied to the **Five Pillars of Islam**. Some merchants even served as missionaries (AMSCO p. 17).
+Islamic society valued merchants more highly than did contemporary European or Chinese society. Muhammad himself was a merchant, as was his first wife. Merchants could grow wealthy through Indian Ocean and [[Concept Notes/Silk Roads\|Silk Roads]] trade as long as they conducted fair dealings and gave to charity — two obligations tied to the **Five Pillars of Islam**. Some merchants even served as missionaries (AMSCO p. 17).
 
 ### Slavery
 

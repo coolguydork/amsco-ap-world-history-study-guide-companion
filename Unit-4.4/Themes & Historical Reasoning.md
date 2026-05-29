@@ -13,7 +13,7 @@ tags: [apwh, unit-4, topic-4-4, period-2, governance, economic-systems, social-i
 
 Topic 4.4 is fundamentally about how European maritime states built empires between 1450 and 1750. The AP exam expects students to explain the **process** of expansion — not just list who conquered what, but identify the mechanisms:
 
-European states used a combination of **military technology** (superior naval firepower), **political maneuvering** (treaties with local rulers, exploitation of existing rivalries like Aztec vs. subject peoples and Mughal Hindu-Muslim tensions), **commercial institutions** ([[Concept Notes/Joint-Stock Companies|joint-stock companies]] like the British East India Company), and **religious justification** (Christianization as the stated rationale for encomienda) to build and administer empires.
+European states used a combination of **military technology** (superior naval firepower), **political maneuvering** (treaties with local rulers, exploitation of existing rivalries like Aztec vs. subject peoples and Mughal Hindu-Muslim tensions), **commercial institutions** ([[Concept Notes/Joint-Stock Companies|joint-stock companies]] like the British [[Concept Notes/East India Company\|East India Company]]), and **religious justification** (Christianization as the stated rationale for encomienda) to build and administer empires.
 
 **Administration mechanisms:**
 - Spanish Americas: viceroyalties governed by viceroys directly answerable to the crown; [[Concept Notes/Encomienda|encomienda]] granted local labor authority to conquistadores
@@ -94,7 +94,7 @@ The colonial encounter transformed social structures on multiple continents:
 - Spanish: military conquest of large empires; encomienda and hacienda; significant intermarriage/mestizo population; Catholic mission system; silver-extraction economy
 - British: smaller initial scale; trading posts → settler colonies; indentured servitude before enslaved labor; less intermarriage; Protestant establishment
 
-**Maritime empires vs. land-based empires** (compare [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]]): Maritime empires depended on naval technology and control of sea lanes; land-based empires (Ottoman, Mughal, Qing) controlled contiguous territory through military force and administrative systems.
+**Maritime empires vs. land-based empires** (compare [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]]): Maritime empires depended on naval technology and control of sea lanes; land-based empires (Ottoman, Mughal, Qing) controlled contiguous territory through military force and administrative systems.
 
 ## Think As a Historian: Purpose and Audience
 

@@ -52,7 +52,7 @@ Every region used religion to legitimize state authority, but the specific tradi
 - **East Asia** — [[Concept Notes/Neo-Confucianism|Neo-Confucianism]] (Song civil-service system; spread to Korea and Japan)
 - **Dar al-Islam** — Islam (Mali Empire's legitimacy; Delhi Sultanate's authority)
 - **South Asia** — Islam + Hinduism in synthesis (Delhi Sultanate)
-- **Southeast Asia** — Buddhism + Hinduism (Khmer Empire, Vijayanagar)
+- **Southeast Asia** — [[Concept Notes/Buddhism\|Buddhism]] + Hinduism (Khmer Empire, Vijayanagar)
 - **Europe** — Catholic Christianity (Holy Roman Empire; Church as rival to state power)
 - **Americas** — Indigenous religion (Aztec sacrifice rituals; Inca sun worship)
 
@@ -69,7 +69,7 @@ Every region used religion to legitimize state authority, but the specific tradi
 | c. 1450 | Nomadic peoples' political influence wanes |
 
 > [!exam-tip]
-> The AP exam rarely tests exact dates for this period. What matters is sequence and causation: e.g., *why* did new Islamic states arise after 1200? (Because the Abbasid Caliphate fragmented and was destroyed.) What allowed Pax Mongolica trade? (Mongol political unification of Central Asia.)
+> The AP exam rarely tests exact dates for this period. What matters is sequence and causation: e.g., *why* did new Islamic states arise after 1200? (Because the Abbasid Caliphate fragmented and was destroyed.) What allowed [[Concept Notes/Pax Mongolica\|Pax Mongolica]] trade? (Mongol political unification of Central Asia.)
 
 > [!tip]
 > When comparing state-building chronologically, notice that the Americas (Aztec, Inca) rose to power *later* than most Eurasian states in this period — closer to 1400–1450 — which is relevant when discussing why they lacked the same technological exchange as Eurasian states.

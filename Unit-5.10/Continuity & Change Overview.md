@@ -72,7 +72,7 @@ The middle class expanded dramatically to include factory managers, bankers, ins
 
 Germany under Chancellor Otto von Bismarck enacted the most comprehensive worker protections: accident compensation insurance, unemployment insurance, and old-age pensions. These reforms were motivated in part by a desire to undercut socialist and radical movements — demonstrating that change often came from above to prevent change from below.
 
-**What Stayed the Same:** Political inequality persisted. In regions where the middle class was small or weak, authoritarian governments survived. Nationalism — a force present since the Atlantic Revolutions — continued to drive both state-building and inter-state rivalry throughout the Industrial Age. International competition among nation-states, not a new phenomenon, intensified with industrialization as states competed for raw materials and markets.
+**What Stayed the Same:** Political inequality persisted. In regions where the middle class was small or weak, authoritarian governments survived. [[Concept Notes/Nationalism\|Nationalism]] — a force present since the Atlantic Revolutions — continued to drive both state-building and inter-state rivalry throughout the Industrial Age. International competition among nation-states, not a new phenomenon, intensified with industrialization as states competed for raw materials and markets.
 
 > [!exam-tip]
 > Bismarck's social reforms are ideal complexity evidence in an LEQ: they represent state-directed change *in response to* the threat of more radical change — a nuanced argument about causation and the limits of top-down reform.

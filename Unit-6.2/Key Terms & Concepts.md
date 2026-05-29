@@ -38,7 +38,7 @@ Modern-day Ethiopia; one of only two African nations to remain independent of Eu
 West African nation founded by formerly enslaved people from the United States; one of only two African countries (along with Abyssinia/Ethiopia) not colonized by Europeans, though it maintained a dependent relationship with the United States.
 
 **Ceylon**
-Island south of the Indian subcontinent (modern Sri Lanka) brought under British East India Company control as part of the broader colonization of South Asia; later a British Crown colony and major producer of tea and rubber.
+Island south of the Indian subcontinent (modern Sri Lanka) brought under British [[Concept Notes/East India Company\|East India Company]] control as part of the broader colonization of South Asia; later a British Crown colony and major producer of tea and rubber.
 
 **Dutch East Indies**
 Present-day Indonesia; controlled by the Dutch government after the VOC went bankrupt in 1800; forced to produce cash crops (tea, rubber, sugar) for export, which curtailed rice cultivation and caused severe hardship for Indonesian farmers.

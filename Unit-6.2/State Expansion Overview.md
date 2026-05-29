@@ -45,7 +45,7 @@ Key colonial situations to know:
 
 ## Imperialism in South and East Asia
 
-**South Asia:** The British East India Company (EIC) steadily absorbed the weak Mughal Empire, eventually controlling all of South Asia from Pakistan to Ceylon (Sri Lanka). After the Sepoy (Indian) Rebellion of 1857, the British Crown dissolved the EIC and assumed direct rule.
+**South Asia:** The British [[Concept Notes/East India Company\|East India Company]] (EIC) steadily absorbed the weak Mughal Empire, eventually controlling all of South Asia from Pakistan to Ceylon (Sri Lanka). After the Sepoy (Indian) Rebellion of 1857, the British Crown dissolved the EIC and assumed direct rule.
 
 **East Asia — China:** China kept its own government but was carved into spheres of influence by multiple powers. Internal crises weakened the Qing Dynasty and invited foreign domination:
 

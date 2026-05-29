@@ -29,7 +29,7 @@ The war also industrialized killing in an unprecedented way — applying factory
 
 Total war reorganized civilian society: women entered the industrial workforce at scale for the first time; colonial populations were mobilized globally; class distinctions blurred somewhat in shared suffering. Propaganda redefined the relationship between state and citizen — governments became actors in shaping mass opinion, not just military strategy.
 
-The war's aftermath — reparations, hyperinflation, shattered expectations — created social dislocation across Europe. In Germany especially, the Weimar Republic's economic crises eroded social stability, opening space for extremist political movements.
+The war's aftermath — reparations, hyperinflation, shattered expectations — created social dislocation across Europe. In Germany especially, the [[Concept Notes/Weimar Republic\|Weimar Republic]]'s economic crises eroded social stability, opening space for extremist political movements.
 
 ---
 

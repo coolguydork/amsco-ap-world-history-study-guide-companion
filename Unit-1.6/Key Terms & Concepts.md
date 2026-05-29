@@ -9,7 +9,7 @@ tags: [apwh, unit-1, topic-1-6, period-1, europe, feudalism, catholic-church, go
 
 ## Political & Social Organization
 
-**Feudalism**
+**[[Concept Notes/Feudalism\|Feudalism]]**
 A decentralized political and social system in medieval Europe built on mutual obligations: monarchs granted land (fiefs) to lords, lords to knights, in exchange for military service and loyalty. Wealth was measured in land, not cash. Feudalism emerged from the power vacuum left by Rome's collapse. (AMSCO p. 53)
 
 **Fief**
@@ -28,7 +28,7 @@ The economic backbone of feudal Europe. Manors were large, self-sufficient estat
 An unwritten code of conduct for knights emphasizing honor, courtesy, and bravery. It placed women on a symbolic pedestal while providing them few actual rights. Used to regulate disputes within the feudal warrior class.
 
 **Primogeniture**
-The practice of passing an entire inheritance to the eldest son. This left younger noble sons landless and restless, creating social pressure that contributed to the Crusades — restless younger sons sought wealth through military conquest. (AMSCO p. 57)
+The practice of passing an entire inheritance to the eldest son. This left younger noble sons landless and restless, creating social pressure that contributed to the [[Concept Notes/Crusades\|Crusades]] — restless younger sons sought wealth through military conquest. (AMSCO p. 57)
 
 **Bourgeoisie (Burghers)**
 The emerging middle class of merchants, shopkeepers, craftspeople, and small landholders in late medieval Europe. Their wealth came from commerce rather than land or Church rank. Their rise signaled a gradual shift away from the purely agricultural feudal economy. (AMSCO p. 59)
@@ -62,7 +62,7 @@ A legislative body with two chambers: the House of Lords (representing nobles an
 The French advisory body first convened under Philip IV in 1285–1314, representing three estates: clergy, nobility, and commoners. Because the top two estates paid no taxes, they had little incentive to defend royal government, limiting its power. It played a role leading up to the French Revolution (1789). (AMSCO p. 55)
 
 **Hundred Years' War (1337–1453)**
-A series of battles between England and France over territorial claims in France. The war helped forge national identities on both sides and demonstrated the spread of gunpowder weapons (invented in China, diffused westward via Mongols). England ultimately retained only the port of Calais in France. (AMSCO p. 56)
+A series of battles between England and France over territorial claims in France. The war helped forge national identities on both sides and demonstrated the spread of gunpowder weapons (invented in China, diffused westward via [[Concept Notes/Mongols\|Mongols]]). England ultimately retained only the port of Calais in France. (AMSCO p. 56)
 
 **Reconquista**
 The centuries-long Christian effort to reclaim the Iberian Peninsula (modern Spain and Portugal) from Muslim rulers. Completed in 1492. It also involved the Norman conquest of Muslim-held Sicily in southern Italy. (AMSCO p. 56)
@@ -73,7 +73,7 @@ The centuries-long Christian effort to reclaim the Iberian Peninsula (modern Spa
 A series of European military campaigns aimed at reclaiming the Holy Land (Palestine) from Muslim control. Causes were religious (protect pilgrim access), social (primogeniture left younger sons landless), and economic (merchants wanted open trade routes). Only the First Crusade succeeded militarily. The Crusades dramatically increased European contact with and demand for Middle Eastern goods. (AMSCO pp. 57–58)
 
 **Antisemitism**
-Hostility and discrimination toward Jewish people. In medieval Europe, Jews faced expulsions from England (1290), France (1394), and Spain (1492), among others. Jews were blamed for economic hardships (especially during the Little Ice Age and Black Death) and restricted to occupations like moneylending, which then reinforced negative stereotypes. (AMSCO p. 59)
+Hostility and discrimination toward Jewish people. In medieval Europe, Jews faced expulsions from England (1290), France (1394), and Spain (1492), among others. Jews were blamed for economic hardships (especially during the Little Ice Age and [[Concept Notes/Black Death\|Black Death]]) and restricted to occupations like moneylending, which then reinforced negative stereotypes. (AMSCO p. 59)
 
 ## Agriculture & Environment
 

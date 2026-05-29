@@ -16,7 +16,7 @@ WWI created the conditions for everything in Topic 7.4. The war's destruction le
 
 ## Leads To
 
-**Causes of World War II (Topic 7.6)**
+**Causes of World War II [[Unit-7.6/Causes of World War II Overview|Causes of World War II Overview]]**
 Topic 7.4's economic crisis directly enables Topic 7.6's political catastrophe. The Depression → fascist rise → fascist aggression chain is the backbone of Units 7.4 through 7.6. Hitler's rise (made possible by the Depression), the Spanish Civil War (which previewed fascist military tactics), and the failure of collective security (which emboldened aggression) are all products of the interwar economic crisis. Topic 7.4 is the cause; Topic 7.6 is the effect.
 
 ## Compare With
@@ -28,7 +28,7 @@ The Great Depression exposed the vulnerabilities of the industrial capitalist sy
 Cárdenas's 1938 speech echoes the same critique of foreign economic exploitation that anticolonial movements made throughout Unit 6. The pattern of foreign corporations extracting resources while underpaying local labor and enjoying government-granted privileges connects directly to Unit 6's imperialism — PEMEX is an economic nationalist response to an imperial economic structure. Latin American economic nationalism anticipates decolonization-era nationalizations worldwide.
 
 **Unit 7.1 — Shifting Power After WWI**
-The political settlements of Topic 7.1 (Versailles, new states, League of Nations) created the economic and political fragility that Topic 7.4's Depression then shattered. The weak Weimar Republic (born from 7.1) was the democracy that the Depression (7.4) destroyed.
+The political settlements of Topic 7.1 (Versailles, new states, League of Nations) created the economic and political fragility that Topic 7.4's Depression then shattered. The weak [[Concept Notes/Weimar Republic\|Weimar Republic]] (born from 7.1) was the democracy that the Depression (7.4) destroyed.
 
 ## Cross-Topic Concept Notes
 

@@ -13,9 +13,9 @@ tags: [apwh, unit-5, topic-5-4, period-3, trade-networks, governance, economic-s
 
 **[[Concept Notes/Mercantilism|Mercantilism]]** — The colonial economic logic driving Britain to deindustrialize India and Egypt was mercantilism's 19th-century successor: the metropole extracts raw materials from colonies, processes them into finished goods, and sells them back. Even as Britain officially embraced free trade after the 1840s, colonial India was denied those same free-trade benefits in practice (as the 5% "equalizing" tax on Bombay textile mills makes clear).
 
-**[[Concept Notes/Joint-Stock Companies|Joint-Stock Companies]]** — The British East India Company was the institutional vehicle for company rule in India (1757–1858). Its tariff policies, mine closures, and eventual replacement by Crown rule are central to the deindustrialization story in Topic 5.4.
+**[[Concept Notes/Joint-Stock Companies|Joint-Stock Companies]]** — The British [[Concept Notes/East India Company\|East India Company]] was the institutional vehicle for company rule in India (1757–1858). Its tariff policies, mine closures, and eventual replacement by Crown rule are central to the deindustrialization story in Topic 5.4.
 
-**[[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]]** — German unification (1871, covered in Topic 5.2) is the political precondition for German industrialization. Japan's [[Concept Notes/Meiji Restoration|Meiji Restoration]] parallels the nationalist movements of Topic 5.2: both involve elites using a political crisis to build a powerful modern state. The connection between nationalism and industrialization runs through both topics.
+**[[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview|Nationalism & Revolutions Overview]]** — German unification (1871, covered in Topic 5.2) is the political precondition for German industrialization. Japan's [[Concept Notes/Meiji Restoration|Meiji Restoration]] parallels the nationalist movements of Topic 5.2: both involve elites using a political crisis to build a powerful modern state. The connection between nationalism and industrialization runs through both topics.
 
 ## Leads To
 

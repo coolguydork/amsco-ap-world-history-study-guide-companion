@@ -42,7 +42,7 @@ The Indian Ocean network connected East Africa to the broader Afro-Eurasian worl
 ## AP Threads Running Through 2.4
 
 **Commerce and religious diffusion (CDI)**
-Islam spread via trade routes into West Africa the same way Buddhism spread via the Silk Roads into China and Islam spread via the Indian Ocean into Southeast Asia. This is one of the AP exam's most-tested patterns across Period 1–2.
+Islam spread via trade routes into West Africa the same way [[Concept Notes/Buddhism\|Buddhism]] spread via the Silk Roads into China and Islam spread via the Indian Ocean into Southeast Asia. This is one of the AP exam's most-tested patterns across Period 1–2.
 
 **Technology enabling exchange (ECN)**
 Camel technology is the 2.4 answer to "what technology enabled this trade network?" Just as lateen sails and the compass enabled Indian Ocean trade, the Somali load saddle enabled trans-Saharan bulk commerce.

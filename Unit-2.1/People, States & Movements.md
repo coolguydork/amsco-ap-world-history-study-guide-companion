@@ -12,7 +12,7 @@ tags: [apwh, unit-2, topic-2-1, period-1, trade-networks, governance]
 ## Key People
 
 **Marco Polo (c. 1254–1324)**
-Venetian merchant and traveler who journeyed to China under Kublai Khan approximately 1271–1295. His account, *The Travels of Marco Polo*, introduced Europeans to the wealth and sophistication of China and Central Asia. His journey was made possible by the Pax Mongolica. Marco Polo's descriptions of the Silk Roads routes, trading cities like Cambalec (Beijing/Khanbaliq), and the volume of Chinese commerce helped fuel European demand for Asian luxury goods. (AMSCO pp. 77–78)
+Venetian merchant and traveler who journeyed to China under Kublai Khan approximately 1271–1295. His account, *The Travels of Marco Polo*, introduced Europeans to the wealth and sophistication of China and Central Asia. His journey was made possible by the Pax Mongolica. Marco Polo's descriptions of the [[Concept Notes/Silk Roads\|Silk Roads]] routes, trading cities like Cambalec (Beijing/Khanbaliq), and the volume of Chinese commerce helped fuel European demand for Asian luxury goods. (AMSCO pp. 77–78)
 
 **Ibn Battuta (1304–c. 1368)**
 Moroccan Muslim scholar and traveler who began his journeys in 1325. He used Silk Road networks extensively — crossing North Africa, the Middle East, Central Asia, India, Southeast Asia, and China. His *Rihla* (travelogue) is one of the most important primary sources for understanding the reach and connectivity of 14th-century trade networks. His ability to travel so widely reflects the cosmopolitan, interconnected world the Silk Roads created. (AMSCO p. 75 timeline)

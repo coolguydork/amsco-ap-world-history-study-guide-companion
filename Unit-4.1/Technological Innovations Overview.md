@@ -59,6 +59,6 @@ Russia's Tsar Peter the Great visited Western Europe in 1697 specifically to stu
 
 This topic sets up the entire Unit 4 arc:
 
-- **Builds on:** [[Unit-2.3/Indian Ocean Overview|Indian Ocean trade]] (the network Europeans sought to access), [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Ottoman expansion]] blocking overland routes, [[Unit-1.6/Medieval Europe Overview|Medieval Europe's]] Crusade-driven awareness of Eastern wealth
+- **Builds on:** [[Unit-2.3/Indian Ocean Overview|Indian Ocean trade]] (the network Europeans sought to access), [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|Ottoman expansion]] blocking overland routes, [[Unit-1.6/Medieval Europe Overview|Medieval Europe's]] Crusade-driven awareness of Eastern wealth
 - **Leads to:** [[Unit-4.2/Exploration: Causes & Events Overview|Exploration: Causes & Events]] → [[Unit-4.3/Columbian Exchange Overview|Columbian Exchange]] → [[Unit-4.4/Maritime Empires Link Regions Overview|Maritime Empires]]
 - **Compare with:** [[Unit-2.3/Indian Ocean Overview|Zheng He's voyages]] — China possessed comparable technology but the Ming state *withdrew* from Indian Ocean exploration after 1433. Why? Different state priorities, different demographic pressures, no commercial incentive comparable to Europe's blocked trade routes.

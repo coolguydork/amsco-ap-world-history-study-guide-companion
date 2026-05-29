@@ -18,7 +18,7 @@ tags: [apwh, unit-2, topic-2-4, period-1, africa, trade-networks, dar-al-islam, 
 The Sahara Desert — 3.6 million square miles, roughly the size of China — was one of the world's most formidable geographic barriers. Yet for more than a millennium, merchants crossed it regularly, linking West Africa's gold fields to the markets of North Africa, Southwest Asia, and ultimately Europe and Asia. This network of overland routes (seven running north-south, two east-west) made West Africa a central node in Afro-Eurasian commerce and brought Islam deep into sub-Saharan Africa. *(AMSCO pp. 103–107)*
 
 > [!exam-tip]
-> The AP exam frequently asks you to **compare** Trans-Saharan trade with the Silk Roads [[Unit-2.1/Silk Roads Overview|Silk Roads Overview]] and Indian Ocean network [[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]]. All three spread goods, religions, and ideas — but their geographies, commodities, and technologies differ. Be ready to compare them in an SAQ or LEQ.
+> The AP exam frequently asks you to **compare** Trans-Saharan trade with the [[Concept Notes/Silk Roads\|Silk Roads]] [[Unit-2.1/Silk Roads Overview|Silk Roads Overview]] and Indian Ocean network [[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]]. All three spread goods, religions, and ideas — but their geographies, commodities, and technologies differ. Be ready to compare them in an SAQ or LEQ.
 
 ---
 
@@ -78,7 +78,7 @@ When Sunni Ali conquered Timbuktu in 1468, the Songhai Empire replaced Mali as W
 
 Islam entered Mali via North African traders in the 9th century, generations before Sundiata founded the empire. By the time Mansa Musa ruled, Islam was the religion of Mali's ruling class and merchant networks. Trade and religious spread reinforced each other: Muslim merchants created commercial trust networks along routes; mosques and schools followed trade cities.
 
-This pattern — **commerce and religion spreading together** — mirrors what happened on the Silk Roads ([[Unit-2.1/Silk Roads Overview|Silk Roads Overview]]) and Indian Ocean ([[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]]), where Buddhism, Hinduism, and Islam also spread via trade.
+This pattern — **commerce and religion spreading together** — mirrors what happened on the Silk Roads ([[Unit-2.1/Silk Roads Overview|Silk Roads Overview]]) and Indian Ocean ([[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]]), where [[Concept Notes/Buddhism\|Buddhism]], Hinduism, and Islam also spread via trade.
 
 > [!tip]
 > **AP Thread to know:** The process of Islam spreading via trade (not conquest) into West Africa is a classic example of **cultural diffusion through commerce**. Expect this to appear in comparison or causation prompts. See also [[Concept Notes/Trans-Saharan Trade|Trans-Saharan Trade]] for a cross-topic concept hub.

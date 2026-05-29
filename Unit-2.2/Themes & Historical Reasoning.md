@@ -19,7 +19,7 @@ The Mongol Empire presents one of the AP exam's richest governance case studies 
 
 Kublai Khan in China took this adaptability furthest. Rather than imposing Mongol customs on China, he adopted Chinese administrative structures while introducing religious toleration for previously marginalized groups. Conversely, the Yuan Dynasty's failure to fully assimilate — hiring foreigners over native scholar-gentry, dismantling the civil service exam — ultimately generated the Chinese resistance that ended Mongol rule.
 
-The Mongols' indirect rule in Russia illustrates a different governance strategy: working through existing rulers to maximize tribute extraction without direct administration. This approach allowed Moscow to grow strong enough to eventually overthrow Mongol rule.
+The [[Concept Notes/Mongols\|Mongols]]' indirect rule in Russia illustrates a different governance strategy: working through existing rulers to maximize tribute extraction without direct administration. This approach allowed Moscow to grow strong enough to eventually overthrow Mongol rule.
 
 > [!exam-tip]
 > Governance AP Thread: Compare Mongol administration methods across their four khanates — each adapted differently to local conditions. This is a strong comparison essay topic.
@@ -88,7 +88,7 @@ Mongol conquest caused massive demographic disruption: millions were killed, cit
 
 ### Destructive Mongols
 
-The dominant view among contemporaries — reflected in Matthew Paris's 1240 account — emphasized Mongol atrocities: the burning of cities, mass killing of civilians, and destruction of cultural treasures like Baghdad's House of Wisdom. Modern historians studying demographic data confirm that Mongol conquests caused population collapse across Central Asia, Iraq, and China.
+The dominant view among contemporaries — reflected in Matthew Paris's 1240 account — emphasized Mongol atrocities: the burning of cities, mass killing of civilians, and destruction of cultural treasures like Baghdad's [[Concept Notes/House of Wisdom\|House of Wisdom]]. Modern historians studying demographic data confirm that Mongol conquests caused population collapse across Central Asia, Iraq, and China.
 
 ### Creative Mongols: Revisionist View
 
@@ -106,7 +106,7 @@ The most nuanced AP essays acknowledge that both interpretations are accurate �
 ## AP Learning Objectives Applied
 
 **"Explain the process of state building and decline in Eurasia over time."**
-The Mongols built through military conquest, pragmatic governance, and toleration; they declined through overextension, failed military campaigns, conversion to local religions that alienated other groups, and the demographic catastrophe of the Black Death.
+The Mongols built through military conquest, pragmatic governance, and toleration; they declined through overextension, failed military campaigns, conversion to local religions that alienated other groups, and the demographic catastrophe of the [[Concept Notes/Black Death\|Black Death]].
 
 **"Explain how the expansion of empires influenced trade and communication over time."**
 Mongol unification of Central Asia created the Pax Mongolica — the Silk Roads' third and final golden age. The yam system, unified law, and military protection of trade routes made long-distance commerce more reliable than at any previous time.

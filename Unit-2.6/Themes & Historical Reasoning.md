@@ -16,7 +16,7 @@ Topic 2.6 is essentially an ENV topic from start to finish. The three categories
 New farming technologies (terracing, paddy irrigation) adapted to new crops; caravanserais and ocean-going vessels were the infrastructure that enabled both agricultural diffusion and plague transmission. Technology accelerated connectivity, which accelerated environmental consequences.
 
 **ECN — Economic Systems**
-The Black Death's demographic collapse disrupted labor markets across Europe. Labor scarcity gave workers leverage, raising wages and undermining feudal economic relationships. Crop diffusion supported population growth that expanded productive capacity — until environmental degradation eroded the gains.
+The [[Concept Notes/Black Death\|Black Death]]'s demographic collapse disrupted labor markets across Europe. Labor scarcity gave workers leverage, raising wages and undermining feudal economic relationships. Crop diffusion supported population growth that expanded productive capacity — until environmental degradation eroded the gains.
 
 ## Historical Reasoning Skills
 
@@ -47,7 +47,7 @@ Practice applying this cycle to the Black Death: trade connectivity (cause) → 
 | Environmental cost | Intensified land use | Increased cleared land |
 
 > [!tip]
-> The AP loves comparing how different trade networks (overland Silk Roads vs. Indian Ocean maritime routes) produced similar environmental outcomes through different mechanisms.
+> The AP loves comparing how different trade networks (overland [[Concept Notes/Silk Roads\|Silk Roads]] vs. Indian Ocean maritime routes) produced similar environmental outcomes through different mechanisms.
 
 ### Contextualization
 

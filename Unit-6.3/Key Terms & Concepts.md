@@ -61,7 +61,7 @@ Powerful West African kingdom in present-day Ghana that resisted British coloniz
 Spiritual resistance movement that swept across Native American nations (c. 1889–1890), prophesying the return of the dead and the removal of white settlers. Sioux warriors wore "ghost shirts" for protection. Ended with the Wounded Knee Massacre (1890), marking the end of the Indian Wars. A key example of cultural/spiritual resistance.
 
 **Indian Rebellion of 1857**
-Also called the Sepoy Mutiny. Widespread uprising against British East India Company rule triggered by rifle cartridges greased with cow and pig fat (offensive to Hindu and Muslim sepoys). The rebellion spread across northern India before Britain suppressed it violently. Led Britain to abolish the Company, exile the Mughal emperor, and establish direct Crown rule as the British Raj.
+Also called the Sepoy Mutiny. Widespread uprising against British [[Concept Notes/East India Company\|East India Company]] rule triggered by rifle cartridges greased with cow and pig fat (offensive to Hindu and Muslim sepoys). The rebellion spread across northern India before Britain suppressed it violently. Led Britain to abolish the Company, exile the Mughal emperor, and establish direct Crown rule as the British Raj.
 
 **Philippine Revolution**
 1896 uprising against Spanish colonial rule in the Philippines, sparked by the execution of José Rizal. Led by Emilio Aguinaldo, the revolution appeared to succeed when the U.S. defeated Spain in 1898 — but the Treaty of Paris transferred control to the U.S., triggering the Philippine-American War.

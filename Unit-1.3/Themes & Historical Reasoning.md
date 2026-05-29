@@ -80,7 +80,7 @@ In Southeast Asia, women had notably **more independence** before Islam arrived 
 
 **Continuity:** The caste system persisted through the arrival of Islam, the Delhi Sultanate, and regional political upheaval. Hinduism remained dominant in southern India and much of Southeast Asia despite Buddhist and Islamic incursions. Decentralized political authority was a constant across the entire period.
 
-**Change:** Islam's entry transformed the religious landscape of northern India from predominantly Hindu-Buddhist to Muslim-dominant. The Delhi Sultanate introduced Islamic governance, taxation structures, and architectural forms. Buddhism declined sharply in its Indian birthplace as monasteries were weakened by raids and as converts moved to Islam.
+**Change:** Islam's entry transformed the religious landscape of northern India from predominantly Hindu-Buddhist to Muslim-dominant. The Delhi Sultanate introduced Islamic governance, taxation structures, and architectural forms. [[Concept Notes/Buddhism\|Buddhism]] declined sharply in its Indian birthplace as monasteries were weakened by raids and as converts moved to Islam.
 
 ### Causation
 
@@ -97,7 +97,7 @@ In Southeast Asia, women had notably **more independence** before Islam arrived 
 
 ### Comparison
 
-**Bhakti Movement vs. Sufism:**
+**[[Concept Notes/Bhakti Movement\|Bhakti Movement]] vs. [[Concept Notes/Sufism\|Sufism]]:**
 Both are mystical movements within their parent religions; both emphasized inner spiritual experience over ritual; both were inclusive of people normally excluded (women, low castes for Bhakti; non-Muslims drawn to Sufi tolerance). Both helped spread their religions. Key difference: Bhakti is Hindu reform; Sufism is Islamic missionary outreach.
 
 **South Asia vs. East Asia (compare with [[Unit-1.1/Themes & Historical Reasoning|Themes & Historical Reasoning — Topic 1.1]]):**

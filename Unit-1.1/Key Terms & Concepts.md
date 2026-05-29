@@ -75,8 +75,8 @@ The Japanese warrior code followed by samurai. Emphasized frugality, loyalty, ma
 
 ## Religion & Philosophy
 
-**Neo-Confucianism**
-A syncretic intellectual system developed in China between c. 960 and 1280. Combined Confucian rational ethics with the more abstract spiritual ideas of Daoism and Buddhism. Emphasized ethics over theology. Became the dominant intellectual tradition in China, Japan, Korea, and Vietnam. Immensely important for the AP exam.
+**[[Concept Notes/Neo-Confucianism\|Neo-Confucianism]]**
+A syncretic intellectual system developed in China between c. 960 and 1280. Combined Confucian rational ethics with the more abstract spiritual ideas of Daoism and [[Concept Notes/Buddhism\|Buddhism]]. Emphasized ethics over theology. Became the dominant intellectual tradition in China, Japan, Korea, and Vietnam. Immensely important for the AP exam.
 
 **Buddhism (three branches)**
 
@@ -103,7 +103,7 @@ A printing technique invented in China (9th century). Multiple copies of text or
 Used by the Chinese in maritime navigation. Combined with printed navigation charts, it allowed sailors to travel in open water out of sight of land — expanding China's reach in the South China Sea.
 
 **Gunpowder / guns**
-Gunpowder invented in earlier Chinese dynasties; Song innovators made the first guns. Technology spread westward via the Silk Roads over centuries, eventually reaching all of Eurasia.
+Gunpowder invented in earlier Chinese dynasties; Song innovators made the first guns. Technology spread westward via the [[Concept Notes/Silk Roads\|Silk Roads]] over centuries, eventually reaching all of Eurasia.
 
 ---
 

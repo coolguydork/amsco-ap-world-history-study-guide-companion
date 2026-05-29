@@ -28,7 +28,7 @@ Russia in 1900 was falling behind the industrializing West. The tsarist governme
 
 China's Qing Dynasty (1644–1911) faced three compounding internal problems: ethnic tension between Manchu rulers and the Han majority, recurring famine caused by rapid population growth outpacing agricultural expansion, and chronically low government revenues that starved infrastructure. European industrialization sharpened China's vulnerability as Western powers forced unequal trade terms and carved out spheres of influence.
 
-In 1911 a revolutionary movement led by **Sun Yat-sen** overthrew the Qing, ending over 2,000 years of imperial rule. Sun's political vision — the **Three People's Principles** of nationalism (central Chinese authority), democracy (governance by capable experts), and livelihood (reducing extreme inequality) — guided the new republic. His **Kuomintang** (Chinese Nationalist Party) never consolidated control, however. Warlords dominated most of the country, and Sun stepped aside after just two months. The Kuomintang would regain power later but ultimately lose a civil war to the Chinese Communists (see **Establishment of the People's Republic of China** (Topic 7.5)).
+In 1911 a revolutionary movement led by **Sun Yat-sen** overthrew the Qing, ending over 2,000 years of imperial rule. Sun's political vision — the **Three People's Principles** of nationalism (central Chinese authority), democracy (governance by capable experts), and livelihood (reducing extreme inequality) — guided the new republic. His **Kuomintang** (Chinese Nationalist Party) never consolidated control, however. Warlords dominated most of the country, and Sun stepped aside after just two months. The Kuomintang would regain power later but ultimately lose a civil war to the Chinese Communists (see **Establishment of the People's Republic of China** [[Unit-7.5/Unresolved Tensions After World War I Overview|Unresolved Tensions After World War I Overview]]).
 
 ## Ottoman Collapse and the Rise of Turkey (pp. 456–457)
 
@@ -52,8 +52,8 @@ The revolution was devastating — roughly 2 million deaths out of a population 
 
 **Builds on:**
 - [[Unit-6.5/Economic Imperialism Overview\|Economic Imperialism Overview]] — foreign economic penetration created resentment that fueled revolution in Mexico, China, and the Ottoman Empire
-- [[Unit-5.2/Nationalism & Revolutions Overview\|Nationalism & Revolutions Overview]] — 19th-century nationalist ideology shaped all four revolutionary movements
+- [[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview\|Nationalism & Revolutions Overview]] — 19th-century nationalist ideology shaped all four revolutionary movements
 
 **Leads to:**
 - **Causes of World War I** [[Unit-7.2/Causes of World War I Overview|Causes of World War I Overview]]
-- **Economy in the Interwar Period** (Topic 7.4)
+- **Economy in the Interwar Period** [[Unit-7.4/Economy in the Interwar Period Overview|Economy in the Interwar Period Overview]]

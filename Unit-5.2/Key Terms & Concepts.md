@@ -15,7 +15,7 @@ tags: [apwh, unit-5, topic-5-2, period-3, nationalism, revolutions, vocabulary]
 **Popular sovereignty**
 The principle that legitimate political authority comes from the consent of the governed. Derived from Enlightenment thinkers (especially Locke and Rousseau), this idea underpinned every major Atlantic revolution of the period and directly challenged the divine right of kings. (AMSCO p. 285)
 
-**Nationalism**
+**[[Concept Notes/Nationalism\|Nationalism]]**
 A shared identity based on common language, culture, history, and territory — and the political belief that people sharing such an identity should govern themselves as a unified nation. Nationalism both drove Atlantic revolutions (colonial peoples rejecting foreign rule) and European unification movements (Italians and Germans seeking one state). After 1871, extreme nationalism would become a source of dangerous inter-state competition. (AMSCO pp. 285, 290–293)
 
 **Declaration of Independence (1776)**

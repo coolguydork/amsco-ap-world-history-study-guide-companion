@@ -33,8 +33,8 @@ Islamic religious scholars who interpreted the Quran and Sharia, issued legal ru
 **Madrasas**
 Islamic universities/colleges, often attached to mosques. Centers of Quranic study, law, theology, and sometimes science and philosophy. Baghdad, Córdoba, Cairo, and Bukhara all had renowned madrasas that attracted scholars from across the Islamic world.
 
-**House of Wisdom (Bayt al-Hikma)**
-The great intellectual center in Abbasid Baghdad where scholars translated Greek, Persian, and Indian texts into Arabic and made original advances in mathematics, astronomy, medicine, and philosophy. Symbolizes the Islamic Golden Age. Destroyed by the Mongols in 1258.
+**[[Concept Notes/House of Wisdom\|House of Wisdom]] (Bayt al-Hikma)**
+The great intellectual center in Abbasid Baghdad where scholars translated Greek, Persian, and Indian texts into Arabic and made original advances in mathematics, astronomy, medicine, and philosophy. Symbolizes the Islamic Golden Age. Destroyed by the [[Concept Notes/Mongols\|Mongols]] in 1258.
 
 **Dhimmi**
 Non-Muslim subjects (specifically Jews, Christians, and Zoroastrians) living under Islamic rule. They were "People of the Book" — monotheists whose faith was tolerated. Dhimmis paid a special tax called the **jizya** but were protected and could practice their religion. This concept explains Islamic toleration in Jerusalem, Baghdad, and al-Andalus.
@@ -46,13 +46,13 @@ A tax required of non-Muslim subjects (dhimmis) living under Islamic rule in exc
 
 ## Religious and Cultural Terms
 
-**Sufism / Sufis**
+**[[Concept Notes/Sufism\|Sufism]] / Sufis**
 A mystical movement within Islam emphasizing direct personal experience of God through introspection, prayer, and often music or poetry — contrasting with the orthodox emphasis on Quranic study. Sufism may have originated as a response to the perceived materialism of early Islamic rulers. **Sufi missionaries** were the most effective spreaders of Islam beyond the Arab world because they adapted to local cultures and blended local religious traditions into Islamic practice (AMSCO p. 17).
 
 > [!exam-tip]
 > **Sufi missionaries + religious syncretism = AP gold.** When asked how Islam spread or why it took on diverse local forms, Sufi missionaries are your best evidence.
 
-**Religious Syncretism**
+**Religious [[Concept Notes/Syncretism\|Syncretism]]**
 The blending of elements from different religious traditions. In Dar al-Islam, this appeared when Sufi missionaries incorporated local customs and spiritual practices into Islamic worship. Also visible in al-Andalus, where Muslim, Jewish, and Christian intellectual traditions merged and influenced one another.
 
 **Hijab**
@@ -72,7 +72,7 @@ The Islamic state in Spain (711–1492), centered on Córdoba. A unique zone of 
 Enslaved soldiers, typically ethnic Turks from Central Asia, purchased to serve Islamic states. Mamluks could rise to high military and administrative positions. In Egypt, Mamluks seized governmental control and established the **Mamluk Sultanate** (1250–1517), which prospered on cotton and sugar trade and crucially stopped the Mongols at the Battle of Ain Jalut (1260).
 
 **Seljuk Turks**
-A Turkic people from Central Asia who conquered much of the Middle East by the 11th century, reducing the Abbasid caliph to a figurehead. Their restriction of Christian access to Jerusalem triggered the Crusades.
+A Turkic people from Central Asia who conquered much of the Middle East by the 11th century, reducing the Abbasid caliph to a figurehead. Their restriction of Christian access to Jerusalem triggered the [[Concept Notes/Crusades\|Crusades]].
 
 **Delhi Sultanate (1206–1526)**
 An Islamic state in northern India established after raids by Mahmud of Ghazni and further conquest. One of the major Turkic Islamic states of Period 1 and a predecessor to the Mughal Empire.

@@ -59,7 +59,7 @@ tags: [apwh, unit-1, topic-1-1, period-1, east-asia, chronology]
 > Know these dates cold — they appear as context and as answer choices on AP MCQs:
 > - **960** — Song Dynasty founded
 > - **1192** — First Japanese shogun (Kamakura)
-> - **1279** — Song Dynasty falls to Mongols → Yuan Dynasty
+> - **1279** — Song Dynasty falls to [[Concept Notes/Mongols\|Mongols]] → Yuan Dynasty
 > - **1368** — Ming Dynasty founded; Mongols expelled
 
 ---

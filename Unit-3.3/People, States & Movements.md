@@ -43,7 +43,7 @@ Spanish soldier-turned-priest who founded the Jesuits (Society of Jesus) in 1540
 ## Key States
 
 **Ottoman Empire (Sunni)**
-After conquering Constantinople (1453), the Ottomans became the dominant Sunni power, replacing Byzantine law with shariah. Relatively tolerant under Suleiman (dhimmi system for Christians and Jews), but tolerance declined under later rulers. Their Sunni identity brought them into permanent conflict with the Shia Safavids. (See [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]])
+After conquering Constantinople (1453), the Ottomans became the dominant Sunni power, replacing Byzantine law with shariah. Relatively tolerant under Suleiman (dhimmi system for Christians and Jews), but tolerance declined under later rulers. Their Sunni identity brought them into permanent conflict with the Shia Safavids. (See [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]])
 
 **Safavid Empire (Shia)**
 Imposed Twelver Shia Islam as a state religion under Shah Ismail I (1501). Used Shia identity to unify Persia and legitimize Safavid rule against Sunni Ottoman claims. Forcibly converted the population; no tolerance for Sunni practice. Created a Shia clerical establishment (ulama) with significant political power.

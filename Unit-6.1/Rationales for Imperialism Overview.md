@@ -37,7 +37,7 @@ Industrialization created both the drive and the capacity for empire. Industrial
 
 Britain had dominated global trade since the Napoleonic Wars, using settler colonies like Australia, New Zealand, and South Africa as both suppliers and buyers. As the **Second Industrial Revolution** progressed in the 1870s–1890s, Germany, France, the United States, and Japan challenged Britain's lead, intensifying competition for territories in Africa and Asia.
 
-The **East India Company (EIC)** was the institutional vehicle for British economic dominance in India until 1857–58, when the British Crown dissolved it and assumed direct control. The earlier **Dutch East India Company (VOC)** had played the same role in Southeast Asia. These corporate colonial structures became models for later imperial governance worldwide.
+The **[[Concept Notes/East India Company\|East India Company]] (EIC)** was the institutional vehicle for British economic dominance in India until 1857–58, when the British Crown dissolved it and assumed direct control. The earlier **Dutch East India Company (VOC)** had played the same role in Southeast Asia. These corporate colonial structures became models for later imperial governance worldwide.
 
 > [!tip]
 > Connect economic motives directly to Unit 5: industrialization (Topics 5.1–5.4) created the *need* for empire, while military and transport technology [[Unit-5.5/Technology in the Industrial Age Overview|Technology in the Industrial Age Overview]] created the *ability* to seize it. Causation runs directly from the Industrial Revolution into the Scramble for Africa.

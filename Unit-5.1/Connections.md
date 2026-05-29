@@ -29,7 +29,7 @@ The Islamic Golden Age (8th–13th c.) preserved, translated, and extended Greek
 
 ## Leads To
 
-**Topic 5.2 — Nationalism and Revolutions**
+**Topic 5.2 — [[Concept Notes/Nationalism\|Nationalism]] and Revolutions**
 Enlightenment ideas are the direct intellectual cause of the American Revolution (Locke → natural rights, Montesquieu → separation of powers), the French Revolution (Rousseau → popular sovereignty, General Will), and the Haitian Revolution (universal natural rights applied to enslaved Africans). Nationalism — the idea that a shared culture should mean shared self-governance — is also an Enlightenment product. Topic 5.2 is the political consequence of Topic 5.1.
 
 **Topic 5.7 — Economic Developments and Innovations**

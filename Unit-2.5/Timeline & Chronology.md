@@ -40,7 +40,7 @@ tags: [apwh, unit-2, topic-2-5, period-1, cultural-diffusion, chronology]
 - Compass, stern rudder: China → Indian Ocean seafarers → Europe
 
 **Religious diffusion sequence:**
-1. Buddhism: India → China (Silk Roads, ~1st–7th c.) → Korea, Japan, Vietnam (via China) / Southeast Asia (via Indian Ocean)
+1. [[Concept Notes/Buddhism\|Buddhism]]: India → China ([[Concept Notes/Silk Roads\|Silk Roads]], ~1st–7th c.) → Korea, Japan, Vietnam (via China) / Southeast Asia (via Indian Ocean)
 2. Islam: Arabia → spread across Afro-Eurasia from 7th c. onward; by 1200–1450 reaching deep into West Africa and Southeast Asia
 
 **Urban rise and fall:**

@@ -15,7 +15,7 @@ tags: [apwh, unit-2, topic-2-1, period-1, trade-networks, economic-systems, cult
 
 ## The Big Picture
 
-The Silk Roads were the most important overland trade network in Afro-Eurasia, connecting China, Central Asia, the Middle East, and eventually Europe. After a period of decline following the fall of the Han and Roman empires, they experienced a dramatic revival — first under the Abbasid Caliphate and Tang China in the 8th–9th centuries, then reaching their second golden age under the Pax Mongolica in the 13th–14th centuries. By 1200, the Silk Roads were not just a conduit for goods but a highway for ideas, religions, technologies, and — tragically — disease.
+The [[Concept Notes/Silk Roads\|Silk Roads]] were the most important overland trade network in Afro-Eurasia, connecting China, Central Asia, the Middle East, and eventually Europe. After a period of decline following the fall of the Han and Roman empires, they experienced a dramatic revival — first under the Abbasid Caliphate and Tang China in the 8th–9th centuries, then reaching their second golden age under the Pax Mongolica in the 13th–14th centuries. By 1200, the Silk Roads were not just a conduit for goods but a highway for ideas, religions, technologies, and — tragically — disease.
 
 > [!exam-tip]
 > The AP exam frequently asks about **causes** of expanded exchange (new empires, technology, demand for luxury goods) and **effects** (trade cities, commercial innovations, cultural diffusion, plague). Be ready to use Silk Roads evidence in Causation and CCOT essays.
@@ -55,7 +55,7 @@ Long overland routes through arid Central Asia required reliable stopping points
 
 **Thriving trade cities** grew at river crossings and route junctions:
 - **Kashgar** (western China) — at the junction of northern and southern Silk Roads branches, watered by the Kashgar River, known for textiles, rugs, leather goods, and Islamic scholarship. (AMSCO p. 78–79)
-- **Samarkand** (present-day Uzbekistan) — in the Zeravshan River valley, a crossroads of Buddhism, Christianity, Zoroastrianism, and Islam; famous for its artisans and Islamic learning. (AMSCO p. 79)
+- **Samarkand** (present-day Uzbekistan) — in the Zeravshan River valley, a crossroads of [[Concept Notes/Buddhism\|Buddhism]], Christianity, Zoroastrianism, and Islam; famous for its artisans and Islamic learning. (AMSCO p. 79)
 
 ### Commercial Innovations
 
@@ -74,7 +74,7 @@ The explosion of trade volume required new financial instruments. China led the 
 
 ### Cultural and Biological Diffusion
 
-The same routes that carried silk and spices also carried religions, ideas, and disease. Islam spread into Central Asia along Silk Road corridors. Technologies like papermaking and gunpowder diffused westward from China. Most catastrophically, the **bubonic plague** (Black Death, beginning c. 1347) spread from Central Asia along Silk Roads trade routes into Europe, killing an estimated one-third of Europe's population. (AMSCO p. 75; see also [[Unit-2.6/Environmental Consequences Overview|Unit 2.6]])
+The same routes that carried silk and spices also carried religions, ideas, and disease. Islam spread into Central Asia along Silk Road corridors. Technologies like papermaking and gunpowder diffused westward from China. Most catastrophically, the **bubonic plague** ([[Concept Notes/Black Death\|Black Death]], beginning c. 1347) spread from Central Asia along Silk Roads trade routes into Europe, killing an estimated one-third of Europe's population. (AMSCO p. 75; see also [[Unit-2.6/Environmental Consequences Overview|Unit 2.6]])
 
 ---
 

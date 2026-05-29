@@ -22,7 +22,7 @@ Earlier anti-colonial resistance strategies set the stage for interwar movements
 
 ## Leads To
 
-**Causes of World War II (Topic 7.6)**
+**Causes of World War II [[Unit-7.6/Causes of World War II Overview|Causes of World War II Overview]]**
 Japanese imperial expansion — from Manchukuo (1932) through the full Pacific War — flows directly from the unresolved tensions of Topic 7.5. The Greater East Asia Co-Prosperity Sphere ideology and Japan's withdrawal from the League of Nations after Manchuria condemned are direct bridges to WWII.
 
 **Decolonization After 1900 (Topic 8.5)**

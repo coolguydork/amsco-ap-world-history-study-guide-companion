@@ -74,7 +74,7 @@ Later in the 19th century, the **Fabian Society** (Britain) pursued gradual soci
 
 **Abolitionism** extended rights arguments to enslaved people and serfs. Denmark (1807), Britain (1807), and the U.S. (1808) banned the slave trade first; slavery itself followed within decades in most of the Americas. Brazil was the last to abolish slavery, in 1888. In Europe, serfdom declined as economies industrialized — Alexander II abolished Russian serfdom in 1861, the largest single emancipation in history.
 
-**Nationalism** — the belief that people who share a language and culture should live in an independent nation-state — threatened multiethnic empires across Europe and became a driver of both revolution and war in the 19th century (see **Topic 5.2**).
+**[[Concept Notes/Nationalism\|Nationalism]]** — the belief that people who share a language and culture should live in an independent nation-state — threatened multiethnic empires across Europe and became a driver of both revolution and war in the 19th century (see **Topic 5.2**).
 
 **Zionism** emerged in the late 19th century as many European Jews, facing centuries of **anti-Semitism** and **pogroms** (violent attacks on Jewish communities), concluded that safety required a homeland of their own. **Theodor Herzl** led the movement. The **Dreyfus Affair** (1894–1906) — in which a Jewish French military officer was wrongly convicted of treason on forged evidence — galvanized Zionist sentiment even in supposedly tolerant France. Zionists sought to re-establish a state in Palestine, then part of the Ottoman Empire. The modern state of Israel was founded in 1948.
 

@@ -12,10 +12,10 @@ tags: [apwh, unit-4, topic-4-1, period-2, connections, technology, maritime, tra
 **[[Unit-2.3/Indian Ocean Overview|Unit 2.3 — Indian Ocean Trade]]**
 The Indian Ocean trade network was already centuries old when Europeans arrived. The lateen sail, monsoon wind knowledge, and much of the navigational expertise that Europeans borrowed *originated in or circulated through* this network. Europeans didn't create Indian Ocean trade — they forced their way into it. The technologies of Topic 4.1 were largely technologies of the Indian Ocean, repurposed for Atlantic use.
 
-**[[Unit-1.6/Medieval Europe Overview|Unit 1.6 — Medieval Europe & the Crusades]]**
+**[[Unit-1.6/Medieval Europe Overview|Unit 1.6 — Medieval Europe & the [[Concept Notes/Crusades\|Crusades]]]]**
 The Crusades (beginning 1095) oriented European elites toward the wealth of the East and created sustained contact with Islamic civilization. Through the Crusades and the presence of Al-Andalus (Islamic Iberia), European scholars encountered Islamic improvements to Greek astronomical and navigational knowledge — including the astrolabe. The Crusades planted the cultural seeds of European commercial interest in Asia.
 
-**[[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Unit 3.1 — Ottoman Empire]]**
+**[[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|Unit 3.1 — Ottoman Empire]]**
 The Ottoman conquest of Constantinople (1453) and control of eastern Mediterranean trade routes is the most important immediate context for European maritime exploration. As Ottoman presence raised the cost and difficulty of overland trade with Asia, Western European states had increasing incentive to find sea routes. Columbus's voyage (1492) was in part a direct response to this blockage — he was seeking a western route to Asia specifically to *bypass* Ottoman-controlled routes.
 
 **[[Concept Notes/Silk Roads|Silk Roads]]** and **[[Concept Notes/Indian Ocean Trade Network|Indian Ocean Trade Network]]**
@@ -46,6 +46,6 @@ This is a classic AP comparison prompt. Both Chinese and European powers had nav
 
 **State sponsorship of exploration** — Portugal and Spain demonstrate how state competition and [[Concept Notes/Mercantilism|mercantilist]] logic drove technology investment. This thread continues through 4.2 (state-sponsored voyages), 4.4 (trading post empires as state projects), and 4.5 (companies as state instruments).
 
-**Capitalism and new financial instruments** — Joint-stock companies (EIC, VOC) represent an early form of capital pooling for commercial risk. This connects forward to early modern capitalism and the economic structures that define Period 4.
+**[[Concept Notes/Capitalism\|Capitalism]] and new financial instruments** — Joint-stock companies (EIC, VOC) represent an early form of capital pooling for commercial risk. This connects forward to early modern capitalism and the economic structures that define Period 4.
 
 **European expansion and its limits** — 4.1 sets up a pattern repeated throughout Unit 4: European expansion was powerful but not unchallenged. The Omani-European rivalry illustrates that local powers actively resisted European intrusion into the Indian Ocean. This theme of resistance continues through 4.4–4.6.

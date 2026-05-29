@@ -34,7 +34,7 @@ The 15th–17th century maritime empires (Portugal, Spain, Netherlands, Britain)
 
 **Technology and Expansion:** Topic 4.1 covers early gunpowder weapons enabling empire; Topic 6.2 shows how industrialized weaponry, steamships, and quinine created a new technological gap between industrial and non-industrial societies that made the Scramble for Africa possible at a speed and scale unimaginable in earlier centuries.
 
-**Continuity in Corporate Colonialism:** The East India Company (Topic 6.1 and 6.2) and the VOC (Topics 4.4 and 6.2) appear across multiple units as examples of corporate colonialism. The pattern of corporate rule eventually replaced by state rule (EIC → British Crown 1858; VOC → Dutch state 1800; Leopold's Congo → Belgian state 1908) is a recurring historical pattern worth noting in essays.
+**Continuity in Corporate Colonialism:** The [[Concept Notes/East India Company\|East India Company]] (Topic 6.1 and 6.2) and the VOC (Topics 4.4 and 6.2) appear across multiple units as examples of corporate colonialism. The pattern of corporate rule eventually replaced by state rule (EIC → British Crown 1858; VOC → Dutch state 1800; Leopold's Congo → Belgian state 1908) is a recurring historical pattern worth noting in essays.
 
 **Comparison with Russian Expansion:** Russia's overland expansion into Central Asia and Siberia (covered in this topic) differs structurally from Western maritime imperialism but shares the core features of resource extraction and indigenous displacement. The Great Game illustrates that imperial competition was itself a cause of expansion — powers expanded partly to block rivals.
 

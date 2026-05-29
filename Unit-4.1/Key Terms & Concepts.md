@@ -48,7 +48,7 @@ Legal inheritance rules giving an entire estate to the eldest son. In Europe, th
 Competition between the Omani sultanate (based in the Arabian Peninsula / East Africa) and European powers (especially Portugal) for control of Indian Ocean trade routes and coastal ports. Portugal established forts in Oman but faced repeated local resistance. This rivalry illustrates that European expansion was actively contested, not unopposed. (AMSCO p. 192)
 
 **Gunpowder weapons**
-Originally invented in China, improved by the Mongols into offensive weapons, and reaching Europe by 1221. European powers — along with Turks, Mughals, and Chinese — used gunpowder weapons to build and defend empires. European metallurgical advantages led to particularly deadly refinements. Sea pirates (including the Dutch "Sea Beggars") also adopted gunpowder weapons. (AMSCO p. 194)
+Originally invented in China, improved by the [[Concept Notes/Mongols\|Mongols]] into offensive weapons, and reaching Europe by 1221. European powers — along with Turks, Mughals, and Chinese — used gunpowder weapons to build and defend empires. European metallurgical advantages led to particularly deadly refinements. Sea pirates (including the Dutch "Sea Beggars") also adopted gunpowder weapons. (AMSCO p. 194)
 
 > [!warning]
 > The AP exam often tests whether students can identify the *origins* of technologies. Compass = China. Astrolabe = improved by Islamic scholars. Lateen sail = Arab/Indian Ocean. Gunpowder = China. Only the caravel is genuinely Portuguese — and even it synthesized multiple traditions. Never attribute these inventions to Europe in an FRQ.
@@ -59,7 +59,7 @@ Originally invented in China, improved by the Mongols into offensive weapons, an
 Portuguese prince who bankrolled expeditions down Africa's Atlantic coast toward the Cape of Good Hope. Never sailed far out to sea himself, but his court at Sagres synthesized knowledge from Greek, Islamic, and Asian navigational traditions. His patronage established Portugal's early lead in maritime exploration. (AMSCO p. 192)
 
 **[[Concept Notes/Joint-Stock Companies|Joint-stock companies]]**
-Business organizations in which investors pool capital and share profits and risks proportionally. Critical for funding expensive, high-risk long-distance trade voyages. The English East India Company (EIC, founded 1600) and the Dutch East India Company (VOC, founded 1602) were the most powerful, effectively acting as arms of state power in the Indian Ocean. (Clean Key Dates)
+Business organizations in which investors pool capital and share profits and risks proportionally. Critical for funding expensive, high-risk long-distance trade voyages. The English [[Concept Notes/East India Company\|East India Company]] (EIC, founded 1600) and the Dutch East India Company (VOC, founded 1602) were the most powerful, effectively acting as arms of state power in the Indian Ocean. (Clean Key Dates)
 
 **Al-Andalus**
 Islamic-governed region of the Iberian Peninsula (modern Spain/Portugal), c. 711–1492. A crucial zone of cultural diffusion where Islamic science, mathematics, and navigational knowledge entered European intellectual life — including improvements to the astrolabe and other instruments that later powered European exploration. (AMSCO p. 192)

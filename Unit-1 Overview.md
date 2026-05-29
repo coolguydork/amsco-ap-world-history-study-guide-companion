@@ -15,7 +15,7 @@ tags: [apwh, unit-1, period-1, unit-overview, governance, cultural-diffusion, ec
 
 ## What Is Unit 1 About?
 
-Unit 1 is a snapshot of the world **before the great connections**. Before the Mongol trade routes fully opened, before European explorers crossed oceans, before the Black Death reshuffled civilizations — this is what each region looked like on its own terms, c. 1200–1450.
+Unit 1 is a snapshot of the world **before the great connections**. Before the Mongol trade routes fully opened, before European explorers crossed oceans, before the [[Concept Notes/Black Death\|Black Death]] reshuffled civilizations — this is what each region looked like on its own terms, c. 1200–1450.
 
 The AP exam calls this unit "The Global Tapestry" because it asks you to see each civilization as one thread: distinct in texture and color, but part of a larger pattern. The central question of the unit is one of **comparison**: How did different societies build states, organize social hierarchies, and use religion and trade — and what did they share despite having little contact with each other?
 
@@ -43,7 +43,7 @@ Unit 1 focuses on three major AP themes. Every topic threads through at least tw
 
 **Governance (GOV)** is the dominant theme. The central question is: how do states build and legitimize power? Answers varied — Confucian bureaucracy in China, Islamic law and the caliphate in Dar al-Islam, Hindu-Buddhist divine kingship in South/Southeast Asia, tribute systems in the Americas, feudalism in Europe. But the underlying pattern is the same: all states needed a legitimizing ideology, a mechanism for extracting resources, and a way to manage diverse populations.
 
-**Cultural Developments and Interactions (CDI)** explains how religion, knowledge, and artistic traditions spread across regions. Islam spread via merchants and Sufi missionaries. Buddhism spread via monks and the Silk Roads. Neo-Confucianism spread from China to Korea and Japan. Christianity spread via the Catholic Church and the Crusades. In all cases, cultural diffusion followed trade routes and military contacts — a preview of the Unit 2 story.
+**Cultural Developments and Interactions (CDI)** explains how religion, knowledge, and artistic traditions spread across regions. Islam spread via merchants and Sufi missionaries. [[Concept Notes/Buddhism\|Buddhism]] spread via monks and the Silk Roads. Neo-Confucianism spread from China to Korea and Japan. Christianity spread via the Catholic Church and the [[Concept Notes/Crusades\|Crusades]]. In all cases, cultural diffusion followed trade routes and military contacts — a preview of the Unit 2 story.
 
 **Social Interactions and Organization (SIO)** anchors the unit's comparison of social hierarchies. The AP exam frequently asks about the status of merchants (high in Dar al-Islam, low in Confucian China) and the status of women (increasingly restricted in Song China via foot binding; more legally protected in Dar al-Islam than in Europe; opportunities for educated women in Buddhist and Christian religious communities).
 

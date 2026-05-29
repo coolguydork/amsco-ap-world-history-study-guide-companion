@@ -44,7 +44,7 @@ Unofficial but government-enforced policy adopted after Australian federation in
 Rapid migration of prospectors to newly discovered goldfields. The California gold rush (c. 1848–1855) and Australian gold rushes (1850s–1860s) were major pull factors for Chinese migrants. Both triggered violent nativist backlash and the first formal government restrictions on Chinese immigration, making gold rushes a key causal link between migration and discrimination.
 
 **Natal Indian Congress**
-Political organization founded by Mohandas Gandhi in 1894 in the British colony of Natal, South Africa, to resist discrimination against Indians. One of the earliest formal Indian civil-rights organizations; its founding marks Gandhi's transformation from lawyer to activist. Gandhi developed his philosophy of nonviolent resistance (satyagraha) in South Africa before returning to India in 1914.
+Political organization founded by [[Concept Notes/Mohandas Gandhi\|Mohandas Gandhi]] in 1894 in the British colony of Natal, South Africa, to resist discrimination against Indians. One of the earliest formal Indian civil-rights organizations; its founding marks Gandhi's transformation from lawyer to activist. Gandhi developed his philosophy of nonviolent resistance (satyagraha) in South Africa before returning to India in 1914.
 
 **Scots-Irish**
 Protestants of Scottish descent who had previously migrated to Ireland before emigrating to North America before the American Revolution; most came as indentured servants. Distinct from the later waves of Catholic Irish immigrants who came after the Great Famine. The distinction matters on the AP because the pre-Revolution and post-Revolution Irish immigration waves had very different social profiles.

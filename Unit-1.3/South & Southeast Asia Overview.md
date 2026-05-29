@@ -34,7 +34,7 @@ Islamic conquests escalated over three centuries:
 
 ## Religion in South Asia
 
-South Asia's religious history in this period is defined by **contact and conflict** between Hinduism, Buddhism, and Islam.
+South Asia's religious history in this period is defined by **contact and conflict** between Hinduism, [[Concept Notes/Buddhism\|Buddhism]], and Islam.
 
 **Key contrasts between Hinduism and Islam** (AMSCO p. 25): Hinduism is polytheistic with a rich visual tradition and a hierarchical caste system; Islam is strictly monotheistic, prohibits visual representation of Allah, and preaches equality of all believers. These differences made conversion difficult but also made Islam appealing to specific groups.
 
@@ -43,7 +43,7 @@ South Asia's religious history in this period is defined by **contact and confli
 - Low-caste Hindus hoped conversion would improve their social standing (though it usually didn't — economic opportunity, not religion, determined upward mobility).
 - **Buddhists converted in the largest numbers** — corruption among monks and raids on monasteries left Buddhism organizationally weak. Islam's arrival helped reduce Buddhism to a minority religion in its own birthplace.
 
-**The Bhakti Movement** (12th century onward): A Hindu reform movement that began in southern India and emphasized **personal devotion to a deity** over ritual or scripture. It rejected caste discrimination and was open to women and low-caste Hindus. The poet-saint **Mira Bai** (16th c.) is one famous example. Bhaktis and [[Concept Notes/Sufism|Sufis]] shared mystical, inner-focused spirituality — and both helped their respective religions spread.
+**The [[Concept Notes/Bhakti Movement\|Bhakti Movement]]** (12th century onward): A Hindu reform movement that began in southern India and emphasized **personal devotion to a deity** over ritual or scripture. It rejected caste discrimination and was open to women and low-caste Hindus. The poet-saint **Mira Bai** (16th c.) is one famous example. Bhaktis and [[Concept Notes/Sufism|Sufis]] shared mystical, inner-focused spirituality — and both helped their respective religions spread.
 
 > [!tip]
 > **Bhakti : Hinduism :: Sufism : Islam** — Both were mystical movements within larger religions that appealed beyond their tradition's usual boundaries, making them effective vehicles for religious spread.

@@ -29,7 +29,7 @@ The empires established in 4.4 required ongoing administrative mechanisms to fun
 **Social Hierarchies in Colonial Societies [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]]**
 The racial categories and social hierarchies created by conquest and slavery in 4.4 — mestizos, mulattos, creoles, enslaved Africans — are the subject of 4.7. The demographic mixing of 4.4 creates the social structures analyzed in 4.7.
 
-**Latin American Revolutions [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]]**
+**Latin American Revolutions [[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview|Nationalism & Revolutions Overview]]**
 The colonial economic structures built in 4.4 ([[Concept Notes/Mercantilism|mercantilism]], encomienda, silver extraction) create the resentments and inequalities that fuel Latin American independence movements in the early 19th century.
 
 **19th-Century Imperialism [[Unit-6.2/State Expansion Overview|State Expansion Overview]]**
@@ -37,7 +37,7 @@ The earlier British trading post model in India (EIC, sepoys, treaty expansion) 
 
 ## Compare With
 
-**[[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] — Land-based vs. Maritime Empires**
+**[[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] — Land-based vs. Maritime Empires**
 Land-based empires (Ottoman, Mughal, Qing, Russian) expanded through contiguous territorial conquest and used existing administrative and tribute systems. Maritime empires depended on naval technology and operated through coastal trading posts and distant colonies. Compare their administrative methods: viceroyalties vs. Ottoman devshirme vs. Mughal mansabdari.
 
 **19th-Century Imperialism [[Unit-6.2/State Expansion Overview|State Expansion Overview]] — Earlier vs. Later Colonial Methods**

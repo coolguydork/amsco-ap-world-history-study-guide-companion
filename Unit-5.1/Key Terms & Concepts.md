@@ -38,7 +38,7 @@ Rousseau's concept (*The Social Contract*, 1762) of the collective expression of
 **Laissez-faire**
 French for "leave alone." Adam Smith's argument that governments should minimize interference in economic decisions. If individuals pursue their own interests, the "invisible hand" of the market guides outcomes beneficial to all. Anti-[[Concept Notes/Mercantilism|mercantilist]]; foundation of classical economic liberalism.
 
-**Capitalism**
+**[[Concept Notes/Capitalism\|Capitalism]]**
 An economic system in which the means of production (factories, land, natural resources) are privately owned and operated for profit. Adam Smith's *Wealth of Nations* (1776) provided its intellectual foundation. Contrasts with socialism (worker/public ownership) and mercantilism (state-directed trade for national benefit).
 
 **Deism**
@@ -50,7 +50,7 @@ A political ideology favoring natural rights, constitutional government, laissez
 **Conservatism**
 A political ideology favoring traditional institutions and gradual, practical change over ideological blueprints. Popular among European ruling classes after the upheavals of the French Revolution. Conservatives viewed rapid social engineering with deep suspicion.
 
-**Nationalism**
+**[[Concept Notes/Nationalism\|Nationalism]]**
 The belief that people who share a language, culture, and history should live in an independent, self-governing nation-state. A major destabilizing force for multiethnic empires (Habsburg, Ottoman, Russian). Became a primary driver of revolution and warfare in the 19th century (see Topic 5.2).
 
 **Socialism**

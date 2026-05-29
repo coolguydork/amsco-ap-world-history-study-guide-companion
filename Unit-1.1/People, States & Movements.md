@@ -22,7 +22,7 @@ Founder of the Song Dynasty. His most significant contribution was expanding the
 Grandson of Genghis Khan. As Mongol Great Khan, he completed the conquest of the Song Dynasty in 1279 and established the **Yuan Dynasty** (1271–1368) in China. Kublai Khan ruled China as a foreign conqueror but adopted many Chinese administrative traditions. His court was visited by Marco Polo, whose accounts shaped European awareness of East Asian commerce.
 
 ### Zhu Yuanzhang — The Hongwu Emperor (r. 1368–1398)
-A Buddhist monk from a poor peasant family who led a revolt overthrowing the Yuan Dynasty in 1368. Founded the **Ming Dynasty (1368–1644)**, restoring native Chinese rule. Expelled the Mongols and reinstituted Confucian governance. His success demonstrates how the **Mandate of Heaven** could legitimize overthrowing a foreign dynasty.
+A Buddhist monk from a poor peasant family who led a revolt overthrowing the Yuan Dynasty in 1368. Founded the **Ming Dynasty (1368–1644)**, restoring native Chinese rule. Expelled the [[Concept Notes/Mongols\|Mongols]] and reinstituted Confucian governance. His success demonstrates how the **Mandate of Heaven** could legitimize overthrowing a foreign dynasty.
 
 ### Lady Murasaki Shikibu (c. 973–c. 1025)
 A Japanese court woman who wrote *The Tale of Genji* in the 11th century — widely considered the world's **first novel**. The story follows a Japanese prince and his life at court. Her work illustrates Japan's cultural creativity *alongside* Chinese influence — not merely imitation. Japan absorbed Chinese literary forms but also developed its own distinct traditions.
@@ -87,14 +87,14 @@ Japan's first shogunate, established by the Minamoto clan. The shogun was the ef
 ## Key Movements & Processes
 
 ### Sinification
-The spread of Chinese culture — writing, political structures, Confucianism, Buddhism — to neighboring societies. Each of Japan, Korea, and Vietnam experienced sinification differently:
+The spread of Chinese culture — writing, political structures, Confucianism, [[Concept Notes/Buddhism\|Buddhism]] — to neighboring societies. Each of Japan, Korea, and Vietnam experienced sinification differently:
 
 - **Japan**: Adopted Buddhism, Confucianism, woodblock printing; developed *The Tale of Genji* — but also resisted through distinct feudal structure and Shinto religion.
 - **Korea**: Adopted Chinese writing, Confucianism, Buddhism, and civil service exam — but aristocracy prevented opening the exam to peasants.
 - **Vietnam**: Adopted writing and architecture; but women retained more independence, nuclear families were preferred, and Vietnamese scholar-officials were loyal to villages rather than the emperor. Vietnamese guerrillas successfully expelled Tang occupiers.
 
 ### Neo-Confucianism
-More than a term — Neo-Confucianism was the dominant intellectual *movement* of East Asia from c. 960 to 1280 and beyond. It synthesized Confucian ethics (social harmony, loyalty, filial piety) with Daoist metaphysics and Buddhist concepts of self-cultivation. It spread from China to Japan, Korea, and Vietnam and became the ideological backbone of governance across East Asia.
+More than a term — [[Concept Notes/Neo-Confucianism\|Neo-Confucianism]] was the dominant intellectual *movement* of East Asia from c. 960 to 1280 and beyond. It synthesized Confucian ethics (social harmony, loyalty, filial piety) with Daoist metaphysics and Buddhist concepts of self-cultivation. It spread from China to Japan, Korea, and Vietnam and became the ideological backbone of governance across East Asia.
 
 ### Buddhist Expansion and Adaptation
-Buddhism spread across East Asia via the Silk Roads, adapting to local conditions in each region. In China it fused with Daoism to produce Chan (Zen) Buddhism. The Tang Dynasty temporarily suppressed it (monastery closures, land seizures), but it survived and flourished. The spread of woodblock-printed Buddhist scriptures under the Song accelerated its diffusion.
+Buddhism spread across East Asia via the [[Concept Notes/Silk Roads\|Silk Roads]], adapting to local conditions in each region. In China it fused with Daoism to produce Chan (Zen) Buddhism. The Tang Dynasty temporarily suppressed it (monastery closures, land seizures), but it survived and flourished. The spread of woodblock-printed Buddhist scriptures under the Song accelerated its diffusion.

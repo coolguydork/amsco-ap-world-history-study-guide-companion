@@ -42,4 +42,4 @@ tags: [apwh, unit-4, topic-4-3, period-2, columbian-exchange, timeline]
 ---
 
 > [!tip]
-> The AP exam uses the date range **1450–1750 (Period 2)** for this content. Anchor your CCOT and causation essays to the 1490s as the period's transformative hinge point. For comparison essays, pair this timeline with [[Unit-2.6/Timeline & Chronology|Timeline & Chronology]] (Topic 2.6 — Black Death) to contrast two major disease-driven demographic events.
+> The AP exam uses the date range **1450–1750 (Period 2)** for this content. Anchor your CCOT and causation essays to the 1490s as the period's transformative hinge point. For comparison essays, pair this timeline with [[Unit-2.6/Timeline & Chronology|Timeline & Chronology]] (Topic 2.6 — [[Concept Notes/Black Death\|Black Death]]) to contrast two major disease-driven demographic events.

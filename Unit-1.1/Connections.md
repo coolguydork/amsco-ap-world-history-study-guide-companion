@@ -13,7 +13,7 @@ tags: [apwh, unit-1, topic-1-1, period-1, east-asia, connections]
 ## Builds On (Backward Connections)
 
 **Classical-era China (pre-1200)**
-The Song Dynasty did not emerge from nothing. The Qin Dynasty (221 BCE) established the imperial bureaucracy; the Han developed the civil service exam system; the Tang built the Grand Canal and promoted trade, Buddhism, and agriculture. The Song represents *continuity* with this political tradition, while also introducing meaningful changes (meritocratic expansion of the exam, greater commercialization). When contextualizing the Song, always reference the Tang's foundational role.
+The Song Dynasty did not emerge from nothing. The Qin Dynasty (221 BCE) established the imperial bureaucracy; the Han developed the civil service exam system; the Tang built the Grand Canal and promoted trade, [[Concept Notes/Buddhism\|Buddhism]], and agriculture. The Song represents *continuity* with this political tradition, while also introducing meaningful changes (meritocratic expansion of the exam, greater commercialization). When contextualizing the Song, always reference the Tang's foundational role.
 
 **The Silk Roads (classical era)**
 Gunpowder, the compass, and Buddhist ideas all traveled along trade routes that existed before 1200. Champa rice spread northward from Vietnam via agricultural diffusion. China's commercialization under the Song built on trade networks first established during the Han and expanded during the Tang.
@@ -23,7 +23,7 @@ Gunpowder, the compass, and Buddhist ideas all traveled along trade routes that 
 ## Leads To (Forward Connections)
 
 **[[Topic 2.2]] — The Mongol Empire and the Modern World**
-The Mongols' conquest of the Song Dynasty (1279) is the direct outcome of Song weaknesses (fiscal exhaustion of the bureaucracy, military vulnerability) identified in Topic 1.1. The Yuan Dynasty replaced the Song. After Mongol rule, the Ming expelled the Yuan (1368) and restored Confucian governance — completing a cycle that 1.1 sets in motion.
+The [[Concept Notes/Mongols\|Mongols]]' conquest of the Song Dynasty (1279) is the direct outcome of Song weaknesses (fiscal exhaustion of the bureaucracy, military vulnerability) identified in Topic 1.1. The Yuan Dynasty replaced the Song. After Mongol rule, the Ming expelled the Yuan (1368) and restored Confucian governance — completing a cycle that 1.1 sets in motion.
 
 **[[Topic 2.1]] — The Silk Roads**
 Song China anchored the eastern end of the Silk Roads. China's porcelain, silk, tea, and eventually gunpowder technology flowed westward along these routes. Chinese commercialization and the Grand Canal fed goods into overland and maritime trade networks that Topic 2.1 examines in detail.

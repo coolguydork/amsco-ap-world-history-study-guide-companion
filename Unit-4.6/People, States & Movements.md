@@ -86,7 +86,7 @@ The period 1450–1750 produced a global cast of resistance leaders, each respon
 
 **Matamba** — African kingdom (present-day Angola/DRC border region) seized and built by Ana Nzinga as a base of resistance against Portugal. Became a refuge for escaped enslaved Africans.
 
-**Maratha Empire** — Hindu warrior state that emerged from the Deccan plateau to challenge Mughal rule, starting in 1680. Fought the Mughals through the late 17th and 18th centuries. Eventually ended Mughal dominance over South Asia; lasted until 1818 when the British East India Company defeated it.
+**Maratha Empire** — Hindu warrior state that emerged from the Deccan plateau to challenge Mughal rule, starting in 1680. Fought the Mughals through the late 17th and 18th centuries. Eventually ended Mughal dominance over South Asia; lasted until 1818 when the British [[Concept Notes/East India Company\|East India Company]] defeated it.
 
 **Wampanoag Confederacy** — Indigenous alliance in southern New England, led by Metacom during King Philip's War. Included multiple tribal groups; ultimately failed when the alliance fractured and some Native groups sided with English colonists.
 

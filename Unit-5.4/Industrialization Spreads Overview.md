@@ -48,7 +48,7 @@ While Europe's share of global manufacturing grew, Asia and the Middle East saw 
 
 ### India: Shipbuilding
 
-Indian shipbuilding initially revived in the **late 17th century** through political alliances. But British colonial mismanagement in the 17th–18th centuries undermined it. Britain designated East India Company ships as the **Indian Navy** (c. 1801), which was then **disbanded in 1863** when the Royal Navy assumed complete control of the Indian Ocean.
+Indian shipbuilding initially revived in the **late 17th century** through political alliances. But British colonial mismanagement in the 17th–18th centuries undermined it. Britain designated [[Concept Notes/East India Company\|East India Company]] ships as the **Indian Navy** (c. 1801), which was then **disbanded in 1863** when the Royal Navy assumed complete control of the Indian Ocean.
 
 ### India: Iron and Metalworking
 

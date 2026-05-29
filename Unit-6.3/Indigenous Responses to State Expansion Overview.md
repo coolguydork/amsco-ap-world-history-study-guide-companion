@@ -44,12 +44,12 @@ The Ghost Dance movement (c. 1889–1890) was a spiritual form of resistance spr
 
 ## South Asian Movements
 
-India's **sepoys** — Indian soldiers in British East India Company employ — made up the majority of Company forces by the mid-19th century. In 1857 the introduction of rifle cartridges greased with cow and pig fat (offensive to Hindu and Muslim soldiers alike) triggered the Indian Rebellion of 1857. The rebellion spread across northern India before Britain crushed it. Its consequences were sweeping: Britain exiled the Mughal emperor, abolished the East India Company, and imposed direct Crown rule — the British Raj (1858–1947).
+India's **sepoys** — Indian soldiers in British [[Concept Notes/East India Company\|East India Company]] employ — made up the majority of Company forces by the mid-19th century. In 1857 the introduction of rifle cartridges greased with cow and pig fat (offensive to Hindu and Muslim soldiers alike) triggered the Indian Rebellion of 1857. The rebellion spread across northern India before Britain crushed it. Its consequences were sweeping: Britain exiled the Mughal emperor, abolished the East India Company, and imposed direct Crown rule — the British Raj (1858–1947).
 
 The Raj had an unintended consequence. By educating Indians at British universities, it created a class of nationalist leaders. In 1885 British-educated Indians founded the [[Concept Notes/Indian National Congress\|Indian National Congress]], initially as a forum for grievances, quickly as a vehicle for self-rule. The INC eventually led India to independence in 1947.
 
 > [!tip]
-> Compare the Haitian Revolution [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]] with the Indian Rebellion of 1857: both challenged colonial rule, both drew on a sense of violated rights, and both produced very different outcomes — one produced independence, the other tightened imperial control.
+> Compare the Haitian Revolution [[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview|Nationalism & Revolutions Overview]] with the Indian Rebellion of 1857: both challenged colonial rule, both drew on a sense of violated rights, and both produced very different outcomes — one produced independence, the other tightened imperial control.
 
 ---
 
@@ -105,5 +105,5 @@ African resistance developed later than South Asian resistance, partly because E
 
 - [[Unit-6.2/State Expansion Overview\|State Expansion Overview]] — the imperial expansion that prompted these responses
 - [[Unit-5.2/Nationalism & Revolutions Overview\|Nationalism & Revolutions Overview]] — earlier nationalist revolutions that inspired colonial-era resistance
-- **Unresolved Tensions After World War I** (Topic 7.5) — where these nationalist movements gained new momentum
+- **Unresolved Tensions After World War I** [[Unit-7.5/Unresolved Tensions After World War I Overview|Unresolved Tensions After World War I Overview]] — where these nationalist movements gained new momentum
 - **Decolonization After 1900** (Topic 8.5) — the culmination of resistance built in this period

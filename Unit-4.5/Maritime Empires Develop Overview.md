@@ -45,7 +45,7 @@ The high inflation of the 16th–early 17th century is the **[[Concept Notes/Pri
 
 The Dutch, English, and French created **joint-stock companies** — corporations in which investors bought shares and split both profits and risks. **Limited liability** meant an investor's loss was capped at their initial investment. This made empire-building commercially viable for the middle class.
 
-Key companies: the **British East India Company** (EIC, founded 1600) and the **Dutch East India Company** (VOC, founded 1602). Spain and Portugal instead used direct royal grants to explorers. See [[Unit-4.5/People, States & Movements|People, States & Movements]] for the VOC in detail.
+Key companies: the **British [[Concept Notes/East India Company\|East India Company]]** (EIC, founded 1600) and the **Dutch East India Company** (VOC, founded 1602). Spain and Portugal instead used direct royal grants to explorers. See [[Unit-4.5/People, States & Movements|People, States & Movements]] for the VOC in detail.
 
 The Dutch led European finance: a stock exchange by 1602, the Bank of Amsterdam by 1609, the highest standard of living in Europe. England and France meanwhile suffered from speculative **financial bubbles** — overinflated share schemes that collapsed, causing bankruptcies and economic damage.
 
@@ -120,17 +120,17 @@ The **Virgin of Guadalupe** cult in Mexico exemplifies Catholic syncretism with 
 Increased global connections also sharpened religious conflicts:
 - **[[Concept Notes/Sufism|Sufism]]** spread Islam widely and may have influenced the development of **Sikhism** (blending Muslim and Hindu traditions)
 - The Mughal emperor Akbar attempted to mediate Muslim–Hindu tensions [[Unit-3.2/Empires: Administration Overview|Empires: Administration Overview]]
-- The Sunni–Shi'a split worsened Ottoman–Safavid conflict [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]]
+- The Sunni–Shi'a split worsened Ottoman–Safavid conflict [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]]
 - Catholic–Protestant divisions, and Anglican vs. other Protestant sects, drove European settlement of North America as groups sought religious freedom
 
 > [!tip]
-> **[[Concept Notes/Syncretism|Syncretism]]** is one of the highest-yield concepts across Units 1–5. It shows up in Silk Roads Buddhism, Indian Ocean Islam, and now Atlantic Christianity. When you see a DBQ with religious evidence, ask: is this syncretism or conflict — or both?
+> **[[Concept Notes/Syncretism|Syncretism]]** is one of the highest-yield concepts across Units 1–5. It shows up in [[Concept Notes/Silk Roads\|Silk Roads]] [[Concept Notes/Buddhism\|Buddhism]], Indian Ocean Islam, and now Atlantic Christianity. When you see a DBQ with religious evidence, ask: is this syncretism or conflict — or both?
 
 ---
 
 ## Connections
 
 - **Builds on:** [[Unit-4.4/Maritime Empires Link Regions Overview|Maritime Empires Link Regions Overview]] — empires now established, this topic explains how they governed and extracted wealth; [[Unit-4.3/Columbian Exchange Overview|Columbian Exchange Overview]] — silver, sugar, and new crops are the economic rationale
-- **Leads to:** **Independence movements** [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]] — creole political frustration matures into revolution; **19th-century imperialism** [[Unit-6.2/State Expansion Overview|State Expansion Overview]] — colonial economic patterns persist
+- **Leads to:** **Independence movements** [[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview|Nationalism & Revolutions Overview]] — creole political frustration matures into revolution; **19th-century imperialism** [[Unit-6.2/State Expansion Overview|State Expansion Overview]] — colonial economic patterns persist
 - **Compare with:** [[Unit-3.2/Empires: Administration Overview|Empires: Administration Overview]] — land-based vs. maritime colonial administration
 - See [[Unit-4.5/Connections|Connections]] for the full connections note

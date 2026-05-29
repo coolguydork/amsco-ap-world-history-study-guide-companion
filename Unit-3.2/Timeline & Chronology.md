@@ -63,7 +63,7 @@ Topic 3.2 covers how the land-based empires established in Topic 3.1 actually go
 
 ## Chronological Patterns
 
-**Sequence within empires:** Notice how each major empire follows a similar arc — expansion [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] → administrative consolidation [[Unit-3.2/Empires: Administration Overview|Empires: Administration Overview]] → peak prosperity → gradual weakening [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power Overview]]. The administrative methods of Topic 3.2 are what made the peak sustainable, and their corruption or failure explains the later decline.
+**Sequence within empires:** Notice how each major empire follows a similar arc — expansion [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] → administrative consolidation [[Unit-3.2/Empires: Administration Overview|Empires: Administration Overview]] → peak prosperity → gradual weakening [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power Overview]]. The administrative methods of Topic 3.2 are what made the peak sustainable, and their corruption or failure explains the later decline.
 
 **Simultaneity across empires:** The mid-to-late 17th century was a peak period for administrative consolidation *across* the globe simultaneously: Louis XIV at Versailles (1682), Kangxi's Qing golden age (1661–1722), Peter the Great's Russia (1682–1725), and the Tokugawa shogunate all reaching maturity in roughly the same generation.
 

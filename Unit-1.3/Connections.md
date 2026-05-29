@@ -25,10 +25,10 @@ The [[Concept Notes/Gupta Dynasty|Gupta Dynasty]] (c. 320–550 CE) represented 
 ## Leads To
 
 ### Topic 2.3 — Indian Ocean Trade Networks
-India was the geographic center of the Indian Ocean trading system. The Chola Dynasty's naval reach, Southeast Asian kingdoms controlling sea lanes, and Muslim merchants operating through South Asian port cities all set up the major trade network covered in Topic 2.3. The cultural diffusion documented in 1.3 (spread of Hinduism, Buddhism, Islam) largely traveled along these same trade routes.
+India was the geographic center of the Indian Ocean trading system. The Chola Dynasty's naval reach, Southeast Asian kingdoms controlling sea lanes, and Muslim merchants operating through South Asian port cities all set up the major trade network covered in Topic 2.3. The cultural diffusion documented in 1.3 (spread of Hinduism, [[Concept Notes/Buddhism\|Buddhism]], Islam) largely traveled along these same trade routes.
 
 ### Topic 3.2 — The Mughal Empire
-The Delhi Sultanate that dominates northern India in 1.3 falls to the Mughal Empire in 1526 [[Unit-3.2/Empires: Administration Overview|Empires: Administration Overview]]. The Mughals — who traced ancestry to the Mongols — inherited the challenge of governing a Hindu-majority population under Muslim rule. The Bhakti-Sufi dialogue of 1.3, the caste system's persistence, and the cultural syncretism of the Delhi Sultanate era all feed directly into Mughal policies toward their Hindu subjects.
+The Delhi Sultanate that dominates northern India in 1.3 falls to the Mughal Empire in 1526 [[Unit-3.2/Empires: Administration Overview|Empires: Administration Overview]]. The Mughals — who traced ancestry to the [[Concept Notes/Mongols\|Mongols]] — inherited the challenge of governing a Hindu-majority population under Muslim rule. The Bhakti-Sufi dialogue of 1.3, the caste system's persistence, and the cultural syncretism of the Delhi Sultanate era all feed directly into Mughal policies toward their Hindu subjects.
 
 ### Topic 4.3 — European Intrusion into the Indian Ocean
 The prosperous Indian Ocean trade networks and the politically fragmented South Asian political landscape that emerge from 1.3 are precisely what European powers (Portuguese, then Dutch, then British) exploited beginning in the late 15th century. The lack of a unified Indian state able to resist European naval power has its roots in the decentralization documented here.
@@ -60,4 +60,4 @@ Dar al-Islam is not just a predecessor but also a **lateral comparison**. Dar al
 - **Hindu-Buddhist synthesis and spread** — The Khmer, Sinhala, and Majapahit examples show how Indian religious traditions transformed Southeast Asia over centuries.
 - **Caste as social structure** — The caste system's persistence and flexibility is a major AP comparative data point (vs. Chinese social hierarchy, Roman slave society, feudal European hierarchy).
 - **Decentralized political power** — South Asia's fragmentation is a recurring exam topic; it explains both cultural richness and political vulnerability.
-- **Syncretism** — The blending of Hindu-Buddhist-Islamic traditions in art, language (Urdu), and architecture (Qutub Minar, Angkor) is a core CDI thread.
+- **[[Concept Notes/Syncretism\|Syncretism]]** — The blending of Hindu-Buddhist-Islamic traditions in art, language (Urdu), and architecture (Qutub Minar, Angkor) is a core CDI thread.

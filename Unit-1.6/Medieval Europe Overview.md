@@ -8,7 +8,7 @@ tags: [apwh, unit-1, topic-1-6, period-1, europe, governance, feudalism, catholi
 # Topic 1.6 — Developments in Europe (c. 1200–1450)
 
 > [!exam-tip]
-> The AP exam loves to test the **causes and consequences of political decentralization** in Europe and the **role of the Roman Catholic Church** as a unifying force. Know how feudalism, the Crusades, and the Black Death connect to each other and to long-term change.
+> The AP exam loves to test the **causes and consequences of political decentralization** in Europe and the **role of the Roman Catholic Church** as a unifying force. Know how feudalism, the [[Concept Notes/Crusades\|Crusades]], and the [[Concept Notes/Black Death\|Black Death]] connect to each other and to long-term change.
 
 ## Context: From Roman Collapse to the High Middle Ages
 

@@ -12,13 +12,13 @@ tags: [apwh, unit-6, topic-6-1, period-3, imperialism, causation, social-darwini
 ## AP Themes in This Topic
 
 **GOV — Governance and Imperial Ideology**
-Imperialism required ideological legitimacy for domestic audiences. Imperialist governments justified expansion through nationalism (colonies = national prestige), economic necessity (markets and raw materials), and civilizing duty. Jules Ferry's 1884 parliamentary speech models how imperial policy was rationalized in democratic systems. The Berlin Conference (1884–85) institutionalized the Scramble for Africa through a diplomatic framework, showing how imperial *competition* was itself governed through European-only negotiation.
+Imperialism required ideological legitimacy for domestic audiences. Imperialist governments justified expansion through nationalism (colonies = national prestige), economic necessity (markets and raw materials), and civilizing duty. Jules Ferry's 1884 parliamentary speech models how imperial policy was rationalized in democratic systems. The [[Concept Notes/Berlin Conference\|Berlin Conference]] (1884–85) institutionalized the Scramble for Africa through a diplomatic framework, showing how imperial *competition* was itself governed through European-only negotiation.
 
 **CDI — Cultural Developments & Interactions**
 The "civilizing mission" ideology created a specific cultural framework: Europeans presented their religion (Christianity), economic practices (capitalism, commerce), and cultural norms as inherently superior and their imposition as beneficial. Social Darwinism and scientific racism (phrenologists) gave these attitudes a pseudo-scientific veneer. These ideologies were not one-directional—they provoked resistance and cultural adaptation among colonized peoples, connecting this topic directly to Topic 6.3 (Indigenous Responses).
 
 **ECN — Economic Systems**
-Industrial economies generated demand for empire: factories needed raw materials, cities needed food, and manufacturers needed markets. The East India Company (EIC) and Dutch East India Company (VOC) demonstrate how corporate economic structures became instruments of imperial governance. The Second Industrial Revolution intensified competition among Britain, France, Germany, the United States, and Japan, accelerating the scramble for territory.
+Industrial economies generated demand for empire: factories needed raw materials, cities needed food, and manufacturers needed markets. The [[Concept Notes/East India Company\|East India Company]] (EIC) and Dutch East India Company (VOC) demonstrate how corporate economic structures became instruments of imperial governance. The Second Industrial Revolution intensified competition among Britain, France, Germany, the United States, and Japan, accelerating the scramble for territory.
 
 ## AP Historical Reasoning: Causation
 

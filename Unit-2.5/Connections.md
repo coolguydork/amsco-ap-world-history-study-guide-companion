@@ -49,7 +49,7 @@ Technology transfer along trade routes (2.5) is the earlier version of the globa
 
 **Religion and political legitimacy** — Rulers in West Africa, Southeast Asia, and South Asia adopted Islam or Buddhism in part to legitimize their rule and connect to broader trade networks. Religion as a *political tool* is an AP thread that runs from here through Unit 3 and beyond.
 
-**Unintended consequences** — The Black Death is the exam's anchor example. Always available as an argument when a prompt asks about consequences of trade or connectivity.
+**Unintended consequences** — The [[Concept Notes/Black Death\|Black Death]] is the exam's anchor example. Always available as an argument when a prompt asks about consequences of trade or connectivity.
 
 ## Concept Notes Relevant to This Topic
 

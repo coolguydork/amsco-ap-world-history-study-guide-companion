@@ -33,7 +33,7 @@ British naturalist (1809–1882) whose theory of evolution by natural selection 
 **David Livingstone**
 Scottish missionary-explorer (1813–1873) who traveled throughout central Africa promoting the "3 Cs"—Christianity, Commerce, and Civilization—as the framework for European engagement in Africa. His expeditions generated enormous public interest in Africa back in Europe and provided a moral-humanitarian framing for colonization as a duty rather than a conquest.
 
-**East India Company (EIC)**
+**[[Concept Notes/East India Company\|East India Company]] (EIC)**
 British joint-stock trading company (chartered 1600) that gradually acquired military and administrative control over the Indian subcontinent. After the Indian Rebellion (Sepoy Mutiny) of 1857, the British Crown dissolved the EIC and assumed direct rule of India in 1858. Demonstrates how corporate economic structures became instruments of formal imperial governance.
 
 **Dutch East India Company (VOC)**

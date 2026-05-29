@@ -8,7 +8,7 @@ tags: [apwh, unit-2, topic-2-6, period-1]
 # Environmental Consequences of Connectivity — Overview
 
 > [!exam-tip]
-> Topic 2.6 has **one AP Learning Objective**: explain the environmental effects of exchange networks in Afro-Eurasia, c. 1200–1450. Every exam question on this topic will revolve around **agricultural diffusion**, **environmental degradation**, or **disease spread** — usually the Black Death.
+> Topic 2.6 has **one AP Learning Objective**: explain the environmental effects of exchange networks in Afro-Eurasia, c. 1200–1450. Every exam question on this topic will revolve around **agricultural diffusion**, **environmental degradation**, or **disease spread** — usually the [[Concept Notes/Black Death\|Black Death]].
 
 ## What This Topic Is About
 
