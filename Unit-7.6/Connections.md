@@ -52,5 +52,5 @@ The rise of fascism in Italy (1922), Germany (1933), and Spain (1936–1939 Civi
 **Japanese Imperialism and Asian WWII**
 Japan's expansion (Manchuria 1931, China 1937) connects to Unit 7.5's discussion of Asian independence movements and Unit 7.4's discussion of Japanese imperialism. The causes of WWII in Asia (military nationalism, resource competition, racial hierarchy as ideology) parallel but differ from European causes.
 
-**The Holocaust — Genocide and State Violence**
+**The [[Concept Notes/Holocaust\|Holocaust]] — [[Concept Notes/Genocide\|Genocide]] and State Violence**
 The Nuremberg Laws and Kristallnacht are the opening moves of what became the Holocaust. This connects to broader AP themes of state-sponsored violence, genocide, and human rights. When writing about WWII's causes, the Holocaust should be understood as both a consequence of Nazi ideology and an intended *goal* — not just a byproduct of the war.

@@ -16,7 +16,7 @@ tags: [apwh, unit-7, topic-7-6, period-4, wwii, fascism, nazism, appeasement]
 ## Ideology & Racial Policy
 
 **Nazis**
-Short for the National Socialist German Workers' Party (NSDAP). Hitler's political movement and ruling party of Germany (1933–1945). Nazi ideology combined extreme nationalism, anti-Semitism, Aryan racial supremacy, and totalitarian state control. The Nazis were responsible for WWII in Europe and the Holocaust.
+Short for the National Socialist German Workers' Party (NSDAP). Hitler's political movement and ruling party of Germany (1933–1945). Nazi ideology combined extreme nationalism, anti-Semitism, Aryan racial supremacy, and totalitarian state control. The Nazis were responsible for WWII in Europe and the [[Concept Notes/Holocaust\|Holocaust]].
 
 **Third Reich**
 Hitler's name for Nazi Germany (1933–1945), meaning "Third Empire" — framing it as the successor to the medieval Holy Roman Empire and the 19th-century German Empire. It encompassed the totalitarian Nazi state, its territorial expansion, and the Holocaust.

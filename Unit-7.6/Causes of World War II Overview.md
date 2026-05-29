@@ -44,7 +44,7 @@ Hitler's ideology combined several elements into a totalitarian program:
 - **Lebensraum** — the drive to conquer Eastern Europe for "living space"
 - **Ultranationalism** — repudiating Versailles, rearming Germany
 
-The **Nuremberg Laws** (1935) stripped Jews of citizenship and forbade marriage with non-Jews, institutionalizing persecution as state policy. **Kristallnacht** (November 1938) — the "Night of Broken Glass" — saw state-orchestrated pogroms destroy synagogues and send 30,000 Jews to concentration camps, marking a decisive escalation toward the Holocaust.
+The **Nuremberg Laws** (1935) stripped Jews of citizenship and forbade marriage with non-Jews, institutionalizing persecution as state policy. **Kristallnacht** (November 1938) — the "Night of Broken Glass" — saw state-orchestrated pogroms destroy synagogues and send 30,000 Jews to concentration camps, marking a decisive escalation toward the [[Concept Notes/Holocaust\|Holocaust]].
 
 ---
 

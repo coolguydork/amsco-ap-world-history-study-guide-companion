@@ -20,7 +20,7 @@ WWII must be compared with WWI on the AP exam. WWI introduced total war, industr
 ## Leads To
 
 **Mass Atrocities (Topic 7.8)**
-The conduct of WWII — including the Holocaust, the Nanjing Massacre, and systematic bombing of civilians — constitutes the mass atrocities examined in 7.8. The decision to use atomic weapons is itself part of the mass atrocity discussion. WWII's violence against civilians required new international legal frameworks (Geneva Conventions, Nuremberg Trials, Genocide Convention).
+The conduct of WWII — including the [[Concept Notes/Holocaust\|Holocaust]], the Nanjing Massacre, and systematic bombing of civilians — constitutes the mass atrocities examined in 7.8. The decision to use atomic weapons is itself part of the mass atrocity discussion. WWII's violence against civilians required new international legal frameworks (Geneva Conventions, Nuremberg Trials, [[Concept Notes/Genocide\|Genocide]] Convention).
 
 **Setting the Stage for the Cold War and Decolonization (Topic 8.1)**
 WWII's consequences directly set up the post-war world: the U.S. and USSR emerged as superpowers from a devastated Europe, their wartime alliance unraveling immediately. The nuclear arms race, spheres of influence, and ideological competition all stem from the power vacuum WWII created. Colonial armies' wartime service, combined with weakened European powers, made decolonization politically irresistible.

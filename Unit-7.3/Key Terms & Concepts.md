@@ -84,7 +84,7 @@ The 1919 peace treaty with Germany; the central product of the Paris Peace Confe
 The democratic German government established after WWI's end (1919–1933). Accepted the Treaty of Versailles, making it permanently associated with national humiliation and economic hardship. Struggled with hyperinflation, reparations, political extremism from left and right. Its instability enabled the Nazi Party to win power in 1933 — barely 15 years after the war ended.
 
 **All Quiet on the Western Front**
-1929 anti-war novel by German author Erich Maria Remarque, based on his own WWI experience as a young soldier. Depicts the psychological and physical devastation of trench warfare from a German soldier's perspective. One of the most widely read war novels in history; adapted into a celebrated 1930 film. Illustrates the disillusionment of the "Lost Generation" — young men whose lives were destroyed by industrialized warfare.
+1929 anti-war novel by German author Erich Maria Remarque, based on his own WWI experience as a young soldier. Depicts the psychological and physical devastation of trench warfare from a German soldier's perspective. One of the most widely read war novels in history; adapted into a celebrated 1930 film. Illustrates the disillusionment of the "[[Concept Notes/Lost Generation\|Lost Generation]]" — young men whose lives were destroyed by industrialized warfare.
 
 > [!exam-tip]
 > High-frequency AP connections: **total war → propaganda → SIO theme** (how war restructures society); **reparations + war guilt clause → Weimar instability → Nazi rise** (direct causal chain across Topics 7.3 → 7.5 → 7.9); **Fourteen Points vs. Treaty of Versailles** (idealism vs. punitive peace).

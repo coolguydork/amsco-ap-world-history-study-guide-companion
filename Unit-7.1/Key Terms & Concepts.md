@@ -21,7 +21,7 @@ Those who believe workers should collectively own the means of production so tha
 > The AP distinguishes between **Marxist theory** (workers eventually own the means of production through historical stages) and **Bolshevik practice** (violent revolutionary seizure of power, immediate nationalization). Marx predicted revolution would begin in industrialized countries; Lenin applied it to agrarian Russia.
 
 **Young Turks**
-Reform movement within the declining Ottoman Empire that advocated for a Western-style constitution and promoted Turkification to unify the empire's many ethnic groups under a Turkish-Islamic identity. Their scapegoating of Christian minorities contributed to the Armenian Genocide. By allying with Germany in WWI they accelerated the empire's collapse, inadvertently creating the conditions for Turkish national independence.
+Reform movement within the declining Ottoman Empire that advocated for a Western-style constitution and promoted Turkification to unify the empire's many ethnic groups under a Turkish-Islamic identity. Their scapegoating of Christian minorities contributed to the Armenian [[Concept Notes/Genocide\|Genocide]]. By allying with Germany in WWI they accelerated the empire's collapse, inadvertently creating the conditions for Turkish national independence.
 
 **Turkification**
 Ottoman policy promoted by the Young Turks requiring all citizens of the multiethnic empire to identify with Turkish culture and Islam. Particularly affected Christian minorities such as Armenians, who were scapegoated for Ottoman economic decline and subjected to mass violence. Turkification was the ideological engine behind the Armenian Genocide (1915–1916) and represents a broader pattern of ethnic nationalism weaponized against minorities.

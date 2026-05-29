@@ -41,7 +41,7 @@ The central historical reasoning skill for this topic is **causation** — expla
 - Nuclear weapons made great-power conventional war too costly, reshaping international relations
 - Devastated European powers lost the capacity to maintain colonial empires
 - The U.S. and USSR emerged as superpowers, creating the bipolar Cold War order
-- The Holocaust discredited scientific racism, eventually influencing decolonization ideology
+- The [[Concept Notes/Holocaust\|Holocaust]] discredited scientific racism, eventually influencing decolonization ideology
 - International institutions (UN, World Bank, IMF) were created to prevent another catastrophic war
 
 ---

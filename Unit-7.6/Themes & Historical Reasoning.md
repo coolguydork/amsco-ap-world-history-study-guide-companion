@@ -72,7 +72,7 @@ Nazi propaganda was central to the regime's power. The Reichstag fire was staged
 
 **Intentionalist vs. Structuralist Debate**
 
-Historians have debated whether the Holocaust and WWII resulted primarily from Hitler's long-held intentions (*intentionalists* — Hitler always planned mass murder and global war) or from the chaotic internal competition and evolving circumstances of the Nazi state (*structuralists* — radicalization came from the system, not solely Hitler's plan). The AP exam does not require you to know these specific terms, but understanding that historians debate the role of individual agency vs. structural forces is valuable for SAQ and LEQ responses.
+Historians have debated whether the [[Concept Notes/Holocaust\|Holocaust]] and WWII resulted primarily from Hitler's long-held intentions (*intentionalists* — Hitler always planned mass murder and global war) or from the chaotic internal competition and evolving circumstances of the Nazi state (*structuralists* — radicalization came from the system, not solely Hitler's plan). The AP exam does not require you to know these specific terms, but understanding that historians debate the role of individual agency vs. structural forces is valuable for SAQ and LEQ responses.
 
 **Taylor's Revisionism**
 
