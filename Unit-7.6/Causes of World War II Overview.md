@@ -81,7 +81,7 @@ Britain's policy of **appeasement** — exemplified by Neville Chamberlain at Mu
 
 ## The German-Soviet Nonaggression Pact and the Outbreak of War
 
-Hitler secured his eastern flank through the **German-Soviet Nonaggression Pact** (August 23, 1939), secretly promising Stalin control of eastern Poland and the Baltic States in exchange for Soviet neutrality. This freed Germany to invade Poland without fear of a two-front war. On September 1, 1939, Germany invaded Poland. Britain and France declared war on September 3 — the official start of WWII in Europe.
+Hitler secured his eastern flank through the **German-Soviet [[Concept Notes/Nonaggression Pact\|Nonaggression Pact]]** (August 23, 1939), secretly promising Stalin control of eastern Poland and the Baltic States in exchange for Soviet neutrality. This freed Germany to invade Poland without fear of a two-front war. On September 1, 1939, Germany invaded Poland. Britain and France declared war on September 3 — the official start of WWII in Europe.
 
 ---
 

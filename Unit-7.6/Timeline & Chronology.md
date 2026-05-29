@@ -48,4 +48,4 @@ tags: [apwh, unit-7, topic-7-6, period-4, wwii, fascism, nazism, appeasement]
 > **Asia vs. Europe timelines:** WWII began in Asia in 1937 (Japan's invasion of China) — two years before Europe (1939). The AP sometimes asks about this distinction. The two theaters shared causes (militarism, failed collective security) but developed independently until Pearl Harbor (1941) linked them.
 
 > [!warning]
-> Do not confuse the **Anti-Comintern Pact** (1936 — Germany and Japan, ideological) with the **German-Soviet Nonaggression Pact** (1939 — Germany and the USSR, strategic). They are essentially opposites in purpose: the first expressed anti-communism; the second temporarily suspended it for Hitler's tactical benefit.
+> Do not confuse the **Anti-Comintern Pact** (1936 — Germany and Japan, ideological) with the **German-Soviet [[Concept Notes/Nonaggression Pact\|Nonaggression Pact]]** (1939 — Germany and the USSR, strategic). They are essentially opposites in purpose: the first expressed anti-communism; the second temporarily suspended it for Hitler's tactical benefit.

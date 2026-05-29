@@ -65,7 +65,7 @@ The March 1938 political union of Austria with Germany. Hitler used the threat o
 **Munich Agreement**
 September 1938 agreement among Germany, Britain, France, and Italy allowing Hitler to annex Czechoslovakia's Sudetenland in exchange for a pledge of no further territorial demands. It is the defining symbol of appeasement's failure. Hitler violated it within months by seizing all of Czechoslovakia.
 
-**German-Soviet Nonaggression Pact**
+**German-Soviet [[Concept Notes/Nonaggression Pact\|Nonaggression Pact]]**
 August 23, 1939 agreement between Hitler and Stalin pledging mutual non-aggression. It secretly divided Eastern Europe into German and Soviet spheres of influence. The pact freed Hitler to invade Poland without fear of a two-front war and shocked Western democracies. Germany violated it by invading the USSR in June 1941.
 
 ---

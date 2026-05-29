@@ -29,7 +29,7 @@ Emperor of Japan during WWII. The extent of his personal responsibility for Japa
 Italian fascist dictator ("Il Duce") who came to power in 1922 and became Hitler's model and early ally. He formed the Rome-Berlin Axis (1936) and the Anti-Comintern Pact (1937). Mussolini's Italy was a weaker partner in the Axis — its military underperformed in North Africa and Greece. He was deposed in 1943 and later killed by Italian partisans.
 
 **Joseph Stalin (1878–1953)**
-Soviet leader who signed the German-Soviet Nonaggression Pact (August 1939), gaining eastern Poland and the Baltic States while allowing Hitler to focus west. Stalin's calculation: buy time and territory while capitalist powers exhaust each other. The miscalculation: Germany invaded the USSR in June 1941.
+Soviet leader who signed the German-Soviet [[Concept Notes/Nonaggression Pact\|Nonaggression Pact]] (August 1939), gaining eastern Poland and the Baltic States while allowing Hitler to focus west. Stalin's calculation: buy time and territory while capitalist powers exhaust each other. The miscalculation: Germany invaded the USSR in June 1941.
 
 ---
 
