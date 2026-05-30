@@ -35,7 +35,7 @@ British Prime Minister through most of WWII; replaced by Clement Attlee mid-way 
 ---
 
 **George Marshall**
-US Secretary of State (1947–1949). Architect of the **Marshall Plan** — the $13 billion US aid program to rebuild Western European economies after WWII. The plan had twin goals: humanitarian rebuilding AND preventing communist parties from gaining electoral power in war-devastated democracies. The Marshall Plan is the economic pillar of early Cold War containment (Topic 8.2).
+US Secretary of State (1947–1949). Architect of the **Marshall Plan** — the $13 billion US aid program to rebuild Western European economies after WWII. The plan had twin goals: humanitarian rebuilding AND preventing communist parties from gaining electoral power in war-devastated democracies. The Marshall Plan is the economic pillar of early Cold War containment [[Unit-8.2/Cold War Overview|Cold War Overview]].
 
 ---
 

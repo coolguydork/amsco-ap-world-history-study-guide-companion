@@ -67,5 +67,5 @@ India and Pakistan's independence (1947) was the first major break, demonstratin
 
 - [[Unit-7.7/Conducting World War II Overview\|Conducting World War II Overview]] — the war itself created these conditions
 - [[Unit-7.8/Mass Atrocities Overview\|Mass Atrocities Overview]] — [[Concept Notes/Holocaust\|Holocaust]] and atomic bombs shaped post-war international norms
-- **The Cold War** (Topic 8.2) — the rivalry that grew directly from these wartime tensions
+- **The Cold War** [[Unit-8.2/Cold War Overview|Cold War Overview]] — the rivalry that grew directly from these wartime tensions
 - **Decolonization After 1900** (Topic 8.5) — the independence wave enabled by WWII's aftermath

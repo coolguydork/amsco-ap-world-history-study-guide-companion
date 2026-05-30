@@ -23,7 +23,7 @@ The [[Concept Notes/Holocaust\|Holocaust]] directly motivated the Universal Decl
 
 ## Leads To (What This Prepares)
 
-**The Cold War (Topic 8.2)** ← folder not yet built
+**The Cold War [[Unit-8.2/Cold War Overview|Cold War Overview]]** ← folder not yet built
 The Truman Doctrine, Marshall Plan, Berlin Blockade, and NATO formation all flow directly from the tensions established in 8.1. Topic 8.2 fills in how the Cold War was institutionalized and exported globally.
 
 **Decolonization After 1900 (Topic 8.5)** ← folder not yet built
