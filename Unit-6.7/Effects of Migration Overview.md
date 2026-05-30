@@ -97,4 +97,4 @@ In both the United States and Australia, native-born workers resented immigrant 
 [[Unit-6.6/Causes of Migration in an Interconnected World Overview\|Causes of Migration in an Interconnected World Overview]] — the push and pull factors that drove these movements
 
 **Leads to:**
-**Newly Independent States** (Topic 8.6) — Gandhi's South Africa experience feeds the Indian independence movement
+**Newly Independent States** [[Unit-8.6/Newly Independent States Overview|Newly Independent States Overview]] — Gandhi's South Africa experience feeds the Indian independence movement

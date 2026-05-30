@@ -20,7 +20,7 @@ Topic 6.6 establishes the push and pull factors that drove 19th-century migratio
 
 ## Leads To
 
-**Newly Independent States (Topic 8.6)**
+**Newly Independent States [[Unit-8.6/Newly Independent States Overview|Newly Independent States Overview]]**
 Gandhi's experience organizing against anti-Indian discrimination in South Africa (Natal Indian Congress, 1894) was the formative chapter of his political life. When he returned to India in 1914, he brought the tactics of nonviolent resistance that would define the independence movement. Topic 6.7 is thus a *causal origin* of 20th-century decolonization movements.
 
 ---
