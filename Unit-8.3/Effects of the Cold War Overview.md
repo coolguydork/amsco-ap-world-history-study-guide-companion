@@ -55,7 +55,7 @@ Because direct superpower conflict risked nuclear war, the Cold War produced a p
 **Contra War (1981–1990):** In Nicaragua, the US backed Contra rebels against the socialist Sandinista government, raising sharp ethical questions about covert US intervention in Latin America.
 
 > [!warning]
-> Don't confuse proxy wars with decolonization wars — they often overlapped. Vietnam's war against France (Topic 8.5) was a decolonization struggle; the American phase was a Cold War proxy conflict. Local causes (land reform, anti-colonialism) mixed with superpower ideology in almost every proxy conflict.
+> Don't confuse proxy wars with decolonization wars — they often overlapped. Vietnam's war against France [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]] was a decolonization struggle; the American phase was a Cold War proxy conflict. Local causes (land reform, anti-colonialism) mixed with superpower ideology in almost every proxy conflict.
 
 ## Cuba and the Nuclear Brink
 

@@ -72,7 +72,7 @@ In **India**, land reform was attempted piecemeal; the state of Kerala achieved 
 
 - **Builds on** [[Unit-8.2/Cold War Overview\|Cold War Overview]] — the ideological framework within which communist expansion occurred
 - **Builds on** **Reactions to the Industrial Economy** [[Unit-5.8/Reactions to the Industrial Economy Overview|Reactions to the Industrial Economy Overview]] — origins of Marxist ideology and its appeal to industrial and agrarian workers
-- **Leads to** **Cold War Conflicts** (Topic 8.5) — proxy wars in Korea, Vietnam, and Latin America directly tied to communist spread
+- **Leads to** **Cold War Conflicts** [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]] — proxy wars in Korea, Vietnam, and Latin America directly tied to communist spread
 - **Leads to** **End of the Cold War** (Topic 8.7) — communist states' economic failures (GLF, Cultural Revolution, Ethiopian famine) contribute to eventual collapse
 
 See also: [[Unit-8.3/Effects of the Cold War Overview\|Effects of the Cold War Overview]] for the superpower framework shaping communist expansion.

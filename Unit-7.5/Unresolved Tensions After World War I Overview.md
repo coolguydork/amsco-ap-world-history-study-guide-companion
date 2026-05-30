@@ -63,5 +63,5 @@ African movements were slower to develop in the interwar period but were gatheri
 
 - **Builds on:** [[Unit-7.3/Conducting World War I Overview\|Conducting World War I Overview]] — the war that created these broken promises
 - **Leads to:** **Causes of World War II** [[Unit-7.6/Causes of World War II Overview|Causes of World War II Overview]] — Japanese expansion and global instability
-- **Leads to:** **Decolonization After 1900** (Topic 8.5) — the post-WWII fulfillment of interwar nationalist movements
+- **Leads to:** **Decolonization After 1900** [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]] — the post-WWII fulfillment of interwar nationalist movements
 - **Compare:** [[Unit-6.3/Indigenous Responses to State Expansion Overview\|Indigenous Responses to State Expansion Overview]] — earlier anti-colonial resistance strategies

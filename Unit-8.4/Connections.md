@@ -26,7 +26,7 @@ The origins of Marxist and socialist ideology: Marx's analysis of capitalism, cl
 
 ## Leads To
 
-**Cold War Conflicts** (Topic 8.5)
+**Cold War Conflicts** [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]]
 The spread of communism in 8.4 directly caused the proxy wars of 8.5: the Korean War, the Vietnam War, Cuban Missile Crisis, and U.S. interventions in Latin America and Africa. The communist governments established in 8.4 became the flashpoints of 8.5.
 
 **Decolonization After 1900** (Topic 8.7) — *not yet built*

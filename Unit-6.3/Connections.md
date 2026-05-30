@@ -29,7 +29,7 @@ The revolutionary wave of the late 18th and early 19th centuries — American, F
 
 World War I was a watershed for global nationalism. Colonial peoples who had served in the war — Indian, West African, Vietnamese, Filipino soldiers — returned with heightened expectations of self-determination that were largely denied at Versailles. The movements built in Topic 6.3 (INC, Pan-Africanism) intensified dramatically after 1918. The unfulfilled promises of Versailles became a direct cause of the nationalist explosions of the mid-20th century.
 
-### **Decolonization After 1900** (Topic 8.5) ← not yet built
+### **Decolonization After 1900** [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]] ← not yet built
 
 The decolonization wave of the 1940s–1960s did not appear from nowhere. Its organizational infrastructure — the Indian National Congress, Pan-African networks, Philippine nationalist traditions — was built during the period covered in Topic 6.3. Every success of decolonization has roots in the resistance strategies developed during imperial expansion. Students who understand 6.3 have the causal groundwork for 8.5.
 

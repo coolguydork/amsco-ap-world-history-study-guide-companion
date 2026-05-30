@@ -26,7 +26,7 @@ The [[Concept Notes/Holocaust\|Holocaust]] directly motivated the Universal Decl
 **The Cold War [[Unit-8.2/Cold War Overview|Cold War Overview]]** ← folder not yet built
 The Truman Doctrine, Marshall Plan, Berlin Blockade, and [[Concept Notes/NATO\|NATO]] formation all flow directly from the tensions established in 8.1. Topic 8.2 fills in how the Cold War was institutionalized and exported globally.
 
-**Decolonization After 1900 (Topic 8.5)** ← folder not yet built
+**Decolonization After 1900 [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]]** ← folder not yet built
 The three structural conditions identified in 8.1 (weakened colonial powers, strengthened nationalist movements, Cold War leverage) are the causal framework for understanding how specific colonies achieved independence in 8.5.
 
 ---

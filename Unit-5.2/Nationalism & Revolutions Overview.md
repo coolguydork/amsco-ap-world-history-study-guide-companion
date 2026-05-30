@@ -101,4 +101,4 @@ The revolutions of 1750–1900 permanently transformed the political landscape o
 - **Builds on:** [[Unit-4.5/Maritime Empires Develop Overview|Maritime Empires Develop Overview]] — colonial exploitation motivates resistance
 - **Builds on:** [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]] — casta system and social tensions that fueled Latin American revolutions
 - **Leads to:** **European alliance competition → WWI** [[Unit-7.1/Shifting Power Overview|Shifting Power Overview]]
-- **Leads to:** **20th-century decolonization** (Topic 8.5)
+- **Leads to:** **20th-century decolonization** [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]]

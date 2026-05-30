@@ -25,7 +25,7 @@ Earlier anti-colonial resistance strategies set the stage for interwar movements
 **Causes of World War II [[Unit-7.6/Causes of World War II Overview|Causes of World War II Overview]]**
 Japanese imperial expansion — from Manchukuo (1932) through the full Pacific War — flows directly from the unresolved tensions of Topic 7.5. The Greater East Asia Co-Prosperity Sphere ideology and Japan's withdrawal from the League of Nations after Manchuria condemned are direct bridges to WWII.
 
-**Decolonization After 1900 (Topic 8.5)**
+**Decolonization After 1900 [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]]**
 The interwar nationalist movements built the organizations, ideologies, and leaders that achieved independence after WWII. Gandhi's [[Concept Notes/Indian National Congress\|Indian National Congress]], the CCP, the African leaders educated in Europe — all are products of the 1919–1945 period. Decolonization is the fulfillment of what Topic 7.5 began.
 
 ## Compare With

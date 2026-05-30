@@ -106,4 +106,4 @@ African resistance developed later than South Asian resistance, partly because E
 - [[Unit-6.2/State Expansion Overview\|State Expansion Overview]] — the imperial expansion that prompted these responses
 - [[Unit-5.2/Nationalism & Revolutions Overview\|Nationalism & Revolutions Overview]] — earlier nationalist revolutions that inspired colonial-era resistance
 - **Unresolved Tensions After World War I** [[Unit-7.5/Unresolved Tensions After World War I Overview|Unresolved Tensions After World War I Overview]] — where these nationalist movements gained new momentum
-- **Decolonization After 1900** (Topic 8.5) — the culmination of resistance built in this period
+- **Decolonization After 1900** [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]] — the culmination of resistance built in this period
