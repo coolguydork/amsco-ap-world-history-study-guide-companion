@@ -107,7 +107,7 @@ The League lacked enforcement mechanisms and U.S. participation. When Japan inva
 [[Unit-7.5/Unresolved Tensions After World War I Overview\|Unresolved Tensions After World War I Overview]] — Versailles grievances fueled Nazi rise
 
 **Leads to:**
-**Conducting World War II** (Topic 7.7)
+**Conducting World War II** [[Unit-7.7/Conducting World War II Overview|Conducting World War II Overview]]
 
 **Compare with:**
 [[Unit-7.2/Causes of World War I Overview\|Causes of World War I Overview]] — similar MAIN causes but different mechanisms (appeasement vs. escalation)

@@ -33,7 +33,7 @@ The three-stage knowledge-transfer process is an excellent AP evidence chain:
 
 ### Religious Syncretism and the Spread of Islam
 
-[[[[Concept Notes/Sufism\|Sufism]]|Sufi missionaries]] adapted Islamic practice to local cultures, incorporating indigenous religious elements into Islam. This **religious syncretism** explains both how Islam spread so rapidly and why it looked different in different places. The AP exam uses this concept to ask how and why Islam became a world religion.
+[[Concept Notes/Sufism\|Sufi missionaries]] adapted Islamic practice to local cultures, incorporating indigenous religious elements into Islam. This **religious syncretism** explains both how Islam spread so rapidly and why it looked different in different places. The AP exam uses this concept to ask how and why Islam became a world religion.
 
 > [!exam-tip]
 > **Historical Process: Cultural Diffusion via Religious Missionaries.** Topic 1.2 is the clearest example of this process in Unit 1. Compare with [[Concept Notes/Buddhism\|Buddhism]] spreading through Southeast Asia [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]] — both spread via missionaries who adapted to local cultures.

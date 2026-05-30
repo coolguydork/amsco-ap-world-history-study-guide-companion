@@ -23,7 +23,7 @@ The Treaty of Versailles created the specific grievances Hitler exploited — re
 
 ## Leads To
 
-**Conducting World War II (Topic 7.7)** ← folder not yet built
+**Conducting World War II [[Unit-7.7/Conducting World War II Overview|Conducting World War II Overview]]** ← folder not yet built
 
 This topic explains the causes; 7.7 addresses the conduct and outcomes of the war itself — theaters, turning points, major campaigns, and the eventual Allied victory.
 

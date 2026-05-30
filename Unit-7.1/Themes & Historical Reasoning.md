@@ -37,7 +37,7 @@ Three ideological frameworks competed for dominance in this period:
 
 Land inequality was the explosive social issue in Mexico and China. In Mexico, 1% of the population owned 97% of the land; in China, landlordism combined with famine and ethnic hierarchy. Both revolutions promised (and to varying degrees delivered) land redistribution. Zapata's movement in Mexico physically redistributed hacienda lands; the 1917 Constitution enshrined land reform as a constitutional right.
 
-Class conflict drove Russia's revolution. The Bolsheviks explicitly framed their seizure of power as the working class defeating the aristocracy and bourgeoisie. Their policies — nationalizing industry, abolishing private trade — were designed to eliminate class hierarchy at a stroke. In practice, power concentrated in a new communist party elite, but the revolutionary rhetoric of class liberation resonated globally.
+Class conflict drove Russia's revolution. The [[Concept Notes/Bolsheviks\|Bolsheviks]] explicitly framed their seizure of power as the working class defeating the aristocracy and bourgeoisie. Their policies — nationalizing industry, abolishing private trade — were designed to eliminate class hierarchy at a stroke. In practice, power concentrated in a new communist party elite, but the revolutionary rhetoric of class liberation resonated globally.
 
 Ethnic minority scapegoating characterized the Ottoman collapse. As the empire weakened economically, Armenians were blamed for problems rooted in structural decline and foreign economic domination. Turkification transformed ethnic difference from a political challenge into a national security threat, with catastrophic consequences for minority populations.
 

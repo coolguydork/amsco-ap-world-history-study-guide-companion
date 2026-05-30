@@ -33,7 +33,7 @@ The third "R" of FDR's New Deal: structural changes to prevent another depressio
 The economic doctrine underlying Italian Fascism. The state organizes the economy into sector-based corporations integrating employers, trade unions, and government officials. Theoretically eliminates class conflict by subordinating all economic actors to state direction; in practice it suppressed independent labor unions and served big business.
 
 **collectivize**
-Stalin's forced policy (1929–1933) merging millions of privately owned peasant farms into large state-run collective farms. Intended to modernize agriculture and feed industrial workers. Met fierce peasant resistance — Stalin responded by seizing grain, causing the Holodomor famine in Ukraine (est. 3.5 million deaths).
+Stalin's forced policy (1929–1933) merging millions of privately owned peasant farms into large state-run collective farms. Intended to modernize agriculture and feed industrial workers. Met fierce peasant resistance — Stalin responded by seizing grain, causing the [[Concept Notes/Holodomor\|Holodomor]] famine in Ukraine (est. 3.5 million deaths).
 
 **kolkhoz**
 A Soviet collective farm. Peasants were forced to pool land, livestock, and tools into communally managed operations with state-set production quotas. The system caused massive disruption, famine, and millions of deaths in the early 1930s.

@@ -29,14 +29,14 @@ The reparations imposed by the Treaty of Versailles directly caused Germany's hy
 **Unresolved Tensions After World War I** [[Unit-7.5/Unresolved Tensions After World War I Overview|Unresolved Tensions After World War I Overview]]
 The Paris Peace Conference left multiple ticking bombs: German resentment over war guilt and reparations; Italian resentment over broken territorial promises; broken promises to colonial peoples who had fought for self-rule; the redrawing of the Middle East by Britain and France in ways that ignored Arab self-determination. Topic 7.5 deals with how these tensions festered through the 1920s–30s.
 
-**Conducting World War II** (Topic 7.7)
+**Conducting World War II** [[Unit-7.7/Conducting World War II Overview|Conducting World War II Overview]]
 The causal chain from 7.3 to 7.7 runs through the [[Concept Notes/Weimar Republic\|Weimar Republic]]'s instability, the [[Concept Notes/Great Depression\|Great Depression]] [[Unit-7.4/Economy in the Interwar Period Overview|Economy in the Interwar Period Overview]], and the rise of fascism. WWII was in many ways a continuation of WWI's unfinished business. The military technologies of WWI (tanks, airplanes, submarines) all returned in WWII at dramatically larger scale and effectiveness.
 
 ---
 
 ## Compare With
 
-**Conducting World War II** (Topic 7.7)
+**Conducting World War II** [[Unit-7.7/Conducting World War II Overview|Conducting World War II Overview]]
 Both wars featured total war mobilization and technological innovation, but WWII escalated every dimension: air power became strategically decisive (it was marginal in WWI); tanks were used in mobile combined-arms operations rather than static support; genocide and deliberate targeting of civilians reached industrialized scale. The civilian death toll in WWII (~50–70 million) dwarfed WWI (~17 million). AP angle: compare how each war changed civilian-military relations and postwar settlement approaches.
 
 **Seven Years' War** (Topic 3.3 — mentioned in AMSCO)

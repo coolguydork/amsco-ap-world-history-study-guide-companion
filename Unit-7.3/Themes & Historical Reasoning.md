@@ -41,7 +41,7 @@ The AP skill for 7.3 is **Causation**. The key causal chains to master:
 Industrial stalemate → massive casualties → total war mobilization → exhausted, embittered populations → Allied publics demanding revenge → Clemenceau's punitive peace → Treaty of Versailles harsh terms
 
 **Causation Chain 2 — From Treaty of Versailles to WWII:**
-Reparations → German economic crisis (hyperinflation) → Weimar Republic discredited → Nazi Party exploits resentment → WWII (Topic 7.9). This is one of the most-tested causal chains on the AP exam.
+Reparations → German economic crisis (hyperinflation) → Weimar Republic discredited → Nazi Party exploits resentment → WWII [[Unit-7.9/Causation in Global Conflict Overview|Causation in Global Conflict Overview]]. This is one of the most-tested causal chains on the AP exam.
 
 **Causation Chain 3 — From total war to social change:**
 Total war labor demands → women in workforce → women's suffrage movements; colonial service → anticolonial nationalism → decolonization movements (Topic 9.2)

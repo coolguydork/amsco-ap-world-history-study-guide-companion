@@ -17,7 +17,7 @@ tags: [apwh, unit-7, topic-7-1, period-4, connections, causation, revolution]
 Foreign economic penetration is the crucial *external cause* linking Topic 6.5 to the revolutions of Topic 7.1. In China, European spheres of influence and unequal trade treaties humiliated the Qing and undermined the dynasty's legitimacy. In Mexico, U.S. investors controlling key industries and the wealthiest 1% owning 97% of the land created the inequality that drove the revolution. In the Ottoman Empire, British and French economic policies generated the resentment that pushed it toward Germany in WWI. Economic imperialism did not merely exploit — it destabilized governments.
 
 **[[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview\|Nationalism & Revolutions Overview]]**
-The 19th-century wave of nationalist thought and revolutionary practice created the intellectual and organizational templates for 20th-century upheaval. Sun Yat-sen's Three People's Principles drew directly on European nationalist ideology. Atatürk's Turkish nationalism was shaped by Young Turk engagement with Western political thought. The Bolsheviks adapted Marx's revolutionary theory (itself a product of 19th-century European thought) to Russian conditions. Each revolution in Topic 7.1 is, in part, a 20th-century application of 19th-century nationalist and socialist ideas.
+The 19th-century wave of nationalist thought and revolutionary practice created the intellectual and organizational templates for 20th-century upheaval. Sun Yat-sen's Three People's Principles drew directly on European nationalist ideology. Atatürk's Turkish nationalism was shaped by Young Turk engagement with Western political thought. The [[Concept Notes/Bolsheviks\|Bolsheviks]] adapted Marx's revolutionary theory (itself a product of 19th-century European thought) to Russian conditions. Each revolution in Topic 7.1 is, in part, a 20th-century application of 19th-century nationalist and socialist ideas.
 
 ---
 
@@ -39,7 +39,7 @@ Both periods saw authoritarian governments overthrown by nationalist coalitions.
 **Meiji Restoration** → [[Concept Notes/Meiji Restoration\|Meiji Restoration]]
 Japan's 1868 Meiji Restoration is the critical comparison case: a non-Western state that successfully modernized *without* revolution by adopting Western institutions from above. Japan defeated Russia in 1905 (the first time a non-Western nation beat a European power in modern war), demonstrating that modernization was possible without imperial collapse. Why did Japan succeed where Russia, China, and the Ottoman Empire failed? The AP frequently poses this comparison.
 
-**Indian Independence Movement** (Topic 7.7) (not yet built)
+**Indian Independence Movement** [[Unit-7.7/Conducting World War II Overview|Conducting World War II Overview]] (not yet built)
 The Indian National Congress and Gandhi's nonviolent resistance movement parallels the anti-imperial dimensions of the Mexican and Chinese revolutions. All challenged foreign domination of their economies and politics — but through very different means. Compare Zapata's armed land seizures with Gandhi's [[Concept Notes/Indian National Congress\|Indian National Congress]] campaigns of noncooperation.
 
 ---

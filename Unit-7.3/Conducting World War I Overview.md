@@ -85,4 +85,4 @@ The effects of the Treaty of Versailles are one of the most-tested connections i
 
 - **Builds on:** [[Unit-7.2/Causes of World War I Overview\|Causes of World War I Overview]] — the alliance systems and nationalism that started the war
 - **Leads to:** **Economy in the Interwar Period** [[Unit-7.4/Economy in the Interwar Period Overview|Economy in the Interwar Period Overview]], **Unresolved Tensions After World War I** [[Unit-7.5/Unresolved Tensions After World War I Overview|Unresolved Tensions After World War I Overview]]
-- **Compare with:** **Conducting World War II** (Topic 7.7) — how WWII repeated and escalated WWI's total war dynamics
+- **Compare with:** **Conducting World War II** [[Unit-7.7/Conducting World War II Overview|Conducting World War II Overview]] — how WWII repeated and escalated WWI's total war dynamics

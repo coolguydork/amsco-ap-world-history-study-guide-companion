@@ -40,7 +40,7 @@ Germany's path to fascism began with economic humiliation. WWI reparations force
 
 ## The Soviet Alternative
 
-The Soviet Union presented itself as proof that a planned economy could avoid capitalist crises. While the West suffered through the Depression, Soviet industrial output grew dramatically under the Five-Year Plans — at staggering human cost. Stalin purged political rivals, collectivized agriculture by force (causing the Holodomor famine in Ukraine, ~3.5 million deaths), and sent millions to gulags. His [[totalitarian state]] left no sphere of life outside government control.
+The Soviet Union presented itself as proof that a planned economy could avoid capitalist crises. While the West suffered through the Depression, Soviet industrial output grew dramatically under the Five-Year Plans — at staggering human cost. Stalin purged political rivals, collectivized agriculture by force (causing the [[Concept Notes/Holodomor\|Holodomor]] famine in Ukraine, ~3.5 million deaths), and sent millions to gulags. His [[totalitarian state]] left no sphere of life outside government control.
 
 > [!tip]
 > The AP exam often asks you to compare responses: U.S. New Deal vs. Soviet Five-Year Plans vs. Italian corporatism. All three expanded government economic control — but with radically different political systems underneath.

@@ -15,7 +15,7 @@ tags: [apwh, unit-7, topic-7-1, period-4, vocabulary, revolution, communism, nat
 Revolutionary Marxist party led by Vladimir Lenin that seized power in Russia in October 1917 and established the world's first communist government. The name means "majority" in Russian. Their success inspired communist movements globally and intensified anti-communist fears in capitalist nations — planting the seed of the 20th century's defining ideological conflict.
 
 **communists**
-Those who believe workers should collectively own the means of production so that economic output benefits all rather than private owners. The Bolsheviks were the first communists to govern a major nation, transforming Russia into the Soviet Union and making communism vs. capitalism a defining tension of 20th-century geopolitics.
+Those who believe workers should collectively own the means of production so that economic output benefits all rather than private owners. The [[Concept Notes/Bolsheviks\|Bolsheviks]] were the first communists to govern a major nation, transforming Russia into the Soviet Union and making communism vs. capitalism a defining tension of 20th-century geopolitics.
 
 > [!exam-tip]
 > The AP distinguishes between **Marxist theory** (workers eventually own the means of production through historical stages) and **Bolshevik practice** (violent revolutionary seizure of power, immediate nationalization). Marx predicted revolution would begin in industrialized countries; Lenin applied it to agrarian Russia.

@@ -28,7 +28,7 @@ Islamic philosopher and jurist from al-Andalus (Spain). Wrote influential commen
 Islamic scholar from North Africa. Widely considered the founder of **historiography** (the study of historical methods) and **sociology** (the study of society and social institutions). His *Muqaddimah* introduced concepts of cyclical history and the sociological forces driving the rise and fall of civilizations (AMSCO p. 17).
 
 ### Al-Ghazali (1058–1111)
-Islamic theologian and philosopher who reconciled [[[[Concept Notes/Sufism\|Sufism]]]] with orthodox Sunni thought, making Sufism acceptable to mainstream Islamic society and enabling its rapid spread. His synthesis is one of the reasons Sufism became a mainstream force rather than a fringe movement.
+Islamic theologian and philosopher who reconciled [[Concept Notes/Sufism\|Sufism]] with orthodox Sunni thought, making Sufism acceptable to mainstream Islamic society and enabling its rapid spread. His synthesis is one of the reasons Sufism became a mainstream force rather than a fringe movement.
 
 ### 'A'ishah al-Ba'uniyyah (1460–1507)
 Sufi poet and mystic, likely the most prolific female Muslim writer before the 20th century. Her best-known work — a long poem honoring Muhammad — demonstrates her mastery of Islamic literary tradition and her engagement with the Sufi path toward mystical experience. Her life and work highlight that educated women could achieve intellectual renown within Islamic society, while also illustrating the gendered restrictions of the period (AMSCO p. 17).

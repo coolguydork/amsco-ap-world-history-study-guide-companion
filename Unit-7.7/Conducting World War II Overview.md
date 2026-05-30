@@ -60,5 +60,5 @@ WWII's aftermath redrew the world order: it discredited European colonialism (co
 |---|---|
 | WWI conduct vs. WWII conduct | [[Unit-7.3/Conducting World War I Overview\|Conducting World War I Overview]] |
 | Causes leading to WWII | [[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]] |
-| Mass atrocities of WWII | **Mass Atrocities** (Topic 7.8) |
-| Cold War origins | **Setting the Stage for the Cold War and Decolonization** (Topic 8.1) |
+| Mass atrocities of WWII | **Mass Atrocities** [[Unit-7.8/Mass Atrocities Overview\|Mass Atrocities Overview]] |
+| Cold War origins | **Setting the Stage for the Cold War and Decolonization** [[Unit-8.1/Setting the Stage for the Cold War & Decolonization Overview\|Setting the Stage for the Cold War & Decolonization Overview]] |

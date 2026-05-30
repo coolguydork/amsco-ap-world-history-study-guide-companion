@@ -19,7 +19,7 @@ The last Russian tsar, whose refusal to accept representative government made hi
 **Vladimir Lenin (1870–1924)**
 Marxist theorist and leader of the Bolshevik Party who adapted Marx's revolutionary theory to Russian conditions. Where Marx predicted revolution would emerge naturally in industrialized economies, Lenin argued for a disciplined "vanguard party" of professional revolutionaries to seize power on behalf of workers. He led the October 1917 coup, immediately implemented communist economic policy (nationalizing industry, abolishing private trade), and created the Soviet Union — the world's first communist state. His model of Marxism-Leninism became the template for 20th-century communist revolutions from China to Cuba.
 
-**The Bolsheviks**
+**The [[Concept Notes/Bolsheviks\|Bolsheviks]]**
 Revolutionary party representing Russia's industrial working class. Seized power in October 1917 ("the October Revolution") and established a communist government. Their immediate policies — abolishing private trade, nationalizing factories, redistributing food — were radical breaks from the tsarist and provisional government order. Their survival through the ensuing civil war (1917–1922) cemented Soviet power and made communism a global political force for the next 70 years.
 
 > [!exam-tip]
