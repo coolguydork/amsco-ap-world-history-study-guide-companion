@@ -63,7 +63,7 @@ Ottoman nationalist faction that controlled the empire during WWI; directed the 
 **International Criminal Court (ICC)**
 Permanent international tribunal established by the Rome Statute (2002); prosecutes genocide, war crimes, and crimes against humanity. Built on the Nuremberg precedent that individuals can be held accountable for atrocities. The ICC's indictment of Omar al-Bashir was historically significant but practically limited — its enforcement depends on state cooperation, which powerful actors (U.S., China, Russia) have often withheld.
 
-**United Nations Peacekeeping**
+**[[Concept Notes/United Nations\|United Nations]] Peacekeeping**
 The UN's capacity to deploy peacekeeping forces was directly tested and found wanting in Rwanda (1994), where peacekeepers were ordered not to use force and were too few in number. The failure catalyzed reform debates about the UN's role in internal conflicts and eventually the "responsibility to protect" (R2P) doctrine (2005), which asserted the international community's obligation to intervene when a state commits atrocities against its own people.
 
 > [!exam-tip]

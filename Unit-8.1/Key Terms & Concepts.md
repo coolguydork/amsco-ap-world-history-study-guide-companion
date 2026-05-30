@@ -46,7 +46,7 @@ Political, ideological, and military competition (1947–1991) between the US an
 ---
 
 **Harry Truman**
-US President (1945–1953) who succeeded Roosevelt. Authorized atomic bombings of Hiroshima and Nagasaki (August 1945); issued the Truman Doctrine (1947) committing the US to containing communist expansion; oversaw the Marshall Plan and the formation of NATO. The key architect of early Cold War containment policy.
+US President (1945–1953) who succeeded Roosevelt. Authorized atomic bombings of Hiroshima and Nagasaki (August 1945); issued the Truman Doctrine (1947) committing the US to containing communist expansion; oversaw the Marshall Plan and the formation of [[Concept Notes/NATO\|NATO]]. The key architect of early Cold War containment policy.
 
 ---
 

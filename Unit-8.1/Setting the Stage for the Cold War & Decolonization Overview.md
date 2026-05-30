@@ -40,7 +40,7 @@ The **Soviet Union** suffered the most — 20–27 million dead, vast territorie
 Western European powers like Britain and France maintained democratic institutions and educated populations, giving them a foundation to rebuild — but they would no longer dominate global affairs. The destruction of European power created the conditions for both the Cold War rivalry and colonial independence.
 
 > [!tip]
-> **Useful comparison:** After WWI, the US retreated into isolationism. After WWII, it stayed engaged — the Marshall Plan, NATO, Truman Doctrine. Why the difference? The atomic bomb, the Soviet threat, and the lesson of appeasement all made inaction seem more dangerous than involvement.
+> **Useful comparison:** After WWI, the US retreated into isolationism. After WWII, it stayed engaged — the Marshall Plan, [[Concept Notes/NATO\|NATO]], Truman Doctrine. Why the difference? The atomic bomb, the Soviet threat, and the lesson of appeasement all made inaction seem more dangerous than involvement.
 
 ## The Start of the Cold War
 

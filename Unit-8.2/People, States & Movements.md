@@ -36,7 +36,7 @@ North Korean communist leader who launched the Korean War (1950) by invading Sou
 ## Key States
 
 **United States**
-Emerged from WWII as the world's leading economic and military power, the only nation with (initially) nuclear weapons. Organized the Western Cold War coalition through NATO (1949), implemented the Marshall Plan, and pursued containment globally. Its democratic-capitalist model was held up as the alternative to Soviet communism.
+Emerged from WWII as the world's leading economic and military power, the only nation with (initially) nuclear weapons. Organized the Western Cold War coalition through [[Concept Notes/NATO\|NATO]] (1949), implemented the Marshall Plan, and pursued containment globally. Its democratic-capitalist model was held up as the alternative to Soviet communism.
 
 **Soviet Union (USSR)**
 The other superpower, emerging from WWII with a massive land army and territorial gains in Eastern Europe. The USSR tested its first atomic bomb in 1949 (four years after the US), launched Sputnik in 1957, and established a network of satellite states that served as a buffer zone and ideological expansion. Led by Stalin until 1953, then Khrushchev.

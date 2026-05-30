@@ -40,7 +40,7 @@ The wartime Grand Alliance between the US, UK, and USSR was the direct precursor
 The satellite country relationship closely mirrored Western colonialism: the dominant power (USSR) extracted resources and labor from subordinate states, directed their economies for the center's benefit, and suppressed political autonomy. AMSCO explicitly invites this comparison. For AP essays, it's a strong cross-unit argument: Soviet domination of Eastern Europe was a new form of imperialism despite Soviet rhetoric condemning it.
 
 **[[Unit-7.2/Causes of World War I Overview\|World War I Alliance Systems]]**
-The Cold War's division of the world into two armed blocs — NATO vs. Soviet sphere — echoes WWI's alliance systems. Both created rigid defensive commitments that could escalate local conflicts into global ones. The key difference: MAD prevented the blocs from fighting directly, displacing conflict onto proxy states instead.
+The Cold War's division of the world into two armed blocs — [[Concept Notes/NATO\|NATO]] vs. Soviet sphere — echoes WWI's alliance systems. Both created rigid defensive commitments that could escalate local conflicts into global ones. The key difference: MAD prevented the blocs from fighting directly, displacing conflict onto proxy states instead.
 
 **Mongol Empire and Trade Networks (pre-modern)**
 Both superpowers used **economic dependency** as a tool of control. The Marshall Plan tied Western European economies to US markets; COMECON integrated Eastern European economies into Soviet trade. Compare to how earlier empires used tribute systems and trade networks to maintain dominance over subordinate regions.

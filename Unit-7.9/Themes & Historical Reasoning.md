@@ -10,7 +10,7 @@ tags: [apwh, unit-7, topic-7-9, period-4, causation, ap-themes, historical-reaso
 ## AP Themes in This Topic
 
 **GOV — Governance**
-Global conflict both destroyed and created states. The Ottoman, Russian, and Qing empires collapsed. New states emerged from decolonization (India, Pakistan, etc.). Totalitarian regimes (Nazi Germany, Soviet Union, Fascist Italy) arose from the political and economic instability that conflict produced. The United Nations (1945) represented a new attempt to manage interstate relations through international institutions — a major change from the pre-WWI system of bilateral alliances.
+Global conflict both destroyed and created states. The Ottoman, Russian, and Qing empires collapsed. New states emerged from decolonization (India, Pakistan, etc.). Totalitarian regimes (Nazi Germany, Soviet Union, Fascist Italy) arose from the political and economic instability that conflict produced. The [[Concept Notes/United Nations\|United Nations]] (1945) represented a new attempt to manage interstate relations through international institutions — a major change from the pre-WWI system of bilateral alliances.
 
 **ECN — Economic Systems**
 Imperial rivalry over markets and resources was a root economic cause of both world wars. The [[Concept Notes/Great Depression\|Great Depression]] demonstrated how global economic interconnection meant collapse in one region (U.S.) cascaded worldwide, creating conditions for radical political movements. Japan's resource scarcity drove Pacific expansion, directly connecting economic motive to military action.

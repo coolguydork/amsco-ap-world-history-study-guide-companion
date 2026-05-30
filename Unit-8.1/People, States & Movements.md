@@ -14,7 +14,7 @@ tags: [apwh, unit-8, topic-8-1, period-4, cold-war, decolonization]
 ## Key Figures
 
 **Harry S. Truman**
-US President (1945–1953). Succeeded FDR after Roosevelt's death in April 1945. Represented the US at Potsdam — where he confronted Stalin over Eastern Europe and signaled the end of the wartime alliance. Authorized the atomic bombings of Hiroshima and Nagasaki (August 1945), the only use of nuclear weapons in warfare. Issued the **Truman Doctrine** (1947): a formal US commitment to "contain" communist expansion by supporting free peoples resisting subjugation. Oversaw the Marshall Plan and the founding of NATO. Truman transformed US foreign policy from post-WWII caution to permanent Cold War engagement.
+US President (1945–1953). Succeeded FDR after Roosevelt's death in April 1945. Represented the US at Potsdam — where he confronted Stalin over Eastern Europe and signaled the end of the wartime alliance. Authorized the atomic bombings of Hiroshima and Nagasaki (August 1945), the only use of nuclear weapons in warfare. Issued the **Truman Doctrine** (1947): a formal US commitment to "contain" communist expansion by supporting free peoples resisting subjugation. Oversaw the Marshall Plan and the founding of [[Concept Notes/NATO\|NATO]]. Truman transformed US foreign policy from post-WWII caution to permanent Cold War engagement.
 
 > [!exam-tip]
 > Truman is the hinge figure between WWII and the Cold War. His decisions in 1945–1947 define US Cold War strategy for decades: atomic monopoly → Soviet breakout → containment → aid programs → alliances.
@@ -73,7 +73,7 @@ The post-WWII conditions created a structural opening for anti-colonial independ
 
 Colonial peoples had served in Allied armies. The wartime rhetoric of freedom and democracy applied to European peoples but not colonial subjects — a contradiction that nationalists like Shastri, [[Concept Notes/Mohandas Gandhi\|Mohandas Gandhi]], and others could exploit in the court of international opinion.
 
-The founding of the **United Nations** (1945) and the **Universal Declaration of Human Rights** (1948) provided an international legal and moral framework that anti-colonial leaders would invoke repeatedly. Self-determination was now, at least in principle, a recognized international norm.
+The founding of the **[[Concept Notes/United Nations\|United Nations]]** (1945) and the **Universal Declaration of Human Rights** (1948) provided an international legal and moral framework that anti-colonial leaders would invoke repeatedly. Self-determination was now, at least in principle, a recognized international norm.
 
 The Cold War created leverage: the US opposed colonialism (in theory) as a form of the tyranny it claimed to fight; the USSR actively supported anti-colonial movements as a way to weaken Western capitalist empires. Colonial leaders could play the superpowers against each other to accelerate independence.
 
