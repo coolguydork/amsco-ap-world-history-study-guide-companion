@@ -89,4 +89,4 @@ Japan dismantled its samurai class (1871) and launched rapid Westernization thro
 - [[Unit-5.7/Economic Developments & Innovations Overview|Economic Developments & Innovations Overview]] — the economic theories (laissez-faire, capitalism) being challenged
 
 **Leads to:**
-- **Spread of Communism After 1900** (Topic 8.4) — Marxist ideas fuel 20th-century revolutions
+- **Spread of Communism After 1900** [[Unit-8.4/Spread of Communism after 1900 Overview|Spread of Communism after 1900 Overview]] — Marxist ideas fuel 20th-century revolutions

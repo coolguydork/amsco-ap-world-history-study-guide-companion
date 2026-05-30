@@ -26,9 +26,9 @@ The wartime Grand Alliance between the US, UK, and USSR was the direct precursor
 
 ## Leads To
 
-**Cold War Proxy Conflicts** (Topic 8.3) — The containment strategy and US-Soviet rivalry described in 8.2 played out through proxy wars in Korea, Vietnam, and dozens of other regional conflicts. The Korean War (1950–53) was the first major test of containment in military form.
+**Cold War Proxy Conflicts** [[Unit-8.3/Effects of the Cold War Overview|Effects of the Cold War Overview]] — The containment strategy and US-Soviet rivalry described in 8.2 played out through proxy wars in Korea, Vietnam, and dozens of other regional conflicts. The Korean War (1950–53) was the first major test of containment in military form.
 
-**Spread of Communism** (Topic 8.4) — China's 1949 communist revolution, Cuba's 1959 revolution, and North Korea all expanded the communist world beyond Soviet borders — challenging the containment framework established in 8.2.
+**Spread of Communism** [[Unit-8.4/Spread of Communism after 1900 Overview|Spread of Communism after 1900 Overview]] — China's 1949 communist revolution, Cuba's 1959 revolution, and North Korea all expanded the communist world beyond Soviet borders — challenging the containment framework established in 8.2.
 
 **Decolonization** (Topics 8.5, 8.6) — The Non-Aligned Movement introduced here connects directly to the decolonization struggles in Africa and Asia. Cold War superpowers competed for influence over newly independent states, making decolonization and the Cold War inseparable.
 

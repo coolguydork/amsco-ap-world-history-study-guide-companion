@@ -68,5 +68,5 @@ Leaders like India's **Jawaharlal Nehru**, Ghana's **Kwame Nkrumah**, Egypt's **
 ## Connected Topics
 
 - **[[Unit-8.1/Setting the Stage for the Cold War & Decolonization Overview\|Setting the Stage for the Cold War & Decolonization]]** — WWII's end and the conditions that made superpower rivalry inevitable
-- **Cold War Proxy Conflicts** (Topic 8.3) — how Cold War rivalry played out through wars in Korea, Vietnam, and beyond
-- **Spread of Communism** (Topic 8.4) — how communism expanded in China, Korea, and Cuba
+- **Cold War Proxy Conflicts** [[Unit-8.3/Effects of the Cold War Overview|Effects of the Cold War Overview]] — how Cold War rivalry played out through wars in Korea, Vietnam, and beyond
+- **Spread of Communism** [[Unit-8.4/Spread of Communism after 1900 Overview|Spread of Communism after 1900 Overview]] — how communism expanded in China, Korea, and Cuba

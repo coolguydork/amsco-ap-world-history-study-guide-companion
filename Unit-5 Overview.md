@@ -281,4 +281,4 @@ Unit 5's industrial technologies and economic inequalities directly drive Unit 6
 Nationalist rivalries born in 5.2 (German and Italian unification, competition for empire) and industrial military capacity built in 5.3–5.5 combine to produce World War I in Unit 7. The Russian industrialization failures of 5.4 and working-class radicalization of 5.8 (Marxism) directly set up **Shifting Power After World War I** [[Unit-7.1/Shifting Power Overview|Shifting Power Overview]] and the Russian Revolution.
 
 **Forward to Unit 8 (Cold War Origins):**
-Marxism (5.8) becomes the ideological foundation for **Spread of Communism After 1900** (Topic 8.4) — the Russian, Chinese, and Vietnamese communist movements all trace their intellectual lineage directly to Marx and Engels's *Communist Manifesto* (1848).
+Marxism (5.8) becomes the ideological foundation for **Spread of Communism After 1900** [[Unit-8.4/Spread of Communism after 1900 Overview|Spread of Communism after 1900 Overview]] — the Russian, Chinese, and Vietnamese communist movements all trace their intellectual lineage directly to Marx and Engels's *Communist Manifesto* (1848).

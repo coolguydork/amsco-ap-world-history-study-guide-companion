@@ -23,7 +23,7 @@ Topic 5.7 covers laissez-faire capitalism, Adam Smith, and the growth of transna
 
 ## Leads To
 
-**Spread of Communism After 1900** (Topic 8.4) — folder not yet built
+**Spread of Communism After 1900** [[Unit-8.4/Spread of Communism after 1900 Overview|Spread of Communism after 1900 Overview]] — folder not yet built
 The *Communist Manifesto* (1848) and Marxist theory laid the intellectual groundwork for the Russian Revolution (1917), Mao's Chinese Revolution (1949), and communist movements in Asia, Africa, and Latin America throughout the 20th century. Topic 5.8 plants the seed; Topic 8.4 shows it sprouting globally.
 
 ---
