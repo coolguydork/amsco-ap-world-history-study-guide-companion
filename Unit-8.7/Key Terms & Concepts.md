@@ -25,7 +25,7 @@ First Secretary of the Czechoslovak Communist Party who led the Prague Spring (1
 Soviet foreign policy doctrine (1968) asserting that the USSR and its Warsaw Pact allies would intervene militarily in any socialist country where communist rule was threatened. Used to justify the invasions of Hungary (1956, retroactively) and Czechoslovakia (1968). It effectively subordinated satellite-state sovereignty to Soviet security interests and was only abandoned under Gorbachev, enabling the 1989 revolutions.
 
 > [!exam-tip]
-> The **Brezhnev Doctrine** is the single most testable concept in 8.7 for multiple-choice. Know it as: Soviet right to military intervention in any socialist country. Contrast with Gorbachev's abandonment of it — a direct cause of the 1989 Eastern European revolutions (Topic 8.8).
+> The **Brezhnev Doctrine** is the single most testable concept in 8.7 for multiple-choice. Know it as: Soviet right to military intervention in any socialist country. Contrast with Gorbachev's abandonment of it — a direct cause of the 1989 Eastern European revolutions [[Unit-8.8/End of the Cold War Overview|End of the Cold War Overview]].
 
 **Irish Republican Army (IRA)**
 Irish Catholic nationalist paramilitary organization seeking to end British rule in Northern Ireland and unify the island of Ireland. During the Troubles (c. 1968–1998), the IRA conducted bombings and assassinations in Northern Ireland and on the British mainland, killing approximately 1,800 people. Renounced violence and disarmed following the Good Friday Agreement (1998).
