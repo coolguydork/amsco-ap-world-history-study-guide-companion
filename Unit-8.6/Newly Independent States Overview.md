@@ -68,7 +68,7 @@ In 1947, Britain partitioned colonial India into Hindu-majority India and Muslim
 One of the more surprising patterns in post-independence South Asia is the rise of female heads of state — often daughters or widows of male leaders, but genuine wielders of power in their own right:
 
 - **Sirimavo Bandaranaike** (Sri Lanka/Ceylon, 1960) — world's first female prime minister
-- **Indira Gandhi** (India, 1966–1977, 1980–1984) — oversaw India's nuclear program and Green Revolution; assassinated 1984
+- **Indira Gandhi** (India, 1966–1977, 1980–1984) — oversaw India's nuclear program and [[Concept Notes/Green Revolution\|Green Revolution]]; assassinated 1984
 - **Benazir Bhutto** (Pakistan, 1988–1990, 1993–1996) — first female leader of a Muslim-majority nation; assassinated 2007
 
 > [!tip]

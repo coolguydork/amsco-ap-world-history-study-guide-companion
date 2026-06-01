@@ -43,7 +43,7 @@ The causes of Soviet collapse and Cold War's end. 8.9 picks up the consequences:
 The Cold War's origins lie in WWII's destruction and the ideological contest crystallized by the Russian Revolution (7.1). The post-WWI mandate system and failed Wilson's self-determination promises (7.3) set up the decolonization pressures the Cold War era had to manage.
 
 **Unit 9: Globalization (1900–present)**
-The end of the Cold War accelerates globalization: WTO, international institutions, transnational corporations, and the spread of liberal democratic capitalism. 8.9's global institutions section is the direct bridge to Unit 9. See: **Global Connections (Topic 9.1)**.
+The end of the Cold War accelerates globalization: WTO, international institutions, transnational corporations, and the spread of liberal democratic capitalism. 8.9's global institutions section is the direct bridge to Unit 9. See: **Global Connections[[Unit-9.1/Advances in Technology & Exchange Overview|Advances in Technology & Exchange Overview]]**.
 
 **Units 4–5: European Colonialism and Industrialization**
 Neo-colonialism (8.9) is the continuation of the extractive economic relationships established under European colonialism (Unit 4) and industrialization (Unit 5). The argument that decolonization did not end economic dependency requires understanding why those dependencies were created.
