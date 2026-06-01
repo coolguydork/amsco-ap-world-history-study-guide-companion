@@ -29,7 +29,7 @@ The same technologies enabling global exchange (air travel, container shipping, 
 **Technology and the Environment**[[Unit-9.3/Technology & the Environment Overview|Technology & the Environment Overview]] ← folder not yet built
 The [[Concept Notes/Green Revolution\|Green Revolution]]'s chemical use, fossil fuel expansion, and deforestation introduced here connect directly to the environmental degradation addressed in 9.3. The trade-off between technological productivity and environmental health is the through-line.
 
-**Economics in the Global Age** (Topic 9.4) ← folder not yet built
+**Economics in the Global Age** [[Unit-9.4/Economics in the Global Age Overview|Economics in the Global Age Overview]] ← folder not yet built
 Shipping containers and the internet created the material and informational infrastructure for the global economic integration Topic 9.4 analyzes. Without these technologies, global supply chains, outsourcing, and the knowledge economy would be impossible.
 
 ---

@@ -15,7 +15,7 @@ tags: [apwh, unit-7, topic-7-3, period-4, causation, total-war, technology, gove
 
 ### GOV — Governance
 
-WWI transformed the relationship between governments and their populations. The strategy of **total war** required states to extend their authority into nearly every aspect of civilian life: controlling factory production, rationing food, censoring media, and running propaganda campaigns. Democratic and authoritarian governments alike adopted these measures. The war also demonstrated the limits of governance: the Austro-Hungarian and Ottoman empires, unable to manage the pressures of total war, collapsed entirely, giving rise to new nations based on **self-determination**.
+WWI transformed the relationship between governments and their populations. The strategy of **total war** required states to extend their authority into nearly every aspect of civilian life: controlling factory production, rationing food, censoring media, and running propaganda campaigns. Democratic and authoritarian governments alike adopted these measures. The war also demonstrated the limits of governance: the Austro-Hungarian and Ottoman empires, unable to manage the pressures of total war, collapsed entirely, giving rise to new nations based on **[[Concept Notes/Self-Determination\|self-determination]]**.
 
 The **Paris Peace Conference** was a governance challenge of a different kind — designing a stable postwar international order. The key tension was between Wilson's vision of a rules-based international system (League of Nations) and Clemenceau's insistence on punitive state power over Germany. The resulting Treaty of Versailles satisfied neither vision and created the political conditions that would destabilize European governance within 15 years.
 

@@ -12,7 +12,7 @@ tags: [apwh, unit-7, topic-7-5, period-4, connections, anti-colonialism, nationa
 ## Builds On
 
 **[[Unit-7.3/Conducting World War I Overview\|Conducting World War I Overview]]**
-WWI created the conditions for Topic 7.5 on three levels: (1) colonial troops' frontline service radicalized them politically, (2) the Allies' wartime promises of self-determination created expectations, and (3) the devastation of European powers undermined their credibility as "superior" civilizations. Without WWI, the Paris betrayal and its consequences don't happen.
+WWI created the conditions for Topic 7.5 on three levels: (1) colonial troops' frontline service radicalized them politically, (2) the Allies' wartime promises of [[Concept Notes/Self-Determination\|self-determination]] created expectations, and (3) the devastation of European powers undermined their credibility as "superior" civilizations. Without WWI, the Paris betrayal and its consequences don't happen.
 
 **Topic 5.6 — Industrialization Spreading (Japan's modernization)**
 Japan's rise as an industrial and military power — [[Concept Notes/Meiji Restoration\|Meiji Restoration]], victory in Russo-Japanese War — is the prerequisite for understanding why Japan could seize Manchuria in 1931 and why the Paris Conference gave Shandong to Japan in 1919. Japan's expansionism in Topic 7.5 is the logical extension of its 19th-century industrialization and imperialism.

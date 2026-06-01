@@ -14,7 +14,7 @@ tags: [apwh, unit-7, topic-7-3, period-4, leaders, paris-peace-conference]
 ## Key Leaders at the Paris Peace Conference
 
 **Woodrow Wilson** (1856–1924)
-28th President of the United States (1913–1921). Led the U.S. into WWI in April 1917 after the Zimmermann Telegram and resumed German submarine warfare. His **Fourteen Points** outlined an idealistic postwar vision: national self-determination, freedom of the seas, open diplomacy, and a **League of Nations**. At the Paris Peace Conference, Wilson argued for "peace without victory" — no punitive terms for Germany. He largely failed: Clemenceau's demands prevailed, and the U.S. Senate refused to ratify the Treaty of Versailles or join the League. His legacy: the self-determination principle did reshape European borders, but his internationalist vision died at home.
+28th President of the United States (1913–1921). Led the U.S. into WWI in April 1917 after the Zimmermann Telegram and resumed German submarine warfare. His **Fourteen Points** outlined an idealistic postwar vision: national [[Concept Notes/Self-Determination\|self-determination]], freedom of the seas, open diplomacy, and a **League of Nations**. At the Paris Peace Conference, Wilson argued for "peace without victory" — no punitive terms for Germany. He largely failed: Clemenceau's demands prevailed, and the U.S. Senate refused to ratify the Treaty of Versailles or join the League. His legacy: the self-determination principle did reshape European borders, but his internationalist vision died at home.
 
 > [!exam-tip]
 > Wilson's failure is itself exam-testable: *why* did the U.S. not join the League? Senate opposition (isolationism). This is why the League lacked power to prevent WWII.

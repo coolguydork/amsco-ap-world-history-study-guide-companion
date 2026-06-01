@@ -40,7 +40,7 @@ The AP exam directly asks students to compare methods of warfare and home front 
 
 **Atomic bomb → Cold War arms race** is one of the clearest cause-effect chains in AP World History. The nuclear age born at Hiroshima and Nagasaki became the defining strategic constraint of the Cold War decades (Units 8–9).
 
-**Colonial armies and decolonization:** India's 2.5 million-man army fighting for the British Empire, alongside the [[Concept Notes/Atlantic Charter|Atlantic Charter]]'s promise of self-determination, created irresistible momentum for independence. This connects 7.7 directly to Indian independence (1947) and African decolonization (1950s–60s).
+**Colonial armies and decolonization:** India's 2.5 million-man army fighting for the British Empire, alongside the [[Concept Notes/Atlantic Charter|Atlantic Charter]]'s promise of [[Concept Notes/Self-Determination\|self-determination]], created irresistible momentum for independence. This connects 7.7 directly to Indian independence (1947) and African decolonization (1950s–60s).
 
 > [!tip]
 > **Quick AP comparison prompt:** "Describe ONE similarity and ONE difference between WWI and WWII in terms of how governments mobilized for war." Answer: Similarity — both were total wars mobilizing civilian populations. Difference — WWII featured new technology (aircraft carriers, atomic bombs) and more systematic targeting of civilians.

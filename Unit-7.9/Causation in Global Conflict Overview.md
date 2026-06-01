@@ -34,7 +34,7 @@ The U.S. oil and steel embargo against Japan (in response to Japanese expansion 
 
 **Political transformation:** WWI toppled the Ottoman and Russian empires. The Russian Revolution produced a communist totalitarian state; the Ottoman collapse eventually produced a secular Turkish republic. Treaty of Versailles resentment fueled [[Concept Notes/Fascism\|Fascism]] in Germany and Italy, setting up WWII.
 
-**Decolonization:** Both wars weakened colonial powers economically and ideologically. Wilson's **self-determination** principle after WWI legitimized independence movements. After WWII, exhausted European powers could no longer sustain their empires. India gained independence in 1947 but was partitioned into Hindu-majority India and Muslim-majority Pakistan — a division that produced ongoing conflict.
+**Decolonization:** Both wars weakened colonial powers economically and ideologically. Wilson's **[[Concept Notes/Self-Determination\|self-determination]]** principle after WWI legitimized independence movements. After WWII, exhausted European powers could no longer sustain their empires. India gained independence in 1947 but was partitioned into Hindu-majority India and Muslim-majority Pakistan — a division that produced ongoing conflict.
 
 **Power shift:** The U.S. emerged from both wars relatively unscathed compared to European powers and became the dominant Western power. The Soviet Union became its superpower rival, setting the stage for the Cold War (Unit 8).
 

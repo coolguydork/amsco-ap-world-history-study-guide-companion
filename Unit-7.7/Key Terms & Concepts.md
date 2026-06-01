@@ -78,7 +78,7 @@ The German-Soviet (Molotov-Ribbentrop) Pact of August 1939; pledged mutual non-a
 September 1940 deal: the U.S. transferred 50 destroyers to Britain in exchange for 99-year leases on eight British air and naval bases in the Western Hemisphere. Broke U.S. neutrality before Pearl Harbor; demonstrated Roosevelt's commitment to aiding Britain.
 
 **[[Concept Notes/Atlantic Charter|Atlantic Charter]]**
-August 1941 joint declaration by Roosevelt and Churchill stating Allied war aims: no territorial aggrandizement, self-determination for peoples, free trade, freedom of the seas, and disarmament of aggressor nations. Foundational document for post-war international order; influenced the UN Charter.
+August 1941 joint declaration by Roosevelt and Churchill stating Allied war aims: no territorial aggrandizement, [[Concept Notes/Self-Determination\|self-determination]] for peoples, free trade, freedom of the seas, and disarmament of aggressor nations. Foundational document for post-war international order; influenced the UN Charter.
 
 ---
 

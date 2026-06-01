@@ -107,4 +107,4 @@ Both claims can use the same primary sources — Gandhi's quote, Jinnah's addres
 
 **Dependency theory / Postcolonial critique:** The problems of newly independent states were structural, embedded in their continuing economic relationship with former colonial powers. Modernization theory was itself a form of neo-colonialism that served Western interests.
 
-**Cold War realist perspective:** Both superpowers viewed newly independent states instrumentally — as potential allies in global competition — rather than as sovereign nations deserving self-determination. US and Soviet interventions frequently undermined genuine independence.
+**Cold War realist perspective:** Both superpowers viewed newly independent states instrumentally — as potential allies in global competition — rather than as sovereign nations deserving [[Concept Notes/Self-Determination\|self-determination]]. US and Soviet interventions frequently undermined genuine independence.

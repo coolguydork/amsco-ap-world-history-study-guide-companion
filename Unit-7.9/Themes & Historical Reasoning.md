@@ -35,7 +35,7 @@ Causation is not just listing factors. It requires explaining *how* a cause made
 WWI → Treaty of Versailles humiliation → economic instability → rise of fascism → WWII → decolonization → superpower rivalry → Cold War. Each link in this chain is both an effect of what came before and a cause of what follows.
 
 > [!exam-tip]
-> AP LEQ and DBQ rubrics award the **complexity point** for demonstrating how a cause became an effect that then became a new cause (chain causation), or for explaining how a single cause produced multiple effects (like how WWI simultaneously produced Bolshevik revolution, Versailles resentment, and the self-determination principle — three effects pointing in different directions).
+> AP LEQ and DBQ rubrics award the **complexity point** for demonstrating how a cause became an effect that then became a new cause (chain causation), or for explaining how a single cause produced multiple effects (like how WWI simultaneously produced Bolshevik revolution, Versailles resentment, and the [[Concept Notes/Self-Determination\|self-determination]] principle — three effects pointing in different directions).
 
 ## Continuity and Change
 

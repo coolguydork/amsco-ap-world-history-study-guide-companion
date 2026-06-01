@@ -26,7 +26,7 @@ German emperor whose aggressive, erratic foreign policy — naval buildup, colon
 Prussian statesman who unified Germany (1871) and built the original alliance system to keep France isolated. His famous prophecy — "The next great European war will come out of some damned foolish thing in the Balkans" — opens the AMSCO chapter on WWI. After Bismarck's dismissal in 1890, Wilhelm II abandoned his careful balancing act, setting Europe on the path to war. Bismarck appears on the AP as a contrast: the diplomatic skill that *prevented* war vs. the recklessness that caused it.
 
 **Woodrow Wilson** (1856–1924)
-U.S. president who kept America neutral until 1917, then declared war after Germany's unrestricted submarine warfare and the Zimmermann Telegram. His **14 Points** (1918) proposed a just peace based on self-determination, freedom of the seas, arms reduction, and a League of Nations. Though Wilson championed self-determination, the Paris Peace Conference implemented it selectively — and the U.S. Senate rejected the League, undermining Wilson's peace vision.
+U.S. president who kept America neutral until 1917, then declared war after Germany's unrestricted submarine warfare and the Zimmermann Telegram. His **14 Points** (1918) proposed a just peace based on [[Concept Notes/Self-Determination\|self-determination]], freedom of the seas, arms reduction, and a League of Nations. Though Wilson championed self-determination, the Paris Peace Conference implemented it selectively — and the U.S. Senate rejected the League, undermining Wilson's peace vision.
 
 ---
 

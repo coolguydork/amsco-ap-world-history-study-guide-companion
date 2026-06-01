@@ -26,7 +26,7 @@ Topic 6.2 covers the political mechanisms of imperialism — how European states
 **Economic Imperialism [[Unit-6.5/Economic Imperialism Overview|Economic Imperialism Overview]]** ← folder not yet built
 Topic 6.5 will deepen the economic imperialism story beyond raw material extraction — examining how financial investment, debt relationships, and informal empire extended European economic control even without formal colonization. Latin American states, nominally independent, were structurally dependent on British capital, railroads, and markets in ways that made them economic colonies without formal colonial status.
 
-**Economics in the Global Age (Topic 9.4)** ← folder not yet built
+**Economics in the Global Age [[Unit-9.4/Economics in the Global Age Overview|Economics in the Global Age Overview]]** ← folder not yet built
 The export economy / dependency structure created by 19th-century imperialism directly shapes 20th-century global economic inequality — the subject of 9.4. Former colonies' inability to industrialize, their vulnerability to commodity price swings, and the monoculture damage to their agricultural land are all legacies traced forward from Topic 6.4.
 
 ---

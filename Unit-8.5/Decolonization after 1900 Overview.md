@@ -45,7 +45,7 @@ Most new states faced a common set of post-independence challenges: ethnic and r
 
 ## Why Decolonization Happened When It Did
 
-**WWII as a turning point:** The war discredited European moral authority (colonial powers fighting fascism while denying freedom to colonies), physically exhausted European economies, and produced the UN and its self-determination principles. Japanese victories over European colonial forces (Singapore, Indochina) destroyed the myth of white invincibility.
+**WWII as a turning point:** The war discredited European moral authority (colonial powers fighting fascism while denying freedom to colonies), physically exhausted European economies, and produced the UN and its [[Concept Notes/Self-Determination\|self-determination]] principles. Japanese victories over European colonial forces (Singapore, Indochina) destroyed the myth of white invincibility.
 
 **Ideological pressure:** The US and USSR both, for different reasons, opposed European colonialism publicly. The UN provided a diplomatic forum for independence movements. [[Concept Notes/Atlantic Charter\|Atlantic Charter]] language about self-determination was weaponized by colonial subjects.
 

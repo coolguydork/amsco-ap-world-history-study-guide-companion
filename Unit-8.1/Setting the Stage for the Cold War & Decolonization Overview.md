@@ -52,7 +52,7 @@ The arms race escalated rapidly. The US tested the hydrogen bomb in 1952; the So
 
 WWII created three structural conditions for decolonization:
 
-1. **Anti-colonial movements strengthened.** Colonial peoples had fought in the war; the promises of self-determination (used to justify the war against fascism) could not be denied indefinitely. The rhetoric of freedom and human rights rang hollow when applied only to Europeans.
+1. **Anti-colonial movements strengthened.** Colonial peoples had fought in the war; the promises of [[Concept Notes/Self-Determination\|self-determination]] (used to justify the war against fascism) could not be denied indefinitely. The rhetoric of freedom and human rights rang hollow when applied only to Europeans.
 
 2. **Colonial powers were weakened.** Britain, France, and the Netherlands emerged from the war economically devastated, with fewer resources to maintain far-flung empires against determined independence movements.
 

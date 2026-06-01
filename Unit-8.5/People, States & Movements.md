@@ -38,7 +38,7 @@ See [[Unit-8.5/Key Terms & Concepts\|Key Terms & Concepts]] for full entry. Over
 Led the FLN (National Liberation Front) during the Algerian War for Independence and became Algeria's first president (1963–1965). Overthrown in a military coup by his former ally Houari Boumédiène in 1965 — the first of several coups that would mark Algeria's post-independence instability.
 
 **Patrice Lumumba** (1925–1961)
-First Prime Minister of the independent Democratic Republic of Congo (1960). His assassination in January 1961, with alleged CIA and Belgian involvement, became a symbol of how Cold War powers undermined African self-determination by eliminating leaders they deemed too independent or too left-leaning. Not in AMSCO 8.5 directly, but frequently appears in AP exam sources on decolonization.
+First Prime Minister of the independent Democratic Republic of Congo (1960). His assassination in January 1961, with alleged CIA and Belgian involvement, became a symbol of how Cold War powers undermined African [[Concept Notes/Self-Determination\|self-determination]] by eliminating leaders they deemed too independent or too left-leaning. Not in AMSCO 8.5 directly, but frequently appears in AP exam sources on decolonization.
 
 **Charles de Gaulle** (1890–1970)
 See [[Unit-8.5/Key Terms & Concepts\|Key Terms & Concepts]] for full entry. His willingness to accept Algerian independence despite fierce opposition from French settlers and military hardliners — and his use of a direct referendum to bypass the National Assembly — showed both political courage and pragmatic recognition that empire was unsustainable.

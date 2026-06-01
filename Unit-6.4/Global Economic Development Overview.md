@@ -113,4 +113,4 @@ Rhodes's vision — a Cape-to-Cairo railroad connecting all British African terr
 
 **Leads to:**
 - **Economic Imperialism** [[Unit-6.5/Economic Imperialism Overview|Economic Imperialism Overview]] ← folder not yet built
-- **Economics in the Global Age** (Topic 9.4) ← folder not yet built
+- **Economics in the Global Age** [[Unit-9.4/Economics in the Global Age Overview|Economics in the Global Age Overview]] ← folder not yet built

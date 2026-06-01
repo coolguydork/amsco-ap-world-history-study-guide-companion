@@ -50,7 +50,7 @@ US President through most of WWII; died April 12, 1945 — before Germany's surr
 ---
 
 **Lal Bahadur Shastri**
-Indian independence movement leader quoted in the chapter's epigraph: "We would consider it our moral duty to lend all support to the ending of colonialism and imperialism." Represents the broader generation of colonial nationalists who connected the defeat of fascism in WWII to the illegitimacy of colonial rule — if self-determination was a universal principle, it applied to India, not just Europe.
+Indian independence movement leader quoted in the chapter's epigraph: "We would consider it our moral duty to lend all support to the ending of colonialism and imperialism." Represents the broader generation of colonial nationalists who connected the defeat of fascism in WWII to the illegitimacy of colonial rule — if [[Concept Notes/Self-Determination\|self-determination]] was a universal principle, it applied to India, not just Europe.
 
 ---
 
@@ -73,7 +73,7 @@ The post-WWII conditions created a structural opening for anti-colonial independ
 
 Colonial peoples had served in Allied armies. The wartime rhetoric of freedom and democracy applied to European peoples but not colonial subjects — a contradiction that nationalists like Shastri, [[Concept Notes/Mohandas Gandhi\|Mohandas Gandhi]], and others could exploit in the court of international opinion.
 
-The founding of the **[[Concept Notes/United Nations\|United Nations]]** (1945) and the **Universal Declaration of Human Rights** (1948) provided an international legal and moral framework that anti-colonial leaders would invoke repeatedly. Self-determination was now, at least in principle, a recognized international norm.
+The founding of the **[[Concept Notes/United Nations\|United Nations]]** (1945) and the **Universal Declaration of [[Concept Notes/Human Rights\|Human Rights]]** (1948) provided an international legal and moral framework that anti-colonial leaders would invoke repeatedly. Self-determination was now, at least in principle, a recognized international norm.
 
 The Cold War created leverage: the US opposed colonialism (in theory) as a form of the tyranny it claimed to fight; the USSR actively supported anti-colonial movements as a way to weaken Western capitalist empires. Colonial leaders could play the superpowers against each other to accelerate independence.
 

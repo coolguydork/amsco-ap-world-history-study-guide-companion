@@ -37,7 +37,7 @@ The AP frequently asks students to compare WWI and WWII causes. Key parallels: b
 
 ## Thematic Connections Across Units
 
-**[[Concept Notes/Nationalism\|Nationalism]] as a cause of war** — The same nationalism that drove Serbian irredentism in 1914 also drove anti-colonial movements globally after WWI. When WWI weakened European empires and Wilson proclaimed self-determination, colonized peoples demanded it too. Connection to Topic 7.4 (anti-colonial nationalism) and Units 8–9 (decolonization).
+**[[Concept Notes/Nationalism\|Nationalism]] as a cause of war** — The same nationalism that drove Serbian irredentism in 1914 also drove anti-colonial movements globally after WWI. When WWI weakened European empires and Wilson proclaimed [[Concept Notes/Self-Determination\|self-determination]], colonized peoples demanded it too. Connection to Topic 7.4 (anti-colonial nationalism) and Units 8–9 (decolonization).
 
 **Alliance systems and collective security** — The WWI alliance system's failure to prevent war led directly to Woodrow Wilson's proposal for a **League of Nations** — an attempt to replace balance-of-power alliances with collective security. The League's weaknesses then contributed to WWII [[Unit-7.6/Causes of World War II Overview|Causes of World War II Overview]]. This cycle (alliance failure → collective security attempt → failure → next war) is a recurring AP theme.
 

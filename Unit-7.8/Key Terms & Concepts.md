@@ -38,7 +38,7 @@ Deliberate and systematic destruction of a national, ethnic, racial, or religiou
 Nazi Germany's plan for the systematic murder of all Jews in Europe, formally coordinated at the Wannsee Conference (January 1942); implemented by Heinrich Himmler's SS through mobile killing units and death camps (Auschwitz, Treblinka, Dachau). Killed approximately 6 million Jews — the Holocaust. The ultimate expression of Nazi racial ideology.
 
 **Holocaust**
-Nazi Germany's systematic genocide of approximately 6 million Jews and 5 million others (Roma, disabled, political prisoners, gay people, Soviet POWs) during WWII (1941–1945). Implemented via ghettos, deportation, and death camps using industrial technology (trains, gas chambers, crematoria). Led directly to the Nuremberg Trials, the UN Genocide Convention, and the Universal Declaration of Human Rights.
+Nazi Germany's systematic genocide of approximately 6 million Jews and 5 million others (Roma, disabled, political prisoners, gay people, Soviet POWs) during WWII (1941–1945). Implemented via ghettos, deportation, and death camps using industrial technology (trains, gas chambers, crematoria). Led directly to the Nuremberg Trials, the UN Genocide Convention, and the Universal Declaration of [[Concept Notes/Human Rights\|Human Rights]].
 
 **Asia for Asiatics**
 Japanese imperial slogan used to frame conquest of East and Southeast Asia as liberation from Western colonialism. In practice, a cover for brutal exploitation: conquered peoples were forced into military labor, public works, and farms; women in Korea, China, and elsewhere were forced into sexual slavery as "comfort women." Over a million civilians died in Vietnam alone under Japanese occupation.

@@ -13,7 +13,7 @@ tags: [apwh, unit-7, topic-7-5, period-4, anti-colonialism, nationalism, east-as
 
 ## The Core Argument
 
-World War I raised two contradictory expectations. Colonial peoples — who had contributed troops, labor, and resources to the Allied war effort — hoped Wilson's principle of self-determination would earn them independence. Instead, the Paris Peace Conference extended European and Japanese imperial control through the [[Concept Notes/Mandate System\|mandate system]], dashing those hopes and supercharging anti-colonial [[Concept Notes/Nationalism\|nationalism]] across Asia, Africa, and the Middle East. The unresolved tensions of 1919 became the kindling for both World War II and the post-1945 decolonization wave.
+World War I raised two contradictory expectations. Colonial peoples — who had contributed troops, labor, and resources to the Allied war effort — hoped Wilson's principle of [[Concept Notes/Self-Determination\|self-determination]] would earn them independence. Instead, the Paris Peace Conference extended European and Japanese imperial control through the [[Concept Notes/Mandate System\|mandate system]], dashing those hopes and supercharging anti-colonial [[Concept Notes/Nationalism\|nationalism]] across Asia, Africa, and the Middle East. The unresolved tensions of 1919 became the kindling for both World War II and the post-1945 decolonization wave.
 
 ## Effects of WWI on Colonial Territories
 

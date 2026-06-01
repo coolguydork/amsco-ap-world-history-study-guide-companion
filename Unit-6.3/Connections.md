@@ -27,7 +27,7 @@ The revolutionary wave of the late 18th and early 19th centuries — American, F
 
 ### **Unresolved Tensions After World War I** [[Unit-7.5/Unresolved Tensions After World War I Overview|Unresolved Tensions After World War I Overview]] ← not yet built
 
-World War I was a watershed for global nationalism. Colonial peoples who had served in the war — Indian, West African, Vietnamese, Filipino soldiers — returned with heightened expectations of self-determination that were largely denied at Versailles. The movements built in Topic 6.3 (INC, Pan-Africanism) intensified dramatically after 1918. The unfulfilled promises of Versailles became a direct cause of the nationalist explosions of the mid-20th century.
+World War I was a watershed for global nationalism. Colonial peoples who had served in the war — Indian, West African, Vietnamese, Filipino soldiers — returned with heightened expectations of [[Concept Notes/Self-Determination\|self-determination]] that were largely denied at Versailles. The movements built in Topic 6.3 (INC, Pan-Africanism) intensified dramatically after 1918. The unfulfilled promises of Versailles became a direct cause of the nationalist explosions of the mid-20th century.
 
 ### **Decolonization After 1900** [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]] ← not yet built
 

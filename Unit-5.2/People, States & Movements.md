@@ -47,7 +47,7 @@ Communities of people who had escaped slavery in Haiti (and across the Caribbean
 ## Latin American Independence
 
 **Simón Bolívar** (1783–1830)
-Born into a wealthy creole family in Venezuela, Bolívar became the leading military and political figure of South American independence. His campaigns liberated Venezuela, Colombia, Ecuador, and Peru, briefly united in **Gran Colombia**. Bolívar's **"Jamaica Letter"** (1815) articulated Enlightenment-based arguments for Latin American self-determination: he described a liberal who believed in free markets and abolition of slavery. But Gran Colombia fractured, and Bolívar died frustrated by the fragmentation of his vision. (AMSCO pp. 288–289)
+Born into a wealthy creole family in Venezuela, Bolívar became the leading military and political figure of South American independence. His campaigns liberated Venezuela, Colombia, Ecuador, and Peru, briefly united in **Gran Colombia**. Bolívar's **"Jamaica Letter"** (1815) articulated Enlightenment-based arguments for Latin American [[Concept Notes/Self-Determination\|self-determination]]: he described a liberal who believed in free markets and abolition of slavery. But Gran Colombia fractured, and Bolívar died frustrated by the fragmentation of his vision. (AMSCO pp. 288–289)
 
 **Manuela Sáenz** (1797–1856)
 One of the rare women who gained direct political and military agency during the Latin American independence era. An active participant in fighting alongside Bolívar, she rose to the rank of colonel and saved Bolívar's life on at least one occasion, earning the nickname "Liberator of the Liberator." Her career was the exception: most women gained little from the revolutions. (AMSCO p. 289)

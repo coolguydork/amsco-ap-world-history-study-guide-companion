@@ -24,7 +24,7 @@ Vietnamese communist leader who led resistance against French colonialism and th
 President of Egypt (1954–1970); nationalized the Suez Canal in 1956, triggering a major international crisis and humiliating Britain and France when the US and USSR both forced their withdrawal. Champion of Pan-Arabism and the Non-Aligned Movement. His land reform, nationalization programs, and canal takeover made him the defining symbol of post-colonial assertiveness in the Arab world.
 
 **one-party state**
-Political system in which a single party holds exclusive power, banning or suppressing all opposition. Common outcome in newly decolonized African and Asian states, often justified as necessary for national unity and rapid development. Ghana under Nkrumah, Algeria under the FLN, and Vietnam under the Communist Party all followed this pattern. Frequently led to authoritarianism despite decolonization rhetoric of freedom and self-determination.
+Political system in which a single party holds exclusive power, banning or suppressing all opposition. Common outcome in newly decolonized African and Asian states, often justified as necessary for national unity and rapid development. Ghana under Nkrumah, Algeria under the FLN, and Vietnam under the Communist Party all followed this pattern. Frequently led to authoritarianism despite decolonization rhetoric of freedom and [[Concept Notes/Self-Determination\|self-determination]].
 
 > [!warning]
 > Students sometimes assume decolonization automatically meant democracy. It didn't. Most new states became one-party states or military dictatorships within a few years of independence. The AP asks why — emphasize ethnic division, Cold War pressure, and lack of democratic institutions under colonialism.

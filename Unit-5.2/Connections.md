@@ -29,7 +29,7 @@ The German Empire (1871) and Italian Kingdom, both products of nationalist unifi
 The Atlantic revolutionary tradition established the idea that ordinary people could overthrow ruling elites through revolution. The Bolshevik Revolution (1917) drew on this tradition while rejecting its liberal democratic outcomes — substituting class solidarity for nationalist identity. Compare revolutionary goals and methods.
 
 **Topic 8.5 — Decolonization**
-Anti-colonial nationalism that drove the American, Latin American, and Philippine revolutions in this period became a model for 20th-century decolonization. The language of natural rights and self-determination traveled directly from the Haitian and Latin American revolutions to African and Asian independence movements.
+Anti-colonial nationalism that drove the American, Latin American, and Philippine revolutions in this period became a model for 20th-century decolonization. The language of natural rights and [[Concept Notes/Self-Determination\|self-determination]] traveled directly from the Haitian and Latin American revolutions to African and Asian independence movements.
 
 ---
 

@@ -62,7 +62,7 @@ Total war transformed women's social roles. Women replaced men in factories, far
 
 The 1919 **Paris Peace Conference** was dominated by the **Big Four**: Woodrow Wilson (USA), David Lloyd George (Britain), Georges Clemenceau (France), and Vittorio Orlando (Italy). Their visions clashed:
 
-- **Wilson** wanted "peace without victory" — national self-determination, no territorial annexations, and a **League of Nations** to prevent future wars (his **Fourteen Points**)
+- **Wilson** wanted "peace without victory" — national [[Concept Notes/Self-Determination\|self-determination]], no territorial annexations, and a **League of Nations** to prevent future wars (his **Fourteen Points**)
 - **Clemenceau** demanded maximum punishment for Germany, arguing France had suffered most
 - **Lloyd George** mediated but ultimately supported harsh terms under domestic political pressure
 - **Orlando** walked out when Italy was denied promised territories (Dalmatia, Fiume), fueling Italian nationalist resentment

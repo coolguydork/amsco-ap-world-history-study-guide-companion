@@ -84,4 +84,4 @@ Both represent religious fractures within broader religious traditions (Islam / 
 The Mughals faced internal revolt from their Hindu majority partly because of the lack of the accommodating pluralism that helped the Ottomans manage diversity.
 → [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|Gunpowder Empires Overview (3.1)]]
 
-**Later decolonization [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]]** represents a much later, 20th-century form of the same fundamental challenge: colonized peoples resisting state power and seeking self-determination.
+**Later decolonization [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]]** represents a much later, 20th-century form of the same fundamental challenge: colonized peoples resisting state power and seeking [[Concept Notes/Self-Determination\|self-determination]].

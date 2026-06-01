@@ -34,7 +34,7 @@ tags: [apwh, unit-7, topic-7-5, period-4, timeline, anti-colonialism, nationalis
 
 ## Chronological Patterns to Know
 
-**Three waves of post-WWI nationalist response (all 1919):** The March First Movement (Korea), the Amritsar Massacre and its aftermath (India), and the May Fourth Movement (China) all occurred within weeks of each other — all direct responses to the Paris Peace Conference. This simultaneity is an AP-testable pattern showing the global reach of the betrayed self-determination promise.
+**Three waves of post-WWI nationalist response (all 1919):** The March First Movement (Korea), the Amritsar Massacre and its aftermath (India), and the May Fourth Movement (China) all occurred within weeks of each other — all direct responses to the Paris Peace Conference. This simultaneity is an AP-testable pattern showing the global reach of the betrayed [[Concept Notes/Self-Determination\|self-determination]] promise.
 
 **The interwar period (1919–1939) as a turning point:** Anti-colonial movements transformed from elite petitioning organizations into mass movements. The CCP went from 57 founding members (1921) to leading a peasant revolution. Gandhi's [[Concept Notes/Indian National Congress\|Indian National Congress]] went from elite lawyers to millions of ordinary Indians.
 

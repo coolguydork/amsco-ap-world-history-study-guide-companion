@@ -40,7 +40,7 @@ Austria-Hungary blamed Serbia and issued a harsh ultimatum. When Serbia rejected
 
 **Imperialism** — European rivalry for colonies in Africa and Asia produced friction for decades before 1914. France resented Germany over the Franco-Prussian War (1870–71) and the loss of Alsace-Lorraine. Britain and France competed with Germany for African colonies. These imperial grudges hardened the alliance blocs and gave powers concrete strategic interests to defend.
 
-**Nationalism** — Ethnic nationalism was destabilizing multinational empires. Serbs, Croats, Czechs, Arabs, and others wanted **self-determination** — the right to govern themselves — and chafed under Ottoman or Austro-Hungarian rule. Princip's assassination was an act of Serbian nationalist resistance; the Austrian ultimatum was an attempt to crush it. Nationalism turned a great-power rivalry into a moral crusade.
+**Nationalism** — Ethnic nationalism was destabilizing multinational empires. Serbs, Croats, Czechs, Arabs, and others wanted **[[Concept Notes/Self-Determination\|self-determination]]** — the right to govern themselves — and chafed under Ottoman or Austro-Hungarian rule. Princip's assassination was an act of Serbian nationalist resistance; the Austrian ultimatum was an attempt to crush it. Nationalism turned a great-power rivalry into a moral crusade.
 
 ---
 

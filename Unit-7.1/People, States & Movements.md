@@ -55,7 +55,7 @@ Military officer who led the Turkish National Movement to defeat Allied occupati
 > Atatürk's secular modernization **from above** parallels Peter the Great's Westernization of Russia in the 18th century — both leaders imposed dramatic cultural change through authoritarian power rather than democratic consent. This is a productive AP comparison.
 
 **Republic of Turkey (est. 1923)**
-Successor state to the Ottoman Empire, created after Atatürk expelled Allied forces from Anatolia. Significantly smaller than the Ottoman Empire, it was defined by ethnic Turkish nationalism rather than the empire's multiethnic model. Its creation demonstrated how WWI dismantled old empires and produced new nation-states aligned with the principle of national self-determination.
+Successor state to the Ottoman Empire, created after Atatürk expelled Allied forces from Anatolia. Significantly smaller than the Ottoman Empire, it was defined by ethnic Turkish nationalism rather than the empire's multiethnic model. Its creation demonstrated how WWI dismantled old empires and produced new nation-states aligned with the principle of national [[Concept Notes/Self-Determination\|self-determination]].
 
 ---
 

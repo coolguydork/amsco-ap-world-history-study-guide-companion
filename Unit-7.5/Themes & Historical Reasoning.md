@@ -15,7 +15,7 @@ Topic 7.5 is explicitly a **causation** topic. The AP wants you to explain *why*
 
 **Causes of intensified anti-colonialism (1919–1940s):**
 
-The most immediate cause was the betrayal at Paris: colonial peoples who fought for the Allies expected self-determination but received the mandate system instead. Wilson's Fourteen Points had raised expectations that the peace conference deliberately dashed. This betrayal did not create anti-colonialism from nothing — nationalist movements had existed for decades — but it radicalized them and gave them a clear grievance narrative.
+The most immediate cause was the betrayal at Paris: colonial peoples who fought for the Allies expected [[Concept Notes/Self-Determination\|self-determination]] but received the mandate system instead. Wilson's Fourteen Points had raised expectations that the peace conference deliberately dashed. This betrayal did not create anti-colonialism from nothing — nationalist movements had existed for decades — but it radicalized them and gave them a clear grievance narrative.
 
 A second cause was the experience of WWI itself. Colonial soldiers fighting in European trenches learned that their rulers were not invincible, saw European civilization tear itself apart, and returned home with military skills and political awareness. French West African veterans, for example, assisted in colonial administration, creating a new class of politically engaged intermediaries.
 

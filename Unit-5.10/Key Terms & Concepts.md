@@ -57,7 +57,7 @@ Government-directed efforts to build industrial capacity, as seen in Meiji Japan
 A suite of worker protections enacted in Germany under Chancellor Bismarck in the 1880s: accident insurance (1884), health insurance (1883), and old-age pensions (1889). The world's first modern welfare state legislation. Motivated in part by Bismarck's desire to undercut socialist movements by showing that the state could address workers' grievances. Spread as a model throughout Europe and eventually the world.
 
 **Revolution of 1848**
-A wave of uprisings across European cities in 1848, driven by demands for press freedom, parliamentary government, and national self-determination. In Paris: press freedom. In Berlin: parliamentary limits on monarchy. In Hungary: independence from Austria. Demonstrates that the Enlightenment tradition of natural rights was a *continuity* driving political change well into the Industrial Age.
+A wave of uprisings across European cities in 1848, driven by demands for press freedom, parliamentary government, and national [[Concept Notes/Self-Determination\|self-determination]]. In Paris: press freedom. In Berlin: parliamentary limits on monarchy. In Hungary: independence from Austria. Demonstrates that the Enlightenment tradition of natural rights was a *continuity* driving political change well into the Industrial Age.
 
 > [!exam-tip]
 > For LEQs that ask about political change, the best evidence combines specific reform examples (Bismarck's welfare state, British Reform Acts extending suffrage) with the argument that change was often *partial* — voting rights went to men, not women; reforms came from above to prevent more radical change from below.

@@ -8,7 +8,7 @@ tags: [apwh, unit-7, topic-7-9, period-4, leaders, states, movements]
 # People, States & Movements
 
 > [!exam-tip]
-> Topic 7.9 is a causation synthesis chapter — the narrative names figures primarily as examples of forces (nationalism, economic desperation, self-determination). On the AP, these figures are evidence for arguments about causes and effects, not ends in themselves.
+> Topic 7.9 is a causation synthesis chapter — the narrative names figures primarily as examples of forces (nationalism, economic desperation, [[Concept Notes/Self-Determination\|self-determination]]). On the AP, these figures are evidence for arguments about causes and effects, not ends in themselves.
 
 ## Key Figures
 

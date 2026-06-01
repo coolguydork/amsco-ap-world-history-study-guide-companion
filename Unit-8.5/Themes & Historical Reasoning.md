@@ -26,7 +26,7 @@ tags: [apwh, unit-8, topic-8-5, period-4, decolonization, causation, comparison,
 **Causes of decolonization** operate at multiple levels — AP prompts often ask you to identify and explain them:
 
 *Long-term causes:*
-- European Enlightenment ideals of liberty and self-determination were weaponized by colonial subjects trained in European universities
+- European Enlightenment ideals of liberty and [[Concept Notes/Self-Determination\|self-determination]] were weaponized by colonial subjects trained in European universities
 - [[Concept Notes/Nationalism\|Nationalism]] as a political ideology spread globally through education and print culture
 - Rising educated elite in colonies who organized mass movements
 

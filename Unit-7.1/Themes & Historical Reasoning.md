@@ -97,4 +97,4 @@ The revolutions of the early 20th century have been interpreted through several 
 
 **Dependency/world systems theory** foregrounds foreign economic domination: China, Mexico, and the Ottoman Empire were economically subordinated to industrial powers, which created the resentments and structural weaknesses that made revolution possible. The revolution was as much against foreign exploitation as against domestic autocracy.
 
-**Nationalist interpretation** frames these as struggles for national self-determination — peoples asserting their right to govern themselves against foreign powers or alien dynasties (Manchus in China, Ottoman sultans in Turkey, U.S. investors in Mexico).
+**Nationalist interpretation** frames these as struggles for national [[Concept Notes/Self-Determination\|self-determination]] — peoples asserting their right to govern themselves against foreign powers or alien dynasties (Manchus in China, Ottoman sultans in Turkey, U.S. investors in Mexico).

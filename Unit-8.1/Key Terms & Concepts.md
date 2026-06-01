@@ -55,7 +55,7 @@ US President (1953–1961) and former WWII Supreme Allied Commander. Oversaw the
 
 ---
 
-**self-determination**
+**[[Concept Notes/Self-Determination\|self-determination]]**
 The principle that peoples have the right to choose their own political status and form of government. Used by Woodrow Wilson after WWI to justify redrawing European borders, but denied to colonial peoples in Asia and Africa. After WWII, the hypocrisy of denying self-determination to colonized peoples — who had fought for Allied powers — became impossible to sustain, fueling the decolonization wave of the 1950s–1970s.
 
 > [!tip]

@@ -54,7 +54,7 @@ Despite the Holocaust's lessons and the creation of international human rights f
 
 ## The International Response and Human Rights
 
-The Holocaust's aftermath created a new global human rights architecture. The Nuremberg Trials (1945–1946) established that leaders could be held criminally accountable for crimes against humanity — a revolutionary legal principle. The UN Genocide Convention (1948) obligated states to prevent and punish genocide. The Universal Declaration of Human Rights (1948) articulated universal rights. Eventually, the [[Concept Notes/International Criminal Court|International Criminal Court]] (est. 2002) gave these norms an enforcement mechanism.
+The Holocaust's aftermath created a new global human rights architecture. The Nuremberg Trials (1945–1946) established that leaders could be held criminally accountable for crimes against humanity — a revolutionary legal principle. The UN Genocide Convention (1948) obligated states to prevent and punish genocide. The Universal Declaration of [[Concept Notes/Human Rights\|Human Rights]] (1948) articulated universal rights. Eventually, the [[Concept Notes/International Criminal Court|International Criminal Court]] (est. 2002) gave these norms an enforcement mechanism.
 
 Yet Bosnia and Rwanda exposed the gap between principle and action. The "responsibility to protect" (R2P) doctrine, adopted by the UN in 2005, attempted to codify when the international community could intervene — but Darfur showed it remained more aspiration than guarantee.
 

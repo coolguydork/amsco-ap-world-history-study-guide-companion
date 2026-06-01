@@ -37,7 +37,7 @@ Topic 4.6 closes Unit 4 by showing the underside of empire-building. Units 4.1�
 **Sunni–Shia split [[Unit-3.3/Empires: Belief Systems Overview|Empires: Belief Systems Overview]] vs. Protestant–Catholic conflict (4.6)**
 Both internal religious fractures used by political actors to wage war. Both ended in (partial) negotiated settlements. Key difference: the Islamic split was about political succession as much as theology; the Christian split involved new doctrinal claims about salvation that imperial authority couldn't simply suppress.
 
-**Decolonization [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]]** — The 20th-century independence movements are the long-run consequence of the same dynamic: colonized peoples resisting state power and demanding self-determination. Ana Nzinga, Metacom, and the Pueblo rebels are the ancestors — in spirit if not lineage — of 20th-century independence leaders.
+**Decolonization [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]]** — The 20th-century independence movements are the long-run consequence of the same dynamic: colonized peoples resisting state power and demanding [[Concept Notes/Self-Determination\|self-determination]]. Ana Nzinga, Metacom, and the Pueblo rebels are the ancestors — in spirit if not lineage — of 20th-century independence leaders.
 
 ---
 

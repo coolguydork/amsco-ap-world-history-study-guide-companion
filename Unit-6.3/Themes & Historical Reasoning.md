@@ -23,7 +23,7 @@ The Sokoto Caliphate and Mahdist Sudan represent a distinct model: building an a
 
 ### CDI — Cultural & Demographic Interaction: Enlightenment Turned Against Empire
 
-One of the sharpest ironies of the colonial period is that colonized peoples frequently used the colonizers' own intellectual tools against them. Leaders like [[Concept Notes/Túpac Amaru II\|Túpac Amaru II]] (Jesuit-educated) and José Rizal (European-educated) had absorbed Enlightenment ideas about natural rights, sovereignty, and nationalism. The [[Concept Notes/Indian National Congress\|Indian National Congress]] was founded by British-university-educated Indians. Philippine revolutionaries deployed the language of national self-determination that they had encountered in European political philosophy.
+One of the sharpest ironies of the colonial period is that colonized peoples frequently used the colonizers' own intellectual tools against them. Leaders like [[Concept Notes/Túpac Amaru II\|Túpac Amaru II]] (Jesuit-educated) and José Rizal (European-educated) had absorbed Enlightenment ideas about natural rights, sovereignty, and nationalism. The [[Concept Notes/Indian National Congress\|Indian National Congress]] was founded by British-university-educated Indians. Philippine revolutionaries deployed the language of national [[Concept Notes/Self-Determination\|self-determination]] that they had encountered in European political philosophy.
 
 This pattern suggests an important AP argument: European colonialism carried within it the seeds of its own eventual undoing. By educating colonial elites in Enlightenment thought, colonial powers inadvertently equipped resistance leaders with a universalizing moral framework that could delegitimize empire itself.
 

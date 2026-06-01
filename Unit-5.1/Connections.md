@@ -36,7 +36,7 @@ Enlightenment ideas are the direct intellectual cause of the American Revolution
 Adam Smith's laissez-faire capitalism [[Unit-5.1/Enlightenment Overview|Enlightenment Overview]] becomes the dominant economic framework for industrializing nations in Topic 5.7. The ideological contest between capitalism, utopian socialism, and later Marxist socialism (which begins here) runs through Topics 5.7–5.8.
 
 **Topic 6.1 — Imperialism**
-Enlightenment ideas were used in contradictory ways in the age of high imperialism: European powers cited their "civilizing mission" (reason, progress, science) as justification for colonizing non-European peoples; at the same time, colonized peoples used Enlightenment language of natural rights and self-determination to argue against colonialism. This double-edged legacy is essential for DBQ and LEQ analysis.
+Enlightenment ideas were used in contradictory ways in the age of high imperialism: European powers cited their "civilizing mission" (reason, progress, science) as justification for colonizing non-European peoples; at the same time, colonized peoples used Enlightenment language of natural rights and [[Concept Notes/Self-Determination\|self-determination]] to argue against colonialism. This double-edged legacy is essential for DBQ and LEQ analysis.
 
 ---
 

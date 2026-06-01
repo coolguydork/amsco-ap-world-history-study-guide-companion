@@ -17,7 +17,7 @@ tags: [apwh, unit-8, topic-8-1, period-4, cold-war, decolonization]
 The wartime military campaigns directly created the conditions for 8.1: Soviet troops' occupation of Eastern Europe during the liberation campaign gave Stalin the leverage he used at Potsdam. US technological superiority (radar, logistics, atomic weapons) established the post-war power imbalance. The Big Three's wartime cooperation simultaneously planted seeds of distrust.
 
 **[[Unit-7.8/Mass Atrocities Overview\|Mass Atrocities Overview]]**
-The [[Concept Notes/Holocaust\|Holocaust]] directly motivated the Universal Declaration of Human Rights (1948) and the Genocide Convention — the international human rights framework that anti-colonial leaders would invoke in demanding independence. Atomic bomb use at Hiroshima/Nagasaki established the terrifying new scale of industrial warfare and drove both the Cold War arms race and the anti-nuclear movements Eisenhower referenced.
+The [[Concept Notes/Holocaust\|Holocaust]] directly motivated the Universal Declaration of [[Concept Notes/Human Rights\|Human Rights]] (1948) and the Genocide Convention — the international human rights framework that anti-colonial leaders would invoke in demanding independence. Atomic bomb use at Hiroshima/Nagasaki established the terrifying new scale of industrial warfare and drove both the Cold War arms race and the anti-nuclear movements Eisenhower referenced.
 
 ---
 
@@ -34,7 +34,7 @@ The three structural conditions identified in 8.1 (weakened colonial powers, str
 ## Compare With
 
 **Post-WWI (Topic 7.2 — the Paris Peace Conference)**
-WWI also created an opportunity for self-determination — Wilson's Fourteen Points — but colonial peoples were denied it at Paris. Compare: after WWI, the colonial powers were weakened but not weak enough; anti-colonial movements existed but weren't yet mass movements; and no Cold War competition gave nationalists leverage. After WWII, all three conditions were different. This comparison directly answers: why did decolonization succeed after WWII but not after WWI?
+WWI also created an opportunity for [[Concept Notes/Self-Determination\|self-determination]] — Wilson's Fourteen Points — but colonial peoples were denied it at Paris. Compare: after WWI, the colonial powers were weakened but not weak enough; anti-colonial movements existed but weren't yet mass movements; and no Cold War competition gave nationalists leverage. After WWII, all three conditions were different. This comparison directly answers: why did decolonization succeed after WWII but not after WWI?
 
 **The [[Concept Notes/Mandate System\|Mandate System]] (Topic 7.2 — Paris Peace Conference)**
 After WWI, the League of Nations Mandate System *replaced* Ottoman and German colonies with European administration — formally a new layer of colonial control. After WWII, the UN system instead created a framework for self-determination and human rights. The contrast shows how the normative international order shifted.

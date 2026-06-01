@@ -18,7 +18,7 @@ Post-WWII process by which European colonial empires granted independence to the
 Post-WWI arrangement giving Britain and France control over former Ottoman and German territories as "mandates" of the League of Nations; disguised colonialism. Article 22 of the League charter claimed colonized peoples needed "tutelage" from more "advanced" nations — racist paternalism used to justify imperial expansion. Cameroon, Palestine, Syria, Iraq, and others became mandates.
 
 **Balfour Declaration**
-1917 British statement promising to support a Jewish homeland in Palestine; conflicted with earlier British promises of Arab self-determination. Set the stage for decades of Israeli-Palestinian conflict. A key AP example of how WWI's peace settlement created lasting regional tensions.
+1917 British statement promising to support a Jewish homeland in Palestine; conflicted with earlier British promises of Arab [[Concept Notes/Self-Determination\|self-determination]]. Set the stage for decades of Israeli-Palestinian conflict. A key AP example of how WWI's peace settlement created lasting regional tensions.
 
 **civil disobedience**
 Non-violent refusal to obey unjust laws; used by Gandhi in India and later by MLK in the U.S. Civil Rights Movement; based on Thoreau's philosophy. In the AP context, focus on Gandhi's use: willingly accepting arrest to expose the moral bankruptcy of British colonial law.

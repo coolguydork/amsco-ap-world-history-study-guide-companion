@@ -41,7 +41,7 @@ WWI coalition of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria. Nam
 **Black Hand**
 Serbian nationalist secret society that sought to unite all South Slavs by ending Austro-Hungarian and Ottoman control in the Balkans. Organized and facilitated the 1914 assassination of Archduke Franz Ferdinand. From Serbia's perspective a patriotic resistance group; from Austria-Hungary's perspective a terrorist organization. Illustrates how extreme nationalism could trigger interstate war.
 
-**self-determination**
+**[[Concept Notes/Self-Determination\|self-determination]]**
 The principle that peoples sharing an ethnicity, language, and culture have the right to form their own independent state. A key driver of nationalism that destabilized multinational empires before 1914 and shaped Wilson's 14 Points after the war. Both Serbian and Arab nationalists fought for the Allies partly because they hoped victory would bring self-determination for their peoples. The Paris Peace Conference applied it selectively — mostly to European peoples, not colonial ones.
 
 > [!exam-tip]

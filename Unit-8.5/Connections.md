@@ -14,7 +14,7 @@ tags: [apwh, unit-8, topic-8-5, period-4, decolonization, connections]
 ## Builds On
 
 **[[Unit-8.1/Setting the Stage for the Cold War & Decolonization Overview\|Setting the Stage for the Cold War & Decolonization Overview]]**
-WWII is the proximate cause of decolonization's acceleration — European empires were exhausted, Japan destroyed the myth of white invincibility, and the [[Concept Notes/Atlantic Charter\|Atlantic Charter]] produced self-determination language that independence movements weaponized. Without WWII, the timetable would have been much longer.
+WWII is the proximate cause of decolonization's acceleration — European empires were exhausted, Japan destroyed the myth of white invincibility, and the [[Concept Notes/Atlantic Charter\|Atlantic Charter]] produced [[Concept Notes/Self-Determination\|self-determination]] language that independence movements weaponized. Without WWII, the timetable would have been much longer.
 
 **[[Unit-8.2/Cold War Overview\|Cold War Overview]]**
 The superpower rivalry shaped which independence movements received support and which were crushed. Ho Chi Minh's communist Vietnam drew US military intervention; Lumumba's Congo was destabilized by CIA involvement. The Cold War was the external frame within which decolonization played out.

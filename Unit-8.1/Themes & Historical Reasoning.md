@@ -17,7 +17,7 @@ tags: [apwh, unit-8, topic-8-1, period-4, cold-war, decolonization, causation]
 
 The post-WWII international order represented a fundamental reorganization of global governance. The old European-dominated system — in which a handful of empires controlled most of the world — collapsed under WWII's weight. In its place arose a bipolar system anchored by two superpowers with opposite governance models: American liberal democracy and Soviet one-party communism.
 
-The **[[Concept Notes/United Nations\|United Nations]]** (1945) attempted to create a framework for multilateral governance, conflict resolution, and human rights protection. The **Universal Declaration of Human Rights** (1948) set a new normative standard — in theory, the rights of individuals were now matters of international concern, not purely domestic affairs. This framework would be consistently invoked by anti-colonial leaders demanding independence.
+The **[[Concept Notes/United Nations\|United Nations]]** (1945) attempted to create a framework for multilateral governance, conflict resolution, and human rights protection. The **Universal Declaration of [[Concept Notes/Human Rights\|Human Rights]]** (1948) set a new normative standard — in theory, the rights of individuals were now matters of international concern, not purely domestic affairs. This framework would be consistently invoked by anti-colonial leaders demanding independence.
 
 The wartime conferences (Tehran, Yalta, Potsdam) reveal how governance decisions made in crisis — under military pressure, in the shadow of continuing war — can have structural consequences lasting decades. The division of Eastern Europe was not planned as the Cold War's foundation; it was improvised under the pressures of 1943–1945.
 

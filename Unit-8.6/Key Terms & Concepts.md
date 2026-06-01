@@ -27,7 +27,7 @@ October 1973 surprise attack by Egypt and Syria against Israel on the Jewish hol
 > The Camp David Accords are frequently paired with primary source excerpts on the AP exam. Know: (1) who mediated (Carter), (2) who signed (Sadat and Begin), (3) what was exchanged (recognition for Sinai), and (4) what remained unresolved (Palestinian statehood, other Arab states).
 
 **Palestinian Liberation Organization (PLO)**
-Political and paramilitary organization founded in 1964 representing Palestinian Arabs seeking statehood. Led by Yasser Arafat for decades. Initially rejected by Israel as a terrorist organization; recognized in the 1993 Oslo Accords. The PLO represents Palestinian national self-determination and the demand for a Palestinian state in the West Bank and Gaza Strip. It split into rival factions, with Fatah dominating the PLO and the West Bank.
+Political and paramilitary organization founded in 1964 representing Palestinian Arabs seeking statehood. Led by Yasser Arafat for decades. Initially rejected by Israel as a terrorist organization; recognized in the 1993 Oslo Accords. The PLO represents Palestinian national [[Concept Notes/Self-Determination\|self-determination]] and the demand for a Palestinian state in the West Bank and Gaza Strip. It split into rival factions, with Fatah dominating the PLO and the West Bank.
 
 **Fatah**
 The largest faction of the PLO, founded by Yasser Arafat; politically secular and nationalist rather than Islamist. Controls the Palestinian Authority in the West Bank. Signed the Oslo Accords with Israel in 1993, which recognized Israel and sought a two-state solution. Rival of Hamas; their split in 2007 divided Palestinian leadership between the West Bank (Fatah) and Gaza (Hamas).

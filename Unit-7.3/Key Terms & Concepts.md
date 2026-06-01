@@ -59,7 +59,7 @@ Australia and New Zealand Army Corps. About 500,000 Australians and New Zealande
 **Gallipoli**
 Peninsula in northwestern Turkey (Ottoman Empire); site of a failed Allied amphibious campaign (April 1915–January 1916) aimed at knocking the Ottomans out of the war and opening a supply route to Russia. Heavy ANZAC and Allied losses with no strategic gain. Became a symbol of military incompetence and of the human cost of colonial service.
 
-**self-determination**
+**[[Concept Notes/Self-Determination\|self-determination]]**
 Woodrow Wilson's principle that peoples have the right to determine their own political future. Applied at the Paris Peace Conference to reshape European borders after the collapse of the Austro-Hungarian and Ottoman empires — creating Finland, Estonia, Latvia, Lithuania, Poland, Czechoslovakia, and Yugoslavia. However, self-determination was selectively applied and *not* extended to colonial peoples in Asia and Africa, fueling anticolonial nationalism.
 
 **Paris Peace Conference**
