@@ -87,4 +87,4 @@ The TAH exercise in this topic asks you to chart **continuity and change** acros
 
 **[[Concept Notes/Total War\|Total War]] (Unit 7–8):** WWII's totality — mobilizing entire economies and populations — produced both the technological advances (atomic weapons) and economic shifts (military-industrial complex) that defined the Cold War's material foundation.
 
-**[[Concept Notes/Genocide\|Genocide]] and Human Rights (Unit 7–8):** The Holocaust directly motivated the Universal Declaration of Human Rights (1948) and the Genocide Convention (1948). The post-war human rights framework provided the moral vocabulary for anti-colonial movements in Topics 8.5–8.6.
+**[[Concept Notes/Genocide\|Genocide]] and Human Rights (Unit 7–8):** The Holocaust directly motivated the [[Concept Notes/Universal Declaration of Human Rights\|Universal Declaration of Human Rights]] (1948) and the Genocide Convention (1948). The post-war human rights framework provided the moral vocabulary for anti-colonial movements in Topics 8.5–8.6.

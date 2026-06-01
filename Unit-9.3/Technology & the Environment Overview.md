@@ -93,7 +93,7 @@ But the debate was politically charged. Climate-change skeptics questioned wheth
 
 ## Environmental Activism
 
-Growing awareness of environmental crisis generated new forms of political activism. **Green Parties** emerged globally, making environmental protection a core political platform. The **Green Belt Movement**, founded by Kenyan activist Wangari Maathai in 1977, organized communities — especially women — to plant trees across Kenya, planting over 51 million trees and creating employment while reducing greenhouse gases.
+Growing awareness of environmental crisis generated new forms of political activism. **Green Parties** emerged globally, making environmental protection a core political platform. The **[[Concept Notes/Green Belt Movement\|Green Belt Movement]]**, founded by Kenyan activist Wangari Maathai in 1977, organized communities — especially women — to plant trees across Kenya, planting over 51 million trees and creating employment while reducing greenhouse gases.
 
 Youth-led activism intensified in the 21st century. Swedish teenager **Greta Thunberg** sparked a global climate strike with 1.6 million participants in 125+ countries (2018–2019). **Extinction Rebellion** (est. 2018) used civil disobedience in London — blocking bridges, chaining activists to corporate headquarters — to pressure governments into declaring climate emergencies.
 

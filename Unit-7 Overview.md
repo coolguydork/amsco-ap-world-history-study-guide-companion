@@ -209,7 +209,7 @@ Topic 7.8 is the unit's moral center. It examines genocide and mass killing not 
 **The international response** established the framework of modern human rights:
 - The **Nuremberg Trials** (1945–46) prosecuted Nazi leaders for war crimes, crimes against humanity, and conspiracy to wage aggressive war. The principle that individual officials could be held criminally responsible for state policy — that "I was following orders" was not a defense — was new in international law.
 - The **[[Concept Notes/Genocide|Genocide]] Convention** (1948) made genocide an international crime.
-- The **Universal Declaration of Human Rights** (1948) established a global framework of individual rights that states were obligated to respect.
+- The **[[Concept Notes/Universal Declaration of Human Rights\|Universal Declaration of Human Rights]]** (1948) established a global framework of individual rights that states were obligated to respect.
 - The **[[Concept Notes/International Criminal Court|International Criminal Court]]** (established 2002) institutionalized international criminal justice.
 
 > [!exam-tip]

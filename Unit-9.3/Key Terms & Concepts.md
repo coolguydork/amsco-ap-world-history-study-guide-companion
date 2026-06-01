@@ -17,7 +17,7 @@ A political party that prioritizes environmental protection, sustainability, and
 **[[Concept Notes/Green Revolution\|Green Revolution]]**
 The mid-20th century transformation of global agriculture through high-yield crop varieties, synthetic fertilizers, pesticides, and irrigation (see Topic 9.1). Relevant here because the Green Revolution's intensive farming methods contributed to soil depletion, water overuse, and pesticide pollution — showing that technological solutions to one problem (food production) can create new environmental problems.
 
-**Green Belt Movement**
+**[[Concept Notes/Green Belt Movement\|Green Belt Movement]]**
 An environmental and social movement founded in Kenya by Wangari Maathai (1977) that organized communities — especially women — to plant trees, conserve soil, and protect wilderness from urban sprawl. The movement planted over 51 million trees in Kenya, created employment, improved soil quality, and reduced greenhouse gases. It became a global model linking environmental activism with women's empowerment and community development.
 
 **deforestation**

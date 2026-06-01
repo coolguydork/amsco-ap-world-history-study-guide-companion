@@ -76,7 +76,7 @@ The debate over who bears responsibility for climate action is fundamentally an 
 - **Scale**: Environmental impacts shifted from local/regional to **global** — greenhouse gases mix in the atmosphere regardless of origin; climate change affects every region
 - **Speed**: Industrialization accelerated resource depletion and emissions at rates unprecedented in human history
 - **Awareness**: Scientific and political institutions created to monitor and respond (IPCC, UN Environment Programme, Kyoto, Paris)
-- **Activism**: Global environmental movements emerged as a new form of political organizing (Green Parties, Green Belt Movement, Extinction Rebellion, school strikes)
+- **Activism**: Global environmental movements emerged as a new form of political organizing (Green Parties, [[Concept Notes/Green Belt Movement\|Green Belt Movement]], Extinction Rebellion, school strikes)
 - **Framework**: The Anthropocene concept marked a fundamental reconceptualization of the human-nature relationship
 
 > [!exam-tip]

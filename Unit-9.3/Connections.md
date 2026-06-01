@@ -23,7 +23,7 @@ The population boom enabled by medical advances (Topic 9.2 — vaccines, antibio
 The free-market globalization of 9.4 (liberalization, multinationals, WTO) directly connects to the environmental harms of 9.3. The post-Cold War expansion of capitalism into developing nations intensified resource extraction and emissions — exactly the Marxist analysis invoked in the 9.3 TAH passage. Environmental regulation vs. free-market growth is a central tension in both topics.
 
 **Topic 9.5 — Movements for Rights** (unbuilt)
-The Green Belt Movement connects environmental activism to women's rights. Water scarcity in developing countries disproportionately burdens women. Both topics 9.3 and 9.5 show how global problems (environment, inequality) prompted new forms of activism that crossed national borders.
+The [[Concept Notes/Green Belt Movement\|Green Belt Movement]] connects environmental activism to women's rights. Water scarcity in developing countries disproportionately burdens women. Both topics 9.3 and 9.5 show how global problems (environment, inequality) prompted new forms of activism that crossed national borders.
 
 ---
 
