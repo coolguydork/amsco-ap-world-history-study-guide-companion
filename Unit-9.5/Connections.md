@@ -13,29 +13,29 @@ tags: [apwh, unit-9, topic-9-5, period-4, human-rights, apartheid, connections]
 
 ## Builds On
 
-**[[Unit-8.5/Decolonization after 1900 Overview\|Decolonization after 1900 (Topic 8.5)]]**
+**[[Unit-8.5/Decolonization after 1900 Overview\|Decolonization after 1900]]**
 The decolonization movements of the mid-20th century created the conditions for 9.5's rights movements. Newly independent nations brought anti-colonial perspectives into the UN; the Bandung Conference (1955) linked anti-colonialism with anti-racism. The Negritude movement and [[Concept Notes/Pan-Africanism\|Pan-Africanism]] both grew out of the decolonization era.
 
-**[[Unit-8.6/Newly Independent States Overview\|Newly Independent States (Topic 8.6)]]**
+**[[Unit-8.6/Newly Independent States Overview\|Newly Independent States]]**
 Post-independence states faced the challenge of building political structures that respected ethnic, religious, and caste diversity. India's caste reservation system and Pakistan's Dalit protections were direct responses to the social hierarchies colonialism had entrenched or reinforced.
 
-**[[Unit-7.5/Unresolved Tensions After World War I Overview\|Unresolved Tensions After WWI (Topic 7.5)]]**
+**[[Unit-7.5/Unresolved Tensions After World War I Overview\|Unresolved Tensions After WWI]]**
 The May Fourth Movement (1919) was a student-led protest in China demanding political reform — a direct precursor to Tiananmen Square (1989). Connect these two movements for AP comparison questions.
 
-**[[Unit-8.2/Cold War Overview\|Cold War (Topic 8.2)]]**
+**[[Unit-8.2/Cold War Overview\|Cold War]]**
 Cold War competition shaped the international human rights framework. Both superpowers sought allies in the Global South, giving reform movements leverage. The U.S. civil rights movement was partly accelerated by Cold War embarrassment — Jim Crow undermined U.S. credibility as the defender of freedom.
 
-**[[Unit-9.4/Economics in the Global Age Overview\|Economics in the Global Age (Topic 9.4)]]**
+**[[Unit-9.4/Economics in the Global Age Overview\|Economics in the Global Age]]**
 The World Fair Trade Organization (1989) was explicitly founded as a counterweight to the WTO, addressing the labor and environmental costs of free-market globalization. Environmental activism (Greenpeace, [[Concept Notes/Green Belt Movement\|Green Belt Movement]]) responded to the ecological damage of industrial development and postcolonial resource extraction.
 
 ---
 
 ## Leads To
 
-**[[Unit-9.7/Resistance to Globalization Overview\|Resistance to Globalization (Topic 9.7)]]**
+**[[Unit-9.7/Resistance to Globalization Overview\|Resistance to Globalization]]**
 The human rights framework established in 9.5 becomes the basis for resistance to globalization's inequities — including labor rights violations in global supply chains, environmental degradation, and cultural homogenization.
 
-**[[Unit-9.8/Global Institutions Overview\|Global Institutions (Topic 9.8)]]**
+**[[Unit-9.8/Global Institutions Overview\|Global Institutions]]**
 The UN institutions created in 9.5 (UNICEF, ICJ, UDHR) are central to 9.8's discussion of international organizations managing global challenges. The ICC (2002) extends the international accountability framework.
 
 ---

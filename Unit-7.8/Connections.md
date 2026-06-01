@@ -22,7 +22,7 @@ The military conduct of WWII — the Eastern Front, the Pacific theater, Allied 
 **Setting the Stage for the Cold War and Decolonization** [[Unit-8.1/Setting the Stage for the Cold War & Decolonization Overview|Setting the Stage for the Cold War & Decolonization Overview]]
 The Holocaust, Nuremberg Trials, and Universal Declaration of [[Concept Notes/Human Rights\|Human Rights]] (1948) set new global norms that shaped the early Cold War era. Jewish refugees and the moral case for a Jewish homeland contributed to Israel's founding (1948) — a Cold War flashpoint. The human rights framework built after WWII influenced decolonization movements that argued colonial rule itself violated the new norms.
 
-**Calls for Reform and Responses After 1900** (Topic 9.5)
+**Calls for Reform and Responses After 1900** [[Unit-9.5/Calls for Reform & Responses Overview|Calls for Reform & Responses Overview]]
 The post-WWII human rights architecture (UN, ICC, Genocide Convention) and post-Cold War genocides (Bosnia, Rwanda, Darfur) drive ongoing global reform debates about sovereignty, intervention, and accountability. Topic 9.5 covers contemporary reform movements including human rights advocacy.
 
 ## Compare With
