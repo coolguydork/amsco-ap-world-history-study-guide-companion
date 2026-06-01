@@ -32,7 +32,7 @@ The global conflicts of the 20th century — WWI, WWII, Cold War — disrupted a
 **[[Unit-9.5/Calls for Reform & Responses Overview|Calls for Reform & Responses Overview]]**
 Social media and global communication networks (9.6) directly enable the human rights activism 9.5 describes. Malala Yousafzai and the Arab Spring demonstrate that globalized communication empowers reform movements. The same tools also enable authoritarian surveillance.
 
-**Unit 9.7 — Resistance to Globalization** (Topic 9.7)
+**Unit 9.7 — Resistance to Globalization** [[Unit-9.7/Resistance to Globalization Overview|Resistance to Globalization Overview]]
 Cultural globalization generates the resistance movements 9.7 covers. Critics of Americanization, throwaway culture, and cultural imperialism are the direct pushback against what 9.6 describes. Religious fundamentalism partly responds to the secular consumer culture spread by globalization.
 
 ---

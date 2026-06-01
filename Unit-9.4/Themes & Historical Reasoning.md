@@ -69,7 +69,7 @@ The Saathis program (Google in India) illustrates a further dimension: technolog
 - Knowledge economies emerged in wealthy nations (Finland, Silicon Valley, India's IT sector)
 - Labor exploitation and environmental degradation in export manufacturing zones
 - Growth of a global middle class alongside persistent inequality between and within nations
-- Anti-globalization backlash and political resistance (Topic 9.7)
+- Anti-globalization backlash and political resistance [[Unit-9.7/Resistance to Globalization Overview|Resistance to Globalization Overview]]
 
 ---
 

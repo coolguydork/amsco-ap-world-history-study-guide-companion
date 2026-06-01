@@ -23,7 +23,7 @@ The digital revolution — internet, telecommunications, computers — is the te
 
 ## Leads To
 
-**Resistance to Globalization** (Topic 9.7)
+**Resistance to Globalization** [[Unit-9.7/Resistance to Globalization Overview|Resistance to Globalization Overview]]
 The economic globalization described here directly generates the backlash of Topic 9.7. The WTO's power, MNC exploitation, maquiladora labor conditions, and the widening gap between wealthy and developing nations all fuel anti-globalization movements. The 1999 Seattle WTO protests are the most visible early example. Topic 9.4 is the cause; Topic 9.7 is the effect.
 
 ---

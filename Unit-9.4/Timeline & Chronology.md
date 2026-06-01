@@ -43,7 +43,7 @@ tags: [apwh, unit-9, topic-9-4, period-4, globalization, economics, trade, timel
 → Manufacturing concentrates in Asia and Latin America
 → Knowledge economies develop in wealthy nations
 → Inequality between workers in different nations persists/widens
-→ Anti-globalization resistance emerges (Topic 9.7)
+→ Anti-globalization resistance emerges [[Unit-9.7/Resistance to Globalization Overview|Resistance to Globalization Overview]]
 
 **Neoliberal ideology spreads (1970s–1990s)**
 → GATT/WTO reduce tariffs; IMF imposes structural adjustment programs
