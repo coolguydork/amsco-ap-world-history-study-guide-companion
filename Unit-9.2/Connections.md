@@ -42,7 +42,7 @@ The WHO, UNICEF, and the broader UN system were products of the post-1945 intern
 **[[Unit-8.5/Decolonization after 1900 Overview\|Unit 8.5 — Decolonization after 1900]]**
 Sub-Saharan Africa bore the heaviest burden of HIV/AIDS in the late 20th century. The region's vulnerability was partly a legacy of colonialism: underdeveloped health infrastructure, poverty rooted in extractive colonial economies, and weak post-independence state capacity. Connecting 8.5 to 9.2 allows strong analytical arguments about how colonial-era decisions shaped 20th-century disease outcomes.
 
-**Unit 9.3 — Technology and the Environment (Topic 9.3)**
+**Unit 9.3 — Technology and the Environment[[Unit-9.3/Technology & the Environment Overview|Technology & the Environment Overview]]**
 Antibiotic resistance (TB), insecticide-resistant mosquitoes (malaria), and the emergence of zoonotic diseases (Ebola, HIV) from disrupted ecosystems connect disease directly to environmental themes. As human activity encroaches on animal habitats, opportunities for cross-species pathogen transfer multiply.
 
 ---

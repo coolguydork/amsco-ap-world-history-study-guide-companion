@@ -44,7 +44,7 @@ Industrial stalemate → massive casualties → total war mobilization → exhau
 Reparations → German economic crisis (hyperinflation) → Weimar Republic discredited → Nazi Party exploits resentment → WWII [[Unit-7.9/Causation in Global Conflict Overview|Causation in Global Conflict Overview]]. This is one of the most-tested causal chains on the AP exam.
 
 **Causation Chain 3 — From total war to social change:**
-Total war labor demands → women in workforce → women's suffrage movements; colonial service → anticolonial nationalism → decolonization movements (Topic 9.2)
+Total war labor demands → women in workforce → women's suffrage movements; colonial service → anticolonial nationalism → decolonization movements[[Unit-9.2/Technological Advancements & Limitations — Disease Overview|Technological Advancements & Limitations — Disease Overview]]
 
 > [!exam-tip]
 > For SAQ/LEQ causation prompts: always distinguish **immediate causes** (specific events like the Zimmermann Telegram → U.S. entry) from **underlying causes** (economic ties, democratic sympathy → U.S. inclination toward Allies). The AP expects you to identify both levels.

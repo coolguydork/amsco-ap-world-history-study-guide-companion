@@ -23,10 +23,10 @@ Maritime technology and gunpowder weapons enabled the early-modern age of explor
 
 ## Leads To (Forward Connections)
 
-**Technological Advancements — Diseases** (Topic 9.2) ← folder not yet built
+**Technological Advancements — Diseases**[[Unit-9.2/Technological Advancements & Limitations — Disease Overview|Technological Advancements & Limitations — Disease Overview]] ← folder not yet built
 The same technologies enabling global exchange (air travel, container shipping, mass migration) also accelerated the spread of disease. Topic 9.2 explores how connected the benefits and costs of 9.1's transportation revolution truly are.
 
-**Technology and the Environment** (Topic 9.3) ← folder not yet built
+**Technology and the Environment**[[Unit-9.3/Technology & the Environment Overview|Technology & the Environment Overview]] ← folder not yet built
 The [[Concept Notes/Green Revolution\|Green Revolution]]'s chemical use, fossil fuel expansion, and deforestation introduced here connect directly to the environmental degradation addressed in 9.3. The trade-off between technological productivity and environmental health is the through-line.
 
 **Economics in the Global Age** (Topic 9.4) ← folder not yet built
