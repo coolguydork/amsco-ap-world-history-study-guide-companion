@@ -70,7 +70,7 @@ Three medical revolutions extended human lifespans and reshaped demographics aft
 
 **Birth Control:** In the early 1950s, Gregory Pincus developed the oral contraceptive pill, approved for widespread use in the U.S. in 1960. Reliable **birth control** reduced **fertility rates** globally, transformed gender roles, and gave women greater agency over reproduction. By 2018, over 300 million women used modern contraception.
 
-**Vaccines:** Though vaccines date to 1796, post-1900 government and international campaigns distributed them at scale. Smallpox was eradicated by 1980; polio and measles became rare. The WHO estimated vaccines prevented ~3 million deaths annually by the 21st century.
+**Vaccines:** Though vaccines date to 1796, post-1900 government and international campaigns distributed them at scale. [[Concept Notes/Smallpox\|Smallpox]] was eradicated by 1980; polio and measles became rare. The WHO estimated vaccines prevented ~3 million deaths annually by the 21st century.
 
 > [!exam-tip]
 > Medical innovations → declining fertility rates → demographic transition is a high-frequency CCOT pattern. The AP expects you to connect birth control to women's rights movements and to the contrast between aging wealthy-nation populations and growing developing-nation populations.

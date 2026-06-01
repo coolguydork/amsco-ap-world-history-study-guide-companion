@@ -20,7 +20,7 @@ The bidirectional transfer of crops, animals, diseases, people, and ideas betwee
 
 ## Disease & Demography
 
-**Smallpox**
+**[[Concept Notes/Smallpox\|Smallpox]]**
 A highly contagious Eurasian disease spread through respiratory contact that proved catastrophic for indigenous Americans who had no prior exposure or immunity. Carried by conquistadores such as Hernán Cortés and Francisco Pizarro, smallpox — along with measles, influenza, malaria, and typhus — caused the indigenous population of the Americas to fall by more than 50 percent within a century. Some regions lost up to 90 percent of their people.
 
 **African Diaspora**
