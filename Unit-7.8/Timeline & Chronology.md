@@ -30,7 +30,7 @@ tags: [apwh, unit-7, topic-7-8, period-4, genocide, holocaust, human-rights, tim
 | 1945–1946 | Nuremberg Trials | Nazi leaders prosecuted for crimes against humanity; established individual accountability under international law |
 | 1948 | UN Genocide Convention | First international treaty obligating states to prevent and punish genocide; coined the term legally |
 | 1948 | Universal Declaration of Human Rights | UN articulates universal rights for all people; counterweight to unchecked state sovereignty |
-| 1975–1979 | Cambodian Genocide under Pol Pot: 1.6–1.8 million killed | Post-WWII genocide driven by communist ideology; covered in Topic 8.6 |
+| 1975–1979 | Cambodian Genocide under Pol Pot: 1.6–1.8 million killed | Post-WWII genocide driven by communist ideology; covered in [[Unit-8.6/Newly Independent States Overview\|Topic 8.6]] |
 | 1992–1995 | Bosnian Genocide and ethnic cleansing by Serbian forces | 300,000+ killed; Slobodan Milošević indicted; part of Yugoslavia's balkanization |
 | Apr–Jul 1994 | Rwandan Genocide: 500,000–1 million Tutsis and moderate Hutus killed | 100 days; organized by Hutu-led state; UN refused to intervene; defining case of international failure |
 | 2002 | International Criminal Court (ICC) established | Permanent tribunal for war crimes, crimes against humanity, genocide; first ICC indictments followed |

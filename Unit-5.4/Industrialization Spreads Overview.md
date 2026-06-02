@@ -40,7 +40,7 @@ Russia industrialized with a focus on **railroads and exports**. By 1900 Russia 
 
 Japan was the **first Asian country to industrialize**, despite having had the least contact with Europe since the **17th century** (Japan's *sakoku* isolation policy). In the **mid-19th century**, Japan pursued **defensive modernization** — consciously adapting Western technology and institutions to *protect* traditional culture while building military and economic strength sufficient to resist Western domination.
 
-The trigger was **Commodore Matthew Perry**'s arrival in 1853–1854, which forced Japan to open to trade and demonstrated its military vulnerability. The result was the **[[Concept Notes/Meiji Restoration|Meiji Restoration]]** (1868), which transformed Japan into a leading world power within four decades. For more detail on Japan's industrialization, see **Topic 5.6**.
+The trigger was **Commodore Matthew Perry**'s arrival in 1853–1854, which forced Japan to open to trade and demonstrated its military vulnerability. The result was the **[[Concept Notes/Meiji Restoration|Meiji Restoration]]** (1868), which transformed Japan into a leading world power within four decades. For more detail on Japan's industrialization, see **[[Unit-5.6/Industrialization: Government's Role Overview|Topic 5.6]]**.
 
 ## Decline of Manufacturing Outside Europe
 
@@ -84,4 +84,4 @@ This pattern — colonial and semi-colonial regions supplying raw materials whil
 
 ## Cross-Topic Connections
 
-This topic builds directly on [[Unit-5.3/Industrial Revolution Begins Overview|Industrial Revolution Begins Overview]] (Britain's preconditions) and leads into the age of imperialism (**Topics 6.1–6.2**) and ultimately World War I (**Topic 7.1**). The state-directed model used by Germany, Russia, and Japan contrasts with Britain's market-driven approach — a comparison that resurfaces in Soviet and Chinese industrialization (**Topic 8.4**).
+This topic builds directly on [[Unit-5.3/Industrial Revolution Begins Overview|Industrial Revolution Begins Overview]] (Britain's preconditions) and leads into the age of imperialism (**Topics 6.1–6.2**) and ultimately World War I (**[[Unit-7.1/Shifting Power Overview|Topic 7.1]]**). The state-directed model used by Germany, Russia, and Japan contrasts with Britain's market-driven approach — a comparison that resurfaces in Soviet and Chinese industrialization (**[[Unit-8.4/Spread of Communism after 1900 Overview|Topic 8.4]]**).

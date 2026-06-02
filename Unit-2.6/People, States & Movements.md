@@ -33,7 +33,7 @@ A Hinduized state in Southeast Asia whose tribute rice — Champa rice — was o
 The recipient of Champa rice tribute, which fueled a dramatic population boom and urban southward migration. Chinese farmers pioneered terraced upland and paddy lowland farming with the new variety.
 
 **Great Zimbabwe**
-A powerful East African state whose overgrazing outside the city caused environmental collapse and forced abandonment in the late 1400s. A cautionary case study in the limits of agricultural expansion. (AMSCO p. 123; see also Topic 1.5)
+A powerful East African state whose overgrazing outside the city caused environmental collapse and forced abandonment in the late 1400s. A cautionary case study in the limits of agricultural expansion. (AMSCO p. 123; see also [[Unit-1.5/Africa Overview|Topic 1.5]])
 
 **Dar al-Islam (Islamic world)**
 As caliphs expanded territorial control, they spread sugar, cotton, and citrus cultivation, and Islamic merchants distributed these goods through Samarkand and other market cities. The Islamic world was both a spreader of beneficial agricultural innovation and a major vector for the Black Death. (AMSCO p. 122)

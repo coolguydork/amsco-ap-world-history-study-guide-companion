@@ -81,12 +81,12 @@ The same routes that carried silk and spices also carried religions, ideas, and 
 ## Key Comparison
 
 > [!tip]
-> Silk Roads (overland) vs. Indian Ocean routes (sea-based): both expanded after 1200, both facilitated luxury goods trade and cultural diffusion, but they differed in geography, the goods traded, and the technologies required. Compare them for Topic 2.7. See also [[Concept Notes/Indian Ocean Trade Network|Indian Ocean Trade Network]].
+> Silk Roads (overland) vs. Indian Ocean routes (sea-based): both expanded after 1200, both facilitated luxury goods trade and cultural diffusion, but they differed in geography, the goods traded, and the technologies required. Compare them for [[Unit-2.7/Comparison of Economic Exchange Overview|Topic 2.7]]. See also [[Concept Notes/Indian Ocean Trade Network|Indian Ocean Trade Network]].
 
 ---
 
 ## Connected Topics
 
 - **Builds on:** [[Unit-1.1/East Asia Overview|Unit 1.1 (Song/Ming China)]] · [[Unit-1.2/Dar al-Islam Overview|Unit 1.2 (Islamic states)]]
-- **Leads to:** [[Concept Notes/Mongols|Topic 2.2 (Mongol Empire)]] · Topic 2.5 (Cultural diffusion) · Topic 2.6 (Black Death)
+- **Leads to:** [[Concept Notes/Mongols|Topic 2.2 (Mongol Empire)]] · [[Unit-2.5/Cultural Consequences Overview|Topic 2.5]] (Cultural diffusion) · [[Unit-2.6/Environmental Consequences Overview|Topic 2.6]] (Black Death)
 - **Compare with:** [[Concept Notes/Indian Ocean Trade Network|Topic 2.3 (Indian Ocean)]] · [[Concept Notes/Trans-Saharan Trade|Topic 2.4 (Trans-Saharan)]]

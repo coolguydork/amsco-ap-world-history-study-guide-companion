@@ -99,7 +99,7 @@ D) the conflicts in Japan during the Heian period in which feudal lords controll
 
 ## Think As a Historian: Situate in Context *(AMSCO p. 250)*
 
-The AMSCO skill exercise asks you to connect each revolt to the broader features of empire-building (from Topic 4.1):
+The AMSCO skill exercise asks you to connect each revolt to the broader features of empire-building (from [[Unit-4.1/Technological Innovations Overview|Topic 4.1]]):
 
 | Feature of Empire | How It Relates to 4.6 Revolts |
 |-------------------|---------------------------------|

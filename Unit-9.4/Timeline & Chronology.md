@@ -28,7 +28,7 @@ tags: [apwh, unit-9, topic-9-4, period-4, globalization, economics, trade, timel
 | 1991 | Mercosur founded (Argentina, Brazil, Paraguay, Uruguay) | Regional South American trade bloc; AP example of regional economic integration |
 | 1994 | NAFTA takes effect (U.S., Canada, Mexico) | Accelerates maquiladora growth; exports jobs from U.S.; creates low-wage manufacturing zones in Mexico |
 | 1995 | World Trade Organization (WTO) replaces GATT | Governs 90%+ of world trade; becomes target of anti-globalization protests |
-| Late 1990s | Anti-globalization movement organizes; 1999 Seattle WTO protests | Popular backlash against neoliberalism and WTO rules; connects to Topic 9.7 |
+| Late 1990s | Anti-globalization movement organizes; 1999 Seattle WTO protests | Popular backlash against neoliberalism and WTO rules; connects to [[Unit-9.7/Resistance to Globalization Overview\|Topic 9.7]] |
 | 2000s | China becomes world's largest manufacturing nation | Economic globalization's most dramatic outcome; supply chains restructure global economy |
 | 2014 | India's middle class estimated at 350 million — world's largest | Result of 20+ years of economic liberalization and IT-sector growth |
 

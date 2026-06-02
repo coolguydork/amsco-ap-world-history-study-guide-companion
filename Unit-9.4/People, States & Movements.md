@@ -67,7 +67,7 @@ NAFTA (1994) transformed northern Mexico's border regions into dense maquiladora
 The dominant economic ideology of the late 20th century: free markets, privatization, deregulation, fiscal austerity, and free trade. Promoted globally by the IMF and World Bank through "structural adjustment programs" (loans conditional on adopting free-market policies). Critics argue it entrenched inequality and undermined developing nations' ability to protect nascent industries.
 
 **Anti-Globalization Movement**
-Organized opposition to the WTO, IMF, and multinational corporations — coalesced visibly in the 1999 Seattle WTO protests. Argued that globalization's rules favored wealthy nations and corporations, suppressed labor rights and environmental standards, and widened inequality. A direct predecessor to Topic 9.7.
+Organized opposition to the WTO, IMF, and multinational corporations — coalesced visibly in the 1999 Seattle WTO protests. Argued that globalization's rules favored wealthy nations and corporations, suppressed labor rights and environmental standards, and widened inequality. A direct predecessor to [[Unit-9.7/Resistance to Globalization Overview|Topic 9.7]].
 
 > [!exam-tip]
 > Know the arguments on both sides for AP free-response questions. Pro-globalization: lifted millions from poverty, transferred technology, created consumer goods. Anti-globalization: exploits low-wage workers, undermines domestic industries, enriches corporations at expense of communities.

@@ -78,7 +78,7 @@ The demand for industrial inputs turned colonies into **export economies** — r
 **Minerals** — Chile and Rhodesia supplied copper for telegraph cables and electrical wiring; Bolivia, Malaya, and Nigeria supplied tin for food canning; South Africa and Australia supplied gold. Each mineral extraction industry was built on colonial labor and infrastructure, with profits flowing to European investors.
 
 > [!warning]
-> Students often describe railroads as a "benefit" Europeans gave to colonies. The AP expects you to evaluate this claim critically. Railroads were designed to serve colonial extraction and military control, not local economic development. Indian and African workers built them at suppressed wages. This is a classic historiographical debate — see Topic 6.3 and the Themes note.
+> Students often describe railroads as a "benefit" Europeans gave to colonies. The AP expects you to evaluate this claim critically. Railroads were designed to serve colonial extraction and military control, not local economic development. Indian and African workers built them at suppressed wages. This is a classic historiographical debate — see [[Unit-6.3/Indigenous Responses to State Expansion Overview|Topic 6.3]] and the Themes note.
 
 ---
 

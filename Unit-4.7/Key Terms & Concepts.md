@@ -39,7 +39,7 @@ The formal racial hierarchy in Spanish colonial Latin America. Racial categories
 Individuals born in Spain or Portugal (the Iberian Peninsula), who occupied the top of the colonial Latin American social hierarchy. They held the highest government and Church positions. (AMSCO p. 255)
 
 **Criollos**
-People of full European ancestry born in the Americas. Below peninsulares but above castas. Criollos often resented peninsulares' monopoly on top offices — a tension that would fuel independence movements in Topic 5.2.
+People of full European ancestry born in the Americas. Below peninsulares but above castas. Criollos often resented peninsulares' monopoly on top offices — a tension that would fuel independence movements in [[Unit-5.2/Nationalism & Revolutions Overview|Topic 5.2]].
 
 **Castas**
 The collective term for people of mixed racial ancestry in Spanish colonial Latin America, subdivided into mestizos, mulattos, and zambos. (AMSCO p. 256)

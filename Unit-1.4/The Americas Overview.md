@@ -94,6 +94,6 @@ AMSCO raises an important historiographical debate: were Mesoamerican civilizati
 - **Backward**: Classical Olmec and Maya (500 BCE–900 CE) — established the temple-pyramid tradition, feathered serpent deity, and city-state political model later inherited by Aztec and Maya descendants.
 - **Lateral**: [[Unit-1.5/Africa Overview|Africa Overview]] — Compare with oral-tradition societies (griots vs. Inca quipu); compare stateless kin-based societies in Africa with the Inca's highly centralized state.
 - **Lateral**: [[Unit-1.1/East Asia Overview|East Asia Overview]] — Compare record-keeping: Inca quipu vs. Chinese writing; compare agricultural innovation (chinampas, terrace farming) vs. Chinese wet-rice cultivation.
-- **Forward**: Topic 4.4 — Spanish conquest of Aztec and Inca Empires; mit'a system continues under Spanish colonial rule.
-- **Forward**: Topic 4.3 — Columbian Exchange: American crops (potatoes, maize, tomatoes) transform global agriculture; American diseases decimate indigenous populations.
-- **Forward**: Topic 4.7 — Casta system imposed on indigenous American populations.
+- **Forward**: [[Unit-4.4/Maritime Empires Link Regions Overview|Topic 4.4]] — Spanish conquest of Aztec and Inca Empires; mit'a system continues under Spanish colonial rule.
+- **Forward**: [[Unit-4.3/Columbian Exchange Overview|Topic 4.3]] — Columbian Exchange: American crops (potatoes, maize, tomatoes) transform global agriculture; American diseases decimate indigenous populations.
+- **Forward**: [[Unit-4.7/Changing Social Hierarchies Overview|Topic 4.7]] — Casta system imposed on indigenous American populations.

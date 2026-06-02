@@ -42,7 +42,7 @@ Soviet cosmonaut who became the first human in space on April 12, 1961. Gagarin'
 The U.S. military funded ARPANET — the precursor to the internet — as a Cold War communications resilience project. NASA's Apollo program (funded by the U.S. government) landed humans on the moon in 1969, representing peak state-directed technology investment. The U.S. also drove the pharmaceutical and agricultural technology revolutions through university research funding and the Rockefeller Foundation.
 
 **World Health Organization (WHO)**
-The UN's specialized health agency, founded in 1948, coordinated global vaccine distribution campaigns. WHO-led efforts eradicated smallpox by 1980 and dramatically reduced polio and measles worldwide. The WHO is a primary example for AP essays on the role of international institutions in promoting human welfare in the post-1945 world (connects to Topic 9.8).
+The UN's specialized health agency, founded in 1948, coordinated global vaccine distribution campaigns. WHO-led efforts eradicated smallpox by 1980 and dramatically reduced polio and measles worldwide. The WHO is a primary example for AP essays on the role of international institutions in promoting human welfare in the post-1945 world (connects to [[Unit-9.8/Institutions Developing in a Globalized World Overview|Topic 9.8]]).
 
 > [!tip]
 > When the AP asks about institutions enabling globalized cooperation, the WHO on vaccines is a strong, specific piece of evidence — much more precise than vague references to "the UN."

@@ -54,6 +54,6 @@ tags: [apwh, unit-4, topic-4-2, period-2, exploration, chronology, maritime]
 
 - **1405–1433** Zheng He → connects to [[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]] (the network he sailed)
 - **1488** Cape of Good Hope → connects to [[Unit-4.1/Technological Innovations Overview|Technological Innovations Overview]] (the ship tech that made it possible)
-- **1492** Columbus → connects to **Columbian Exchange** (Topic 4.3 — what followed from contact)
-- **1494** Treaty of Tordesillas → connects to **Maritime Empires Link Regions** (Topic 4.4 — the imperial division it created)
-- **1565** Manila Galleons → connects to **Columbian Exchange** (Topic 4.3 — silver as global commodity)
+- **1492** Columbus → connects to **Columbian Exchange** ([[Unit-4.3/Columbian Exchange Overview|Topic 4.3]] — what followed from contact)
+- **1494** Treaty of Tordesillas → connects to **Maritime Empires Link Regions** ([[Unit-4.4/Maritime Empires Link Regions Overview|Topic 4.4]] — the imperial division it created)
+- **1565** Manila Galleons → connects to **Columbian Exchange** ([[Unit-4.3/Columbian Exchange Overview|Topic 4.3]] — silver as global commodity)

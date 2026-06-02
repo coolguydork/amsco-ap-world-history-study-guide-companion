@@ -23,7 +23,7 @@ Anti-globalists demanded **fair trade** (equitable prices for producers), **debt
 
 ### CDI — Cultural and Demographic Interactions
 
-Globalization homogenized culture (See Topic 9.6), provoking resistance from communities seeking to preserve local identity. The **Uighur** suppression in China represents an extreme case: a state enforcing cultural conformity against a Muslim minority. Brexit incorporated cultural anxieties about immigration changing British identity. Religious fundamentalism — Islamic, Christian, Hindu — grew partly as a reaction to perceived Western cultural dominance.
+Globalization homogenized culture (See [[Unit-9.6/Globalized Culture Overview|Topic 9.6]]), provoking resistance from communities seeking to preserve local identity. The **Uighur** suppression in China represents an extreme case: a state enforcing cultural conformity against a Muslim minority. Brexit incorporated cultural anxieties about immigration changing British identity. Religious fundamentalism — Islamic, Christian, Hindu — grew partly as a reaction to perceived Western cultural dominance.
 
 Digital technology became a contested terrain: activists used social media to organize resistance (Battle of Seattle, Manal al-Sharif's driving video), but states like China and Saudi Arabia weaponized platforms for surveillance and suppression. **Weibo** embodies this ambiguity.
 

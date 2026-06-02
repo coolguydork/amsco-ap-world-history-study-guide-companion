@@ -126,7 +126,7 @@ The AP exam frequently asks students to compare administrative methods across em
 
 - [[Unit-3.1/Themes & Historical Reasoning|Topic 3.1 Themes]] — [[Concept Notes/Gunpowder Empires|Gunpowder empires]]' expansion created the administration problem
 - [[Unit-1.1/Themes & Historical Reasoning|Topic 1.1 Themes]] — Chinese civil service tradition as comparison
-- **Topic 3.3** — How belief systems were specifically deployed as administrative tools
-- **Topic 4.6** — When these administrative methods failed: challenges to imperial authority
+- **[[Unit-3.3/Empires: Belief Systems Overview|Topic 3.3]]** — How belief systems were specifically deployed as administrative tools
+- **[[Unit-4.6/Internal & External Challenges to State Power Overview|Topic 4.6]]** — When these administrative methods failed: challenges to imperial authority
 - [[Concept Notes/Feudalism|Feudalism]] — The decentralized system that new monarchies were dismantling
 - [[Concept Notes/Syncretism|Syncretism]] — Akbar's syncretic court culture as a governance strategy

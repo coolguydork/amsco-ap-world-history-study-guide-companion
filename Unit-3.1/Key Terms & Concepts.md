@@ -36,13 +36,13 @@ A type of exchange common among expanding empires in this period. Empires traded
 Title equivalent to king or emperor, used by rulers of the Safavid Empire (and later Persia generally). Shah Ismail I (founded 1501) and Shah Abbas I (r. 1588–1629) were the two most significant Safavid shahs. (p. 148)
 
 **Devshirme**
-The Ottoman system of conscripting Christian boys from conquered territories, converting them to Islam, and training them for elite government and military service. Discussed in detail in Topic 3.2; relevant here because it reflects Ottoman administrative innovation built on military expansion.
+The Ottoman system of conscripting Christian boys from conquered territories, converting them to Islam, and training them for elite government and military service. Discussed in detail in [[Unit-3.2/Empires: Administration Overview|Topic 3.2]]; relevant here because it reflects Ottoman administrative innovation built on military expansion.
 
 **Janissaries**
-Elite Ottoman infantry units composed of soldiers trained through the devshirme system. Their military discipline was a key factor in Ottoman expansion. Discussed in depth in Topic 3.2.
+Elite Ottoman infantry units composed of soldiers trained through the devshirme system. Their military discipline was a key factor in Ottoman expansion. Discussed in depth in [[Unit-3.2/Empires: Administration Overview|Topic 3.2]].
 
 **Mansabdar system**
-The Mughal administrative system developed under Akbar in which officials held ranks (*mansab*) entitling them to revenue from assigned lands in exchange for military and administrative service. A key tool of Mughal centralization. Detailed coverage in Topic 3.2.
+The Mughal administrative system developed under Akbar in which officials held ranks (*mansab*) entitling them to revenue from assigned lands in exchange for military and administrative service. A key tool of Mughal centralization. Detailed coverage in [[Unit-3.2/Empires: Administration Overview|Topic 3.2]].
 
 **Tsar**
 Title meaning "Caesar," used by Russian rulers. Ivan IV became the first Russian ruler to formally adopt the title of tsar in 1547, symbolizing the centralization of Russian power and the claim to imperial authority. (p. 144)

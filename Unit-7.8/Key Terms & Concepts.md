@@ -32,7 +32,7 @@ Japanese capital firebombed by the United States in March 1945; one of the most 
 ## Government: Genocidal Policies
 
 **genocide**
-Deliberate and systematic destruction of a national, ethnic, racial, or religious group. Coined by Polish-Jewish lawyer Raphael Lemkin; codified in the UN [[Concept Notes/Genocide\|Genocide]] Convention (1948). AP case studies: Armenian Genocide (1915), [[Concept Notes/Holocaust\|Holocaust]] (1941–1945), Cambodian Genocide (1975–1979, Topic 8.6), Rwanda (1994), Darfur (2003). Key AP skill: compare the causes and conditions that enabled each.
+Deliberate and systematic destruction of a national, ethnic, racial, or religious group. Coined by Polish-Jewish lawyer Raphael Lemkin; codified in the UN [[Concept Notes/Genocide\|Genocide]] Convention (1948). AP case studies: Armenian Genocide (1915), [[Concept Notes/Holocaust\|Holocaust]] (1941–1945), Cambodian Genocide (1975–1979, [[Unit-8.6/Newly Independent States Overview|Topic 8.6]]), Rwanda (1994), Darfur (2003). Key AP skill: compare the causes and conditions that enabled each.
 
 **Final Solution**
 Nazi Germany's plan for the systematic murder of all Jews in Europe, formally coordinated at the Wannsee Conference (January 1942); implemented by Heinrich Himmler's SS through mobile killing units and death camps (Auschwitz, Treblinka, Dachau). Killed approximately 6 million Jews — the Holocaust. The ultimate expression of Nazi racial ideology.

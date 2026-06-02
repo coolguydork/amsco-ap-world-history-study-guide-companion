@@ -23,7 +23,7 @@ Shipping containers and air freight made global supply chains viable, fundamenta
 Communication technologies accelerated cultural diffusion at unprecedented speed. The internet and social media allowed ideas, movements, and cultural products to cross borders instantly. The AP Spring is the premier example: social media carried protest models from Tunisia to Egypt to Libya. Demographic interactions shifted as declining fertility rates in developed countries contrasted with continued growth in developing nations.
 
 ### ENV — Environment
-The Green Revolution increased food production but degraded soil and waterways through chemical runoff. Fossil fuel dominance contributed to greenhouse gas accumulation and climate change (see Topic 9.3 for deeper treatment). Nuclear power plants created radioactive waste hazards. Genetic engineering threatened pollinator populations and seed biodiversity.
+The Green Revolution increased food production but degraded soil and waterways through chemical runoff. Fossil fuel dominance contributed to greenhouse gas accumulation and climate change (see [[Unit-9.3/Technology & the Environment Overview|Topic 9.3]] for deeper treatment). Nuclear power plants created radioactive waste hazards. Genetic engineering threatened pollinator populations and seed biodiversity.
 
 ---
 

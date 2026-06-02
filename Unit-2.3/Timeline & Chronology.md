@@ -45,4 +45,4 @@ The AP exam covers this topic within **Period 1: c. 1200–c. 1450**. Key benchm
 - **Pre-1200 context:** [[Unit-1.3/Timeline & Chronology|Timeline & Chronology]] — South Asian and Southeast Asian states that anchored Indian Ocean trade
 - **Pre-1200 context:** [[Unit-1.5/Timeline & Chronology|Timeline & Chronology]] — East African Swahili coast development
 - **Parallel timeline:** [[Unit-2.1/Timeline & Chronology|Timeline & Chronology]] — [[Concept Notes/Silk Roads\|Silk Roads]] in the same 1200–1450 period
-- **What comes next:** Topic 4.1 — Portuguese entry into Indian Ocean (1498+)
+- **What comes next:** [[Unit-4.1/Technological Innovations Overview|Topic 4.1]] — Portuguese entry into Indian Ocean (1498+)

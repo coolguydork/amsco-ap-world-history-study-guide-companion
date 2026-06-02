@@ -34,7 +34,7 @@ tags: [apwh, unit-7, topic-7-3, period-4, timeline, wwi]
 
 ## Chronological Context
 
-**Before 7.3** (from Topic 7.2): The war was triggered by the assassination of Franz Ferdinand (June 1914) and the activation of European alliance systems. The mobilization of millions of conscript soldiers within weeks of the assassination demonstrates how the pre-1914 military planning had anticipated exactly this scenario.
+**Before 7.3** (from [[Unit-7.2/Causes of World War I Overview|Topic 7.2]]): The war was triggered by the assassination of Franz Ferdinand (June 1914) and the activation of European alliance systems. The mobilization of millions of conscript soldiers within weeks of the assassination demonstrates how the pre-1914 military planning had anticipated exactly this scenario.
 
 **During WWI (1914–1918):** The war's character shifted dramatically from the expected quick campaign to four years of industrial stalemate. By 1915 all major powers were engaged in total war mobilization. The entry of colonial troops from 1914 onward made it a genuinely global conflict from the start, not just after 1917.
 

@@ -51,7 +51,7 @@ Unit 2 is the most theme-dense unit in the entire course. Six of the seven AP th
 
 **Human Migration and Settlement (MIG)** shaped the Indian Ocean world especially. **Diasporic merchant communities** — Chinese merchants in Southeast Asia, Arab traders in East Africa, Indian merchants in Malacca — created permanent settlements along trade routes. These communities became cultural crossroads, translating goods, languages, and faiths between civilizations.
 
-**Humans and the Environment (ENV)** takes center stage in Topic 2.6. The **Black Death** is the defining event: the plague (*Yersinia pestis*) traveled along the very trade routes that had built Unit 2's prosperity, killing roughly one-third of Europe's population by 1351. Agricultural diffusion (Champa rice, citrus, sugar) and the beginning of the **Little Ice Age** (c. 1300) also shaped the environmental story.
+**Humans and the Environment (ENV)** takes center stage in [[Unit-2.6/Environmental Consequences Overview|Topic 2.6]]. The **Black Death** is the defining event: the plague (*Yersinia pestis*) traveled along the very trade routes that had built Unit 2's prosperity, killing roughly one-third of Europe's population by 1351. Agricultural diffusion (Champa rice, citrus, sugar) and the beginning of the **Little Ice Age** (c. 1300) also shaped the environmental story.
 
 ---
 
@@ -71,7 +71,7 @@ The AP exam frequently asks you to compare, contrast, or connect the three major
 | **Peak years (c. 1200–1450)** | 1258–1368 (Pax Mongolica) | Continuous; peaks c. 1400 | c. 1200–1450 (Mali era) |
 
 > [!exam-tip]
-> Topic 2.7 is the AP's synthesis topic for this unit — the exam will test your ability to identify **similarities** across the three networks, not just differences. The key similarities: all three moved luxury goods across long distances; all three depended on a "transport technology" suited to their environment (camel vs. dhow); all three facilitated the spread of Islam; all three were shaped by state power; and all three carried the Black Death simultaneously after 1347.
+> [[Unit-2.7/Comparison of Economic Exchange Overview|Topic 2.7]] is the AP's synthesis topic for this unit — the exam will test your ability to identify **similarities** across the three networks, not just differences. The key similarities: all three moved luxury goods across long distances; all three depended on a "transport technology" suited to their environment (camel vs. dhow); all three facilitated the spread of Islam; all three were shaped by state power; and all three carried the Black Death simultaneously after 1347.
 
 ---
 

@@ -22,7 +22,7 @@ The **Manila galleon trade** created one of history's first global economic circ
 The **trading post empire** was Portugal's economic model — control the chokepoints, tax all passing trade, avoid the cost of territorial conquest. It was efficient but fragile: when the Dutch and English arrived with better-funded chartered companies, Portugal's thin network of forts collapsed. (AMSCO p. 201)
 
 ### TEC — Technology & Innovation
-The maritime technologies that made exploration possible — caravel ships, lateen sails, astrolabes, magnetic compasses, and improved cartography — were developed in the decades before 1450. Topic 4.1 covers these innovations; Topic 4.2 shows their consequences. (See [[Unit-4.1/Technological Innovations Overview|Technological Innovations Overview]])
+The maritime technologies that made exploration possible — caravel ships, lateen sails, astrolabes, magnetic compasses, and improved cartography — were developed in the decades before 1450. [[Unit-4.1/Technological Innovations Overview|Topic 4.1]] covers these innovations; Topic 4.2 shows their consequences. (See [[Unit-4.1/Technological Innovations Overview|Technological Innovations Overview]])
 
 The Portuguese advantage in weapons technology also mattered. Their superior cannon-equipped ships won decisive naval battles, including at Diu, India (1509), defeating an Ottoman-Egyptian-Venetian fleet and cementing Portuguese control of Indian Ocean trade lanes.
 

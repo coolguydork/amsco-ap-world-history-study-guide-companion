@@ -13,7 +13,7 @@ tags: [apwh, unit-3, topic-3-2, period-2, governance, land-based-empires]
 
 ## Chronological Overview
 
-Topic 3.2 covers how the land-based empires established in Topic 3.1 actually governed their territories. The key dates below trace the development of administrative systems — bureaucracies, military forces, legal codes, and architectural projects — across Eurasia and Africa in the period c. 1450–c. 1750.
+Topic 3.2 covers how the land-based empires established in [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Topic 3.1]] actually governed their territories. The key dates below trace the development of administrative systems — bureaucracies, military forces, legal codes, and architectural projects — across Eurasia and Africa in the period c. 1450–c. 1750.
 
 ---
 
@@ -75,5 +75,5 @@ Topic 3.2 covers how the land-based empires established in Topic 3.1 actually go
 
 - [[Unit-3.1/Timeline & Chronology|Topic 3.1 Timeline]] — Conquest and expansion that preceded these administrative developments
 - [[Unit-1.1/Timeline & Chronology|Topic 1.1 Timeline]] — Tang/Song dynasty civil service traditions (7th–13th centuries) that Qing inherited
-- **Topic 3.3** — Concurrent development of religious administration within these same empires
-- **Topic 4.6** — Later 17th–18th century: when these administrative systems faced internal challenges
+- **[[Unit-3.3/Empires: Belief Systems Overview|Topic 3.3]]** — Concurrent development of religious administration within these same empires
+- **[[Unit-4.6/Internal & External Challenges to State Power Overview|Topic 4.6]]** — Later 17th–18th century: when these administrative systems faced internal challenges

@@ -85,7 +85,7 @@ Both groups provided contract/indentured labor to colonial plantations; both exp
 Irish, Italian, and Japanese emigrants made active choices driven by push/pull factors, even if those choices were constrained by poverty. Chinese and Indian contract laborers signed contracts but under conditions of deception, desperation, or outright coercion. Enslaved Africans and British convicts had no choice at all. The AP exam expects you to place specific groups on this spectrum and explain **why** migration was voluntary or coerced.
 
 **6.6 Causes vs. 6.7 Effects:**
-This topic is entirely about *causes* of migration. Topic 6.7 (Effects of Migration) addresses what happened *after* migrants arrived — cultural diffusion, demographic transformation, new social hierarchies, diasporic identities. Keep these conceptually distinct in essays.
+This topic is entirely about *causes* of migration. [[Unit-6.7/Effects of Migration Overview|Topic 6.7]] (Effects of Migration) addresses what happened *after* migrants arrived — cultural diffusion, demographic transformation, new social hierarchies, diasporic identities. Keep these conceptually distinct in essays.
 
 ---
 

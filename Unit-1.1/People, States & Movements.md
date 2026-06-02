@@ -56,11 +56,11 @@ The Song is the gold standard for AP comparisons: it represents advanced governa
 Founded by **Kublai Khan** after completing the Mongol conquest of China. The Yuan was a foreign-ruled dynasty — Mongols sat at the top of the social hierarchy above Han Chinese. Despite this, the Yuan maintained many Chinese administrative structures. The Mongol period temporarily disrupted but did not destroy China's bureaucratic traditions. See [[Unit-2.2/Mongol Empire Overview|Topic 2.2]] for the full Mongol story.
 
 > [!warning]
-> The Yuan Dynasty is primarily a Topic 2.2 subject (Mongols). In Topic 1.1, you only need to know that Mongol conquest ended the Song (1279) and that the Ming expelled the Mongols (1368).
+> The Yuan Dynasty is primarily a [[Unit-2.2/Mongol Empire Overview|Topic 2.2]] subject (Mongols). In Topic 1.1, you only need to know that Mongol conquest ended the Song (1279) and that the Ming expelled the Mongols (1368).
 
 ### Ming Dynasty (1368–1644)
 
-Founded by **Zhu Yuanzhang (Hongwu Emperor)**. Restored native Chinese rule, reinstituted Confucian governance, and became one of the most powerful states in the world. The Ming sponsored **Zheng He**'s massive naval expeditions (1405–1433), which demonstrated Chinese maritime power and extended the tributary system. The Ming is also a key Topic 3.1 subject ([[Concept Notes/Gunpowder Empires|gunpowder empire]]).
+Founded by **Zhu Yuanzhang (Hongwu Emperor)**. Restored native Chinese rule, reinstituted Confucian governance, and became one of the most powerful states in the world. The Ming sponsored **Zheng He**'s massive naval expeditions (1405–1433), which demonstrated Chinese maritime power and extended the tributary system. The Ming is also a key [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Topic 3.1]] subject ([[Concept Notes/Gunpowder Empires|gunpowder empire]]).
 
 ### Kamakura Shogunate (1192–1333)
 

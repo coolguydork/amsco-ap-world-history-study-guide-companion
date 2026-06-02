@@ -57,7 +57,7 @@ The vast fertile grasslands of Argentina. British investors developed the Pampas
 Northeast African country whose economy was restructured around cotton as a cash crop. By the late 19th century cotton made up 93% of Egyptian exports. Dependence on cotton revenues made Egypt vulnerable to British and French creditors, ultimately triggering British military occupation in 1882. Egypt is the clearest example of how economic dependency under informal empire converted into formal colonization (pp. 409–410).
 
 **Sudan**
-Northeast African territory where cotton became the leading cash crop under British influence. The British-controlled Plantation Syndicate (a group of weaving companies) effectively dictated land use to Sudanese farmers. Combined with the Mahdist resistance movement (see Topic 6.3), Sudan illustrates how economic extraction and political resistance often overlapped.
+Northeast African territory where cotton became the leading cash crop under British influence. The British-controlled Plantation Syndicate (a group of weaving companies) effectively dictated land use to Sudanese farmers. Combined with the Mahdist resistance movement (see [[Unit-6.3/Indigenous Responses to State Expansion Overview|Topic 6.3]]), Sudan illustrates how economic extraction and political resistance often overlapped.
 
 **Uganda**
 East African territory colonized by Britain in the 1890s. The British encouraged cotton as a cash crop, which quickly replaced enslaved people and ivory as the chief export. A clear example of how colonizers systematically restructured African economies around single commodities for European industrial needs (p. 410).

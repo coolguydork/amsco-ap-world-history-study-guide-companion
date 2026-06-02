@@ -25,7 +25,7 @@ American inventor Whitney created a system of standardized, interchangeable part
 Scottish economist and moral philosopher, Smith published *The Wealth of Nations* in 1776 — one of the most influential economic texts ever written. His opening example of a pin factory illustrated how dividing production into specialized tasks multiplied output dramatically. Smith argued that free markets, guided by the "invisible hand" of self-interest and competition, would allocate resources more efficiently than government-managed economies. His framework, **laissez-faire capitalism**, became the dominant economic ideology of the industrial era and directly challenged [[Concept Notes/Mercantilism|Mercantilism]]. Smith was also influenced by the [[Unit-5.1/Enlightenment Overview|Enlightenment]] rationalist tradition (AMSCO pp. 297, 301).
 
 **James Watt (1736–1819) — Improved Steam Engine**
-Scottish engineer Watt improved the efficiency of the steam engine in 1765 (and patented further improvements through the 1780s), making coal-powered engines practical for sustained industrial use. Though Watt's steam engine is covered more centrally in Topic 5.5 (New Technologies), it is the energy foundation for the entire Industrial Revolution: it powered factories, eventually drove trains and ships, and was fueled by Britain's abundant coal. Watt represents the link between raw mineral resources and mobile industrial power (Clean Key Dates, ref_5_3.md).
+Scottish engineer Watt improved the efficiency of the steam engine in 1765 (and patented further improvements through the 1780s), making coal-powered engines practical for sustained industrial use. Though Watt's steam engine is covered more centrally in [[Unit-5.5/Technology in the Industrial Age Overview|Topic 5.5]] (New Technologies), it is the energy foundation for the entire Industrial Revolution: it powered factories, eventually drove trains and ships, and was fueled by Britain's abundant coal. Watt represents the link between raw mineral resources and mobile industrial power (Clean Key Dates, ref_5_3.md).
 
 ---
 
@@ -34,7 +34,7 @@ Scottish engineer Watt improved the efficiency of the steam engine in 1765 (and 
 **Britain — First Industrial Nation**
 Britain was the cradle of the Industrial Revolution for overlapping geographic, legal, and economic reasons. Its coal deposits, Atlantic access, river network, strong navy and merchant fleet, legal protections for private property, and accumulation of colonial capital (from the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] and [[Unit-4.5/Maritime Empires Develop Overview|Maritime Empires]]) combined to make it uniquely suited to industrial takeoff. The enclosure movement converted rural peasants into an urban wage-labor force, completing the structural transformation (AMSCO pp. 299–300).
 
-Britain's early industrialization gave it an enormous economic and military advantage over rivals, which it would leverage for imperial expansion in the 19th century (**Topic 6.1**).
+Britain's early industrialization gave it an enormous economic and military advantage over rivals, which it would leverage for imperial expansion in the 19th century (**[[Unit-6.1/Rationales for Imperialism Overview|Topic 6.1]]**).
 
 ---
 

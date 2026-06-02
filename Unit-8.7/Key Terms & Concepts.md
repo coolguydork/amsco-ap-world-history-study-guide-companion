@@ -46,7 +46,7 @@ Maoist revolutionary movement in Peru (active 1980s–1990s), one of the most br
 South African anti-apartheid lawyer and ANC leader who was imprisoned for 27 years (1964–1990) on Robben Island. Became a global symbol of peaceful resistance to racial oppression. After his release, he led negotiations that dismantled apartheid and became South Africa's first democratically elected president (1994–1999). His life exemplifies how nonviolent moral authority can outlast and ultimately defeat institutionalized racism.
 
 > [!tip]
-> **Mandela connection:** apartheid and South Africa's democratic transition are covered more fully in Topic 8.5 (Decolonization). In 8.7, Mandela represents the comparison case for nonviolent resistance alongside Gandhi and MLK. All three: globally famous, imprisoned or harassed by the state, ultimately victorious through moral authority + international pressure.
+> **Mandela connection:** apartheid and South Africa's democratic transition are covered more fully in [[Unit-8.5/Decolonization after 1900 Overview|Topic 8.5]] (Decolonization). In 8.7, Mandela represents the comparison case for nonviolent resistance alongside Gandhi and MLK. All three: globally famous, imprisoned or harassed by the state, ultimately victorious through moral authority + international pressure.
 
 **Kent State University**
 Site of a May 4, 1970 massacre where Ohio National Guard troops shot and killed four unarmed student protesters at an antiwar demonstration against the US invasion of Cambodia. The killings triggered student strikes at hundreds of US colleges and universities and intensified domestic opposition to the Vietnam War. Symbolizes the domestic political costs of Cold War military intervention and the generational divide it created.

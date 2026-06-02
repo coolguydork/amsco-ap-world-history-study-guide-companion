@@ -75,7 +75,7 @@ The Dutch controlled the **Dutch East Indies** (Indonesia) after the VOC went ba
 Quinine (treating malaria) and the steamship opened Africa's interior. Industrial military technology (repeating rifles, machine guns, artillery) gave European armies decisive advantages over indigenous forces. The Suez Canal (1869), built by corvée labor, shrank the sea route to Asia and made the region even more strategically valuable.
 
 > [!tip] Compare & Connect
-> Compare 19th-century state expansion with earlier maritime empires ([[Unit-4.4/Maritime Empires Link Regions Overview\|Topic 4.4]]): both extracted resources and used trading companies, but the scale, speed, and reach of 19th-century imperialism was vastly greater due to industrialization. The motivations in 6.1 explain *why* this happened; 6.2 covers *how* it happened and *where*; Topic 6.3 covers indigenous responses.
+> Compare 19th-century state expansion with earlier maritime empires ([[Unit-4.4/Maritime Empires Link Regions Overview\|Topic 4.4]]): both extracted resources and used trading companies, but the scale, speed, and reach of 19th-century imperialism was vastly greater due to industrialization. The motivations in 6.1 explain *why* this happened; 6.2 covers *how* it happened and *where*; [[Unit-6.3/Indigenous Responses to State Expansion Overview|Topic 6.3]] covers indigenous responses.
 
 > [!warning] Common Misconception
 > The Berlin Conference did not colonize Africa — it formalized and *divided* colonization that was already underway. Also, China was never formally colonized; it experienced "economic domination" through spheres of influence, meaning it kept its own government while losing effective economic sovereignty.

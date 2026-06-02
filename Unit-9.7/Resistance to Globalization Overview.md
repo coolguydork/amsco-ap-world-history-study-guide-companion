@@ -30,7 +30,7 @@ Globalization's economic benefits were unevenly distributed, and by the late 20t
 After World War II, international organizations drove global economic integration: GATT (1947), the European Economic Community, Mercosur, and ASEAN all lowered tariff barriers and promoted free trade. In 1995, the **World Trade Organization (WTO)** absorbed GATT and came to govern more than 90% of international trade. Its opaque governance and closed board meetings bred suspicion that the WTO served corporate interests rather than workers or the environment.
 
 > [!tip]
-> AMSCO explicitly connects 17th-century mercantilism to 20th-century globalization (See Topic 4.5) — use this comparison on the AP exam to demonstrate historical reasoning across periods.
+> AMSCO explicitly connects 17th-century mercantilism to 20th-century globalization (See [[Unit-4.5/Maritime Empires Develop Overview|Topic 4.5]]) — use this comparison on the AP exam to demonstrate historical reasoning across periods.
 
 ---
 
@@ -56,7 +56,7 @@ Critics of globalization pointed to greenhouse gas emissions from long-distance 
 Conservative resistance to globalization centered on sovereignty and immigration. In 2016, 52% of British voters chose to leave the EU — a decision nicknamed **Brexit**. Supporters argued the EU forced Britain to accept immigrants and undermined its right to self-governance. Prime Minister **Theresa May** could not negotiate a withdrawal acceptable to Parliament and resigned in 2019. Brexit formalized in 2020.
 
 > [!exam-tip]
-> Brexit is the AP's go-to example of **nationalist resistance to supranational integration**. Compare it with economic nationalism in the 1930s (See Topic 7.4) or post-WWI rejection of the League of Nations.
+> Brexit is the AP's go-to example of **nationalist resistance to supranational integration**. Compare it with economic nationalism in the 1930s (See [[Unit-7.4/Economy in the Interwar Period Overview|Topic 7.4]]) or post-WWI rejection of the League of Nations.
 
 ### Economic Resistance: Anti-IMF and Anti-WTO Movements
 

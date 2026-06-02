@@ -60,7 +60,7 @@ The Think As a Historian section for Topic 4.7 focuses on **explaining the purpo
 
 The primary source case study is Ferdinand and Isabella's Edict of Expulsion (1492) and an Italian Jewish eyewitness account (1495). Students must evaluate whether evidence from the account *supports* the claim that the expulsion exposed Jews to harm despite royal promises of safety, *modifies* it (the King of Naples was merciful, suggesting the picture is complex), or *refutes* it.
 
-**Historiographical connection:** This exercise mirrors the broader historiographical question of the *Black Legend vs. White Legend* (developed more fully in Topic 4.8): Were European rulers as cruel as critics alleged? The Jewish expulsion is a case study in how ruling-class promises and ground-level reality diverged. (AMSCO pp. 259–260)
+**Historiographical connection:** This exercise mirrors the broader historiographical question of the *Black Legend vs. White Legend* (developed more fully in [[Unit-4.8/Continuity & Change Overview|Topic 4.8]]): Were European rulers as cruel as critics alleged? The Jewish expulsion is a case study in how ruling-class promises and ground-level reality diverged. (AMSCO pp. 259–260)
 
 > [!tip]
 > **Evidence skill:** When evaluating a primary source on the AP exam, always ask: Who wrote it? When? What were their purposes? An Italian Jewish witness in 1495 has personal stakes that shape what they record — but that does not make the account unreliable; it makes it *situated*. A Spanish defender of colonialism writing in 1910 has different stakes. Explaining how authorship shapes evidence is the highest-level evidence skill tested on the AP.

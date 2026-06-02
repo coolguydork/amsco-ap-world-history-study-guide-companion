@@ -26,7 +26,7 @@ The AP exam tests two patterns here. First, the **epidemiological transition**: 
 The key causal chain: global interaction → faster disease spread → international public health response → uneven outcomes by wealth. That chain drives almost every AP question on this topic.
 
 > [!exam-tip]
-> The AP exam frequently asks you to connect Topic 9.2 to Topic 4.3 (Columbian Exchange). The pattern is the same: increased global interaction spreads disease; populations without prior exposure suffer disproportionately. The difference is scale and intentionality — colonial-era spread was partly deliberate; modern epidemics spread through commerce and travel.
+> The AP exam frequently asks you to connect Topic 9.2 to [[Unit-4.3/Columbian Exchange Overview|Topic 4.3]] (Columbian Exchange). The pattern is the same: increased global interaction spreads disease; populations without prior exposure suffer disproportionately. The difference is scale and intentionality — colonial-era spread was partly deliberate; modern epidemics spread through commerce and travel.
 
 ---
 

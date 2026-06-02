@@ -97,4 +97,4 @@ The study of the methods and philosophy of history — how historians think, res
 Long, thin-hulled sailing vessels first developed in India or China, used extensively by Islamic merchants. Ideal for carrying trade goods across the Indian Ocean and Mediterranean. The ships that carried luxury goods from China and Southeast Asia into Spain and the rest of Europe via al-Andalus (AMSCO p. 19).
 
 > [!tip]
-> The dhow connects Topic 1.2 to Topic 2.3 (Indian Ocean trade). The same ships that made Islamic merchants wealthy in Period 1 are the vessels that dominate the Indian Ocean trade networks studied in Unit 2.
+> The dhow connects Topic 1.2 to [[Unit-2.3/Indian Ocean Overview|Topic 2.3]] (Indian Ocean trade). The same ships that made Islamic merchants wealthy in Period 1 are the vessels that dominate the Indian Ocean trade networks studied in Unit 2.

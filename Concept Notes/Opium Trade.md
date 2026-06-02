@@ -36,7 +36,7 @@ The British East India Company's solution: sell opium grown in Bengal to Chinese
 - The Qing dynasty's inability to resist the British exposed the weakness of traditional Chinese institutions, contributing to reform movements and eventually the 1911 revolution
 
 > [!exam-tip]
-> Use the Opium Trade as evidence of **economic imperialism**: Britain did not colonize China directly, but used unequal treaties, extraterritoriality, and trade leverage to extract enormous economic benefits without formal governance costs. This distinguishes economic imperialism (Topic 6.5) from direct colonial rule (Topic 6.2).
+> Use the Opium Trade as evidence of **economic imperialism**: Britain did not colonize China directly, but used unequal treaties, extraterritoriality, and trade leverage to extract enormous economic benefits without formal governance costs. This distinguishes economic imperialism ([[Unit-6.5/Economic Imperialism Overview|Topic 6.5]]) from direct colonial rule ([[Unit-6.2/State Expansion Overview|Topic 6.2]]).
 
 ## Cross-Topic Connections
 

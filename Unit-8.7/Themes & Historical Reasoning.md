@@ -15,7 +15,7 @@ tags: [apwh, unit-8, topic-8-7, period-4, governance, resistance, causation, com
 
 Topic 8.7 is fundamentally about challenges to state authority. Resistance movements forced states to confront the limits of their power: Gandhi's India demonstrated that a colonial empire could be embarrassed into withdrawal; the Prague Spring showed that Soviet satellite states could not liberalize beyond what Moscow permitted; ETA's campaign demonstrated that even a consolidated authoritarian state (Francoist Spain) could not fully suppress ethnic-nationalist resistance. The key governance question is **which types of regimes were most vulnerable to which types of resistance**.
 
-Democracies were more vulnerable to nonviolent resistance because they had to respond to international opinion and moral pressure. Authoritarian states could suppress nonviolent movements but faced longer-term delegitimization. The Soviet bloc could militarily defeat reform movements (Hungary, Czechoslovakia) but could not address the underlying grievances — a contradiction that eventually contributed to the bloc's collapse (1989–1991, Topic 8.8).
+Democracies were more vulnerable to nonviolent resistance because they had to respond to international opinion and moral pressure. Authoritarian states could suppress nonviolent movements but faced longer-term delegitimization. The Soviet bloc could militarily defeat reform movements (Hungary, Czechoslovakia) but could not address the underlying grievances — a contradiction that eventually contributed to the bloc's collapse (1989–1991, [[Unit-8.8/End of the Cold War Overview|Topic 8.8]]).
 
 ### CDI — Cultural Developments and Interactions
 

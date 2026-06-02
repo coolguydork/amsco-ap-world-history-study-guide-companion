@@ -83,6 +83,6 @@ India's cultural influence on Southeast Asia began as early as 500 BCE through t
 
 - **Backward**: [[Unit-1.1/East Asia Overview|East Asia Overview]] — Compare decentralized India with centralized Tang/Song China; also the spread of Buddhism from India to China.
 - **Backward**: [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]] — Delhi Sultanate as eastern frontier of Dar al-Islam; Sufi missionaries connecting both topics.
-- **Forward**: Topic 2.3 — Indian Ocean trade; India as the central hub.
-- **Forward**: Topic 3.2 — Mughal Empire governs a Hindu-majority India after Delhi Sultanate falls (1526).
-- **Forward**: Topic 4.3 — European entry into Indian Ocean disrupts established trade routes India depended on.
+- **Forward**: [[Unit-2.3/Indian Ocean Overview|Topic 2.3]] — Indian Ocean trade; India as the central hub.
+- **Forward**: [[Unit-3.2/Empires: Administration Overview|Topic 3.2]] — Mughal Empire governs a Hindu-majority India after Delhi Sultanate falls (1526).
+- **Forward**: [[Unit-4.3/Columbian Exchange Overview|Topic 4.3]] — European entry into Indian Ocean disrupts established trade routes India depended on.

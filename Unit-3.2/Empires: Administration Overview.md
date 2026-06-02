@@ -12,7 +12,7 @@ tags: [apwh, unit-3, topic-3-2, period-2, governance, land-based-empires, europe
 
 ## The Central Problem of Empire
 
-Conquering territory is one thing; holding it is another. By 1450, the great land-based empires studied in [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|Topic 3.1]] had established their borders. Now they faced the harder task: administering vast, multi-ethnic realms across enormous distances. Every ruler answered the same question differently — but all needed three things to survive: **money** (taxation), **loyalty** (bureaucracy or military), and **legitimacy** (religion, law, or spectacle). *AMSCO pp. 155–166*
+Conquering territory is one thing; holding it is another. By 1450, the great land-based empires studied in [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|[[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Topic 3.1]]]] had established their borders. Now they faced the harder task: administering vast, multi-ethnic realms across enormous distances. Every ruler answered the same question differently — but all needed three things to survive: **money** (taxation), **loyalty** (bureaucracy or military), and **legitimacy** (religion, law, or spectacle). *AMSCO pp. 155–166*
 
 > [!tip]
 > The AP exam loves to ask you to **compare** administrative methods across empires. Know at least two specific examples for each method: bureaucratic elites, military loyalty, religious justification, and monumental architecture.
@@ -118,9 +118,9 @@ The limits of centralization also matter. Zamindars, tax farmers, and intendants
 
 - [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Topic 3.1]] — The expansion of empires whose administration is this topic's subject
 - [[Unit-1.1/East Asia Overview|Topic 1.1]] — Chinese civil service examination as historical precedent for Qing bureaucratic stability
-- **Topic 3.3** — Belief systems as tools of imperial legitimation (extends the religion theme)
-- **Topic 4.5** — European colonial administration: similar challenges, different methods
-- **Topic 4.6** — Challenges to state authority: what happened when consolidation methods failed
+- **[[Unit-3.3/Empires: Belief Systems Overview|Topic 3.3]]** — Belief systems as tools of imperial legitimation (extends the religion theme)
+- **[[Unit-4.5/Maritime Empires Develop Overview|Topic 4.5]]** — European colonial administration: similar challenges, different methods
+- **[[Unit-4.6/Internal & External Challenges to State Power Overview|Topic 4.6]]** — Challenges to state authority: what happened when consolidation methods failed
 - [[Concept Notes/Civil Service Examination|Civil Service Examination]] — Chinese model underlying Qing administrative continuity
 - [[Concept Notes/Tribute System|Tribute System]] — Political and economic dimensions of tributary relationships
 - [[Concept Notes/Feudalism|Feudalism]] — The European feudal system that new monarchies dismantled

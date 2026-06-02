@@ -28,7 +28,7 @@ tags: [apwh, unit-1, topic-1-5, period-1, africa, governance, trade-networks, re
 | c. 14th c. | **Islam** reaches Hausa Kingdoms via missionaries | Trans-Saharan trade routes carry Islam as well as goods into the interior |
 | **c. 1324** | **Mansa Musa's hajj** to Mecca | Most dramatic display of West African wealth in the medieval period; reportedly causes gold inflation in Cairo and the Middle East |
 | **c. 1352** | **Ibn Battuta** visits Mali | Detailed account of Malian society, Islamic practice, and persisting pre-Islamic customs; key primary source |
-| c. **1390** | **Kingdom of Kongo** founded | Central African kingdom; will become important in Topic 6.6 (Atlantic slave trade) |
+| c. **1390** | **Kingdom of Kongo** founded | Central African kingdom; will become important in [[Unit-6.6/Causes of Migration in an Interconnected World Overview\|Topic 6.6]] (Atlantic slave trade) |
 | c. late **1400s** | **Great Zimbabwe** abandoned | Overgrazing destroys the surrounding environment; population moves elsewhere |
 | **1464–1492** | **Sunni Ali** rules Songhai | Conquers Timbuktu (1468); Songhai displaces Mali as West Africa's dominant power |
 

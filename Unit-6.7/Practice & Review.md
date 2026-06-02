@@ -96,4 +96,4 @@ tags: [apwh, unit-6, topic-6-7, period-3, migration, practice, MCQ, SAQ]
 5. Compare the experiences of Indian indentured servants with those of Italian voluntary migrants to Argentina. What accounts for the differences in their reception and social mobility?
 
 > [!exam-tip]
-> Topic 6.7 pairs naturally with Topic 6.6 in LEQ prompts asking you to "explain causes AND effects" of migration. Practice moving from the 6.6 causes (push-pull factors) to the 6.7 effects (enclaves, discrimination laws, gender role shifts) in a single coherent argument. The strongest essays will show that the *type* of migration (voluntary vs. coerced, European vs. Asian) shaped the *nature* of the effects.
+> Topic 6.7 pairs naturally with [[Unit-6.6/Causes of Migration in an Interconnected World Overview|Topic 6.6]] in LEQ prompts asking you to "explain causes AND effects" of migration. Practice moving from the 6.6 causes (push-pull factors) to the 6.7 effects (enclaves, discrimination laws, gender role shifts) in a single coherent argument. The strongest essays will show that the *type* of migration (voluntary vs. coerced, European vs. Asian) shaped the *nature* of the effects.

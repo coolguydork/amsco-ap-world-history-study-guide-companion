@@ -51,6 +51,6 @@ Understanding the **logic of transition** between labor systems is more importan
 ## AP Periodization Note
 
 Topic 4.4 sits within **AP Period 2 (c. 1450–c. 1750)** — the era of intensified global connectivity. The maritime empires built in this period created the conditions for:
-- **Period 3** transformations: Industrial Revolution (Unit 5), Latin American revolutions (**Topic 5.2**), 19th-century imperialism (**Topic 6.2**)
+- **Period 3** transformations: Industrial Revolution (Unit 5), Latin American revolutions (**[[Unit-5.2/Nationalism & Revolutions Overview|Topic 5.2]]**), 19th-century imperialism (**[[Unit-6.2/State Expansion Overview|Topic 6.2]]**)
 - The global silver economy that connects Americas, Europe, and China
 - The racial slavery system whose legacies extend through the 19th century and beyond

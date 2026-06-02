@@ -44,7 +44,7 @@ The Silk Roads were as much a cultural corridor as a trade route. Religions, ide
 - [[Concept Notes/Buddhism\|Buddhism]] previously spread from India into Central Asia and China along the same routes
 - Kashgar and Samarkand became centers of Islamic scholarship — multicultural cities where Buddhism, Christianity, Zoroastrianism, and Islam coexisted (AMSCO pp. 78–79)
 - Chinese technologies (papermaking, gunpowder, compass) diffused westward
-- Bubonic plague spread eastward to westward, killing an estimated one-third of Europe (covered more fully in Topic 2.6)
+- Bubonic plague spread eastward to westward, killing an estimated one-third of Europe (covered more fully in [[Unit-2.6/Environmental Consequences Overview|Topic 2.6]])
 
 > [!tip]
 > **Cultural diffusion** along the Silk Roads works in **both directions**: goods and ideas travel east-to-west (Chinese silk, porcelain, paper, gunpowder) AND west-to-east (European gold and silver, Crusader demand). The routes are not one-way.
@@ -101,7 +101,7 @@ To contextualize the Silk Roads, place them in the "bigger picture" of the class
 
 ## Comparison
 
-**Silk Roads vs. Indian Ocean Trade (for Topic 2.7 / LEQ):**
+**Silk Roads vs. Indian Ocean Trade (for [[Unit-2.7/Comparison of Economic Exchange Overview|Topic 2.7]] / LEQ):**
 
 | Feature | Silk Roads | Indian Ocean |
 |---|---|---|

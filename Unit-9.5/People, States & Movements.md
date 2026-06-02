@@ -79,7 +79,7 @@ A Catholic reform movement that combined Christian ethics with socialist economi
 Intellectual and cultural movement among French-speaking African and Caribbean writers that celebrated African identity and rejected assimilation. Directly challenged colonial ideology that African cultures were inferior. Influenced the broader decolonization movement and Black Power/Black pride movements of the 1960s.
 
 **Pro-Democracy Movement in China (1989)**
-Student- and worker-led movement centered in Beijing's Tiananmen Square that demanded freedom of the press, political reform, and dialogue with the government. Inspired by China's May Fourth Movement (1919 — Topic 7.5). After seven weeks of protests in 400+ cities, the CCP declared martial law and violently suppressed the movement on June 4, 1989.
+Student- and worker-led movement centered in Beijing's Tiananmen Square that demanded freedom of the press, political reform, and dialogue with the government. Inspired by China's May Fourth Movement (1919 — [[Unit-7.5/Unresolved Tensions After World War I Overview|Topic 7.5]]). After seven weeks of protests in 400+ cities, the CCP declared martial law and violently suppressed the movement on June 4, 1989.
 
 > [!warning]
 > Do not confuse the Tiananmen Square protests (1989) with the Tiananmen Gate, which is a common confusion point. The 1989 massacre took place in the plaza (square) in front of Tiananmen Gate — the same symbolic location where Mao proclaimed the People's Republic in 1949.

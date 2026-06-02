@@ -44,7 +44,7 @@ For the AP exam, the central skill demand is **causation paired with comparison*
 
 ### 9.1 — Advances in Technology and Exchange After 1900
 
-Topic 9.1 is the unit's causal anchor. Every subsequent topic — disease spread, environmental damage, economic integration, cultural exchange, resistance — traces its roots to the technological revolutions introduced here.
+[[Unit-9.1/Advances in Technology & Exchange Overview|Topic 9.1]] is the unit's causal anchor. Every subsequent topic — disease spread, environmental damage, economic integration, cultural exchange, resistance — traces its roots to the technological revolutions introduced here.
 
 Three overlapping transformations defined the era. In **communication and transportation**, radio and television created mass culture; the Internet (developed from ARPANET in the 1990s) rewired global commerce and politics; standardized shipping containers slashed freight costs after the 1950s, making intercontinental supply chains economically viable; jet aviation moved 2 million passengers daily. The political consequences were immediate: social media enabled the Arab Spring; mobile cameras created accountability movements against police brutality.
 
@@ -84,7 +84,7 @@ Global eradication campaigns demonstrated what coordinated international effort 
 
 ### 9.3 — Technology and the Environment
 
-The industrial technologies that drove unprecedented economic growth in the 20th century also imposed unprecedented costs on the planet. Topic 9.3 is the AP's environmental causation chain: industrialization → population growth → deforestation, emissions, water scarcity → **global warming** → contested international responses.
+The industrial technologies that drove unprecedented economic growth in the 20th century also imposed unprecedented costs on the planet. [[Unit-9.3/Technology & the Environment Overview|Topic 9.3]] is the AP's environmental causation chain: industrialization → population growth → deforestation, emissions, water scarcity → **global warming** → contested international responses.
 
 Four interlocking crises: **deforestation** (forests store carbon; their removal both releases CO₂ and eliminates a carbon sink); **desertification** (agricultural overextension degrading land in sub-Saharan Africa and Central Asia); **declining air quality** (industrial and vehicle emissions); and **water scarcity** (31 countries facing shortage by the early 21st century, disproportionately burdening women and girls who bear water collection responsibilities in developing nations). Water scarcity is an environmental problem that becomes a gender equity problem — a favorite AP cross-theme link.
 
@@ -110,7 +110,7 @@ The late 20th century produced the most dramatic acceleration of economic global
 
 The **Asian Tiger** model (Hong Kong, Singapore, South Korea, Taiwan — following Japan's postwar template) used state-guided export-oriented industrialization and intensive education investment to achieve rapid development. East Asia's rise is the 20th century's defining economic success story — and the AP's model counterargument to claims that globalization benefited only the West.
 
-**NAFTA** (1994) is the AP's go-to example of regional free trade's costs and benefits: growth of Mexican maquiladoras employing cheap labor, U.S. unions protesting job loss, the same day's Zapatista uprising showing who bore the costs. The **WTO** (1995) governed 90%+ of global trade but became a lightning rod for anti-globalization movements because its closed governance served corporate interests over workers and environment (→ Topic 9.7).
+**NAFTA** (1994) is the AP's go-to example of regional free trade's costs and benefits: growth of Mexican maquiladoras employing cheap labor, U.S. unions protesting job loss, the same day's Zapatista uprising showing who bore the costs. The **WTO** (1995) governed 90%+ of global trade but became a lightning rod for anti-globalization movements because its closed governance served corporate interests over workers and environment (→ [[Unit-9.7/Resistance to Globalization Overview|Topic 9.7]]).
 
 **Multinational corporations** are a deep continuity: the [[Concept Notes/East India Company\|East India Company]] was the original MNC. The AP exam tests students' ability to compare colonial-era joint-stock company extraction with modern MNC behavior — same profit logic, different technology and scale.
 
@@ -126,7 +126,7 @@ The **Asian Tiger** model (Hong Kong, Singapore, South Korea, Taiwan — followi
 
 ### 9.5 — Calls for Reform and Responses After 1900
 
-The age of globalization was also an age of rights. For the first time in human history, a global framework — the **[[Concept Notes/Universal Declaration of Human Rights\|Universal Declaration of Human Rights]]** (1948) — asserted that certain freedoms belonged to all people regardless of race, sex, language, or religion. Topic 9.5 traces how individuals and movements demanded that states and institutions honor those rights, and how often they had to fight to make them real.
+The age of globalization was also an age of rights. For the first time in human history, a global framework — the **[[Concept Notes/Universal Declaration of Human Rights\|Universal Declaration of Human Rights]]** (1948) — asserted that certain freedoms belonged to all people regardless of race, sex, language, or religion. [[Unit-9.5/Calls for Reform & Responses Overview|Topic 9.5]] traces how individuals and movements demanded that states and institutions honor those rights, and how often they had to fight to make them real.
 
 **Global feminism** advanced dramatically but unevenly. Women won voting rights across the 20th century (New Zealand led in 1893; Kuwait not until 2005). The Fourth World Conference on Women in Beijing (1995), where Hillary Clinton declared "women's rights are human rights," marked a high point of international feminist consensus. But legal rights rarely translated immediately to lived equality — in Pakistan, women had the right to vote in 1947 but cast only 10% of ballots in 2018.
 
@@ -205,7 +205,7 @@ Alongside the UN, a parallel network of **NGOs** — Amnesty International, [[Co
 
 ### 9.9 — Continuity and Change in a Globalized World
 
-Topic 9.9 is the unit — and the entire course — in synthesis. The AP uses it to ask: across the full sweep of 1900 to the present, what changed, what stayed the same, and what does that tell us about the age of globalization?
+[[Unit-9.9/Continuity & Change Overview|Topic 9.9]] is the unit — and the entire course — in synthesis. The AP uses it to ask: across the full sweep of 1900 to the present, what changed, what stayed the same, and what does that tell us about the age of globalization?
 
 The changes are staggering. World population grew from 1.6 billion to 8 billion. Average life expectancy doubled. The center of global manufacturing shifted from Western Europe to East Asia. Women gained legal rights in nearly every country. The Internet collapsed physical distance for information exchange. Environmental change reached planetary scale.
 

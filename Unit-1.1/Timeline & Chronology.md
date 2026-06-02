@@ -34,10 +34,10 @@ tags: [apwh, unit-1, topic-1-1, period-1, east-asia, chronology]
 | 1192 | Minamoto Yoritomo installed as first shogun | Kamakura Shogunate established; emperor becomes figurehead; feudal era begins |
 | 1206 | Delhi Sultanate established in India | Regional context: Islamic state rises on China's periphery |
 | 1215 | Magna Carta signed in England | Regional context: European political decentralization (compare to Song centralization) |
-| 1258 | Mongols conquer Baghdad; Abbasid Caliphate falls | Mongol expansion reaches Islamic world (see Mongol Empire Overview, Topic 2.2) |
+| 1258 | Mongols conquer Baghdad; Abbasid Caliphate falls | Mongol expansion reaches Islamic world (see Mongol Empire Overview, [[Unit-2.2/Mongol Empire Overview\|Topic 2.2]]) |
 | 1271 | Yuan Dynasty declared by Kublai Khan | Mongols begin formal rule of China |
 | 1279 | Song Dynasty falls | Mongol conquest complete; Kublai Khan rules all China |
-| 1324 | Mansa Musa's pilgrimage to Mecca | Regional context: Mali's wealth and Islam in Africa (see Africa Overview, Topic 1.5) |
+| 1324 | Mansa Musa's pilgrimage to Mecca | Regional context: Mali's wealth and Islam in Africa (see Africa Overview, [[Unit-1.5/Africa Overview\|Topic 1.5]]) |
 | c. 1333 | Kamakura Shogunate ends | Japan's feudal instability continues |
 | 1368 | Zhu Yuanzhang founds Ming Dynasty | Expels Mongols; restores native Chinese rule and Confucian governance |
 
@@ -47,9 +47,9 @@ tags: [apwh, unit-1, topic-1-1, period-1, east-asia, chronology]
 
 | Date | Event | Topic |
 |------|-------|-------|
-| 1405–1433 | Zheng He's naval expeditions | Topic 2.3 — Ming projects Chinese power via sea |
+| 1405–1433 | Zheng He's naval expeditions | [[Unit-2.3/Indian Ocean Overview\|Topic 2.3]] — Ming projects Chinese power via sea |
 | 15th c. | Korea develops own writing system (Hangul) | Result of Korean selective adoption of Chinese culture |
-| 1644 | Ming Dynasty ends; Qing (Manchu) Dynasty begins | Topic 3.1 — new gunpowder empire |
+| 1644 | Ming Dynasty ends; Qing (Manchu) Dynasty begins | [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview\|Topic 3.1]] — new gunpowder empire |
 
 ---
 

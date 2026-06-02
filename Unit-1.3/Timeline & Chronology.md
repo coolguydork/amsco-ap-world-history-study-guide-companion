@@ -41,4 +41,4 @@ The AP exam period of 1200–1450 sits in the **middle of most of this topic's t
 > The dates for Southeast Asian kingdoms are tricky — Srivijaya ends in 1025 (just **before** Period 1), and Majapahit spans most of it. Know which kingdoms are active during 1200–1450: Delhi Sultanate, Vijayanagara, Majapahit, Khmer (until 1431), Sinhala dynasties.
 
 > [!tip]
-> **Memory anchor:** "Delhi 1206, [[Concept Notes/Mongols\|Mongols]] blocked, Mughals 1526." The Delhi Sultanate begins, successfully fends off the Mongols (unlike many others), then falls to a Mongol-descended dynasty. This sequence also connects to Topic 1.7 (Mongol Empire).
+> **Memory anchor:** "Delhi 1206, [[Concept Notes/Mongols\|Mongols]] blocked, Mughals 1526." The Delhi Sultanate begins, successfully fends off the Mongols (unlike many others), then falls to a Mongol-descended dynasty. This sequence also connects to [[Unit-1.7/Comparison Overview|Topic 1.7]] (Mongol Empire).

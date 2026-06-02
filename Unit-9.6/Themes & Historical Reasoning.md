@@ -53,7 +53,7 @@ This topic is almost entirely CDI. The central question is how technology, econo
 
 **Knowledge economy:** The shift from manufacturing to information and cultural production as the basis of economic value. K-pop and Bollywood are not just cultural phenomena — they are major export industries. The South Korean government's investment in K-pop reflects recognition that cultural exports generate economic returns.
 
-**Throwaway culture critique:** The environmental and economic critique of disposable consumer goods connects to Topic 9.3 (environmental challenges). Planned obsolescence as economic strategy; its critics link consumer culture to ecological degradation.
+**Throwaway culture critique:** The environmental and economic critique of disposable consumer goods connects to [[Unit-9.3/Technology & the Environment Overview|Topic 9.3]] (environmental challenges). Planned obsolescence as economic strategy; its critics link consumer culture to ecological degradation.
 
 ---
 

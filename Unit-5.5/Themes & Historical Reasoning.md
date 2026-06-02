@@ -54,7 +54,7 @@ Steam engine (Watt, 1765) → locomotives (1820s–1830s) → national rail netw
 
 **What changed:** The *speed*, *scale*, and *reach* of trade and communication. Pre-industrial trade depended on wind-powered ships, animal-drawn carts, and messengers. Industrial-era technology made global commerce faster, cheaper, and more predictable.
 
-**What continued:** The fundamental dynamics of trade — core regions profiting from peripheral raw materials — persisted and intensified. The [[Concept Notes/Silk Roads\|Silk Roads]] had linked producers and consumers across Eurasia; industrial-era technologies linked them across the entire globe. (AMSCO explicitly connects 5.5 back to Topic 2.1.)
+**What continued:** The fundamental dynamics of trade — core regions profiting from peripheral raw materials — persisted and intensified. The [[Concept Notes/Silk Roads\|Silk Roads]] had linked producers and consumers across Eurasia; industrial-era technologies linked them across the entire globe. (AMSCO explicitly connects 5.5 back to [[Unit-2.1/Silk Roads Overview|Topic 2.1]].)
 
 ---
 

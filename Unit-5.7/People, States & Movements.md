@@ -26,10 +26,10 @@ Scottish-born American industrialist who built a steel empire using the [[Unit-5
 British-born imperialist, founder of De Beers Diamonds, and prime minister of the Cape Colony in southern Africa. Rhodes epitomized the fusion of transnational corporate power with imperial ambition. He sought to build a Cape Town–to–Cairo railroad through British-controlled African territory, aiming to connect all British colonies in Africa into a single extractive network. The project failed because Britain never gained continuous territorial control. Colonial railroad workers in Africa were natives paid far below European wages — the economics of imperialism in miniature.
 
 > [!tip]
-> Rhodes bridges Topic 5.7 (transnational corporations) and Topic 6.3–6.5 (imperialism in Africa). On the AP, he may appear in both economic and imperialist contexts. De Beers was a corporation; the Cape-to-Cairo railroad was imperialism; both were Rhodes.
+> Rhodes bridges Topic 5.7 (transnational corporations) and [[Unit-6.3/Indigenous Responses to State Expansion Overview|Topic 6.3]]–6.5 (imperialism in Africa). On the AP, he may appear in both economic and imperialist contexts. De Beers was a corporation; the Cape-to-Cairo railroad was imperialism; both were Rhodes.
 
 ### Karl Marx (1818–1883)
-German philosopher and economist whose *Das Kapital* (1867) offered the most systematic critique of the industrial capitalist system that Topics 5.3–5.7 describe. Marx argued that capitalism necessarily concentrated wealth in the hands of a bourgeoisie (capitalist class) at the expense of the proletariat (workers), and that monopoly capitalism was its most advanced — and most destructive — form. Marx's ideas directly fueled the workers' movements covered in **Topic 5.8**.
+German philosopher and economist whose *Das Kapital* (1867) offered the most systematic critique of the industrial capitalist system that Topics 5.3–5.7 describe. Marx argued that capitalism necessarily concentrated wealth in the hands of a bourgeoisie (capitalist class) at the expense of the proletariat (workers), and that monopoly capitalism was its most advanced — and most destructive — form. Marx's ideas directly fueled the workers' movements covered in **[[Unit-5.8/Reactions to the Industrial Economy Overview|Topic 5.8]]**.
 
 ### Adam Smith (1723–1790)
 Scottish economist whose *The Wealth of Nations* (1776) provided the ideological foundation for industrial capitalism. Smith argued that free markets, guided by the "invisible hand" of supply and demand, allocate resources more efficiently than government intervention. His critique of mercantilism and advocacy for laissez-faire policy shaped the economic thinking of the Industrial Revolution era. Quoted in the AMSCO opening: "Man is an animal that makes bargains."
@@ -52,7 +52,7 @@ Cecil Rhodes's diamond mining company in southern Africa; one of the era's iconi
 |---|---|---|---|
 | **Laissez-faire capitalism** | Free markets allocate resources best; government should not intervene | Adam Smith | Replaced mercantilism; justified industrial monopolies |
 | **Monopoly capitalism** | Large corporations dominate entire industries; competition is inefficient | Rockefeller, Krupp | Caused concentration of wealth; provoked socialist backlash |
-| **Marxist critique** | Capitalism exploits workers; will collapse under its own contradictions | Karl Marx | Directly leads to Topic 5.8 (labor movements, socialism) |
+| **Marxist critique** | Capitalism exploits workers; will collapse under its own contradictions | Karl Marx | Directly leads to [[Unit-5.8/Reactions to the Industrial Economy Overview\|Topic 5.8]] (labor movements, socialism) |
 | **Imperial capitalism** | Corporate expansion requires and justifies colonial conquest | Cecil Rhodes | Directly leads to Topics 6.3–6.5 (imperialism) |
 
 > [!warning]

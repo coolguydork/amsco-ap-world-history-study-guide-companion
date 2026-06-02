@@ -33,7 +33,7 @@ As populations grew, kin-based networks faced pressure. Competition increased be
 
 **Ghana** (5th–11th centuries; not the same as modern Ghana): Located between the Sahara and the tropical rainforest of West Africa, Ghana controlled the gold-salt trade at its peak from the 8th to 11th centuries. The king ruled from **Koumbi Saleh** with a centralized government, nobles, and iron-equipped army. Ghana's rulers sold gold and ivory to Muslim North African traders in exchange for salt, copper, cloth, and tools. By the 12th century, warfare with neighbors permanently weakened Ghana, and **Mali** rose in its place.
 
-**Mali** (c. 1235–1600): Founded by **Sundiata Keita** (c. 1235), who used Muslim trade connections to build a thriving gold trade. Under his nephew **Mansa Musa** — who made a legendary pilgrimage (*hajj*) to Mecca in **1324**, distributing so much gold along the route that he reportedly depressed gold prices across North Africa and the Middle East — Mali became the wealthiest kingdom in the world. Mali's story continues in Topic 2.4, where the growth of Timbuktu and the Songhai Empire are covered in depth.
+**Mali** (c. 1235–1600): Founded by **Sundiata Keita** (c. 1235), who used Muslim trade connections to build a thriving gold trade. Under his nephew **Mansa Musa** — who made a legendary pilgrimage (*hajj*) to Mecca in **1324**, distributing so much gold along the route that he reportedly depressed gold prices across North Africa and the Middle East — Mali became the wealthiest kingdom in the world. Mali's story continues in [[Unit-2.4/Trans-Saharan Trade Routes Overview|Topic 2.4]], where the growth of Timbuktu and the Songhai Empire are covered in depth.
 
 > [!tip]
 > **Gold-salt trade logic:** West Africa had abundant gold but almost no salt (essential for human survival in hot climates); the Saharan and North African regions had abundant salt but little gold. Trade across the Sahara was mutually beneficial and made rulers who controlled the exchange points enormously wealthy.
@@ -83,6 +83,6 @@ Islam spread into sub-Saharan Africa primarily through **trade contacts** along 
 - **Backward**: Classical African kingdoms (Axum, Nok); Trans-Saharan trade routes (Ghana precedes Mali).
 - **Lateral**: [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]] — Islam enters sub-Saharan Africa through trade connections with North African Muslim merchants; Ibn Battuta travels from the Dar al-Islam into Mali.
 - **Lateral**: [[Unit-1.4/The Americas Overview|The Americas Overview]] — Compare kin-based African societies with Mississippian clan societies; compare griots (oral tradition) with Inca quipu-runners; compare stateless societies with centralized Inca state.
-- **Forward**: Topic 2.4 — Mali's full story, including Timbuktu as a center of Islamic learning and the rise of the Songhai Empire.
-- **Forward**: Topic 6.2 — African states colonized by European powers; internal divisions exploited.
-- **Forward**: Topic 6.6 — Atlantic slave trade; enslaved Africans transported from West Africa to the Americas.
+- **Forward**: [[Unit-2.4/Trans-Saharan Trade Routes Overview|Topic 2.4]] — Mali's full story, including Timbuktu as a center of Islamic learning and the rise of the Songhai Empire.
+- **Forward**: [[Unit-6.2/State Expansion Overview|Topic 6.2]] — African states colonized by European powers; internal divisions exploited.
+- **Forward**: [[Unit-6.6/Causes of Migration in an Interconnected World Overview|Topic 6.6]] — Atlantic slave trade; enslaved Africans transported from West Africa to the Americas.

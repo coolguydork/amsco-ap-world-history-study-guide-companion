@@ -64,7 +64,7 @@ From the *Livro de Lisuarte de Abreau* (1558–1565). Shows the defeat of an Ott
 - Evidence that the shift in Indian Ocean dominance from Ottoman/Arab to European was a military process, not just a commercial one
 
 > [!tip] DBQ Connection
-> The Seydi-Ali document directly illustrates the competition for Indian Ocean trade routes that Topic 4.4 covers. European dominance of the Indian Ocean was not given — it was won in engagements like this one.
+> The Seydi-Ali document directly illustrates the competition for Indian Ocean trade routes that [[Unit-4.4/Maritime Empires Link Regions Overview|Topic 4.4]] covers. European dominance of the Indian Ocean was not given — it was won in engagements like this one.
 
 ---
 
@@ -96,7 +96,7 @@ Depicts violent riots by artisans and serfs against Czar Alexei I's government o
 - Point of view: a 1938 Soviet painting may idealize or dramatize peasant resistance
 
 > [!tip] DBQ Connection
-> The Salt Riot illustrates Topic 4.6's theme of internal challenges to state power — economic policy as a trigger for rebellion. It also shows that coercive economic structures (taxing the poor) generated resistance that mirrors the German Peasants' War, though separated by over a century and a continent.
+> The Salt Riot illustrates [[Unit-4.6/Internal & External Challenges to State Power Overview|Topic 4.6]]'s theme of internal challenges to state power — economic policy as a trigger for rebellion. It also shows that coercive economic structures (taxing the poor) generated resistance that mirrors the German Peasants' War, though separated by over a century and a continent.
 
 ---
 

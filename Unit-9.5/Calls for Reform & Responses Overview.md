@@ -58,7 +58,7 @@ India's 1949 Constitution outlawed discrimination against **dalits** (untouchabl
 China's economic liberalization under Deng Xiaoping was NOT matched by political reform. The CCP censored media, controlled education, and required NGOs to register with the state. In spring 1989, students and workers staged massive pro-democracy protests in **Tiananmen Square**. On June 4, the military attacked unarmed protesters; estimates range from hundreds to thousands killed. China still censors all mention of the event. This illustrates a pattern common across the AP exam: economic opening without political liberalization.
 
 > [!warning]
-> The AP may ask you to compare Tiananmen (1989) with the May Fourth Movement (1919 — Topic 7.5). Both were student-led protests in China demanding political reform; both were suppressed. The key difference: 1919 was nationalist/anti-imperialist in character; 1989 was explicitly pro-democracy and anti-authoritarian.
+> The AP may ask you to compare Tiananmen (1989) with the May Fourth Movement (1919 — [[Unit-7.5/Unresolved Tensions After World War I Overview|Topic 7.5]]). Both were student-led protests in China demanding political reform; both were suppressed. The key difference: 1919 was nationalist/anti-imperialist in character; 1989 was explicitly pro-democracy and anti-authoritarian.
 
 ## Steps toward Environmental and Economic Reform
 

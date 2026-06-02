@@ -89,6 +89,6 @@ The largest contiguous land empire in history, established by Genghis Khan and e
 ## Cross-Reference
 
 - For the Silk Roads concept hub: [[Concept Notes/Silk Roads|Silk Roads]]
-- For the cultural diffusion effects of these routes: Topic 2.5
-- For the [[Concept Notes/Black Death\|Black Death]] spreading along these routes: Topic 2.6
+- For the cultural diffusion effects of these routes: [[Unit-2.5/Cultural Consequences Overview|Topic 2.5]]
+- For the [[Concept Notes/Black Death\|Black Death]] spreading along these routes: [[Unit-2.6/Environmental Consequences Overview|Topic 2.6]]
 - For comparison with sea-based trade: [[Concept Notes/Indian Ocean Trade Network|Indian Ocean Trade Network]]

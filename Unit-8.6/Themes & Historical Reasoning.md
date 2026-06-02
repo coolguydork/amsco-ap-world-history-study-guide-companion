@@ -33,7 +33,7 @@ Newly independent states faced structural economic underdevelopment inherited fr
 
 - **Import-substitution industrialization** (India, Tanzania, Egypt) — state-led industrialization behind protective tariffs
 - **Ujamaa/African socialism** (Tanzania) — collectivized agriculture and cooperative village economies
-- **Arab oil power** (Middle East) — nationalization of oil resources as an economic strategy (also Topic 8.5)
+- **Arab oil power** (Middle East) — nationalization of oil resources as an economic strategy (also [[Unit-8.5/Decolonization after 1900 Overview|Topic 8.5]])
 
 Most of these strategies achieved mixed results: literacy campaigns and basic infrastructure improved, but economic growth remained sluggish, and foreign debt mounted. The 1973 Arab oil embargo showed newly independent states could sometimes use resources as geopolitical leverage.
 

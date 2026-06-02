@@ -71,7 +71,7 @@ As knowledge economies developed in Europe, North America, and East Asia, manufa
 
 Several institutions reduced tariffs globally and set the rules of the new economic order:
 
-The **General Agreement on Tariffs and Trade (GATT)** (1947) progressively cut tariffs from a ~40% world average to under 5% by the 1990s. The **World Trade Organization (WTO)** replaced GATT in 1995 and now governs over 90% of international trade. The WTO became highly controversial: its closed meetings, corporate-dominated board, and rules that could punish nations for refusing to buy sweatshop goods made it a lightning rod for anti-globalization movements (see Topic 9.7).
+The **General Agreement on Tariffs and Trade (GATT)** (1947) progressively cut tariffs from a ~40% world average to under 5% by the 1990s. The **World Trade Organization (WTO)** replaced GATT in 1995 and now governs over 90% of international trade. The WTO became highly controversial: its closed meetings, corporate-dominated board, and rules that could punish nations for refusing to buy sweatshop goods made it a lightning rod for anti-globalization movements (see [[Unit-9.7/Resistance to Globalization Overview|Topic 9.7]]).
 
 Regional trade blocs complemented the WTO: the **European Economic Community** (later EU), **Mercosur** (South America), and **ASEAN** (Southeast Asia) each promoted regional economic integration.
 

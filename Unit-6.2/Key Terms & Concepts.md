@@ -15,7 +15,7 @@ tags: [apwh, unit-6, topic-6-2, period-3, imperialism, colonialism, key-terms]
 Belgian king (r. 1865–1909) who personally owned the Congo Free State as a private colony; used brutal forced labor — including severing workers' hands — to extract ivory and rubber; responsible for the deaths of up to 8 million Congolese; international outcry prompted the Belgian Parliament to take over the colony in 1908. His quote to missionaries — "teach students to read and not to reason" — is a classic AP source for analyzing imperial attitudes.
 
 **Cixi**
-Empress Dowager of China (1835–1908) who supported the Boxer Rebellion and in 1900 ordered all foreigners killed; the rebellion's defeat further humiliated the [[Concept Notes/Qing Dynasty\|Qing Dynasty]] and deepened Western control. Cross-reference Topic 5.8 for her earlier role ending the Hundred Days of Reform.
+Empress Dowager of China (1835–1908) who supported the Boxer Rebellion and in 1900 ordered all foreigners killed; the rebellion's defeat further humiliated the [[Concept Notes/Qing Dynasty\|Qing Dynasty]] and deepened Western control. Cross-reference [[Unit-5.8/Reactions to the Industrial Economy Overview|Topic 5.8]] for her earlier role ending the Hundred Days of Reform.
 
 ## Colonial Territories
 

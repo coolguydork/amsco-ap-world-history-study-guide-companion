@@ -98,5 +98,5 @@ The Mongol legacy reshaped Eurasia in lasting ways (AMSCO p. 91):
 ## Connections
 
 - **Builds on:** [[Unit-1.1/East Asia Overview|Topic 1.1]] (Song Dynasty), [[Unit-1.2/Dar al-Islam Overview|Topic 1.2]] (Abbasid Caliphate), [[Unit-1.6/Medieval Europe Overview|Topic 1.6]] (Crusades)
-- **Leads to:** [[Unit-2.1/Silk Roads Overview|Topic 2.1]] (Pax Mongolica and Silk Roads), Topic 2.5 (cultural exchange), Topic 3.1 ([[Concept Notes/Gunpowder Empires|gunpowder empires]] fill the power vacuum)
-- **Compare with:** Topic 3.1 (gunpowder empires as Mongol successors), Topic 6.2 (European imperialism — compare methods)
+- **Leads to:** [[Unit-2.1/Silk Roads Overview|Topic 2.1]] (Pax Mongolica and Silk Roads), [[Unit-2.5/Cultural Consequences Overview|Topic 2.5]] (cultural exchange), [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Topic 3.1]] ([[Concept Notes/Gunpowder Empires|gunpowder empires]] fill the power vacuum)
+- **Compare with:** [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Topic 3.1]] (gunpowder empires as Mongol successors), [[Unit-6.2/State Expansion Overview|Topic 6.2]] (European imperialism — compare methods)

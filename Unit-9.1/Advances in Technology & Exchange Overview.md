@@ -58,7 +58,7 @@ In 1900, coal dominated global energy. Petroleum and natural gas expanded rapidl
 All fossil fuels are non-renewable and produce greenhouse gases that trap heat in the atmosphere, contributing to climate change. Nuclear power, while producing minimal carbon emissions, generates radioactive waste and carries accident risks. By the late 20th century, renewable energy (wind, solar) supplied roughly 5% of global output — a growing but still minor share.
 
 > [!tip]
-> Connect this to Topic 5.5 (Industrial Revolution energy) for CCOT essays: coal → oil/gas → nuclear → renewables represents a long-run energy continuity-and-change arc spanning Periods 3–4.
+> Connect this to [[Unit-5.5/Technology in the Industrial Age Overview|Topic 5.5]] (Industrial Revolution energy) for CCOT essays: coal → oil/gas → nuclear → renewables represents a long-run energy continuity-and-change arc spanning Periods 3–4.
 
 ---
 

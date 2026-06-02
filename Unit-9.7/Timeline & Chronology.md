@@ -47,7 +47,7 @@ Global supply chains expand → cheaper goods in wealthy nations
     ↓
 Labor exploitation visible (Rana Plaza 2013, child labor)
 Environmental damage (Brazilian deforestation, shipping emissions)
-Cultural homogenization (Americanization, See Topic 9.6)
+Cultural homogenization (Americanization, See [[Unit-9.6/Globalized Culture Overview|Topic 9.6]])
 Debtor-nation austerity (IMF structural adjustment)
     ↓
 Resistance mobilizes:

@@ -73,7 +73,7 @@ A loosely defined spiritual movement blending Buddhist, shamanist, Sufi, and oth
 A Chinese spiritual practice (Buddhist and Daoist blend) that gained tens of millions of followers before government suppression in 1999. Its suppression generated international [[Concept Notes/Human Rights|Human Rights]] protests. AP relevance: state vs. civil society; religious freedom; authoritarian responses to perceived threats.
 
 **Rastafarianism / Pan-Africanism**
-Religious and political movement originating in Jamaica, asserting the spiritual and cultural unity of all people of African descent. Spread globally through reggae music. AP relevance: anti-colonial thought; Global South identity; connection to Topic 8.5 decolonization movements.
+Religious and political movement originating in Jamaica, asserting the spiritual and cultural unity of all people of African descent. Spread globally through reggae music. AP relevance: anti-colonial thought; Global South identity; connection to [[Unit-8.5/Decolonization after 1900 Overview|Topic 8.5]] decolonization movements.
 
 > [!tip]
 > For essay prompts asking about cultural exchange or soft power, you can draw from multiple people here: Jordan (American soft power), Bob Marley (Global South cultural influence), Malala Yousafzai (social media as activist tool), and K-pop government investment (state-sponsored soft power).

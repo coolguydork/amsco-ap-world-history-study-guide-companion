@@ -35,7 +35,7 @@ Practice applying this cycle to the Black Death: trade connectivity (cause) → 
 
 **What changed:** Population levels, land use patterns, labor-lord relationships, the geographic range of crops, and the political power of feudal lords all shifted dramatically between 1200 and 1450.
 
-**What stayed the same:** Environmental pressures on agriculture remained a persistent theme; disease transmission along trade routes would continue in later periods (see Topic 4.3, Columbian Exchange).
+**What stayed the same:** Environmental pressures on agriculture remained a persistent theme; disease transmission along trade routes would continue in later periods (see [[Unit-4.3/Columbian Exchange Overview|Topic 4.3]], Columbian Exchange).
 
 ### Comparison
 

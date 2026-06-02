@@ -77,7 +77,7 @@ Akbar also provided land grants to **Sikhism**, a new monotheistic faith founded
 
 ## The Scientific Revolution (Brief Introduction)
 
-Emerging from the same environment of religious questioning, the **Scientific Revolution** challenged faith-based authority with empirical reason. Francis Bacon (1620) developed **empiricism** — knowledge grounded in observable evidence. Isaac Newton's *Principia* (1687) synthesized Galileo's laws of terrestrial motion with Kepler's planetary laws, establishing gravitational theory. These ideas suggested an ordered, rational universe — laying the groundwork for the Enlightenment (see Topic 5.1).
+Emerging from the same environment of religious questioning, the **Scientific Revolution** challenged faith-based authority with empirical reason. Francis Bacon (1620) developed **empiricism** — knowledge grounded in observable evidence. Isaac Newton's *Principia* (1687) synthesized Galileo's laws of terrestrial motion with Kepler's planetary laws, establishing gravitational theory. These ideas suggested an ordered, rational universe — laying the groundwork for the Enlightenment (see [[Unit-5.1/Enlightenment Overview|Topic 5.1]]).
 
 ---
 
@@ -96,5 +96,5 @@ Emerging from the same environment of religious questioning, the **Scientific Re
 ## Connections
 
 - **Builds on:** [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]] (Islamic belief system origins); [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]] (pre-Reformation Catholic Church)
-- **Leads to:** Topic 4.6 (Protestant Reformation: parallel religious contestation in Europe); Topic 8.5 (religion in independence movements)
+- **Leads to:** [[Unit-4.6/Internal & External Challenges to State Power Overview|Topic 4.6]] (Protestant Reformation: parallel religious contestation in Europe); [[Unit-8.5/Decolonization after 1900 Overview|Topic 8.5]] (religion in independence movements)
 - **Concept Notes:** [[Concept Notes/Syncretism|Syncretism]] · [[Concept Notes/Sufism|Sufism]] · [[Concept Notes/Bhakti Movement|Bhakti Movement]]

@@ -30,7 +30,7 @@ Before joint-stock companies, long-distance trade ventures were funded by a sing
 | French Mississippi Company | c. 1717 | France | North America | Collapsed in speculative bubble (1720), causing widespread bankruptcy |
 
 > [!exam-tip]
-> The **VOC** is the AP exam's go-to example. Know: founded 1602, Netherlands, Southeast Asia spice trade, established Batavia. It outcompeted Portugal through speed, financial innovation, and organization — not just military force. The EIC is the secondary example; in this period (1450–1750) it is in its commercial phase, not yet the governing body it becomes in Topic 5.4.
+> The **VOC** is the AP exam's go-to example. Know: founded 1602, Netherlands, Southeast Asia spice trade, established Batavia. It outcompeted Portugal through speed, financial innovation, and organization — not just military force. The EIC is the secondary example; in this period (1450–1750) it is in its commercial phase, not yet the governing body it becomes in [[Unit-5.4/Industrialization Spreads Overview|Topic 5.4]].
 
 ## The Dutch Financial Model
 

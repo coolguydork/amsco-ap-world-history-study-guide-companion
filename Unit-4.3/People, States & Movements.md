@@ -20,7 +20,7 @@ Genoese explorer sailing for Spain whose 1492 voyage to the Caribbean establishe
 Spanish conquistador who led the conquest of the Aztec Empire (1519–1521). Cortés and his forces carried smallpox, which devastated the Aztec population and was instrumental — far more than weapons — in the empire's collapse. His campaign exemplifies how disease functioned as an unintentional but decisive weapon of conquest.
 
 **Francisco Pizarro (c. 1471–1541)**
-Spanish conquistador who conquered the Inca Empire in present-day Peru (1532–1572). Like Cortés, Pizarro's forces introduced epidemic disease to an immunologically naive population. Pizarro appears again in Topic 4.4 in connection with the consolidation of Spanish colonial rule.
+Spanish conquistador who conquered the Inca Empire in present-day Peru (1532–1572). Like Cortés, Pizarro's forces introduced epidemic disease to an immunologically naive population. Pizarro appears again in [[Unit-4.4/Maritime Empires Link Regions Overview|Topic 4.4]] in connection with the consolidation of Spanish colonial rule.
 
 **Alfred W. Crosby Jr. (1931–2018)**
 Modern historian and author of *The Columbian Exchange: Biological and Cultural Consequences of 1492* (1972). Crosby coined the term "Columbian Exchange" and argued that the biological homogenization of the two hemispheres was "one of the most important aspects of the history of life on this planet since the retreat of the continental glaciers." His work shifted historical attention toward ecological and demographic consequences of contact.
@@ -49,7 +49,7 @@ A powerful Central African kingdom (present-day Republic of Congo, Democratic Re
 The forced dispersal of millions of Africans across the Atlantic (16th–19th centuries) produced one of history's most significant demographic and cultural migrations. Despite arriving under conditions of extreme coercion, enslaved Africans preserved elements of their cultures: they created creole languages, maintained musical traditions, brought food crops (okra, rice, manioc), and blended African spiritual practices with Christianity. The diaspora fundamentally shaped the Americas — in population, culture, language, and cuisine.
 
 **[[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]]**
-The systematic, commercially organized forced migration of Africans to the Americas to supply plantation labor. Driven by the profitability of sugar (and later tobacco and cacao), the trade expanded dramatically from the late 15th century through the 19th. Brazil and the Caribbean received the vast majority of captives. The trade is treated in more detail in Topic 4.4 (conquest and labor systems).
+The systematic, commercially organized forced migration of Africans to the Americas to supply plantation labor. Driven by the profitability of sugar (and later tobacco and cacao), the trade expanded dramatically from the late 15th century through the 19th. Brazil and the Caribbean received the vast majority of captives. The trade is treated in more detail in [[Unit-4.4/Maritime Empires Link Regions Overview|Topic 4.4]] (conquest and labor systems).
 
 > [!tip]
 > The AP exam often asks you to **compare** the labor systems of early modern empires. Contrast the *mita* (forced indigenous labor in Spanish mines) with chattel slavery in Portuguese Brazil — both appear in Unit 4 and provide rich comparison evidence.

@@ -13,7 +13,7 @@ tags: [apwh, unit-4, topic-4-4, period-2, maritime-empires, labor-systems, colon
 ## Governance: African States
 
 **Asante Empire**
-West African state that grew in power through participation in Atlantic trade networks, including the slave trade. Its involvement with Europeans increased its regional influence. Also appears in Topic 6.3 (19th-century imperialism).
+West African state that grew in power through participation in Atlantic trade networks, including the slave trade. Its involvement with Europeans increased its regional influence. Also appears in [[Unit-6.3/Indigenous Responses to State Expansion Overview|Topic 6.3]] (19th-century imperialism).
 
 **Kingdom of the Kongo**
 Central West African kingdom that engaged with Portuguese explorers, traders, and missionaries. King Afonso initially allowed the slave trade but eventually protested its destabilizing effects — his subjects bypassed royal authority to trade enslaved people for European goods, draining his kingdom's population. A key case study in African rulers' complex responses to European contact.

@@ -36,7 +36,7 @@ Merchants and conquerors moved crops into new regions, transforming land use and
 
 Population growth fueled by agricultural expansion also pushed resources past their limits:
 
-- **Great Zimbabwe** — overgrazing outside the city was so severe that the population had to abandon it in the late 1400s. (See Topic 1.5 for Great Zimbabwe's rise.)
+- **Great Zimbabwe** — overgrazing outside the city was so severe that the population had to abandon it in the late 1400s. (See [[Unit-1.5/Africa Overview|Topic 1.5]] for Great Zimbabwe's rise.)
 - **Feudal Europe** — overuse of farmland and deforestation led to soil erosion, steadily reducing agricultural output. (AMSCO p. 123)
 - **Little Ice Age (c. 1300–c. 1800)** — a period of cooling that decreased agricultural yields, compounding population stress across Eurasia.
 - **Maya collapse** — environmental degradation was also a factor in the decline of the Maya in the Americas.

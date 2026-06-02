@@ -41,7 +41,7 @@ The essential context for Topic 4.1 is the **transition from land-based to sea-b
 Key contextual factors:
 - The Indian Ocean trade network was centuries old — Europeans were latecomers inserting themselves into an existing system, not creating trade from nothing.
 - The Ottoman Empire's rise [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] is the most important proximate context for *why* Europeans sought sea routes specifically in the 1400s–1500s rather than earlier.
-- The prior Mongol facilitation of overland trade ([[Concept Notes/Pax Mongolica\|Pax Mongolica]], Topic 2.5) had *already* increased European awareness of Asian wealth — setting up demand that Ottoman blocking then frustrated.
+- The prior Mongol facilitation of overland trade ([[Concept Notes/Pax Mongolica\|Pax Mongolica]], [[Unit-2.5/Cultural Consequences Overview|Topic 2.5]]) had *already* increased European awareness of Asian wealth — setting up demand that Ottoman blocking then frustrated.
 - China's withdrawal from Indian Ocean exploration (after Zheng He, 1433) created a power vacuum that European traders eventually filled.
 
 ### Comparison

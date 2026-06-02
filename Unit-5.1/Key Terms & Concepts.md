@@ -51,7 +51,7 @@ A political ideology favoring natural rights, constitutional government, laissez
 A political ideology favoring traditional institutions and gradual, practical change over ideological blueprints. Popular among European ruling classes after the upheavals of the French Revolution. Conservatives viewed rapid social engineering with deep suspicion.
 
 **[[Concept Notes/Nationalism\|Nationalism]]**
-The belief that people who share a language, culture, and history should live in an independent, self-governing nation-state. A major destabilizing force for multiethnic empires (Habsburg, Ottoman, Russian). Became a primary driver of revolution and warfare in the 19th century (see Topic 5.2).
+The belief that people who share a language, culture, and history should live in an independent, self-governing nation-state. A major destabilizing force for multiethnic empires (Habsburg, Ottoman, Russian). Became a primary driver of revolution and warfare in the 19th century (see [[Unit-5.2/Nationalism & Revolutions Overview|Topic 5.2]]).
 
 **[[Concept Notes/Socialism\|Socialism]]**
 A political and economic theory advocating public or worker ownership of the means of production, in contrast to private capitalist ownership. Responded to the poverty and inequality produced by industrialization. Branches include utopian socialism (harmonious ideal communities) and Marxist (scientific) socialism.

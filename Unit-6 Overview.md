@@ -31,9 +31,9 @@ Unit 6 asks a deceptively simple question: what happened to the rest of the worl
 
 The answer begins in Unit 5. Industrial technology gave European militaries an unprecedented advantage over non-industrial societies. Steamships, the Maxim gun, quinine prophylaxis against malaria, and telegraphic coordination of forces created what historian Daniel Headrick called "the tools of empire." Industrial economies also created insatiable demand: raw cotton for Manchester's mills, rubber for bicycle tires and telegraph insulation, palm oil for machine lubricants, copper for electrical cables, and markets for manufactured goods. These economic pressures turned imperial expansion from occasional to systematic.
 
-But industrialization alone does not explain the *scale* of imperialism or the *ideology* behind it. Topic 6.1 shows that European expansion was also driven by nationalist competition (no great power could afford to let rivals take territory first), religious missionary impulse, and a self-serving ideology — Social Darwinism and the "White Man's Burden" — that cast conquest as a civilizing duty rather than self-interested plunder.
+But industrialization alone does not explain the *scale* of imperialism or the *ideology* behind it. [[Unit-6.1/Rationales for Imperialism Overview|Topic 6.1]] shows that European expansion was also driven by nationalist competition (no great power could afford to let rivals take territory first), religious missionary impulse, and a self-serving ideology — Social Darwinism and the "White Man's Burden" — that cast conquest as a civilizing duty rather than self-interested plunder.
 
-Topic 6.2 traces how these motives translated into action: the Scramble for Africa, the formalization of British India under Crown rule, Russian expansion across Central Asia, and American imperialism in the Pacific and Caribbean. The [[Concept Notes/Berlin Conference|Berlin Conference]] (1884–85) symbolizes the era's logic — European powers divided an entire continent among themselves without consulting a single African leader.
+[[Unit-6.2/State Expansion Overview|Topic 6.2]] traces how these motives translated into action: the Scramble for Africa, the formalization of British India under Crown rule, Russian expansion across Central Asia, and American imperialism in the Pacific and Caribbean. The [[Concept Notes/Berlin Conference|Berlin Conference]] (1884–85) symbolizes the era's logic — European powers divided an entire continent among themselves without consulting a single African leader.
 
 Topics 6.3 and 6.5 complicate the narrative of inevitable European domination. Indigenous peoples resisted — militarily (the Zulu, Ethiopians at Adwa), politically (the Indian National Congress), and culturally. Economic imperialism (6.5) shows that formal colonization was not the only mechanism: Britain controlled China's trade through unequal treaties and the [[Concept Notes/Opium Trade|Opium Trade]], and dominated Latin America through investment and debt without annexing any territory.
 
@@ -47,7 +47,7 @@ The unit's central AP argument — its CCOT thesis — is this: industrializatio
 
 ### 6.1 — Rationales for Imperialism
 
-European imperialism required not just power but justification. Topic 6.1 examines the ideological framework that made conquest seem natural, even noble, to the Europeans conducting it — and that masked the economic interests driving expansion.
+European imperialism required not just power but justification. [[Unit-6.1/Rationales for Imperialism Overview|Topic 6.1]] examines the ideological framework that made conquest seem natural, even noble, to the Europeans conducting it — and that masked the economic interests driving expansion.
 
 **Social Darwinism** applied Darwin's theory of natural selection to human societies, arguing that "superior" civilizations inevitably and rightfully dominated "inferior" ones. This pseudoscientific racism provided biological cover for what was essentially self-interested plunder. **Scientific racism** — the classification of human "races" in a hierarchy with Europeans at the top — reinforced this ideology with the authority of science.
 
@@ -58,13 +58,13 @@ The **"White Man's Burden"** (Rudyard Kipling, 1899) and the French **mission ci
 **Economic motivations** were real even when ideological. Industrial economies needed raw materials (cotton, rubber, tin, copper), markets for manufactured goods, and investment outlets. The argument that imperialism was primarily driven by economic need (Lenin's thesis) oversimplifies — many colonies cost more to govern than they generated — but economic logic shaped which territories attracted the most aggressive expansion.
 
 > [!exam-tip]
-> Topic 6.1 tests **causation** directly. The AP exam will ask you to explain *why* imperialism happened, and the best answers weigh multiple causes against each other: ideology (Social Darwinism), economics (raw materials and markets), political competition (nationalism), and technology (industrial military advantage). Do not treat any single cause as sufficient.
+> [[Unit-6.1/Rationales for Imperialism Overview|Topic 6.1]] tests **causation** directly. The AP exam will ask you to explain *why* imperialism happened, and the best answers weigh multiple causes against each other: ideology (Social Darwinism), economics (raw materials and markets), political competition (nationalism), and technology (industrial military advantage). Do not treat any single cause as sufficient.
 
 → [[Unit-6.1/Rationales for Imperialism Overview|Rationales for Imperialism Overview]]
 
 ### 6.2 — State Expansion
 
-The mechanics of empire varied by region and by imperial power, but between 1870 and 1914 the pace was extraordinary. Topic 6.2 traces the "Scramble for Africa," the consolidation of Asian empires, and the emergence of American and Japanese imperialism.
+The mechanics of empire varied by region and by imperial power, but between 1870 and 1914 the pace was extraordinary. [[Unit-6.2/State Expansion Overview|Topic 6.2]] traces the "Scramble for Africa," the consolidation of Asian empires, and the emergence of American and Japanese imperialism.
 
 **Africa** was the most dramatic case. In 1870, Europeans controlled about 10% of Africa; by 1914, they controlled about 90%. The [[Concept Notes/Berlin Conference|Berlin Conference]] (1884–85) — convened by Bismarck to regulate the scramble — established two principles: the "effective occupation" doctrine (claiming territory required actual presence, not just a flag) and the principle of free trade access for all European powers in the Congo basin. No African leader was invited. The results on the map were lines drawn through ethnic territories, separating peoples who shared language and culture and joining those who did not — boundaries that persist today.
 
@@ -86,7 +86,7 @@ The mechanics of empire varied by region and by imperial power, but between 1870
 
 ### 6.3 — Indigenous Responses to State Expansion
 
-European conquest was never unopposed. Topic 6.3 examines how colonized peoples resisted, accommodated, and adapted to imperial rule — and why some responses were more effective than others.
+European conquest was never unopposed. [[Unit-6.3/Indigenous Responses to State Expansion Overview|Topic 6.3]] examines how colonized peoples resisted, accommodated, and adapted to imperial rule — and why some responses were more effective than others.
 
 **Armed resistance** was the first response in most cases, and it was often initially successful before superior European firepower prevailed. The **Zulu** under Cetshwayo defeated the British at Isandlwana (1879) — one of the most dramatic British defeats in colonial history — before being overwhelmed at Ulundi. **Ethiopia** under Emperor Menelik II defeated an Italian invasion at the **Battle of Adwa** (1895), remaining the only African state never colonized by a European power. The victory was made possible by Menelik's diplomatic skill (playing European powers against each other for arms imports) and the Ethiopians' tactical use of terrain. Adwa became a global symbol of African resistance and inspiration for 20th-century Pan-African movements.
 
@@ -106,7 +106,7 @@ The **Sepoy Rebellion** (1857) — also called the Indian Rebellion or India's "
 
 ### 6.4 — Global Economic Development
 
-[[Concept Notes/Imperialism\|Imperialism]] fundamentally restructured the global economy, creating a world divided between industrial producers and primary-commodity exporters. Topic 6.4 examines the economic mechanisms and their consequences.
+[[Concept Notes/Imperialism\|Imperialism]] fundamentally restructured the global economy, creating a world divided between industrial producers and primary-commodity exporters. [[Unit-6.4/Global Economic Development Overview|Topic 6.4]] examines the economic mechanisms and their consequences.
 
 **Extractive infrastructure** was the visible face of colonial economic development. Railroads penetrated colonial interiors not to connect African or Asian cities to each other, but to carry raw materials from mines and plantations to coastal ports for export. The same railway that made British India legible and taxable made it possible to drain grain from famished provinces for export — contributing to the estimated 12–29 million deaths in the Indian famines of 1876–1879 and 1899–1900 under British Raj policies.
 
@@ -123,7 +123,7 @@ The **Sepoy Rebellion** (1857) — also called the Indian Rebellion or India's "
 
 ### 6.5 — Economic Imperialism
 
-Formal colonization — annexing territory and establishing direct political rule — was only one form of imperial control. Topic 6.5 examines "economic imperialism": domination through trade, investment, debt, and unequal treaties that achieved the same economic extraction without the administrative costs of colonization.
+Formal colonization — annexing territory and establishing direct political rule — was only one form of imperial control. [[Unit-6.5/Economic Imperialism Overview|Topic 6.5]] examines "economic imperialism": domination through trade, investment, debt, and unequal treaties that achieved the same economic extraction without the administrative costs of colonization.
 
 **China** was the paradigmatic case. The **Opium Wars** (1839–42, 1856–60) were triggered by British insistence on the right to sell opium — a narcotic — in China over Chinese government objections. When China resisted, Britain used military force to impose **unequal treaties** that: opened "treaty ports" to foreign trade, granted extraterritoriality (foreign citizens immune from Chinese law), imposed war indemnities, and eventually created "spheres of influence" dividing China into economic zones controlled by different powers. China was never formally colonized — it remained nominally sovereign — but by 1900 it had lost control of its trade policy, its ports, and much of its tariff revenue. The [[Concept Notes/Opium Trade|Opium Trade]] link traces this across the broader period.
 
@@ -141,7 +141,7 @@ Formal colonization — annexing territory and establishing direct political rul
 
 ### 6.6 — Causes of Migration in an Interconnected World
 
-Imperialism set the world in motion. Between c. 1815 and 1914, more than 55 million people left Europe for the Americas, Australasia, and southern Africa. Millions more moved within and between colonial territories as laborers. Topic 6.6 examines the push factors that expelled and the pull factors that attracted these migrants.
+Imperialism set the world in motion. Between c. 1815 and 1914, more than 55 million people left Europe for the Americas, Australasia, and southern Africa. Millions more moved within and between colonial territories as laborers. [[Unit-6.6/Causes of Migration in an Interconnected World Overview|Topic 6.6]] examines the push factors that expelled and the pull factors that attracted these migrants.
 
 **European mass emigration** was driven by push factors at home and pull factors abroad. Push factors included: population growth without corresponding agricultural employment, the Irish Famine (1845–52) that killed approximately 1 million and drove 1–2 million more to emigrate, Jewish pogroms in Russia (particularly after 1880) that drove hundreds of thousands to flee, and economic disruption from industrialization itself (displaced artisans, agricultural workers losing to mechanization). Pull factors included: available land in the Americas and Australasia, industrial labor demand in the United States, and active recruitment by receiving governments (the United States, Canada, Argentina, and Australia all advertised for settlers).
 
@@ -159,7 +159,7 @@ Imperialism set the world in motion. Between c. 1815 and 1914, more than 55 mill
 
 ### 6.7 — Effects of Migration
 
-Mass migration transformed both the societies migrants left and the societies they entered. Topic 6.7 examines the cultural, economic, and political consequences of this demographic upheaval.
+Mass migration transformed both the societies migrants left and the societies they entered. [[Unit-6.7/Effects of Migration Overview|Topic 6.7]] examines the cultural, economic, and political consequences of this demographic upheaval.
 
 **Receiving societies** were fundamentally changed. The United States went from approximately 23 million people in 1850 to 76 million in 1900, absorbing tens of millions of European migrants. Argentina's population quadrupled between 1870 and 1914. Australia's gold rushes drew Chinese migrants whose presence triggered racist legislation. New ethnic neighborhoods — Chinatowns in San Francisco, Little Italy in New York, Jewish enclaves in Chicago — formed as migrants clustered with others who shared language, religion, and culture. These communities maintained ties to home regions (through letters, remittances, and return migration) while also adapting to new environments.
 
@@ -176,7 +176,7 @@ Mass migration transformed both the societies migrants left and the societies th
 
 ### 6.8 — Causation in the Imperial Age
 
-The synthesis topic asks students to apply AP historical reasoning skills to the unit as a whole. Topic 6.8 focuses on **causation** — explaining *why* industrialization and imperialism happened, and *why* their consequences were distributed so unequally.
+The synthesis topic asks students to apply AP historical reasoning skills to the unit as a whole. [[Unit-6.8/Causation in the Imperial Age Overview|Topic 6.8]] focuses on **causation** — explaining *why* industrialization and imperialism happened, and *why* their consequences were distributed so unequally.
 
 **The causal chain of imperialism** runs: industrial technology creates military advantage → national competition drives expansion → ideology (Social Darwinism, mission civilisatrice) provides justification → extractive colonial economies destroy indigenous production → migration fills labor gaps created by abolition → diaspora communities and nationalist movements emerge → anti-colonial resistance escalates. Each link in this chain connects topics within Unit 6 and extends forward into Units 7 and 8.
 
@@ -285,4 +285,4 @@ The patterns of Unit 6 build on Unit 4's colonial structures. European coastal t
 The rivalries created by imperial competition directly caused World War I. German unification and industrial growth threatened British naval and economic supremacy; competition for African and Asian territory created flash points; the alliance system built to manage imperial competition made any regional conflict global. The **[[Concept Notes/Pan-Africanism|Pan-Africanism]]** and Indian nationalist movements born in Unit 6's resistance phase (6.3) become the organized independence movements of Unit 8. The anti-colonial nationalism that the Berlin Conference so thoroughly ignored was already germinating by 1900.
 
 **Forward to Unit 8 (Cold War Origins and Decolonization):**
-The structural inequalities created by Unit 6 — colonial extractive economies, racial hierarchies embedded in law and governance, suppressed indigenous political organization — define the conditions from which Unit 8's decolonization movements emerge. The Indian National Congress (1885) becomes Gandhi's independence vehicle. Pan-Africanism (rooted in diaspora communities created by Unit 6 migration) becomes the intellectual foundation for African independence. The post-colonial poverty of Unit 8 and 9's developing world is the direct economic legacy of the extractive structures Topic 6.4 describes.
+The structural inequalities created by Unit 6 — colonial extractive economies, racial hierarchies embedded in law and governance, suppressed indigenous political organization — define the conditions from which Unit 8's decolonization movements emerge. The Indian National Congress (1885) becomes Gandhi's independence vehicle. Pan-Africanism (rooted in diaspora communities created by Unit 6 migration) becomes the intellectual foundation for African independence. The post-colonial poverty of Unit 8 and 9's developing world is the direct economic legacy of the extractive structures [[Unit-6.4/Global Economic Development Overview|Topic 6.4]] describes.

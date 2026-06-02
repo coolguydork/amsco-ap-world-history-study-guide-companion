@@ -32,8 +32,8 @@ tags: [apwh, unit-5, topic-5-7, period-3, timeline, economics, industrialization
 
 All events in this topic fall in **AP Period 3 (1750–1900)**. The economic structures built here — corporate capitalism, transnational finance, monopoly — carry directly into Period 4:
 
-- **Topic 5.8:** Workers and critics respond to these same structures → socialism, labor unions
-- **Topic 6.4–6.5:** Transnational corporations and global finance → formal economic imperialism
+- **[[Unit-5.8/Reactions to the Industrial Economy Overview|Topic 5.8]]:** Workers and critics respond to these same structures → socialism, labor unions
+- **[[Unit-6.4/Global Economic Development Overview|Topic 6.4]]–6.5:** Transnational corporations and global finance → formal economic imperialism
 - **Topic 7.x:** Industrial capitalism's contradictions → world wars, [[Concept Notes/Great Depression\|Great Depression]]
 
 > [!tip]

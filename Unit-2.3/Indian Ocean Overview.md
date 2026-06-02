@@ -66,6 +66,6 @@ The Indian Ocean network in 1200–1450 was the world's most sophisticated comme
 - **Builds on** [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]] — Indian subcontinent's role as Indian Ocean hub
 - **Builds on** [[Unit-1.5/Africa Overview|Africa Overview]] — Swahili coast and East African states
 - **Compare with** [[Unit-2.1/Silk Roads Overview|Silk Roads Overview]] — land vs. sea trade networks
-- **Leads to** Topic 4.1 — Portuguese entry into Indian Ocean and disruption of existing networks
+- **Leads to** [[Unit-4.1/Technological Innovations Overview|Topic 4.1]] — Portuguese entry into Indian Ocean and disruption of existing networks
 - **AP concept** [[Concept Notes/Indian Ocean Trade Network|Indian Ocean Trade Network]]
 - **AP concept** [[Concept Notes/Silk Roads|Silk Roads]] (comparison)

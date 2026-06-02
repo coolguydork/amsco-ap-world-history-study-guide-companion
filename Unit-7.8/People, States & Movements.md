@@ -33,7 +33,7 @@ Serbian nationalist president who directed ethnic cleansing and genocide in Bosn
 President of Sudan (1989–2019) who directed the Darfur genocide beginning in 2003. First sitting head of state charged by the [[Concept Notes/International Criminal Court\|International Criminal Court]] (2009) for war crimes, crimes against humanity, and genocide. Remained in power despite ICC charges for years, exposing the limits of international enforcement when geopolitical interests (China, Arab League) protected the perpetrator.
 
 **Pol Pot**
-Khmer Rouge leader who directed the Cambodian genocide (1975–1979), killing 1.6–1.8 million Cambodians in an attempt to "purify" society along racial, social, and political lines. Referenced in AMSCO Topic 7.8 as evidence that genocide continued after WWII; covered in detail in Topic 8.6. Represents post-WWII communist totalitarian genocide alongside Stalin's famines.
+Khmer Rouge leader who directed the Cambodian genocide (1975–1979), killing 1.6–1.8 million Cambodians in an attempt to "purify" society along racial, social, and political lines. Referenced in AMSCO Topic 7.8 as evidence that genocide continued after WWII; covered in detail in [[Unit-8.6/Newly Independent States Overview|Topic 8.6]]. Represents post-WWII communist totalitarian genocide alongside Stalin's famines.
 
 ## States
 

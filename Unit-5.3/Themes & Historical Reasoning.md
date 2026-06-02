@@ -32,7 +32,7 @@ The Industrial Revolution marked a fundamental transition in economic organizati
 
 **Wage labor**: Workers no longer produced their own goods or controlled their tools. They sold their labor for wages — a fundamentally new economic relationship that defined the industrial working class.
 
-**Laissez-faire theory**: Adam Smith's *Wealth of Nations* (1776) provided the intellectual framework arguing that free markets were more efficient than government management. This ideology justified minimal regulation of factory conditions — an argument that would face challenge in Topic 5.8.
+**Laissez-faire theory**: Adam Smith's *Wealth of Nations* (1776) provided the intellectual framework arguing that free markets were more efficient than government management. This ideology justified minimal regulation of factory conditions — an argument that would face challenge in [[Unit-5.8/Reactions to the Industrial Economy Overview|Topic 5.8]].
 
 ### ENV — Humans and the Environment
 
@@ -81,9 +81,9 @@ The TAH exercise for Topic 5.3 asks students to identify and categorize factors 
 
 ## Historical Reasoning: Comparison
 
-Britain vs. non-industrializers (c. 1750–1850): The conditions that made Britain unique — coal, colonies, capital, legal protections, enclosure — were NOT present everywhere. China had coal but lacked the legal and financial infrastructure. India had cotton but was being deindustrialized by British imports. This explains why industrialization began in Britain and not elsewhere. See **Topic 5.4** for the spread of industrialization to Western Europe and the Americas.
+Britain vs. non-industrializers (c. 1750–1850): The conditions that made Britain unique — coal, colonies, capital, legal protections, enclosure — were NOT present everywhere. China had coal but lacked the legal and financial infrastructure. India had cotton but was being deindustrialized by British imports. This explains why industrialization began in Britain and not elsewhere. See **[[Unit-5.4/Industrialization Spreads Overview|Topic 5.4]]** for the spread of industrialization to Western Europe and the Americas.
 
-Compare also with the earlier [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] revolution (Topic 3.1 — [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Gunpowder Empires Expand]]): both represent moments when a transformative technology reshaped state power and social organization.
+Compare also with the earlier [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] revolution ([[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Topic 3.1]] — [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Gunpowder Empires Expand]]): both represent moments when a transformative technology reshaped state power and social organization.
 
 ---
 

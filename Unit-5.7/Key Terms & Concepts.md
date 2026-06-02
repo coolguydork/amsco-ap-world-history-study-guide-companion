@@ -23,7 +23,7 @@ Individuals who own shares of a corporation; receive dividends when the company 
 Exchange where shares of corporations are bought and sold. Allowed industrialists to raise massive capital from dispersed investors and gave stockholders a liquid way to exit investments, making corporate ownership much more flexible than partnership.
 
 **monopoly**
-Control of an entire industry or market by a single company, eliminating competition. Classic AP examples: Rockefeller's Standard Oil (U.S.), Krupp steel (Germany). Monopolies concentrate economic and political power — a key target of socialist and labor critics in Topic 5.8.
+Control of an entire industry or market by a single company, eliminating competition. Classic AP examples: Rockefeller's Standard Oil (U.S.), Krupp steel (Germany). Monopolies concentrate economic and political power — a key target of socialist and labor critics in [[Unit-5.8/Reactions to the Industrial Economy Overview|Topic 5.8]].
 
 **transnational**
 Describes companies or organizations operating across national boundaries. 19th-century transnational firms like HSBC and Unilever sourced raw materials from colonies and sold goods globally, gaining wealth and influence on a scale previously impossible. Directly connected to economic imperialism [[Unit-6.5/Economic Imperialism Overview|Economic Imperialism Overview]].
@@ -39,7 +39,7 @@ HSBC; British-owned bank founded in Hong Kong (1865) that focused on finance, co
 British-Dutch transnational company producing household goods, most famously soap. Sourced palm oil from British West Africa and the Belgian Congo via large colonial plantations. Symbol of how industrial capitalism used imperial holdings as both raw material sources and labor reserves. (AMSCO p. 326)
 
 > [!exam-tip]
-> Both HSBC and Unilever are examples of how **economic imperialism** worked in practice. Even before formal conquest, corporations were extracting colonial resources. This is the bridge between Topic 5.7 and Topic 6.5.
+> Both HSBC and Unilever are examples of how **economic imperialism** worked in practice. Even before formal conquest, corporations were extracting colonial resources. This is the bridge between Topic 5.7 and [[Unit-6.5/Economic Imperialism Overview|Topic 6.5]].
 
 ---
 

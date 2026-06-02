@@ -25,7 +25,7 @@ The strategy of adopting Western technology and institutions in order to *protec
 The process by which a previously manufacturing-capable region loses that capacity. In 19th-century India and Egypt, deindustrialization resulted not from natural backwardness but from deliberate colonial policies (tariffs, mine closures, legal restrictions) that destroyed competitive industries to benefit the colonial metropole. A key concept for understanding why industrialization was *uneven* globally.
 
 **Corvée labor**
-Unpaid or forced labor owed to a state or landlord — distinct from chattel slavery. Appears as a labor system in colonial contexts; becomes more central in **Topic 6.2** (colonialism and labor systems). Connected to the broader theme of how industrial capitalism coexisted with or transformed pre-existing coerced labor systems.
+Unpaid or forced labor owed to a state or landlord — distinct from chattel slavery. Appears as a labor system in colonial contexts; becomes more central in **[[Unit-6.2/State Expansion Overview|Topic 6.2]]** (colonialism and labor systems). Connected to the broader theme of how industrial capitalism coexisted with or transformed pre-existing coerced labor systems.
 
 ## Transportation & Infrastructure
 

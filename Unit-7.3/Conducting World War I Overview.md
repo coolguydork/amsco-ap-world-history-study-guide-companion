@@ -76,10 +76,10 @@ Wilson's principle of **self-determination** did reshape European borders: Finla
 
 ## Why This Matters for the AP Exam
 
-The effects of the Treaty of Versailles are one of the most-tested connections in Unit 7. The reparations burden destroyed Germany's economy (hyperinflation), the [[Concept Notes/Weimar Republic\|Weimar Republic]]'s association with national humiliation discredited democratic governance, and resentment created fertile ground for the Nazi Party's rise barely 15 years later. This is a direct causal chain from Topic 7.3 → Topic 7.5 (Unresolved Tensions) → Topic 7.9 (Causes of WWII).
+The effects of the Treaty of Versailles are one of the most-tested connections in Unit 7. The reparations burden destroyed Germany's economy (hyperinflation), the [[Concept Notes/Weimar Republic\|Weimar Republic]]'s association with national humiliation discredited democratic governance, and resentment created fertile ground for the Nazi Party's rise barely 15 years later. This is a direct causal chain from Topic 7.3 → [[Unit-7.5/Unresolved Tensions After World War I Overview|Topic 7.5]] (Unresolved Tensions) → [[Unit-7.9/Causation in Global Conflict Overview|Topic 7.9]] (Causes of WWII).
 
 > [!exam-tip]
-> SAQ/LEQ connection: Compare the Treaty of Versailles (1919) with the Peace of Westphalia (1648, Topic 3.3). Westphalia ended religious wars by respecting state sovereignty; Versailles humiliated Germany while simultaneously redrawing borders through self-determination — a contradiction that bred resentment.
+> SAQ/LEQ connection: Compare the Treaty of Versailles (1919) with the Peace of Westphalia (1648, [[Unit-3.3/Empires: Belief Systems Overview|Topic 3.3]]). Westphalia ended religious wars by respecting state sovereignty; Versailles humiliated Germany while simultaneously redrawing borders through self-determination — a contradiction that bred resentment.
 
 ## Connected Topics
 

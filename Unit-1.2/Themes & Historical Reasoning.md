@@ -85,7 +85,7 @@ Islam elevated the status of merchants more than contemporary European or Chines
 
 ### The Mamluk Sultanate's Economic Logic
 
-The Mamluks flourished by facilitating trade between the Islamic world and Europe — particularly cotton and sugar. This illustrates how Islamic states derived political power from controlling trade routes. When the Portuguese developed sea routes around Africa in the late 1400s, they bypassed Mamluk-controlled trade networks, contributing directly to Mamluk decline. This is a **continuity-and-change** story: Islamic domination of overland trade (continuity) → European maritime disruption (change in Topic 4.2).
+The Mamluks flourished by facilitating trade between the Islamic world and Europe — particularly cotton and sugar. This illustrates how Islamic states derived political power from controlling trade routes. When the Portuguese developed sea routes around Africa in the late 1400s, they bypassed Mamluk-controlled trade networks, contributing directly to Mamluk decline. This is a **continuity-and-change** story: Islamic domination of overland trade (continuity) → European maritime disruption (change in [[Unit-4.2/Exploration: Causes & Events Overview|Topic 4.2]]).
 
 ---
 

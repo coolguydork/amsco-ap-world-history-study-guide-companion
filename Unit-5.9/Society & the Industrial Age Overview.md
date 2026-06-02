@@ -49,7 +49,7 @@ Industrialization affected women differently by class — a favorite AP comparis
 Yet industrialization also **spurred feminism**. Women's absence from the workplace created organizing space; the Seneca Falls Convention (1848) in the U.S. became an early landmark of the women's rights movement.
 
 > [!tip]
-> Compare to Topic 4.7: [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]] — industrialization created new hierarchies rather than simply reshuffling old ones.
+> Compare to [[Unit-4.7/Changing Social Hierarchies Overview|Topic 4.7]]: [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]] — industrialization created new hierarchies rather than simply reshuffling old ones.
 
 ## Effects on Children
 
@@ -64,4 +64,4 @@ Industrial production ran on coal, which meant toxic air (smog = smoke + fog), r
 **Mass production** made goods cheaper and more abundant, expanding consumer access. Factory growth pulled millions from rural areas to cities — and from less-industrialized countries to industrial ones. But industrialization also: concentrated poverty in urban slums, deepened global inequality (industrialized states extracted raw materials from colonized regions, undercutting industrialization in Egypt, China, and India), and created a new, contested relationship between workers and owners that fueled socialism and labor reform (see [[Unit-5.8/Reactions to the Industrial Economy Overview|Reactions to the Industrial Economy Overview]]).
 
 > [!warning]
-> Don't conflate Topic 5.9 with Topic 5.8 (socialism, Marx, labor unions). Topic 5.9 is about *social and environmental effects* — class structure, family life, urban conditions, gender roles. Topic 5.8 is about *ideological and political responses* to those effects.
+> Don't conflate Topic 5.9 with [[Unit-5.8/Reactions to the Industrial Economy Overview|Topic 5.8]] (socialism, Marx, labor unions). Topic 5.9 is about *social and environmental effects* — class structure, family life, urban conditions, gender roles. [[Unit-5.8/Reactions to the Industrial Economy Overview|Topic 5.8]] is about *ideological and political responses* to those effects.

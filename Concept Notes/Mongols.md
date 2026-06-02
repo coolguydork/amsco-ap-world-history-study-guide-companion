@@ -39,5 +39,5 @@ The Mongols are one of the highest-yield topics in AP World History because they
 
 ## AMSCO Page References
 
-- Topic 1.3, printed p. 25 — Delhi Sultanate's defense against Mongol invasion
-- Topic 1.7 — Mongol Empire as primary topic
+- [[Unit-1.3/South & Southeast Asia Overview|Topic 1.3]], printed p. 25 — Delhi Sultanate's defense against Mongol invasion
+- [[Unit-1.7/Comparison Overview|Topic 1.7]] — Mongol Empire as primary topic

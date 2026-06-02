@@ -44,7 +44,7 @@ For the AP exam, Unit 7's central argument is causation: understanding not just 
 
 ### 7.1 — Shifting Power After World War I
 
-The 20th century opened with empires — but several of those empires were already under internal stress by 1900. Topic 7.1 traces the revolutions and political upheavals that reshaped global power before and during WWI, producing the new political map that WWII would redraw again.
+The 20th century opened with empires — but several of those empires were already under internal stress by 1900. [[Unit-7.1/Shifting Power Overview|Topic 7.1]] traces the revolutions and political upheavals that reshaped global power before and during WWI, producing the new political map that WWII would redraw again.
 
 **Russia** experienced revolution twice. The Revolution of 1905 — triggered by military defeat against Japan (Russo-Japanese War, 1904–05) and "Bloody Sunday" — forced Tsar Nicholas II to create a parliament (the Duma) but did not fundamentally change the autocracy. The February Revolution of 1917 toppled the Tsar; the October Revolution brought the [[Concept Notes/Bolsheviks|Bolsheviks]] under Lenin to power. The Bolsheviks withdrew from WWI (Treaty of Brest-Litovsk, 1918), fought a brutal civil war, and by 1922 had established the Union of Soviet Socialist Republics — the world's first Communist state.
 
@@ -86,7 +86,7 @@ WWI had no single cause — the AP exam tests whether you can explain how multip
 
 ### 7.3 — Conducting World War I
 
-WWI introduced the world to industrial-scale killing. Topic 7.3 examines how the war was actually fought — the technologies, tactics, and human costs — and its transformative effects on societies worldwide.
+WWI introduced the world to industrial-scale killing. [[Unit-7.3/Conducting World War I Overview|Topic 7.3]] examines how the war was actually fought — the technologies, tactics, and human costs — and its transformative effects on societies worldwide.
 
 **Trench warfare** defined the Western Front. From the English Channel to Switzerland, a line of trenches extended 400 miles, barely moving for four years. Machine guns made frontal assaults suicidal; the Battles of Verdun and the Somme (both 1916) each killed over a million men combined for territorial gains measured in miles. Artillery barrages preceded every offensive, achieving surprise at the cost of warning the enemy. The stalemate produced not just casualties but psychological trauma — "shell shock" (PTSD) on a mass scale.
 
@@ -107,7 +107,7 @@ WWI introduced the world to industrial-scale killing. Topic 7.3 examines how the
 
 ### 7.4 — Economy in the Interwar Period
 
-The interwar period (1919–1939) was defined by economic instability that destroyed the political center in many countries and made extremist movements possible. Topic 7.4 traces three connected economic stories: postwar instability, the [[Concept Notes/Great Depression|Great Depression]], and the rise of [[Concept Notes/Fascism|Fascism]] and communism as alternative economic models.
+The interwar period (1919–1939) was defined by economic instability that destroyed the political center in many countries and made extremist movements possible. [[Unit-7.4/Economy in the Interwar Period Overview|Topic 7.4]] traces three connected economic stories: postwar instability, the [[Concept Notes/Great Depression|Great Depression]], and the rise of [[Concept Notes/Fascism|Fascism]] and communism as alternative economic models.
 
 **Postwar instability** struck Germany first. The Versailles reparations burden, combined with postwar disruption, produced hyperinflation in the early 1920s — the German mark became worthless. A brief stabilization followed (the "Golden Twenties"), but Germany remained structurally dependent on American loans.
 
@@ -128,7 +128,7 @@ The interwar period (1919–1939) was defined by economic instability that destr
 
 ### 7.5 — Unresolved Tensions After World War I
 
-Topic 7.5 examines the peace that failed — the Treaty of Versailles and the mandate system — and the anti-colonial movements that the war's broken promises energized.
+[[Unit-7.5/Unresolved Tensions After World War I Overview|Topic 7.5]] examines the peace that failed — the Treaty of Versailles and the mandate system — and the anti-colonial movements that the war's broken promises energized.
 
 **The Treaty of Versailles** (1919) settled WWI but planted the seeds of WWII. The "war guilt clause" (Article 231) assigned sole responsibility for the war to Germany, justifying massive reparations. Germany lost 13% of its territory and 10% of its population. The settlement humiliated Germany without destroying its capacity for recovery — a classic example of a peace harsh enough to generate resentment but not thorough enough to prevent remilitarization. John Maynard Keynes, the British economist who attended the Paris Peace Conference, predicted this outcome in *The Economic Consequences of the Peace* (1919).
 
@@ -151,7 +151,7 @@ Topic 7.5 examines the peace that failed — the Treaty of Versailles and the ma
 
 ### 7.6 — Causes of World War II
 
-Topic 7.6 traces the decade of crises (1931–1939) that led to WWII — and asks why democratic governments failed to stop fascist aggression before it became a world war.
+[[Unit-7.6/Causes of World War II Overview|Topic 7.6]] traces the decade of crises (1931–1939) that led to WWII — and asks why democratic governments failed to stop fascist aggression before it became a world war.
 
 **Japanese expansion** in Asia preceded WWII in Europe by nearly a decade. Japan invaded Manchuria in 1931 and established the puppet state of Manchukuo; the League of Nations condemned the action but took no military steps to reverse it. Japan invaded China proper in 1937, committing the Nanjing Massacre (killing ~200,000 Chinese civilians). Japan's imperial logic was explicitly anti-Western: the **Greater East Asia Co-Prosperity Sphere** framed Japanese expansion as Asian liberation from European colonialism, even as Japan imposed its own brutal colonial rule.
 
@@ -177,7 +177,7 @@ Topic 7.6 traces the decade of crises (1931–1939) that led to WWII — and ask
 
 ### 7.7 — Conducting World War II
 
-WWII was fought on every inhabited continent, killed approximately 70–85 million people, and ended with weapons that could destroy cities in seconds. Topic 7.7 traces the war's major turning points and its transformative consequences for the international order.
+WWII was fought on every inhabited continent, killed approximately 70–85 million people, and ended with weapons that could destroy cities in seconds. [[Unit-7.7/Conducting World War II Overview|Topic 7.7]] traces the war's major turning points and its transformative consequences for the international order.
 
 **Blitzkrieg** ("lightning war") — coordinated armored and air assault — shattered the French defense in six weeks (May–June 1940). The speed and success of German operations in Poland, France, and the Low Countries reflected the integration of tanks, motorized infantry, and tactical aircraft in ways the Allies had not yet matched. Britain survived the **Battle of Britain** (1940) through RAF fighter defense and Hitler's decision not to attempt a Channel crossing.
 
@@ -198,7 +198,7 @@ WWII was fought on every inhabited continent, killed approximately 70–85 milli
 
 ### 7.8 — Mass Atrocities
 
-Topic 7.8 is the unit's moral center. It examines genocide and mass killing not as aberrations but as organized state policies implemented using modern administrative and industrial methods — and the international response that these events generated.
+[[Unit-7.8/Mass Atrocities Overview|Topic 7.8]] is the unit's moral center. It examines genocide and mass killing not as aberrations but as organized state policies implemented using modern administrative and industrial methods — and the international response that these events generated.
 
 **The [[Concept Notes/Holocaust|Holocaust]]** (1941–1945) was Nazi Germany's systematic murder of 6 million Jews and approximately 5–6 million others (Roma, Soviet POWs, people with disabilities, political opponents, homosexuals). It proceeded in stages: legal discrimination ([[Concept Notes/Nuremberg Laws\|Nuremberg Laws]], 1935), forced emigration, concentration and forced labor, and finally industrialized mass killing at death camps (Auschwitz, Treblinka, Sobibor). The Holocaust was not incidental to WWII — it was a parallel operation that consumed significant German military and administrative resources even when the war was going badly. The term "**[[Concept Notes/Genocide|Genocide]]**" — deliberately destroying a national, ethnic, racial, or religious group — was coined by Raphael Lemkin in 1944 specifically in response to the Holocaust.
 
@@ -224,7 +224,7 @@ Topic 7.8 is the unit's moral center. It examines genocide and mass killing not 
 
 ### 7.9 — Causation in Global Conflict
 
-Topic 7.9 is the CCOT synthesis chapter: it asks students to step back from the individual events of 7.1–7.8 and analyze the unit's patterns — what changed, what persisted, and what caused what across the arc of 1900–1945.
+[[Unit-7.9/Causation in Global Conflict Overview|Topic 7.9]] is the CCOT synthesis chapter: it asks students to step back from the individual events of 7.1–7.8 and analyze the unit's patterns — what changed, what persisted, and what caused what across the arc of 1900–1945.
 
 **The core argument:** Both world wars shared structural causes — nationalism, economic rivalry, military alliance systems, imperial competition — but WWII was also caused by the *specific failure* of WWI's settlement. Versailles created the conditions that fascism exploited; fascism pursued a deliberate program of expansion that appeasement failed to deter. This means WWII was both structurally overdetermined (the conditions were there) and contingently caused (specific decisions by specific leaders mattered).
 
@@ -242,7 +242,7 @@ Topic 7.9 is the CCOT synthesis chapter: it asks students to step back from the 
 - Great-power rivalry continued — shifting from European imperial competition to US-Soviet Cold War competition
 - Colonial relationships persisted (only beginning to unravel after 1945)
 
-**AP skill focus:** Topic 7.9 is primarily about the historical reasoning skill of **causation** — specifically, distinguishing between long-term structural causes and short-term triggers, evaluating the relative significance of multiple causes, and recognizing that causation operates at multiple levels (individual decisions, structural conditions, contingent events).
+**AP skill focus:** [[Unit-7.9/Causation in Global Conflict Overview|Topic 7.9]] is primarily about the historical reasoning skill of **causation** — specifically, distinguishing between long-term structural causes and short-term triggers, evaluating the relative significance of multiple causes, and recognizing that causation operates at multiple levels (individual decisions, structural conditions, contingent events).
 
 > [!exam-tip]
 > **LEQ causation prompts often ask you to evaluate a claim like "The Treaty of Versailles caused World War II."** A sophisticated response agrees that Versailles created *conditions* for WWII without treating those conditions as *determinative*. Include: (1) how Versailles created economic instability and nationalist resentment in Germany; (2) how the Depression converted that resentment into political power for extremists; (3) how appeasement failed to halt aggression once it began. Then complicate the thesis: Japan's imperial expansion had independent causes; the Soviet-German pact was a specific decision by specific leaders; WWII might have happened even with a better Versailles.

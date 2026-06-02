@@ -43,7 +43,7 @@ tags: [apwh, unit-5, topic-5-3, period-3, practice, industrialization]
 - D) The shifts in political forces created conflicts among European governments.
 
 > [!tip] Answer: **C**
-> The growth of British industrial cities was driven by factory production — and those factories needed markets. The rise of maritime empires (Topic 4.5) created global networks of trade that generated demand for British manufactured goods in colonies and trading partners worldwide. This external demand incentivized investment in factories, which drew workers to cities. Option A (Enlightenment) is contextually true but doesn't explain *urbanization* specifically. Option B (nationalism) and D (political conflicts) are concurrent developments but not the primary driver of Manchester and Liverpool's growth.
+> The growth of British industrial cities was driven by factory production — and those factories needed markets. The rise of maritime empires ([[Unit-4.5/Maritime Empires Develop Overview|Topic 4.5]]) created global networks of trade that generated demand for British manufactured goods in colonies and trading partners worldwide. This external demand incentivized investment in factories, which drew workers to cities. Option A (Enlightenment) is contextually true but doesn't explain *urbanization* specifically. Option B (nationalism) and D (political conflicts) are concurrent developments but not the primary driver of Manchester and Liverpool's growth.
 
 ---
 
@@ -80,7 +80,7 @@ tags: [apwh, unit-5, topic-5-3, period-3, practice, industrialization]
 **Part B.** Explain ONE way in which the **factory system** affected economic structures from 1750–1900.
 
 > [!tip] Model Response — CCOT
-> The factory system restructured the economic relationship between workers and production by replacing skilled craft labor with **wage labor**. Before factories, cottage industry workers (especially women in the putting-out system) owned their tools, worked at their own pace in their homes, and earned piece-rate income. The factory system transferred ownership of machines and buildings to capitalist entrepreneurs, while workers sold their labor for hourly or daily wages. This created the modern class divide between capital-owners (bourgeoisie) and wage-workers (proletariat), which became the defining economic tension of the 19th century and generated new political ideologies including socialism and Marxism (Topic 5.7).
+> The factory system restructured the economic relationship between workers and production by replacing skilled craft labor with **wage labor**. Before factories, cottage industry workers (especially women in the putting-out system) owned their tools, worked at their own pace in their homes, and earned piece-rate income. The factory system transferred ownership of machines and buildings to capitalist entrepreneurs, while workers sold their labor for hourly or daily wages. This created the modern class divide between capital-owners (bourgeoisie) and wage-workers (proletariat), which became the defining economic tension of the 19th century and generated new political ideologies including socialism and Marxism ([[Unit-5.7/Economic Developments & Innovations Overview|Topic 5.7]]).
 
 **Part C.** Explain ONE way in which **population growth** affected the development of technology from 1750–1900.
 

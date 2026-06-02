@@ -60,7 +60,7 @@ The 9th Sapa Inca (emperor) who dramatically expanded the Inca Empire. His name 
 The Inca name for their empire, meaning "The Four Regions" — reflecting the empire's division into four administrative provinces. Emphasizes the Inca's sophisticated approach to governing vast, diverse territory. (AMSCO p. 37)
 
 **Mit'a system**
-The Inca labor tax — mandatory public service rather than payment of goods. Men aged 15–50 owed the state agricultural labor, construction work (roads, bridges, buildings), and military service. Distinct from the Aztec tribute system — labor instead of goods. Continued under Spanish colonial rule (an important continuity for Topic 4.4). (AMSCO p. 37)
+The Inca labor tax — mandatory public service rather than payment of goods. Men aged 15–50 owed the state agricultural labor, construction work (roads, bridges, buildings), and military service. Distinct from the Aztec tribute system — labor instead of goods. Continued under Spanish colonial rule (an important continuity for [[Unit-4.4/Maritime Empires Link Regions Overview|Topic 4.4]]). (AMSCO p. 37)
 
 **Quipu**
 System of knotted strings used by the Inca for recording numerical data and transmitting messages across the empire. The only Andean record-keeping technology — the Inca had no written script. Demonstrates that complex civilizations can develop sophisticated administration without alphabetic writing. (AMSCO p. 38)

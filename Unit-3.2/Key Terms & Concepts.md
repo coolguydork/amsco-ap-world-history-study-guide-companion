@@ -20,7 +20,7 @@ The belief, common in the Middle Ages and early modern Europe, that a monarch's 
 A system of government in which the monarch holds complete, unchecked authority over the state — combining lawmaking, judicial, and executive power in one person. France under Louis XIV is the AP exam's defining example: "L'état, c'est moi." Contrast with England, where Parliament and the English Bill of Rights limited royal power. *p. 156*
 
 **Millet system** *(Ottoman Empire)*
-The Ottoman system of organizing non-Muslim subjects (Christians, Jews) into self-governing religious communities called millets. Each millet handled its own religious law, education, and internal affairs while paying taxes to the Ottoman state. This allowed the empire to govern diverse populations without forced conversion. *(mentioned in broader 3.2 context; central to Topic 3.3)*
+The Ottoman system of organizing non-Muslim subjects (Christians, Jews) into self-governing religious communities called millets. Each millet handled its own religious law, education, and internal affairs while paying taxes to the Ottoman state. This allowed the empire to govern diverse populations without forced conversion. *(mentioned in broader 3.2 context; central to [[Unit-3.3/Empires: Belief Systems Overview|Topic 3.3]])*
 
 **Devshirme** *(Ottoman Empire)*
 Literally "collecting" in Ottoman Turkish. The system by which the Ottoman government recruited Christian boys aged 8–20 from conquered Balkan territories by force, converted them to Islam, and trained them for administrative and military service. The devshirme was a form of tribute from conquered Christian peoples. Because these recruits had no family connections in the Muslim ruling class, they were considered absolutely loyal to the sultan. *p. 158*

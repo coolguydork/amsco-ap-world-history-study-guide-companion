@@ -50,7 +50,7 @@ The major philosophers each contributed a distinct angle. John Locke argued that
 The Enlightenment also produced the period's dominant political ideologies: liberalism (individual rights, constitutional government), conservatism (defense of tradition and gradual change), nationalism (cultural [[Concept Notes/self-determination\|self-determination]]), and early socialism (collective ownership). It extended — unevenly — to questions of gender: Mary Wollstonecraft's *A Vindication of the Rights of Woman* (1792) applied Enlightenment logic to argue for women's equality.
 
 > [!exam-tip]
-> The Enlightenment is not just background context — it is the causal engine for 5.2. Every revolution in Topic 5.2 uses Enlightenment vocabulary: natural rights, popular sovereignty, consent of the governed. Identify which specific thinker's ideas appear in each revolution's foundational documents.
+> The Enlightenment is not just background context — it is the causal engine for 5.2. Every revolution in [[Unit-5.2/Nationalism & Revolutions Overview|Topic 5.2]] uses Enlightenment vocabulary: natural rights, popular sovereignty, consent of the governed. Identify which specific thinker's ideas appear in each revolution's foundational documents.
 
 → [[Unit-5.1/Enlightenment Overview|Enlightenment Overview]]
 

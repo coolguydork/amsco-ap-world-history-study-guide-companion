@@ -61,7 +61,7 @@ A Central Power that controlled much of the Middle East; fought the Allies on mu
 Initially neutral; entered the war April 1917 after the Zimmermann Telegram and resumed submarine warfare. Fresh U.S. troops and resources tipped the military balance toward the Allies. President Wilson's postwar idealism was then largely defeated at Paris and back home. The U.S. never joined the League of Nations — a pivotal failure of postwar internationalism.
 
 **Colonial Populations**
-One of the most AP-testable aspects of 7.3: the war was *global* because of colonialism. Colonial subjects from India (~1.5 million), West Africa, Algeria, Indochina, Australia, New Zealand, Canada, and Arab territories all fought in a war driven by European rivalries. Many were promised self-rule after the war; most promises were broken. This betrayal accelerated anticolonial nationalist movements in the interwar period (**Topic 7.5**).
+One of the most AP-testable aspects of 7.3: the war was *global* because of colonialism. Colonial subjects from India (~1.5 million), West Africa, Algeria, Indochina, Australia, New Zealand, Canada, and Arab territories all fought in a war driven by European rivalries. Many were promised self-rule after the war; most promises were broken. This betrayal accelerated anticolonial nationalist movements in the interwar period (**[[Unit-7.5/Unresolved Tensions After World War I Overview|Topic 7.5]]**).
 
 > [!exam-tip]
 > For DBQ/LEQ: colonial participation in WWI is powerful evidence for *both* the global nature of imperialism (TEC, ECN themes) *and* the origins of 20th-century anticolonial nationalism (SIO theme). Many colonial soldiers returned home having fought for empires that still refused to treat them as equals.

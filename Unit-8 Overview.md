@@ -185,7 +185,7 @@ In 1989, democratic revolutions swept Eastern Europe with startling speed: Polan
 
 ### 8.9 — Causation in the Age of the Cold War and Decolonization
 
-Topic 8.9 is the unit's synthesis chapter. AMSCO uses it to pull Unit 8 together around one central question: in what ways did the Cold War produce similar or different effects across the Eastern and Western Hemispheres?
+[[Unit-8.9/Causation in the Age of the Cold War & Decolonization Overview|Topic 8.9]] is the unit's synthesis chapter. AMSCO uses it to pull Unit 8 together around one central question: in what ways did the Cold War produce similar or different effects across the Eastern and Western Hemispheres?
 
 The answer is the foundation of every Unit 8 LEQ. **Similarities** across hemispheres: both experienced superpower interference, proxy wars, and the economic dependency of former colonies on their former colonizers. **Differences**: the Eastern Hemisphere bore a disproportionate military cost (Korea, Vietnam, Afghanistan, Angola), while Latin America's Cold War was fought primarily through coups, elections, and economic pressure rather than full-scale wars. Western Europe, rebuilt by the Marshall Plan, became economically prosperous; the Third World generally did not.
 

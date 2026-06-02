@@ -49,7 +49,7 @@ The **philosophes** were 18th-century French-language writers who popularized En
 
 ### Adam Smith and Economic Enlightenment
 
-**Adam Smith** (*The Wealth of Nations*, 1776) attacked [[Concept Notes/Mercantilism|mercantilism]] and argued for **laissez-faire** ("leave alone") economics. He believed that if individuals pursued their own economic interests, an "invisible hand" would guide markets to produce outcomes beneficial to all. Smith's work provided the intellectual foundation for **capitalism** — private ownership of the means of production operated for profit. His ideas will resurface in **Topic 5.7** (Economic Developments & Innovations).
+**Adam Smith** (*The Wealth of Nations*, 1776) attacked [[Concept Notes/Mercantilism|mercantilism]] and argued for **laissez-faire** ("leave alone") economics. He believed that if individuals pursued their own economic interests, an "invisible hand" would guide markets to produce outcomes beneficial to all. Smith's work provided the intellectual foundation for **capitalism** — private ownership of the means of production operated for profit. His ideas will resurface in **[[Unit-5.7/Economic Developments & Innovations Overview|Topic 5.7]]** (Economic Developments & Innovations).
 
 ### Deism
 
@@ -74,13 +74,13 @@ Later in the 19th century, the **Fabian Society** (Britain) pursued gradual soci
 
 **Abolitionism** extended rights arguments to enslaved people and serfs. Denmark (1807), Britain (1807), and the U.S. (1808) banned the slave trade first; slavery itself followed within decades in most of the Americas. Brazil was the last to abolish slavery, in 1888. In Europe, serfdom declined as economies industrialized — Alexander II abolished Russian serfdom in 1861, the largest single emancipation in history.
 
-**[[Concept Notes/Nationalism\|Nationalism]]** — the belief that people who share a language and culture should live in an independent nation-state — threatened multiethnic empires across Europe and became a driver of both revolution and war in the 19th century (see **Topic 5.2**).
+**[[Concept Notes/Nationalism\|Nationalism]]** — the belief that people who share a language and culture should live in an independent nation-state — threatened multiethnic empires across Europe and became a driver of both revolution and war in the 19th century (see **[[Unit-5.2/Nationalism & Revolutions Overview|Topic 5.2]]**).
 
 **Zionism** emerged in the late 19th century as many European Jews, facing centuries of **anti-Semitism** and **pogroms** (violent attacks on Jewish communities), concluded that safety required a homeland of their own. **Theodor Herzl** led the movement. The **Dreyfus Affair** (1894–1906) — in which a Jewish French military officer was wrongly convicted of treason on forged evidence — galvanized Zionist sentiment even in supposedly tolerant France. Zionists sought to re-establish a state in Palestine, then part of the Ottoman Empire. The modern state of Israel was founded in 1948.
 
 ## Broader Impact
 
-The Enlightenment's political ideas reached far beyond Europe. They provided the vocabulary — natural rights, popular sovereignty, separation of powers — for revolutionaries in America, France, Haiti, and Latin America. They also supplied the ideological tools for both the defenders and the critics of European imperialism (see **Topic 6.1**).
+The Enlightenment's political ideas reached far beyond Europe. They provided the vocabulary — natural rights, popular sovereignty, separation of powers — for revolutionaries in America, France, Haiti, and Latin America. They also supplied the ideological tools for both the defenders and the critics of European imperialism (see **[[Unit-6.1/Rationales for Imperialism Overview|Topic 6.1]]**).
 
 > [!tip]
 > The Enlightenment is a **cause** topic. On the AP exam, every revolution in Unit 5 (American, French, Haitian, Latin American) draws on it as a cause. Practice writing that causal link explicitly: "Enlightenment ideas of natural rights and popular sovereignty challenged monarchical authority, leading to…"

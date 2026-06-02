@@ -58,4 +58,4 @@ Racial assignment happened at baptism; people could not legally move up except t
 - [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power Overview]] — elites resist rulers; marginalized groups rebel
 - [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] — gunpowder empire foundations
 - [[Unit-1.7/Comparison Overview|Comparison Overview]] — pre-existing social hierarchies (Unit 1 baseline)
-- **Topic 5.2** — social hierarchies spark Atlantic revolutions
+- **[[Unit-5.2/Nationalism & Revolutions Overview|Topic 5.2]]** — social hierarchies spark Atlantic revolutions

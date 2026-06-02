@@ -73,4 +73,4 @@ As plantation agriculture and silver mining expanded, demand for labor intensifi
 - [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power Overview]] — social disruptions from economic change
 - [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]] — social structures that changed and persisted
 - [[Unit-2.7/Comparison of Economic Exchange Overview|Comparison of Economic Exchange Overview]] — earlier trade networks for comparison
-- **Topic 5.3** — Industrial Revolution transforms the economic systems established here
+- **[[Unit-5.3/Industrial Revolution Begins Overview|Topic 5.3]]** — Industrial Revolution transforms the economic systems established here

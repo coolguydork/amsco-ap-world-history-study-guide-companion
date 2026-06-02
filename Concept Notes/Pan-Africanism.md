@@ -35,7 +35,7 @@ The **5th Pan-African Congress (Manchester, 1945)** — attended by Kwame Nkruma
 
 ## AP Significance
 
-Pan-Africanism is essential for understanding **African decolonization** (Topic 8.5) and the **cultural dimensions of anti-colonial resistance** (Topic 7.5). It shows that decolonization was not just a political and military process but also a cultural and psychological one — reclaiming African identity and dignity after centuries of degradation under slavery and colonialism.
+Pan-Africanism is essential for understanding **African decolonization** ([[Unit-8.5/Decolonization after 1900 Overview|Topic 8.5]]) and the **cultural dimensions of anti-colonial resistance** ([[Unit-7.5/Unresolved Tensions After World War I Overview|Topic 7.5]]). It shows that decolonization was not just a political and military process but also a cultural and psychological one — reclaiming African identity and dignity after centuries of degradation under slavery and colonialism.
 
 > [!exam-tip]
 > Pan-Africanism frequently appears in AP SAQ and LEQ prompts about how colonized peoples resisted European imperialism. Know the distinction between cultural Pan-Africanism (Négritude — reclaiming African identity) and political Pan-Africanism (demands for independence and continental unity). Both are exam-relevant.

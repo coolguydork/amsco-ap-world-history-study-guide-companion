@@ -51,7 +51,7 @@ Unit 1 focuses on three major AP themes. Every topic threads through at least tw
 
 ## The Four Types of State-Building
 
-AMSCO's Topic 1.7 (pp. 65–68) offers the most useful framework for any LEQ on Unit 1 state-building. Every major state in Period 1 fits one of four patterns:
+AMSCO's [[Unit-1.7/Comparison Overview|Topic 1.7]] (pp. 65–68) offers the most useful framework for any LEQ on Unit 1 state-building. Every major state in Period 1 fits one of four patterns:
 
 | Pattern | Description | Examples |
 |---|---|---|

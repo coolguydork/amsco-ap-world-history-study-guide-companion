@@ -25,7 +25,7 @@ The wartime conferences (Tehran, Yalta, Potsdam) reveal how governance decisions
 
 The post-WWII economic order was deliberately constructed by the United States. The **Bretton Woods system** (1944) established the US dollar as the global reserve currency, created the International Monetary Fund (IMF) and the World Bank to stabilize the international economy, and institutionalized US economic dominance. This gave the US extraordinary leverage — and made the dollar the foundation of global trade for decades.
 
-The **Marshall Plan** (proposed 1947, Topic 8.2) extended US economic power into Europe. It rebuilt Western European economies AND created dependence on American goods and the dollar system. Stalin rejected the plan and pressured Eastern European states to do the same — recognizing it as an extension of American influence, not just aid.
+The **Marshall Plan** (proposed 1947, [[Unit-8.2/Cold War Overview|Topic 8.2]]) extended US economic power into Europe. It rebuilt Western European economies AND created dependence on American goods and the dollar system. Stalin rejected the plan and pressured Eastern European states to do the same — recognizing it as an extension of American influence, not just aid.
 
 The arms race created an entirely new economic sector — the defense industry — with permanent political influence. Eisenhower's warning about the military-industrial complex identified a structural economic distortion: Cold War competition generated incentives to spend on weapons that, once embedded in the economy, were very difficult to reduce.
 

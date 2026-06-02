@@ -18,7 +18,7 @@ Massive Chinese civil war (1850–1864) led by Hong Xiuquan, a failed civil serv
 > The Taiping Rebellion is prime evidence of Qing dynastic weakness — it shows how internal rebellion, combined with Western imperialism, left China vulnerable. Use it in essays about 19th-century Chinese decline or indigenous responses to imperialism: Hong Xiuquan's Christian-influenced ideology shows how Western contact reshaped even anti-Qing resistance.
 
 > [!tip]
-> The rebellion also drove Chinese emigration — many refugees fled to Southeast Asia, the Americas, and Australia, making it relevant to migration essays (Topic 6.6).
+> The rebellion also drove Chinese emigration — many refugees fled to Southeast Asia, the Americas, and Australia, making it relevant to migration essays ([[Unit-6.6/Causes of Migration in an Interconnected World Overview|Topic 6.6]]).
 
 ## Cross-Topic Connections
 
