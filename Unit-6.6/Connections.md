@@ -14,10 +14,10 @@ tags: [apwh, unit-6, topic-6-6, period-3, migration, connections]
 ## Builds On
 
 **[[Unit-6.2/State Expansion Overview\|State Expansion Overview]]**
-The empires built in 6.2 are the direct destination for migrants in 6.6. British settler colonies (Canada, Australia, South Africa, New Zealand), French plantation colonies (Caribbean, Pacific), and informal imperial spheres (Argentina) all absorbed migrant labor. The Taiping Rebellion, covered in 6.2 as part of Chinese state stress, is a key push factor for Chinese emigration. Without the colonial infrastructure of Unit 6.2, there would be no indentured labor system to discuss.
+The empires built in 6.2 are the direct destination for migrants in 6.6. British settler colonies (Canada, Australia, South Africa, New Zealand), French plantation colonies (Caribbean, Pacific), and informal imperial spheres (Argentina) all absorbed migrant labor. The [[Concept Notes/Taiping Rebellion\|Taiping Rebellion]], covered in 6.2 as part of Chinese state stress, is a key push factor for Chinese emigration. Without the colonial infrastructure of Unit 6.2, there would be no indentured labor system to discuss.
 
 **[[Unit-5.9/Society & the Industrial Age Overview\|Society & the Industrial Age Overview]]**
-Industrialization is the structural cause of the migration era. Steamship technology (cuts ocean travel time and cost), railroad construction (destination for Chinese and Irish labor), and the shift to capitalist plantation agriculture (creates demand for cheap colonial labor) all flow from the Industrial Revolution. Unit 5.9 also covers urbanization — the process that pulls internal migrants into factory cities and is intensified by the very migration patterns described in 6.6.
+[[Concept Notes/Industrialization\|Industrialization]] is the structural cause of the migration era. Steamship technology (cuts ocean travel time and cost), railroad construction (destination for Chinese and Irish labor), and the shift to capitalist plantation agriculture (creates demand for cheap colonial labor) all flow from the Industrial Revolution. Unit 5.9 also covers urbanization — the process that pulls internal migrants into factory cities and is intensified by the very migration patterns described in 6.6.
 
 ---
 

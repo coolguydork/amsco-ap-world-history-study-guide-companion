@@ -29,7 +29,7 @@ The pre-industrial economic system in which states tightly regulated trade to ac
 **Proletariat**
 Karl Marx's term for the industrial working class — wage laborers who own only their labor power and must sell it to factory owners to survive. Marx argued in *The Communist Manifesto* (1848, co-authored with Friedrich Engels) that the proletariat was exploited by the bourgeoisie and should seize the means of production. The emergence of the proletariat as a distinct social class is a key *change* of industrialization.
 
-**Bourgeoisie**
+**[[Concept Notes/Bourgeoisie\|Bourgeoisie]]**
 In Marxist analysis, the capitalist class that owns the means of production (factories, machinery, land) and employs the proletariat. In broader historical usage, the term refers to the expanding middle class of the industrial era — managers, merchants, bankers, lawyers — whose growth is a defining social change of the period. The bourgeoisie's political demands (voting rights, press freedom, parliamentary limits on monarchy) drove much of the era's political change.
 
 **Means of Production**
@@ -50,7 +50,7 @@ The wage-dependent laborers who emerged as a distinct social class during indust
 **Middle Class (Industrial Expansion)**
 The bourgeoisie in its broader sense: a growing social stratum that expanded during industrialization to include factory managers, bankers, insurance agents, and shipping merchants alongside traditional professionals (doctors, lawyers, shopkeepers). Their political interests — voting rights, legal equality, limits on aristocratic privilege — drove the era's democratic reforms. The growth of a large middle class is strongly correlated with the emergence of democratic governance.
 
-**State-Sponsored Industrialization**
+**State-Sponsored [[Concept Notes/Industrialization\|Industrialization]]**
 Government-directed efforts to build industrial capacity, as seen in Meiji Japan and Egypt under Muhammad Ali. Both states invested in infrastructure, imported Western technology, and reorganized military and economic institutions. Represents a *change* from laissez-faire Western European development and demonstrates that industrialization was not a single universal process — it took different forms based on political context.
 
 **Otto von Bismarck's Social Reforms**

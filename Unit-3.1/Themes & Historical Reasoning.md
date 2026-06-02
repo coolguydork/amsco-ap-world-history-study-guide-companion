@@ -21,7 +21,7 @@ tags: [apwh, unit-3, topic-3-1, period-2, governance, technology, migration, his
 - **Ottoman Empire:** Mehmed II and Suleiman I centralized revenue collection and military command. The devshirme system created a loyal administrative class outside the hereditary nobility. After Suleiman, weak sultans subject to "harem politics" undermined centralization — fueling decline.
 - **Mughal Empire:** Akbar's mansabdar system assigned officials revenue rights in exchange for service, creating loyalty to the central state. Aurangzeb's reversal of this inclusive policy fragmented the nobility, weakening central control.
 - **Russia:** Ivan IV's conquest of the khanates and use of Cossack mercenaries extended Russian state power eastward, transforming Muscovy into a transcontinental tsardom.
-- **Qing China:** Manchu rulers adopted Chinese Confucian governance, including the imperial bureaucracy and civil service examinations, to govern a vast, diverse population — a textbook case of legitimizing foreign rule through established institutions.
+- **Qing China:** [[Concept Notes/Manchu\|Manchu]] rulers adopted Chinese Confucian governance, including the imperial bureaucracy and civil service examinations, to govern a vast, diverse population — a textbook case of legitimizing foreign rule through established institutions.
 
 > [!exam-tip]
 > For any GOV essay prompt about 1450–1750 land-based empires, your core argument should be: **centralization = expansion and stability; decentralization = decline**. Support with two empires for comparison.
@@ -70,7 +70,7 @@ Breaking these down, the features of an empire are:
 **Apply this framework to the AP exam:** When you write about land-based empires, you're not just describing rulers and dates — you're analyzing *how* and *why* these states successfully (or unsuccessfully) extended power beyond their original territories, extracted resources, and managed diversity.
 
 > [!tip]
-> **Practice question:** Choose two of the following empires. Explain how well each fits the historical concept of empire outlined above: (1) Qing Dynasty, (2) Ottoman Empire, (3) Safavid Empire, (4) Mughal Empire.
+> **Practice question:** Choose two of the following empires. Explain how well each fits the historical concept of empire outlined above: (1) [[Concept Notes/Qing Dynasty\|Qing Dynasty]], (2) Ottoman Empire, (3) Safavid Empire, (4) Mughal Empire.
 > *Use this as a self-test: can you identify extraction mechanisms, governance over diverse populations, and territorial extension for each?*
 
 ---

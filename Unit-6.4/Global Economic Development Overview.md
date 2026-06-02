@@ -7,7 +7,7 @@ tags: [apwh, unit-6, topic-6-4, period-3, economics, imperialism, raw-materials,
 
 # Global Economic Development
 
-**Unit 6 — Consequences of Industrialization | AP Period 3 | AMSCO pp. 398–406**
+**Unit 6 — Consequences of [[Concept Notes/Industrialization\|Industrialization]] | AP Period 3 | AMSCO pp. 398–406**
 
 **Essential Question:** How did industrialization and imperialism reshape the global economy?
 
@@ -112,5 +112,5 @@ Rhodes's vision — a Cape-to-Cairo railroad connecting all British African terr
 - [[Unit-6.2/State Expansion Overview\|State Expansion Overview]] — the political framework (imperialism, colonialism) within which economic extraction operated
 
 **Leads to:**
-- **Economic Imperialism** [[Unit-6.5/Economic Imperialism Overview|Economic Imperialism Overview]] ← folder not yet built
+- **Economic [[Concept Notes/Imperialism\|Imperialism]]** [[Unit-6.5/Economic Imperialism Overview|Economic Imperialism Overview]] ← folder not yet built
 - **Economics in the Global Age** [[Unit-9.4/Economics in the Global Age Overview|Economics in the Global Age Overview]] ← folder not yet built

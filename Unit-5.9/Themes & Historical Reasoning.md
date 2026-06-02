@@ -10,7 +10,7 @@ tags: [apwh, unit-5, topic-5-9, period-3, society, environment, causation, ccot,
 ## AP Themes in Topic 5.9
 
 **SIO — Social Interactions and Organization**
-This is the dominant theme. Industrialization disrupted the artisan/farm family unit and created a new three-tier class structure: working class, new middle class (white-collar), and industrial capitalists. Gender roles bifurcated by class — working-class women in factories; middle-class women in the "cult of domesticity." Children were exploited as labor. These changes are the AP exam's core focus for 5.9.
+This is the dominant theme. [[Concept Notes/Industrialization\|Industrialization]] disrupted the artisan/farm family unit and created a new three-tier class structure: working class, new middle class (white-collar), and industrial capitalists. Gender roles bifurcated by class — working-class women in factories; middle-class women in the "cult of domesticity." Children were exploited as labor. These changes are the AP exam's core focus for 5.9.
 
 **ENV — Humans and the Environment**
 Industrial cities created an unprecedented environmental crisis: coal-smoke smog caused respiratory illness; factory waste polluted rivers and water supplies; cholera and typhoid spread through industrial slums. The environmental degradation of industrialization directly caused reform legislation (Public Health Acts) — making ENV and SIO deeply linked in this topic.

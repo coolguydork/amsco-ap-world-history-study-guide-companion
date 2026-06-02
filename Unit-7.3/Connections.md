@@ -16,7 +16,7 @@ tags: [apwh, unit-7, topic-7-3, period-4, connections, causation]
 **[[Unit-7.2/Causes of World War I Overview\|Causes of World War I Overview]]**
 The alliance systems, nationalism, militarism, and imperial rivalries that caused the war (7.2) explain why it became a total war. The same powers that signed secret alliances also had conscript armies ready to mobilize and colonial empires to draw troops from. The war's global character was baked into its causes — imperial competition was a root cause, so colonial involvement from the start was inevitable.
 
-**Industrial Revolution and European Imperialism** (Unit 6)
+**Industrial Revolution and European [[Concept Notes/Imperialism\|Imperialism]]** (Unit 6)
 The technologies that defined WWI — machine guns, poison gas, tanks, submarines, airplanes — were all products of industrial-era innovation. European industrialization created both the capacity for mass warfare and the colonial empires whose populations fought in it. Total war was only possible because industrial economies could produce weapons at factory scale.
 
 ---

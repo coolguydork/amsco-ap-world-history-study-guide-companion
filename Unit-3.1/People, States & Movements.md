@@ -74,7 +74,7 @@ In 1603, declared shogun and established the Tokugawa Shogunate (Edo period), en
 ### Qing Dynasty — China (1644–1912)
 **Location:** East Asia, expanding into Manchuria, Mongolia, Central Asia, Tibet
 **Religion:** Varied; rulers Buddhist/shamanist, population mostly Confucian/Buddhist
-**Key feature:** A foreign (Manchu) dynasty that adopted Chinese governance traditions while maintaining ethnic distinction. Expanded Chinese territory more than any previous dynasty; eventually fell to internal rebellion and European imperialism in the 19th century.
+**Key feature:** A foreign ([[Concept Notes/Manchu\|Manchu]]) dynasty that adopted Chinese governance traditions while maintaining ethnic distinction. Expanded Chinese territory more than any previous dynasty; eventually fell to internal rebellion and European imperialism in the 19th century.
 
 ### Russia (Muscovite/Tsarist)
 **Location:** Eastern Europe, expanding across Siberia to the Pacific
@@ -89,7 +89,7 @@ In 1603, declared shogun and established the Tokugawa Shogunate (Edo period), en
 A political movement across Western Europe in which rulers centralized state power — controlling taxes, armies, and religion — at the expense of feudal nobility and the church. The Tudors (England), Valois (France), and Ferdinand/Isabella (Spain) are prime examples. This centralization drive laid the groundwork for European overseas expansion and colonization (Unit 4).
 
 ### Manchu Conquest of China (1644)
-The Manchu people of northeastern China swept into the Ming Dynasty, which had been weakened by internal corruption and peasant rebellions. The Manchu established the Qing Dynasty and governed China for over 250 years. Their success required both military strength and political flexibility — adopting Chinese Confucian governance while maintaining Manchu ethnic identity and traditions.
+The Manchu people of northeastern China swept into the [[Concept Notes/Ming Dynasty\|Ming Dynasty]], which had been weakened by internal corruption and peasant rebellions. The Manchu established the [[Concept Notes/Qing Dynasty\|Qing Dynasty]] and governed China for over 250 years. Their success required both military strength and political flexibility — adopting Chinese Confucian governance while maintaining Manchu ethnic identity and traditions.
 
 ### Sunni-Shia Conflict (ongoing from 1501)
 When Shah Ismail I declared Iran Shia, he created a fault line that defined the geopolitics of Southwest Asia for centuries. The Ottoman-Safavid wars were fought simultaneously as religious conflicts and as competition for overland trade routes. The hostility persists in the present-day tensions between Iran (Shia majority) and surrounding Sunni-majority states, notably in Iraq.

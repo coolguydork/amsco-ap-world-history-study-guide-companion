@@ -30,7 +30,7 @@ The forced dispersion of Africans out of Africa through the transatlantic slave 
 
 ## Economy & Labor
 
-**Conquistadores**
+**[[Concept Notes/Conquistadores\|Conquistadores]]**
 Spanish soldiers and explorers who led the military conquest of indigenous American empires. Figures such as Hernán Cortés (Aztec Empire) and Francisco Pizarro (Inca Empire) combined military force, disease, and indigenous alliances to subjugate large populations. Conquistadores were the human vectors of epidemic disease as well as weapons.
 
 **Cash crop**

@@ -36,7 +36,7 @@ Soviet leader who signed the German-Soviet [[Concept Notes/Nonaggression Pact\|N
 ## Key States
 
 **Nazi Germany (Third Reich, 1933–1945)**
-A totalitarian state built on racial ideology, single-party rule, and aggressive expansionism. Key features: the Reichstag fire as a pretext to suspend civil liberties; Nuremberg Laws systematizing anti-Jewish persecution; rearmament in defiance of Versailles; a series of territorial annexations (Rhineland, Austria, Sudetenland, Czechoslovakia). Germany was the primary aggressor in European WWII.
+A totalitarian state built on racial ideology, single-party rule, and aggressive expansionism. Key features: the Reichstag fire as a pretext to suspend civil liberties; [[Concept Notes/Nuremberg Laws\|Nuremberg Laws]] systematizing anti-Jewish persecution; rearmament in defiance of Versailles; a series of territorial annexations (Rhineland, Austria, Sudetenland, Czechoslovakia). Germany was the primary aggressor in European WWII.
 
 **Fascist Italy**
 Under Mussolini from 1922, Italy became the prototype of fascist governance: extreme nationalism, violence against political opponents, corporate state economics, imperial ambition. Italy's invasion of Ethiopia (1935) demonstrated the League of Nations' impotence and its alliance with Germany formalized in the Rome-Berlin Axis (1936).

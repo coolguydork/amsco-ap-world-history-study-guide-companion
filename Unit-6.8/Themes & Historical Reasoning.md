@@ -17,7 +17,7 @@ Topic 6.8 covers four AP themes: **ECN** (Economic Systems), **GOV** (Governance
 
 The central economic causation story of this topic is the relationship between **industrial capitalism → overproduction → imperial expansion → global inequality**.
 
-Industrialization increased productive capacity faster than domestic markets could absorb. This created structural pressure to find foreign markets and secure raw material sources. The result was a global economic order divided between industrial core nations (Western Europe, U.S., Japan) and dependent periphery regions (Africa, South Asia, Southeast Asia, Latin America). Dependent colonial economies were deliberately structured to remain non-industrial — supplying raw materials, absorbing manufactured goods — ensuring that economic development was concentrated in the metropole.
+[[Concept Notes/Industrialization\|Industrialization]] increased productive capacity faster than domestic markets could absorb. This created structural pressure to find foreign markets and secure raw material sources. The result was a global economic order divided between industrial core nations (Western Europe, U.S., Japan) and dependent periphery regions (Africa, South Asia, Southeast Asia, Latin America). Dependent colonial economies were deliberately structured to remain non-industrial — supplying raw materials, absorbing manufactured goods — ensuring that economic development was concentrated in the metropole.
 
 The wealth gap widened both within industrial societies (between owners and workers) and between industrial and non-industrial societies (between colonizers and colonized). This structural inequality was a long-term consequence of industrialized imperialism that persisted well into the 21st century.
 
@@ -28,7 +28,7 @@ The wealth gap widened both within industrial societies (between owners and work
 
 ## GOV — Governance
 
-Imperialism fundamentally reorganized political governance across the globe. In regions under direct colonial rule (most of Africa, much of South Asia, Southeast Asia), indigenous political structures were subordinated or dismantled and replaced by European administrative systems. In areas of indirect or economic imperialism (China, the Ottoman Empire, Latin America), formal sovereignty was nominally preserved but real political power was constrained by unequal treaties, foreign military presence, and economic dependence.
+[[Concept Notes/Imperialism\|Imperialism]] fundamentally reorganized political governance across the globe. In regions under direct colonial rule (most of Africa, much of South Asia, Southeast Asia), indigenous political structures were subordinated or dismantled and replaced by European administrative systems. In areas of indirect or economic imperialism (China, the Ottoman Empire, Latin America), formal sovereignty was nominally preserved but real political power was constrained by unequal treaties, foreign military presence, and economic dependence.
 
 The dissolution of the [[Concept Notes/East India Company\|East India Company]] after 1857 and the establishment of the British Raj illustrates a key governance pattern: when **Company** rule proved inadequate to maintain control, the **Crown** stepped in directly. This pattern of escalating colonial governance — from trading companies, to indirect rule, to direct administration — is worth knowing for comparative questions.
 

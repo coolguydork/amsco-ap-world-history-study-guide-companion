@@ -24,7 +24,7 @@ The Columbian Exchange has a precedent: the disease and ecological disruptions t
 **Topic 4.4 — Columbian Consequences / Conquest**
 The population collapse caused by Columbian Exchange diseases directly enabled Spanish conquest. Demographic devastation weakened indigenous resistance, created labor vacuums, and allowed small Spanish forces to leverage indigenous rivalries. Topic 4.4 follows directly from 4.3. *(Not yet built — see Topic 4.4)*
 
-**Topic 5.3 — Industrialization and New World Crops**
+**Topic 5.3 — [[Concept Notes/Industrialization\|Industrialization]] and New World Crops**
 The New World crops introduced through the Columbian Exchange — potatoes, maize, and others — sustained the population growth that fed industrial-era workforces in Europe. The nutritional transformation of the 17th–18th centuries is background for understanding why industrialization was possible in Topic 5.3. *(Not yet built — see Topic 5.3)*
 
 **Topic 6.6 — Labor Migration**

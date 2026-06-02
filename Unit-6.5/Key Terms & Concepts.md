@@ -7,7 +7,7 @@ tags: [apwh, unit-6, topic-6-5, period-3, economic-imperialism, trade-networks, 
 
 # Key Terms & Concepts
 
-**Topic 6.5 — Economic Imperialism | AMSCO pp. 407–416**
+**Topic 6.5 — Economic [[Concept Notes/Imperialism\|Imperialism]] | AMSCO pp. 407–416**
 
 > [!exam-tip]
 > The AP loves asking you to distinguish economic from political imperialism. Know the definitions cold, and have a specific example ready for each region (Asia, Africa, Latin America).
@@ -33,7 +33,7 @@ Zones within a nominally independent country where a foreign power holds exclusi
 British joint-stock company (chartered 1600) that evolved from a trading firm into a de facto colonial government controlling India. Began in the spice trade, shifted to textiles, and then forced Indian farmers to grow opium for export to China. Its private army grew to 20,000+ Indian soldiers. Dissolved in 1858 after the Indian Rebellion of 1857, when the British Crown took direct control. The historical model of corporate imperialism becoming territorial conquest (pp. 407–408).
 
 **Spice Islands**
-The Maluku Islands (Moluccas) of present-day Indonesia, source of nutmeg, cloves, and mace. The primary prize in early European competition for Asian trade. The Dutch East India Company gained a monopoly over the spice trade here, establishing Dutch colonial control over what became Indonesia. Their value drove both Dutch and English colonial expansion into Asia (p. 408).
+The Maluku Islands (Moluccas) of present-day Indonesia, source of nutmeg, cloves, and mace. The primary prize in early European competition for Asian trade. The [[Concept Notes/Dutch East India Company\|Dutch East India Company]] gained a monopoly over the spice trade here, establishing Dutch colonial control over what became Indonesia. Their value drove both Dutch and English colonial expansion into Asia (p. 408).
 
 **Dutch East India Company**
 Dutch trading company (VOC; chartered 1602) that dominated the Southeast Asian spice trade and established colonial control over present-day Indonesia. One of history's first multinational corporations. By the late 18th century it had shifted from shipping to agricultural production. The Dutch government dissolved it in 1799 and took direct control of the Dutch East Indies, later imposing the Culture System.

@@ -7,7 +7,7 @@ tags: [apwh, unit-5, topic-5-6, period-3, industrialization, governance, connect
 
 # Connections
 
-**Topic 5.6 — Industrialization: Government's Role**
+**Topic 5.6 — [[Concept Notes/Industrialization\|Industrialization]]: Government's Role**
 
 ---
 
@@ -33,7 +33,7 @@ Japan's Meiji industrialization is what makes it a significant military power by
 
 ## Cross-Unit Connections
 
-**Topic 6.2 — Imperialism: Causes and Attributes** (not yet built)
+**Topic 6.2 — [[Concept Notes/Imperialism\|Imperialism]]: Causes and Attributes** (not yet built)
 Muhammad Ali's Egypt and the Ottoman Empire are prime examples of states that were partially or fully colonized *because* their modernization failed. The link is direct: failed defensive modernization → vulnerability to European imperial control. Egypt becomes a British protectorate; the Ottomans become the "sick man of Europe" whose territory Europeans carve up.
 
 **Topic 6.5 — Reactions to Imperialism** (not yet built)

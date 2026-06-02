@@ -63,7 +63,7 @@ The key insight: industrial capitalism *replaced* mercantilist colonialism as th
 
 ## Forward Connections (Unit 6 and Beyond)
 
-**Unit 6 — Imperialism (c. 1750–1900)**
+**Unit 6 — [[Concept Notes/Imperialism\|Imperialism]] (c. 1750–1900)**
 The industrial core's demand for raw materials and new markets drove the New Imperialism of the 19th century. The global inequality documented in 5.10 (the collapse of the Rest of World's manufacturing share) is both a *cause* and a *consequence* of European imperialism. **Unit 6 topics** (not yet built) will deepen this connection.
 
 **Unit 7 — Global Conflict (1900–present)**

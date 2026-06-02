@@ -28,7 +28,7 @@ Columbus's voyages were the trigger event for the Columbian Exchange: the transf
 **Topic 4.4 — Empires in the Americas**
 European exploration identified the Aztec and Inca empires as targets. The conquests that followed were motivated by the gold and silver that explorers had been searching for all along. Topic 4.2 sets up the conquest era covered in 4.4.
 
-**Topic 6.1 — New Imperialism**
+**Topic 6.1 — New [[Concept Notes/Imperialism\|Imperialism]]**
 The methods and motivations of 1450–1750 exploration created a template for 19th-century imperialism: state sponsorship, commercial extraction, religious conversion, and military superiority. Topic 4.2 is the first chapter of a story that continues through Unit 6.
 
 ---

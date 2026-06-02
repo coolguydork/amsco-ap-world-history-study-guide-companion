@@ -59,7 +59,7 @@ Focused its North American exploration on finding a northwest passage and exploi
 Lagged in early exploration due to lack of sea power. The defeat of the Spanish Armada in 1588 changed everything, establishing England as a major naval power and opening Atlantic competition. Jamestown (1607) launched English territorial colonization; by 1750, English colonies held ~1 million European settlers. (AMSCO p. 203)
 
 **Netherlands**
-Entered exploration through the Dutch East India Company (VOC) and the voyages of Henry Hudson. The Dutch seized Malacca from Portugal (1641) and built Fort Batavia in Java (1620) to control the spice trade. New Amsterdam (1624) anchored their North American trade network. The Dutch exemplified **chartered company colonialism** — state-backed but privately operated. (AMSCO pp. 201, 204)
+Entered exploration through the [[Concept Notes/Dutch East India Company\|Dutch East India Company]] (VOC) and the voyages of Henry Hudson. The Dutch seized Malacca from Portugal (1641) and built Fort Batavia in Java (1620) to control the spice trade. New Amsterdam (1624) anchored their North American trade network. The Dutch exemplified **chartered company colonialism** — state-backed but privately operated. (AMSCO pp. 201, 204)
 
 ---
 

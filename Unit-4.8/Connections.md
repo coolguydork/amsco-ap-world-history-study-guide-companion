@@ -26,7 +26,7 @@ Topic 4.8 explicitly connects to Unit 2's treatment of pre-1450 exchange network
 
 ## Leads To
 
-**Topic 5.3 — Industrialization**
+**Topic 5.3 — [[Concept Notes/Industrialization\|Industrialization]]**
 The [[Concept Notes/Joint-Stock Companies|joint-stock companies]], accumulated merchant capital, and mercantile-to-capitalist transition of 1450–1750 are the direct preconditions for the Industrial Revolution. Britain's commercial wealth — built through Atlantic trade — financed the factories and infrastructure of industrialization. **(Topic 5.3 — not yet built)**
 
 ## Compare With

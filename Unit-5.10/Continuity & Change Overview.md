@@ -24,7 +24,7 @@ The Industrial Revolution (c. 1750–1900) produced economic, social, cultural, 
 
 **What Changed:** Western Europe shifted from a mercantilist system (tightly regulated trade designed to maximize state wealth) to industrial capitalism (private companies competing for profit). [[Concept Notes/Capitalism|Capitalism]], championed by Adam Smith, replaced older guild and artisan production with factory mass production. Consumer goods became cheaper, more varied, and more widely available. A new class of wealthy industrialists — capitalists — overtook the old landowning aristocracy in wealth and influence.
 
-Industrialization also spread unevenly beyond Western Europe. The United States, Russia, and Japan all expanded industrial output and railroad networks, with Japan and Egypt pursuing state-sponsored modernization. However, Western Europe and the United States maintained dominance of world manufacturing throughout the period.
+[[Concept Notes/Industrialization\|Industrialization]] also spread unevenly beyond Western Europe. The United States, Russia, and Japan all expanded industrial output and railroad networks, with Japan and Egypt pursuing state-sponsored modernization. However, Western Europe and the United States maintained dominance of world manufacturing throughout the period.
 
 **Share of Total World Manufacturing Output (%)**
 

@@ -21,7 +21,7 @@ tags: [apwh, unit-6, period-3, unit-overview, imperialism, migration, colonialis
 | 6.8 | Causation in the Imperial Age | CCOT synthesis: what changed and what persisted |
 
 **AP Period:** Period 3 — c. 1750 to c. 1900
-**Unit Theme:** *Consequences of Industrialization* — industrial power created the capacity, the motive, and the ideology for European states to partition most of the non-Western world, reshaping global economies, triggering indigenous resistance, and setting mass migration in motion.
+**Unit Theme:** *Consequences of [[Concept Notes/Industrialization\|Industrialization]]* — industrial power created the capacity, the motive, and the ideology for European states to partition most of the non-Western world, reshaping global economies, triggering indigenous resistance, and setting mass migration in motion.
 
 ---
 
@@ -72,7 +72,7 @@ The mechanics of empire varied by region and by imperial power, but between 1870
 
 **Russian expansion** moved east and south across Central Asia. Russia's "Great Game" with Britain for influence in Afghanistan and Persia was the Central Asian dimension of imperial competition. Unlike Western European empires separated from their colonies by oceans, Russian expansion was overland and contiguous — making the boundaries between metropole and colony ambiguous.
 
-**American imperialism** emerged as a distinct force after the Spanish-American War (1898), which gave the United States control of the Philippines, Puerto Rico, and Guam. American expansion echoed European justifications — "Manifest Destiny" extended to a Pacific and Caribbean sphere — while insisting it was fundamentally different in character. The brutal Philippine-American War (1899–1902) exposed the contradiction.
+**American imperialism** emerged as a distinct force after the [[Concept Notes/Spanish-American War\|Spanish-American War]] (1898), which gave the United States control of the Philippines, Puerto Rico, and Guam. American expansion echoed European justifications — "Manifest Destiny" extended to a Pacific and Caribbean sphere — while insisting it was fundamentally different in character. The brutal Philippine-American War (1899–1902) exposed the contradiction.
 
 **Japan** avoided colonization by becoming a colonizer. The Meiji government's rapid industrialization ([[Unit-5.6/Industrialization: Government's Role Overview\|Industrialization: Government's Role Overview]]) produced military capacity that Japan deployed first against China (Sino-Japanese War, 1894–95, winning Taiwan) and then against Russia (Russo-Japanese War, 1904–05 — the first Asian victory over a European power in modern warfare). Japan's imperial expansion into Korea and Manchuria followed Western patterns so closely that it was simultaneously admired and resented by Western powers.
 
@@ -106,7 +106,7 @@ The **Sepoy Rebellion** (1857) — also called the Indian Rebellion or India's "
 
 ### 6.4 — Global Economic Development
 
-Imperialism fundamentally restructured the global economy, creating a world divided between industrial producers and primary-commodity exporters. Topic 6.4 examines the economic mechanisms and their consequences.
+[[Concept Notes/Imperialism\|Imperialism]] fundamentally restructured the global economy, creating a world divided between industrial producers and primary-commodity exporters. Topic 6.4 examines the economic mechanisms and their consequences.
 
 **Extractive infrastructure** was the visible face of colonial economic development. Railroads penetrated colonial interiors not to connect African or Asian cities to each other, but to carry raw materials from mines and plantations to coastal ports for export. The same railway that made British India legible and taxable made it possible to drain grain from famished provinces for export — contributing to the estimated 12–29 million deaths in the Indian famines of 1876–1879 and 1899–1900 under British Raj policies.
 

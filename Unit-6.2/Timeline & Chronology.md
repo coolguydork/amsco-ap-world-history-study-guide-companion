@@ -58,4 +58,4 @@ tags: [apwh, unit-6, topic-6-2, period-3, imperialism, timeline]
 3. **Turn of the century (1898–1908):** U.S. enters as imperial power; Japan emerges as imperial power; peak of European confidence in imperialism.
 
 > [!exam-tip]
-> The AP exam expects you to place events in the correct approximate period. Know that: Berlin Conference = 1884–85; Boxer Rebellion = 1899–1901; Spanish-American War = 1898; Boer Wars = 1880–1902; Taiping Rebellion = 1850–1864. Confusing these is a common error that costs points on chronological reasoning questions.
+> The AP exam expects you to place events in the correct approximate period. Know that: Berlin Conference = 1884–85; Boxer Rebellion = 1899–1901; [[Concept Notes/Spanish-American War\|Spanish-American War]] = 1898; Boer Wars = 1880–1902; [[Concept Notes/Taiping Rebellion\|Taiping Rebellion]] = 1850–1864. Confusing these is a common error that costs points on chronological reasoning questions.

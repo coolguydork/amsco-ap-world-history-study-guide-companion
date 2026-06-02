@@ -12,7 +12,7 @@ tags: [apwh, unit-7, topic-7-8, period-4, genocide, holocaust, human-rights, con
 ## Builds On
 
 **[[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]]**
-WWII's causes — the rise of Nazi Germany, the failures of Versailles, and economic crisis — are direct preconditions for the Holocaust. Understanding how Hitler came to power and what Nazi ideology entailed is essential context for Topic 7.8. The Nuremberg Laws (1935) and the escalating persecution of Jews during the late 1930s predate WWII but can only be understood in the context of the political conditions Topic 7.6 explains.
+WWII's causes — the rise of Nazi Germany, the failures of Versailles, and economic crisis — are direct preconditions for the Holocaust. Understanding how Hitler came to power and what Nazi ideology entailed is essential context for Topic 7.8. The [[Concept Notes/Nuremberg Laws\|Nuremberg Laws]] (1935) and the escalating persecution of Jews during the late 1930s predate WWII but can only be understood in the context of the political conditions Topic 7.6 explains.
 
 **[[Unit-7.7/Conducting World War II Overview\|Conducting World War II Overview]]**
 The military conduct of WWII — the Eastern Front, the Pacific theater, Allied strategic bombing — provides the context for understanding how genocide was implemented (death camps operated under wartime cover) and how Allied firebombing of Hamburg, Dresden, and Tokyo blurred the line between military and civilian targets. The Hiroshima and Nagasaki atomic bombings, covered in 7.7, are directly referenced in 7.8 as part of the broader spectrum of WWII mass atrocities.

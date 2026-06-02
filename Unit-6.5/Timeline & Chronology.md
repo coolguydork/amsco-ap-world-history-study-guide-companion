@@ -7,7 +7,7 @@ tags: [apwh, unit-6, topic-6-5, period-3, economic-imperialism, timeline]
 
 # Timeline & Chronology
 
-**Topic 6.5 — Economic Imperialism | AMSCO pp. 407–416**
+**Topic 6.5 — Economic [[Concept Notes/Imperialism\|Imperialism]] | AMSCO pp. 407–416**
 
 > [!exam-tip]
 > The AP exam frequently requires you to place economic imperialism within a chronological sequence. The Opium Wars (1839–1842, 1856–1860) and Treaty of Nanking (1842) are the most tested specific dates in this topic. Also know that British informal empire in Latin America peaked in the **late 19th century** and US economic imperialism in Central America emerged in the **1890s–1900s**.

@@ -49,8 +49,8 @@ The AMSCO textbook explicitly asks students to "describe the connection between 
 **[[Concept Notes/Fascism\|Fascism]] and Authoritarianism (cross-topic)**
 The rise of fascism in Italy (1922), Germany (1933), and Spain (1936–1939 Civil War) is part of a broader interwar pattern of democratic backsliding. The AP exam may ask you to explain why democratic governments were replaced by authoritarian ones in the 1920s–1930s. Key factors: economic crisis, national humiliation, weak democratic traditions, and the appeal of strong-man nationalism.
 
-**Japanese Imperialism and Asian WWII**
+**Japanese [[Concept Notes/Imperialism\|Imperialism]] and Asian WWII**
 Japan's expansion (Manchuria 1931, China 1937) connects to Unit 7.5's discussion of Asian independence movements and Unit 7.4's discussion of Japanese imperialism. The causes of WWII in Asia (military nationalism, resource competition, racial hierarchy as ideology) parallel but differ from European causes.
 
 **The [[Concept Notes/Holocaust\|Holocaust]] — [[Concept Notes/Genocide\|Genocide]] and State Violence**
-The Nuremberg Laws and Kristallnacht are the opening moves of what became the Holocaust. This connects to broader AP themes of state-sponsored violence, genocide, and human rights. When writing about WWII's causes, the Holocaust should be understood as both a consequence of Nazi ideology and an intended *goal* — not just a byproduct of the war.
+The [[Concept Notes/Nuremberg Laws\|Nuremberg Laws]] and Kristallnacht are the opening moves of what became the Holocaust. This connects to broader AP themes of state-sponsored violence, genocide, and human rights. When writing about WWII's causes, the Holocaust should be understood as both a consequence of Nazi ideology and an intended *goal* — not just a byproduct of the war.

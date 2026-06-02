@@ -49,7 +49,7 @@ The AP expects you to frame Unit 5 (1750–1900) within AP Period 3 (1750–1900
 - European dominance in global trade → *intensifies* via industrial capitalism
 
 **Within Period 3 (1750–1900):**
-- Early phase (1750–1800): Industrialization in Britain; Enlightenment ideology drives political challenge
+- Early phase (1750–1800): [[Concept Notes/Industrialization\|Industrialization]] in Britain; Enlightenment ideology drives political challenge
 - Middle phase (1800–1848): Spread of industry; labor movement emerges; 1848 revolutions
 - Late phase (1848–1900): Bismarck's reforms; state-sponsored industrialization outside Europe; women's movement grows; global manufacturing gap widens
 

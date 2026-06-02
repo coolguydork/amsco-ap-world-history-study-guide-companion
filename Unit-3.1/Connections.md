@@ -12,13 +12,13 @@ tags: [apwh, unit-3, topic-3-1, period-2, connections, land-based-empires, gunpo
 ## Builds On
 
 **Topic 2.2 — Mongol Empire** | [[Unit-2.2/Mongol Empire Overview|Mongol Empire Overview]]
-The collapse of Mongol khanates in the 14th century created the political vacuums that the [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] filled. Tamerlane's Mongol-Turkic military model directly preceded the Ottoman, Safavid, and Mughal empires. The Qing Dynasty's Manchu founders were themselves from the Mongol-influenced northeast. See also: [[Concept Notes/Mongols|Mongols]], [[Concept Notes/Pax Mongolica|Pax Mongolica]].
+The collapse of Mongol khanates in the 14th century created the political vacuums that the [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] filled. Tamerlane's Mongol-Turkic military model directly preceded the Ottoman, Safavid, and Mughal empires. The [[Concept Notes/Qing Dynasty\|Qing Dynasty]]'s [[Concept Notes/Manchu\|Manchu]] founders were themselves from the Mongol-influenced northeast. See also: [[Concept Notes/Mongols|Mongols]], [[Concept Notes/Pax Mongolica|Pax Mongolica]].
 
 **Topic 1.2 — Dar al-Islam** | [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]]
 The Ottoman, Safavid, and Mughal empires are all heirs to the Islamic civilization that developed from 600–1450. Islamic institutions (religious law, pilgrimage routes, scholarly networks), the Arabic script, and the concept of the *umma* (global Muslim community) gave these empires their cultural foundation. The Sunni-Shia split — originating in the 7th century — became the defining geopolitical fault line of Topic 3.1.
 
 **Topic 1.1 — East Asia (Song/Ming)** | [[Unit-1.1/East Asia Overview|East Asia Overview]]
-The Ming Dynasty that the Qing replaced was itself a continuation of Confucian bureaucratic governance going back to the Song. The contrast between Ming Confucian governance and Islamic gunpowder empire administration is a rich comparison point. See also: [[Concept Notes/Civil Service Examination|Civil Service Examination]], [[Concept Notes/Neo-Confucianism|Neo-Confucianism]].
+The [[Concept Notes/Ming Dynasty\|Ming Dynasty]] that the Qing replaced was itself a continuation of Confucian bureaucratic governance going back to the Song. The contrast between Ming Confucian governance and Islamic gunpowder empire administration is a rich comparison point. See also: [[Concept Notes/Civil Service Examination|Civil Service Examination]], [[Concept Notes/Neo-Confucianism|Neo-Confucianism]].
 
 **Topic 4.1 (forward) — Military Technology**
 Gunpowder originated in China and spread via the [[Concept Notes/Silk Roads|Silk Roads]] trade network — its diffusion is one of the most consequential examples of cross-cultural technology transfer in world history.

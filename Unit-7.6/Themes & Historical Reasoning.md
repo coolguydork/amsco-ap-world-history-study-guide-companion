@@ -29,7 +29,7 @@ The central skill for this topic is identifying and explaining multiple, interlo
 
 **Causation practice (Think As a Historian):**
 
-The AMSCO Think As a Historian exercise for this topic asks you to identify assumptions shaping point of view in the Nuremberg Laws. This is a Point of View (POV) / Sourcing skill: the laws assume racial hierarchy is real and scientifically valid (an assumption rooted in scientific racism and Social Darwinism). Recognizing this underlying assumption explains why the law's authors saw their work as rational rather than monstrous.
+The AMSCO Think As a Historian exercise for this topic asks you to identify assumptions shaping point of view in the [[Concept Notes/Nuremberg Laws\|Nuremberg Laws]]. This is a Point of View (POV) / Sourcing skill: the laws assume racial hierarchy is real and scientifically valid (an assumption rooted in scientific racism and Social Darwinism). Recognizing this underlying assumption explains why the law's authors saw their work as rational rather than monstrous.
 
 ---
 

@@ -91,7 +91,7 @@ Compare also with the earlier [[Concept Notes/Gunpowder Empires|Gunpowder Empire
 
 **Whig (Progress) view**: The Industrial Revolution was an unambiguous improvement — it raised living standards, generated wealth, and enabled modern medicine, infrastructure, and democracy.
 
-**Revisionist (Social Cost) view**: Industrialization was achieved at enormous human cost: the enclosure movement dispossessed millions, early factory conditions were brutal, child labor was widespread, and urban overcrowding created disease and poverty. Progress for some meant suffering for many.
+**Revisionist (Social Cost) view**: [[Concept Notes/Industrialization\|Industrialization]] was achieved at enormous human cost: the enclosure movement dispossessed millions, early factory conditions were brutal, child labor was widespread, and urban overcrowding created disease and poverty. Progress for some meant suffering for many.
 
 **World-Systems view** (Wallerstein): Industrialization deepened a global division between an industrial "core" (Britain, Western Europe) and a raw-material-producing "periphery" (colonies, Americas). The revolution did not create global prosperity — it created global inequality.
 

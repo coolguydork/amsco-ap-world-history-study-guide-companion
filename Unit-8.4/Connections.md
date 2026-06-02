@@ -39,7 +39,7 @@ The fusion of communism with anti-colonial nationalism (in Vietnam, China, Ethio
 **[[Concept Notes/Fascism\|Fascism]] and Totalitarianism** [[Unit-7.6/Causes of World War II Overview|Causes of World War II Overview]]
 Both communism and fascism were totalitarian ideologies that mobilized mass movements, centralized political authority, and suppressed opposition through violence. Compare the Cultural Revolution's Red Guards with the Nazi SA; compare Mao's personality cult with Hitler's or Mussolini's. Key difference: fascism was explicitly nationalist and anti-Marxist; communism claimed internationalism. Both led to mass atrocities.
 
-**Industrialization and Social Reform** (Topic 5.5/5.6)
+**[[Concept Notes/Industrialization\|Industrialization]] and Social Reform** (Topic 5.5/5.6)
 The impulse for land reform and economic redistribution that drives communist movements in 8.4 connects to earlier reform movements responding to industrialization's inequalities in Europe and the Americas. Compare communist land reform with European labor reform movements — both respond to concentrated economic power, but take different political paths.
 
 **Decolonization Independence Movements** (Topics 8.5–8.7)

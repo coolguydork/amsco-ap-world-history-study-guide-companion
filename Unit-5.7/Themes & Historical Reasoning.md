@@ -22,7 +22,7 @@ Topic 5.7 is primarily an ECN topic. The central development is the transformati
 - **Global finance:** Banks like HSBC and marine insurers like Lloyd's of London supported the global circulation of capital, connecting industrial production in Europe to raw materials and markets worldwide.
 
 ### SIO — Social Interactions and Organization
-Industrialization reshaped class structure and daily life:
+[[Concept Notes/Industrialization\|Industrialization]] reshaped class structure and daily life:
 
 - The **middle class** grew, gained disposable income, and became the engine of **[[Unit-5.7/Key Terms & Concepts|consumerism]]**. The AP often asks about how industrialization created new social categories.
 - **[[Unit-5.7/Key Terms & Concepts|Urbanization]]** concentrated workers in cities, creating new patterns of public life, social mixing, and class tension.

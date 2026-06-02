@@ -13,7 +13,7 @@ tags: [apwh, unit-7, topic-7-9, period-4, connections, synthesis]
 7.9 is the synthesis payoff for 7.1. The power shift from Western Europe to the U.S. and the emergence of the Soviet Union that 7.1 introduces is the major political *effect* that 7.9 explains through causation. Know how imperialism and nationalism in 7.1 fed the causes of both world wars.
 
 **[[Unit-7.2/Causes of World War I Overview\|Causes of World War I Overview]]**
-The detailed political causes (MAIN: Militarism, Alliances, Imperialism, Nationalism) in 7.2 are the specific content that supports 7.9's framework. When 7.9 asks about WWI causes, 7.2 provides the evidence.
+The detailed political causes (MAIN: Militarism, Alliances, [[Concept Notes/Imperialism\|Imperialism]], Nationalism) in 7.2 are the specific content that supports 7.9's framework. When 7.9 asks about WWI causes, 7.2 provides the evidence.
 
 **[[Unit-7.3/Conducting World War I Overview\|Conducting World War I Overview]]**
 The [[Concept Notes/Total War\|total war]] concept, colonial soldiers, and the scale of WWI death detailed in 7.3 is evidence for 7.9's claim about unprecedented effects on civilian populations.

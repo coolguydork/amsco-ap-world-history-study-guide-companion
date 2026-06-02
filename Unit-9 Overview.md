@@ -295,7 +295,7 @@ The **CCOT argument framework**: changes were real but uneven — accelerating i
 1. **Technology → Globalization:** Communication/transportation innovations + Green Revolution + medical breakthroughs → collapsed distance + expanded food supply + longer lifespans → accelerated economic and cultural integration
 2. **Globalization → Inequality:** Free trade + multinational corporations + structural adjustment programs → manufacturing relocated to low-wage regions → core-periphery exploitation intensified in new form
 3. **Globalization → Resistance:** Unequal gains + labor exploitation + cultural homogenization + loss of sovereignty → labor movements + Brexit + anti-WTO protests + digital resistance
-4. **Industrialization → Environmental Crisis:** Fossil fuels + population growth + deforestation → greenhouse gas accumulation → global warming → Kyoto (failed) → Paris (fragile) → ongoing political deadlock
+4. **[[Concept Notes/Industrialization\|Industrialization]] → Environmental Crisis:** Fossil fuels + population growth + deforestation → greenhouse gas accumulation → global warming → Kyoto (failed) → Paris (fragile) → ongoing political deadlock
 5. **WWII legacy → International Institutions:** UN created to manage collective security + human rights + development → Security Council veto limits effectiveness → Rwanda failure exposes structural weakness
 
 ### Cross-Unit Connections

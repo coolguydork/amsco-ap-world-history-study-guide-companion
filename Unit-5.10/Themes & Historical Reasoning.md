@@ -20,7 +20,7 @@ The Industrial Revolution's economic impact was the period's most dramatic depar
 
 Yet the global economic hierarchy that emerged preserved older patterns of dominance: Western European and American industrial cores continued to extract raw materials from Latin American, African, and South Asian peripheries — a structural *continuity* from the colonial era. The data is unambiguous: the "Rest of World" share of global manufacturing output collapsed from 73% (1750) to 11% (1900), while Europe's tripled. This is economic *change* in who produces and economic *continuity* in who benefits.
 
-**Key ECN CCOT argument:** Industrialization changed the *mechanism* of global economic inequality (from mercantilist extraction to capitalist market dominance) while *continuing* the structural reality of core-periphery inequality.
+**Key ECN CCOT argument:** [[Concept Notes/Industrialization\|Industrialization]] changed the *mechanism* of global economic inequality (from mercantilist extraction to capitalist market dominance) while *continuing* the structural reality of core-periphery inequality.
 
 ### GOV — Governance (Secondary Theme)
 

@@ -19,13 +19,13 @@ tags: [apwh, unit-5, topic-5-4, period-3, trade-networks, governance, economic-s
 
 ## Leads To
 
-**Topic 6.1 — The World in the Age of Imperialism** (not yet built) — Industrialized military power (ironclad warships, repeating rifles, railroads) enabled the rapid territorial expansion of European empires after c. 1870. The industrial gap between Europe and the rest of the world explains the speed and scale of "New Imperialism."
+**Topic 6.1 — The World in the Age of [[Concept Notes/Imperialism\|Imperialism]]** (not yet built) — Industrialized military power (ironclad warships, repeating rifles, railroads) enabled the rapid territorial expansion of European empires after c. 1870. The industrial gap between Europe and the rest of the world explains the speed and scale of "New Imperialism."
 
 **Topic 6.2 — Imperialism: Causes and Effects** (not yet built) — The agricultural commodity network in Topic 5.4's table (rubber, palm oil, sugar, cotton, wheat) is the economic structure that imperialism formalized and enforced. Colonial labor systems (corvée, indenture) and cash-crop monocultures follow directly from the demand patterns created by industrialization.
 
 **Topic 7.1 — Causes of World War I** (not yet built) — By 1900, multiple industrialized states (Germany, Britain, Russia, USA, Japan) competed for markets, resources, and colonies. Industrial capacity translated into military capacity. The race to build industrialized militaries was itself a driver of WWI.
 
-**Soviet/Chinese Industrialization (Topic 8.4, not yet built)** — The state-directed model used by Russia and Japan in the late 19th century prefigures Soviet five-year plans and Chinese Communist-era industrialization. The comparison (state direction, rapid catch-up growth, transformation of agricultural economies, use of coerced labor) is an explicit AP comparison thread.
+**Soviet/Chinese [[Concept Notes/Industrialization\|Industrialization]] (Topic 8.4, not yet built)** — The state-directed model used by Russia and Japan in the late 19th century prefigures Soviet five-year plans and Chinese Communist-era industrialization. The comparison (state direction, rapid catch-up growth, transformation of agricultural economies, use of coerced labor) is an explicit AP comparison thread.
 
 **Topic 5.5 — Technology of the Industrial Age** (not yet built) — The specific technologies enabling industrialization's spread (steam-powered transportation, telegraph, Bessemer steel) are covered in Topic 5.5. Topics 5.4 and 5.5 are complementary: 5.4 explains *where* industrialization spread and *who directed it*; 5.5 explains the *technological mechanisms* that made spread possible.
 

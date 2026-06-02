@@ -38,7 +38,7 @@ Topic 6.4 covers the development of global economic structures in the industrial
 ## Cross-Unit Connections
 
 **[[Concept Notes/East India Company\|East India Company]] → modern MNCs ([[Unit-4.5/Maritime Empires Develop Overview\|Maritime Empires Develop Overview]])**
-The British East India Company and Dutch East India Company are explicitly named in the AMSCO narrative as precursors to today's MNCs. The structural continuity — profit-driven global operations, exploitation of cheap labor, tax avoidance, operations beyond the regulatory reach of any single state — is a high-AP-value argument.
+The British East India Company and [[Concept Notes/Dutch East India Company\|Dutch East India Company]] are explicitly named in the AMSCO narrative as precursors to today's MNCs. The structural continuity — profit-driven global operations, exploitation of cheap labor, tax avoidance, operations beyond the regulatory reach of any single state — is a high-AP-value argument.
 
 **[[Concept Notes/Mercantilism\|Mercantilism]] and Japan ([[Unit-5.6/Industrialization: Government's Role Overview\|Industrialization: Government's Role Overview]])**
 Japan's post-WWII economic policies (export subsidies, protective tariffs, government-industry coordination) are described in AMSCO as similar to 18th-century mercantilism. This is a direct CCOT connection: the same policy toolkit used by European states in the 1700s was adapted by Japan in the 20th century, with striking success.

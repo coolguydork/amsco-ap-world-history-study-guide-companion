@@ -34,7 +34,7 @@ The legal principle that an investor is not responsible for a company's debts be
 **[[Concept Notes/East India Company\|East India Company]] (British)**
 Founded 1600 by royal charter. A joint-stock company that drove British commercial expansion into Asia, eventually becoming the administrative arm of British India. One of the most powerful corporations in history. (p. 233)
 
-**Dutch East India Company (VOC)**
+**[[Concept Notes/Dutch East India Company\|Dutch East India Company]] (VOC)**
 *Vereenigde Oost-Indische Compagnie* — founded 1602. The first major joint-stock company; pioneered the shareholder investment model for empire. Dominated the spice trade in Southeast Asia and established Batavia (Jakarta) c. 1619–1620 as its Asian hub. Made enormous profits in the Spice Islands. (p. 233)
 
 > [!exam-tip]

@@ -21,7 +21,7 @@ Chinese Muslim admiral who commanded seven monumental voyages across the Indian 
 Moroccan Muslim scholar and traveler who visited the Swahili coast, India, and Southeast Asia via Indian Ocean routes in the 1330s. His accounts (*Rihla*) are among the most valuable primary sources for the Indian Ocean trade world. His travels are referenced in Topic 2.5 as evidence of Indian Ocean connectivity. See [[Unit-1.5/People, States & Movements|People, States & Movements]] for his African travels.
 
 **Emperor Yongle (r. 1402–1424)**
-Third emperor of the Ming Dynasty; the patron of Zheng He's voyages. Yongle's sponsorship of the treasure fleets reflected an expansive, outward-looking Ming foreign policy. His death marked the turning point: successors dismantled the naval program and turned inward.
+Third emperor of the [[Concept Notes/Ming Dynasty\|Ming Dynasty]]; the patron of Zheng He's voyages. Yongle's sponsorship of the treasure fleets reflected an expansive, outward-looking Ming foreign policy. His death marked the turning point: successors dismantled the naval program and turned inward.
 
 **Zhu Gaozhi (Emperor Hongxi, r. 1424–1425)**
 Yongle's son and successor. Ended Zheng He's voyages, prohibited Chinese from sailing beyond Chinese waters, and made building a ship with more than two masts a punishable offense. His policies reflect the Confucian scholarly establishment's preference for agrarian stability over maritime commerce. His brief reign had outsized consequences for Chinese engagement with the Indian Ocean world (AMSCO p. 99).

@@ -26,7 +26,7 @@ Rights that people possess by nature, prior to any government — most famously 
 **Tabula rasa (blank slate)**
 Locke's argument (*An Essay Concerning Human Understanding*, c. 1690) that the mind begins as a blank slate, shaped entirely by experience and education rather than by birth or ancestry. Radically egalitarian: it implied that circumstances, not heredity, determined ability and worth.
 
-**Philosophes**
+**[[Concept Notes/Philosophes\|Philosophes]]**
 18th-century French-language writers who popularized Enlightenment ideas for a broad reading public, including Montesquieu, Voltaire, Rousseau, and (by extension) figures like Jefferson, Franklin, and Adam Smith. They wrote for mass audiences — encyclopedias, novels, pamphlets — not just for academic specialists.
 
 **Separation of powers**
@@ -53,7 +53,7 @@ A political ideology favoring traditional institutions and gradual, practical ch
 **[[Concept Notes/Nationalism\|Nationalism]]**
 The belief that people who share a language, culture, and history should live in an independent, self-governing nation-state. A major destabilizing force for multiethnic empires (Habsburg, Ottoman, Russian). Became a primary driver of revolution and warfare in the 19th century (see Topic 5.2).
 
-**Socialism**
+**[[Concept Notes/Socialism\|Socialism]]**
 A political and economic theory advocating public or worker ownership of the means of production, in contrast to private capitalist ownership. Responded to the poverty and inequality produced by industrialization. Branches include utopian socialism (harmonious ideal communities) and Marxist (scientific) socialism.
 
 **Utopian socialism**
@@ -68,7 +68,7 @@ The movement for women's rights and equality, grounded in Enlightenment logic: i
 **Abolitionism**
 The movement to end the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]] and slavery. Grew from Enlightenment arguments about natural rights applied to enslaved people. Denmark (1807), Britain (1807), and the U.S. (1808) banned the slave trade first; slavery was abolished across most of the Americas within decades. Brazil was last (1888).
 
-**Anti-Semitism**
+**[[Concept Notes/Anti-Semitism\|Anti-Semitism]]**
 Hostility toward Jewish people. A persistent feature of European history that intensified in the late 19th century despite (or alongside) Enlightenment ideals. The Dreyfus Affair (1894) exposed anti-Semitism even in "enlightened" France, galvanizing Zionism.
 
 **Zionism**

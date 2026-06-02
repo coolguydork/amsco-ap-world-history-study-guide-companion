@@ -29,7 +29,7 @@ Topic 7.8's AP skill is **Causation** — the exam will ask you to explain the c
 
 The 20th century's mass atrocities share a crucial feature: **the state is the perpetrator, not just a bystander**. Genocide is not mob violence — it requires state organization, legal frameworks, logistics, and ideology. This distinguishes it from random ethnic violence and makes it a GOV theme.
 
-The Nuremberg Laws (1935) show how legal exclusion precedes physical violence. By stripping Jews of citizenship, the Nazi state made them legally vulnerable to any further measure. The progression — legal exclusion → segregation in ghettos → deportation → mass murder — follows a consistent escalation pattern visible across multiple case studies.
+The [[Concept Notes/Nuremberg Laws\|Nuremberg Laws]] (1935) show how legal exclusion precedes physical violence. By stripping Jews of citizenship, the Nazi state made them legally vulnerable to any further measure. The progression — legal exclusion → segregation in ghettos → deportation → mass murder — follows a consistent escalation pattern visible across multiple case studies.
 
 Post-WWII, the international community created new governance institutions to prevent recurrence: the UN Genocide Convention (1948), the Universal Declaration of [[Concept Notes/Human Rights\|Human Rights]] (1948), the Nuremberg Tribunal precedent for individual criminal accountability, and eventually the ICC (2002). These represent a fundamental shift in international law: the idea that sovereignty does not protect leaders who commit crimes against humanity.
 

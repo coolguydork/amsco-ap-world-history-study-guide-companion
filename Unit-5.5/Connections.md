@@ -29,7 +29,7 @@ AMSCO explicitly connects 5.5 back to the [[Concept Notes/Silk Roads\|Silk Roads
 
 ## Leads To
 
-**New Imperialism** [[Unit-6.1/Rationales for Imperialism Overview|Rationales for Imperialism Overview]] — *folder not yet built*
+**New [[Concept Notes/Imperialism\|Imperialism]]** [[Unit-6.1/Rationales for Imperialism Overview|Rationales for Imperialism Overview]] — *folder not yet built*
 Industrial technologies directly enabled the imperial scramble of the late 19th century. Railroads penetrated continental interiors; steamships projected naval power; the telegraph coordinated colonial administration. Without the technologies of 5.5, New Imperialism at its historical scale would have been impossible.
 
 **Global Economic Development** [[Unit-6.4/Global Economic Development Overview|Global Economic Development Overview]] — *folder not yet built*

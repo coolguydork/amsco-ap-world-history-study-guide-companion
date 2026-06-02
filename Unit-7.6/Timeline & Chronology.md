@@ -42,7 +42,7 @@ tags: [apwh, unit-7, topic-7-6, period-4, wwii, fascism, nazism, appeasement]
 ## Chronological Patterns — AP Exam Notes
 
 > [!exam-tip]
-> The AP exam sometimes provides a map, cartoon, or passage and asks you to place it in context. Key chronological anchors: Nuremberg Laws (1935) → Kristallnacht (1938) → Munich (1938) → invasion of Poland (1939). These form the escalation sequence from discrimination to war.
+> The AP exam sometimes provides a map, cartoon, or passage and asks you to place it in context. Key chronological anchors: [[Concept Notes/Nuremberg Laws\|Nuremberg Laws]] (1935) → Kristallnacht (1938) → Munich (1938) → invasion of Poland (1939). These form the escalation sequence from discrimination to war.
 
 > [!tip]
 > **Asia vs. Europe timelines:** WWII began in Asia in 1937 (Japan's invasion of China) — two years before Europe (1939). The AP sometimes asks about this distinction. The two theaters shared causes (militarism, failed collective security) but developed independently until Pearl Harbor (1941) linked them.

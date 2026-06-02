@@ -42,7 +42,7 @@ The U.S. oil and steel embargo against Japan (in response to Japanese expansion 
 
 When evaluating relative significance of causes, ask:
 
-- **Underlying vs. immediate:** Imperialism and nationalism are long-term; the assassination of Franz Ferdinand is immediate. Both matter — underlying causes explain *why* war was possible; immediate causes explain *why now*.
+- **Underlying vs. immediate:** [[Concept Notes/Imperialism\|Imperialism]] and nationalism are long-term; the assassination of Franz Ferdinand is immediate. Both matter — underlying causes explain *why* war was possible; immediate causes explain *why now*.
 - **Chain causation:** Treaty of Versailles → economic hardship → rise of fascism → WWII. Each effect becomes a new cause.
 - **Equal vs. dominant:** Were causes roughly equal (WWI: MAIN — militarism, alliances, imperialism, nationalism), or did one dominate (WWII economic cause: Japan's resource hunger → Pearl Harbor)?
 

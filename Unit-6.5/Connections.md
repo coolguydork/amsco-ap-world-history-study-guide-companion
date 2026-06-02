@@ -7,7 +7,7 @@ tags: [apwh, unit-6, topic-6-5, period-3, economic-imperialism, trade-networks, 
 
 # Connections
 
-**Topic 6.5 — Economic Imperialism | AMSCO pp. 407–416**
+**Topic 6.5 — Economic [[Concept Notes/Imperialism\|Imperialism]] | AMSCO pp. 407–416**
 
 ---
 
@@ -17,7 +17,7 @@ tags: [apwh, unit-6, topic-6-5, period-3, economic-imperialism, trade-networks, 
 State expansion created the political and territorial framework that made economic imperialism possible. European governments colonized territories, signed unequal treaties, and used military force to open markets—providing the coercive structure within which corporations and investors could operate. Economic imperialism is the economic engine running inside the political machine of state expansion.
 
 **[[Unit-6.4/Global Economic Development Overview\|Global Economic Development Overview]]**
-Industrialization created the demand that drove economic imperialism. Factories needed raw materials; industrial production created surplus goods needing markets; the profits of industry generated capital seeking high-return investment abroad. [[Unit-6.4/Global Economic Development Overview\|Topic 6.4]]'s railroad, steamship, and telegraph revolution also provided the logistical infrastructure—and the military advantage—that made economic imperialism operable at global scale.
+[[Concept Notes/Industrialization\|Industrialization]] created the demand that drove economic imperialism. Factories needed raw materials; industrial production created surplus goods needing markets; the profits of industry generated capital seeking high-return investment abroad. [[Unit-6.4/Global Economic Development Overview\|Topic 6.4]]'s railroad, steamship, and telegraph revolution also provided the logistical infrastructure—and the military advantage—that made economic imperialism operable at global scale.
 
 ---
 

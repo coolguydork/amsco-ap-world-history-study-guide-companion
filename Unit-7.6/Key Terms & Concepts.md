@@ -28,7 +28,7 @@ Hitler's autobiography and political manifesto ("My Struggle"), written in priso
 A pseudoscientific theory claiming that racial hierarchies are biologically determined and that some races are genetically superior to others. Nazis used it to justify persecution of Jews, Slavs, Roma, and others. The AP exam connects this to Social Darwinism and the broader ideology of European imperialism.
 
 **anti-Semitism**
-Hostility, prejudice, and discrimination against Jewish people. Long-rooted in European history, in Nazi Germany Hitler weaponized anti-Semitism into state policy through the Nuremberg Laws, Kristallnacht, and ultimately the Holocaust.
+Hostility, prejudice, and discrimination against Jewish people. Long-rooted in European history, in Nazi Germany Hitler weaponized anti-Semitism into state policy through the [[Concept Notes/Nuremberg Laws\|Nuremberg Laws]], Kristallnacht, and ultimately the Holocaust.
 
 **Aryans**
 In Nazi ideology, the supposed "master race" of Germanic/Nordic peoples. Hitler used this pseudoscientific concept to justify the persecution of Jews, Slavs, Roma, and others deemed "impure." The term is historically corrupted from its actual linguistic meaning (Indo-Iranian peoples).

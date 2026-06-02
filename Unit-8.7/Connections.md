@@ -36,7 +36,7 @@ Post-9/11 terrorism, the "War on Terror," and ongoing global extremism are the d
 **[[Unit-6.8/Causation in the Imperial Age Overview\|Causation in the Imperial Age Overview]]**
 The labor movement and socialist resistance to industrial capitalism (19th century) parallels the ideological resistance to political power structures in 8.7. Both involve non-elite groups organizing against established hierarchies, though the methods and targets differ. Compare also: Luddite machine-breaking (violent) vs. trade union organizing (legal/institutional) — similar violence-vs-legal-means spectrum.
 
-**Topic 4.3 — Columbian Exchange / Topic 5.x — Industrialization**
+**Topic 4.3 — Columbian Exchange / Topic 5.x — [[Concept Notes/Industrialization\|Industrialization]]**
 Earlier periods also feature resistance to established power — slave revolts, anticolonial uprisings (Haitian Revolution), indigenous resistance. Compare methods and outcomes across periods: what changed about resistance strategies in the 20th century? (Answer: mass media, international law, decolonization framework, Cold War patron funding.)
 
 ## Cross-Topic Concept Links

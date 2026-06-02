@@ -54,7 +54,7 @@ Systematic campaigns east (Jin Empire/northern China), then west (Central Asia, 
 Unified Mongol control enables the third golden age of Silk Roads trade. Cultural exchange peaks. Marco Polo travels China. Bubonic plague begins spreading along trade routes.
 
 **Phase 5 — Fragmentation and Decline (c. 1350–1502)**
-The [[Concept Notes/Black Death\|Black Death]] disrupts trade and depopulates territories. Chinese resistance builds under Yuan rule. Ming Dynasty expels [[Concept Notes/Mongols\|Mongols]] (1368). Battle of Kulikovo ends Golden Horde's dominance of Russia (1380). Tamerlane absorbs Central Asia.
+The [[Concept Notes/Black Death\|Black Death]] disrupts trade and depopulates territories. Chinese resistance builds under Yuan rule. [[Concept Notes/Ming Dynasty\|Ming Dynasty]] expels [[Concept Notes/Mongols\|Mongols]] (1368). Battle of Kulikovo ends Golden Horde's dominance of Russia (1380). Tamerlane absorbs Central Asia.
 
 ---
 

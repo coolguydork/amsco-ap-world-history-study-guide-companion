@@ -31,7 +31,7 @@ The AP exam skill for this topic is **Causation** — explaining why migration h
 **Short-range causes (direct triggers):**
 - Abolition of the slave trade (Britain 1807, US 1808) → demand for alternative coerced labor → indenture and contract systems
 - Great Famine 1845–1852 → mass Irish emigration to US, Britain, Canada, Australia
-- Taiping Rebellion 1850–1864 → poverty and disorder push Chinese emigration
+- [[Concept Notes/Taiping Rebellion\|Taiping Rebellion]] 1850–1864 → poverty and disorder push Chinese emigration
 - Gold rushes in California and Australia (1849, 1851) → pull Chinese and European migrants
 - Italian unification (1861) → economic disruption in south Italy → mass emigration
 
@@ -61,7 +61,7 @@ The AMSCO textbook's Think as a Historian exercise for this topic asks students 
 
 **Transition from mercantilism to capitalism** meant colonial economies were now oriented toward global commodity markets — plantations producing sugar, cotton, rubber, and palm oil for world trade. This sustained the demand for cheap labor even after abolition.
 
-**Imperialism** created the colonial infrastructure that absorbed migrant labor: plantations, railroads, mines, and settler colonies needed workers. Colonial powers managed migration flows (indenture contracts, penal transportation, the Gentlemen's Agreement) to serve economic interests.
+**[[Concept Notes/Imperialism\|Imperialism]]** created the colonial infrastructure that absorbed migrant labor: plantations, railroads, mines, and settler colonies needed workers. Colonial powers managed migration flows (indenture contracts, penal transportation, the Gentlemen's Agreement) to serve economic interests.
 
 ---
 

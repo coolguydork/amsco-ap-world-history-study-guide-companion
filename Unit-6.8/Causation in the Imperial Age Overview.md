@@ -20,7 +20,7 @@ Industrial capitalism set off a chain reaction that reshaped the world between 1
 
 ## Effect 1: Changes in Standards of Living (AMSCO p. 440)
 
-Industrialization produced more consumer goods — textiles, home furnishings, clothing, porcelain — and drove prices down. **Real wages** (wages adjusted for inflation) roughly doubled in Britain between 1819 and 1852. By these measures, standards of living rose for people across income groups in industrializing nations.
+[[Concept Notes/Industrialization\|Industrialization]] produced more consumer goods — textiles, home furnishings, clothing, porcelain — and drove prices down. **Real wages** (wages adjusted for inflation) roughly doubled in Britain between 1819 and 1852. By these measures, standards of living rose for people across income groups in industrializing nations.
 
 The picture was not uniformly positive, however. The **wealth gap** widened as income distribution became more unequal. Urbanization brought pollution and overcrowding. And for colonized peoples, industrialization meant deindustrialization — their economies were restructured to supply raw materials to Europe rather than develop their own manufacturing capacity. The gap between industrial and non-industrial societies grew dramatically across this period.
 
@@ -40,11 +40,11 @@ The key enabler was technology: advances in **military technology** (repeating r
 
 ## Effect 3: Seeds of Revolution and Rebellion (AMSCO p. 441)
 
-Imperialism planted the seeds of resistance that would bloom into full independence movements in the 20th century. Two key examples:
+[[Concept Notes/Imperialism\|Imperialism]] planted the seeds of resistance that would bloom into full independence movements in the 20th century. Two key examples:
 
 **Indian Rebellion of 1857 (Sepoy Mutiny):** Indian soldiers (*sepoys*) employed by the [[Concept Notes/East India Company\|East India Company]] revolted against British rule. The rebellion was suppressed, but its consequence was the **dissolution of the Company** and the beginning of **direct Crown rule** — the British Raj. The rebellion also demonstrated that anti-colonial sentiment was widespread and could mobilize both Hindu and Muslim Indians.
 
-**Boxer Rebellion (China, 1899–1901):** Chinese nationalists (the Boxers) attempted to expel Western and Japanese influence, particularly Christian missionaries. Though suppressed by a multinational force, the rebellion foreshadowed the collapse of the Qing Dynasty and the Chinese nationalist movements of the early 20th century.
+**Boxer Rebellion (China, 1899–1901):** Chinese nationalists (the Boxers) attempted to expel Western and Japanese influence, particularly Christian missionaries. Though suppressed by a multinational force, the rebellion foreshadowed the collapse of the [[Concept Notes/Qing Dynasty\|Qing Dynasty]] and the Chinese nationalist movements of the early 20th century.
 
 Both rebellions failed militarily but succeeded in demonstrating the limits of imperial control and galvanizing nationalist consciousness. Earlier, in the Americas, former colonial territories had already achieved independence (U.S. in 1776, Latin American states in the early 1800s), providing a model for later movements.
 

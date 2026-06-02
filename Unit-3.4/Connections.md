@@ -29,7 +29,7 @@ Religion as a tool of legitimacy (the caliphate, divine right, Akbar's syncretis
 **Unit 4 — Maritime Empires**
 Topic 3.4 sets up the central contrast of Unit 4: land empires vs. maritime empires as competing models of power. The [[Concept Notes/Gunpowder Empires|Gunpowder Empires]]' reliance on territory and armies will be compared with the Portuguese, Spanish, Dutch, and British maritime networks that siphoned trade revenue from those same regions. The Ming silver tax policy connects directly to Unit 4's global silver trade.
 
-**Unit 5 — Industrialization and its Consequences**
+**Unit 5 — [[Concept Notes/Industrialization\|Industrialization]] and its Consequences**
 Peter the Great's state-directed manufacturing reforms (College of Manufactures, 1723) foreshadow the state-sponsored industrialization of Unit 5. Russia's trajectory from Peter's reforms to the Industrial Revolution is a useful long-arc continuity argument.
 
 ---

@@ -45,7 +45,7 @@ The Cold War's origins lie in WWII's destruction and the ideological contest cry
 **Unit 9: Globalization (1900–present)**
 The end of the Cold War accelerates globalization: WTO, international institutions, transnational corporations, and the spread of liberal democratic capitalism. 8.9's global institutions section is the direct bridge to Unit 9. See: **Global Connections[[Unit-9.1/Advances in Technology & Exchange Overview|Advances in Technology & Exchange Overview]]**.
 
-**Units 4–5: European Colonialism and Industrialization**
+**Units 4–5: European Colonialism and [[Concept Notes/Industrialization\|Industrialization]]**
 Neo-colonialism (8.9) is the continuation of the extractive economic relationships established under European colonialism (Unit 4) and industrialization (Unit 5). The argument that decolonization did not end economic dependency requires understanding why those dependencies were created.
 
 ---

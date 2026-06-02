@@ -7,7 +7,7 @@ tags: [apwh, unit-6, topic-6-7, period-3, migration, discrimination, ethnic-encl
 
 # Effects of Migration
 
-**Unit 6 — Consequences of Industrialization | AP Period 3 | AMSCO pp. 429–438**
+**Unit 6 — Consequences of [[Concept Notes/Industrialization\|Industrialization]] | AP Period 3 | AMSCO pp. 429–438**
 
 **Essential Question:** How did mass migration transform both home and receiving societies?
 

@@ -22,7 +22,7 @@ Founder of the Song Dynasty. His most significant contribution was expanding the
 Grandson of Genghis Khan. As Mongol Great Khan, he completed the conquest of the Song Dynasty in 1279 and established the **Yuan Dynasty** (1271–1368) in China. Kublai Khan ruled China as a foreign conqueror but adopted many Chinese administrative traditions. His court was visited by Marco Polo, whose accounts shaped European awareness of East Asian commerce.
 
 ### Zhu Yuanzhang — The Hongwu Emperor (r. 1368–1398)
-A Buddhist monk from a poor peasant family who led a revolt overthrowing the Yuan Dynasty in 1368. Founded the **Ming Dynasty (1368–1644)**, restoring native Chinese rule. Expelled the [[Concept Notes/Mongols\|Mongols]] and reinstituted Confucian governance. His success demonstrates how the **Mandate of Heaven** could legitimize overthrowing a foreign dynasty.
+A Buddhist monk from a poor peasant family who led a revolt overthrowing the Yuan Dynasty in 1368. Founded the **[[Concept Notes/Ming Dynasty\|Ming Dynasty]] (1368–1644)**, restoring native Chinese rule. Expelled the [[Concept Notes/Mongols\|Mongols]] and reinstituted Confucian governance. His success demonstrates how the **Mandate of Heaven** could legitimize overthrowing a foreign dynasty.
 
 ### Lady Murasaki Shikibu (c. 973–c. 1025)
 A Japanese court woman who wrote *The Tale of Genji* in the 11th century — widely considered the world's **first novel**. The story follows a Japanese prince and his life at court. Her work illustrates Japan's cultural creativity *alongside* Chinese influence — not merely imitation. Japan absorbed Chinese literary forms but also developed its own distinct traditions.

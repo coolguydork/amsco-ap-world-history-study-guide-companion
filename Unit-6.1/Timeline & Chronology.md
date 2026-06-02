@@ -23,4 +23,4 @@ tags: [apwh, unit-6, topic-6-1, period-3, imperialism, timeline, chronology]
 | 1899 | Kipling publishes "The White Man's Burden" | Iconic statement of cultural-paternalistic rationale for imperialism; frequent AP primary source |
 
 > [!tip]
-> Notice the causal sequence: industrialization (1760s–1870s) → intensified economic competition → nationalist rivalry → Scramble for Africa and Asia. Causation runs directly from Unit 5 into Unit 6. The timeline of the EIC (1600) and VOC (1602) also connects New Imperialism to the first wave of colonialism in Unit 4.
+> Notice the causal sequence: industrialization (1760s–1870s) → intensified economic competition → nationalist rivalry → Scramble for Africa and Asia. Causation runs directly from Unit 5 into Unit 6. The timeline of the EIC (1600) and VOC (1602) also connects New [[Concept Notes/Imperialism\|Imperialism]] to the first wave of colonialism in Unit 4.

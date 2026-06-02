@@ -44,9 +44,9 @@ By 1640, Russia had reached the Pacific Ocean. Missionaries followed traders, co
 
 ## East Asia: Ming and Qing China
 
-**The Ming Dynasty (1368–1644)** stabilized East Asia for nearly 300 years after overthrowing the Mongol Yuan Dynasty. The Ming expanded into Mongolia and Central Asia but could not hold those gains. After renewed Mongol pressure in the 1400s, the Ming rebuilt and expanded the **Great Wall of China** as protection from northern invaders.
+**The [[Concept Notes/Ming Dynasty\|Ming Dynasty]] (1368–1644)** stabilized East Asia for nearly 300 years after overthrowing the Mongol Yuan Dynasty. The Ming expanded into Mongolia and Central Asia but could not hold those gains. After renewed Mongol pressure in the 1400s, the Ming rebuilt and expanded the **Great Wall of China** as protection from northern invaders.
 
-In 1644, the **Manchu** from neighboring Manchuria overthrew the Ming and established the **Qing Dynasty** (1644–1912). Although foreign rulers, the Manchu adopted Chinese bureaucratic governance while maintaining ethnic distinctions.
+In 1644, the **[[Concept Notes/Manchu\|Manchu]]** from neighboring Manchuria overthrew the Ming and established the **[[Concept Notes/Qing Dynasty\|Qing Dynasty]]** (1644–1912). Although foreign rulers, the Manchu adopted Chinese bureaucratic governance while maintaining ethnic distinctions.
 
 **Emperor Kangxi** (r. 1661–1722) presided over a golden age: stability, territorial expansion into Taiwan, Mongolia, and Central Asia, and a protectorate over Tibet. **Emperor Qianlong** (r. 1736–1796) extended Chinese territory further west into Xinjiang (at great human cost to the local Uighur population) and maintained tributary relationships with surrounding states. However, the later Qing period saw growing bureaucratic corruption and popular rebellion — notably the **White Lotus Rebellion (1796–1804)**, suppressed brutally by the Qing government.
 

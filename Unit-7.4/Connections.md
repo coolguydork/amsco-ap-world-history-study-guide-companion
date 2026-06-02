@@ -21,10 +21,10 @@ Topic 7.4's economic crisis directly enables Topic 7.6's political catastrophe. 
 
 ## Compare With
 
-**Unit 5 Industrialization — European Industrial [[Concept Notes/Capitalism|Capitalism]]**
+**Unit 5 [[Concept Notes/Industrialization\|Industrialization]] — European Industrial [[Concept Notes/Capitalism|Capitalism]]**
 The Great Depression exposed the vulnerabilities of the industrial capitalist system that developed in Unit 5. The boom-bust cycle, labor exploitation, and inequality that industrialization produced created the social tensions the Depression unleashed. Compare laissez-faire industrial capitalism with the Depression-era interventionist state — a major CCOT argument.
 
-**Unit 6 Imperialism — Economic Exploitation of Colonies**
+**Unit 6 [[Concept Notes/Imperialism\|Imperialism]] — Economic Exploitation of Colonies**
 Cárdenas's 1938 speech echoes the same critique of foreign economic exploitation that anticolonial movements made throughout Unit 6. The pattern of foreign corporations extracting resources while underpaying local labor and enjoying government-granted privileges connects directly to Unit 6's imperialism — PEMEX is an economic nationalist response to an imperial economic structure. Latin American economic nationalism anticipates decolonization-era nationalizations worldwide.
 
 **Unit 7.1 — Shifting Power After WWI**

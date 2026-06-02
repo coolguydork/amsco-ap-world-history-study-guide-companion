@@ -61,7 +61,7 @@ As industrialization intensified social problems — urban poverty, political ex
 
 **Conservatism** rejected rapid change, favoring traditional institutions and practical experience over ideological blueprints. Popular among European ruling classes reacting to revolutionary upheaval.
 
-**Utopian Socialism** envisioned ideal communities that could eliminate poverty and exploitation:
+**Utopian [[Concept Notes/Socialism\|Socialism]]** envisioned ideal communities that could eliminate poverty and exploitation:
 - **Henri de Saint-Simon** (France): scientists, engineers, and businesses leading a rational, efficient society; proposed the Suez Canal
 - **Charles Fourier**: encouraged human "passions" to make work enjoyable; harmonious communal living over class struggle
 - **Robert Owen** (Britain/U.S.): founded intentional communities in New Lanark, Scotland and New Harmony, Indiana; championed child education and communal property
@@ -92,6 +92,6 @@ The Enlightenment's political ideas reached far beyond Europe. They provided the
 
 **Builds on:** [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power]] [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power Overview]] — the [[Concept Notes/Protestant Reformation|Protestant Reformation]] already challenged church and monarchical authority; [[Unit-1.6/Medieval Europe Overview|Medieval Europe]] [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]] — European scholasticism as earlier rationalist tradition; [[Unit-4.5/Maritime Empires Develop Overview|Maritime Empires Develop]] [[Unit-4.5/Maritime Empires Develop Overview|Maritime Empires Develop Overview]] — colonial wealth funded European intellectual culture
 
-**Leads to:** **Nationalism & Revolutions** [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]] — Enlightenment ideas ignite Atlantic revolutions; **Economic Developments** [[Unit-5.7/Economic Developments & Innovations Overview|Economic Developments & Innovations Overview]] — Smith's capitalism vs. socialist responses; **Imperialism** [[Unit-6.1/Rationales for Imperialism Overview|Rationales for Imperialism Overview]] — Enlightenment ideas used to justify AND critique empire
+**Leads to:** **Nationalism & Revolutions** [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]] — Enlightenment ideas ignite Atlantic revolutions; **Economic Developments** [[Unit-5.7/Economic Developments & Innovations Overview|Economic Developments & Innovations Overview]] — Smith's capitalism vs. socialist responses; **[[Concept Notes/Imperialism\|Imperialism]]** [[Unit-6.1/Rationales for Imperialism Overview|Rationales for Imperialism Overview]] — Enlightenment ideas used to justify AND critique empire
 
 **Compare with:** [[Unit-1.2/Dar al-Islam Overview|Islamic Golden Age]] [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]] — earlier intellectual flowering that preserved Greek thought; [[Unit-1.1/East Asia Overview|Confucian rationalism]] [[Unit-1.1/East Asia Overview|East Asia Overview]] — different intellectual tradition emphasizing social harmony over individual rights

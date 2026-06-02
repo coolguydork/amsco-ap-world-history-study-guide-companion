@@ -45,7 +45,7 @@ The debate over who bears responsibility for climate action is fundamentally an 
 - Population growth → increased demand for land, water, and energy
 
 **Underlying / structural causes** (deep, systemic):
-- Industrialization spreading globally since the mid-1800s (Continuity from Unit 5)
+- [[Concept Notes/Industrialization\|Industrialization]] spreading globally since the mid-1800s (Continuity from Unit 5)
 - Capitalist logic of constant expansion and resource extraction (see Marx in TAH)
 - Global population boom driven partly by [[Concept Notes/Green Revolution\|Green Revolution]] (see [[Unit-9.1/Advances in Technology & Exchange Overview\|Topic 9.1]]) and medical advances (see [[Unit-9.2/Technological Advancements & Limitations — Disease Overview\|Topic 9.2]])
 - Urbanization concentrating resource demand and waste production

@@ -19,7 +19,7 @@ A powerful Ottoman advisor who governed in the sultan's name as sultans became i
 The competition among wives and concubines of the Ottoman sultan to position their sons as heirs. Though confined to private quarters, harem women could wield significant indirect political power, as the "sultanate of women" controversy illustrated. (AMSCO p. 252)
 
 **Queue (pigtail)**
-The Manchu braided hairstyle that the Qing Dynasty required all men in China to wear as a symbol of submission to Qing authority. Refusing the queue meant execution. The policy reveals how new rulers used cultural symbols to enforce political dominance. (AMSCO p. 254)
+The [[Concept Notes/Manchu\|Manchu]] braided hairstyle that the [[Concept Notes/Qing Dynasty\|Qing Dynasty]] required all men in China to wear as a symbol of submission to Qing authority. Refusing the queue meant execution. The policy reveals how new rulers used cultural symbols to enforce political dominance. (AMSCO p. 254)
 
 **Boyar**
 The noble landowning class in Russia. Boyars were the top of the Russian social hierarchy, controlling land and serfs. Ivan IV confiscated boyar lands in Novgorod after a failed rebellion and forced them to Moscow — an early example of tsarist centralization. (AMSCO p. 255)
@@ -35,7 +35,7 @@ A peasant legally bound to the land and transferred with it when a noble sold or
 **Casta system**
 The formal racial hierarchy in Spanish colonial Latin America. Racial categories were assigned at baptism and determined legal status, tax obligations, and social mobility. The system codified race as the primary axis of social inequality — a genuinely new feature of global history. (AMSCO pp. 255–256)
 
-**Peninsulares**
+**[[Concept Notes/Peninsulares\|Peninsulares]]**
 Individuals born in Spain or Portugal (the Iberian Peninsula), who occupied the top of the colonial Latin American social hierarchy. They held the highest government and Church positions. (AMSCO p. 255)
 
 **Criollos**
@@ -44,7 +44,7 @@ People of full European ancestry born in the Americas. Below peninsulares but ab
 **Castas**
 The collective term for people of mixed racial ancestry in Spanish colonial Latin America, subdivided into mestizos, mulattos, and zambos. (AMSCO p. 256)
 
-**Mestizos**
+**[[Concept Notes/Mestizos\|Mestizos]]**
 People of mixed European and indigenous ancestry. Occupied the upper tier of the castas. (AMSCO p. 256)
 
 **Mulattos (mulattoes)**

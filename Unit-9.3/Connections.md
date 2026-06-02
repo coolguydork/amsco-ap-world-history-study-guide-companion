@@ -43,7 +43,7 @@ Colonial-era deforestation and land clearance for plantation agriculture establi
 ## AP Exam Argument Combinations
 
 **For LEQs on environmental change:**
-- Thesis: Industrialization (5.5) → population growth (9.1/9.2) → resource depletion + emissions (9.3) → global warming → international agreements (Kyoto, Paris). Each step is causally connected.
+- Thesis: [[Concept Notes/Industrialization\|Industrialization]] (5.5) → population growth (9.1/9.2) → resource depletion + emissions (9.3) → global warming → international agreements (Kyoto, Paris). Each step is causally connected.
 - Comparison: How did developed and developing nations' roles in climate change differ? (Economic development gap, per-capita vs. total emissions, historical responsibility argument)
 - CCOT: What changed vs. continued in the human-environment relationship from 1900 to present? (Continuity: resource extraction for agriculture; Change: global scale, institutional response, Anthropocene)
 

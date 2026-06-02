@@ -34,7 +34,7 @@ WWI produced staggering casualties: 8–9 million soldiers dead, more than 21 mi
 
 WWII produced 30–50 million total deaths, with civilian casualties likely exceeding military ones. The Soviet Union lost perhaps half of all deaths.
 
-**The Holocaust** was the Nazi regime's systematic genocide of approximately 6 million Jews — around two-thirds of European Jewry — along with 5 million others (Roma, disabled, political prisoners, LGBTQ individuals, Soviet POWs). Heinrich Himmler's SS implemented the "Final Solution" beginning in 1942: mobile killing units first shot Jews in mass graves; later, Jews were deported to death camps (Auschwitz, Treblinka, Dachau) and gassed. The Nuremberg Laws (1935) had earlier stripped Jews of citizenship and forced them into ghettos. The Holocaust's scale and industrial efficiency — trains, gas chambers, crematoria — made it the paradigmatic genocide of the modern era.
+**The Holocaust** was the Nazi regime's systematic genocide of approximately 6 million Jews — around two-thirds of European Jewry — along with 5 million others (Roma, disabled, political prisoners, LGBTQ individuals, Soviet POWs). Heinrich Himmler's SS implemented the "Final Solution" beginning in 1942: mobile killing units first shot Jews in mass graves; later, Jews were deported to death camps (Auschwitz, Treblinka, Dachau) and gassed. The [[Concept Notes/Nuremberg Laws\|Nuremberg Laws]] (1935) had earlier stripped Jews of citizenship and forced them into ghettos. The Holocaust's scale and industrial efficiency — trains, gas chambers, crematoria — made it the paradigmatic genocide of the modern era.
 
 ## WWII Atrocities: Japan and the Allies
 

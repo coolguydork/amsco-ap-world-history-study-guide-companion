@@ -61,7 +61,7 @@ Hulagu's **Il-khanate** stretched from Byzantium to the Oxus River. Persians ser
 
 **Kublai Khan** spent 1235–1271 subduing China, then ruled by the Song Dynasty. In 1260 he became Great Khan; in 1271 he established the **Yuan Dynasty**, rebuilding the destroyed capital as Dadu (present-day Beijing). He adopted Chinese administrative customs rather than imposing Mongol ones, and extended religious toleration to Buddhists, Daoists, Muslims, Jews, and Christians (AMSCO p. 89–90).
 
-The Yuan Dynasty eventually alienated the Chinese by hiring foreigners over native scholar-gentry and dismantling the civil service examination system. Failed military campaigns against Japan, Indochina, Burma, and Java weakened Mongol prestige. The secret **White Lotus Society** organized resistance, and in 1368 **Zhu Yuanzhang** — a Buddhist monk from a peasant family — led the revolt that founded the **Ming Dynasty (1368–1644)** (AMSCO p. 90).
+The Yuan Dynasty eventually alienated the Chinese by hiring foreigners over native scholar-gentry and dismantling the civil service examination system. Failed military campaigns against Japan, Indochina, Burma, and Java weakened Mongol prestige. The secret **White Lotus Society** organized resistance, and in 1368 **Zhu Yuanzhang** — a Buddhist monk from a peasant family — led the revolt that founded the **[[Concept Notes/Ming Dynasty\|Ming Dynasty]] (1368–1644)** (AMSCO p. 90).
 
 ---
 

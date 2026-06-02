@@ -21,7 +21,7 @@ tags: [apwh, unit-9, topic-9-4, period-4, globalization, economics, neoliberalis
 The late 20th century saw the most dramatic acceleration of economic globalization in human history. Three interlocking forces drove it: the collapse of the Soviet bloc (which opened formerly closed economies), the spread of **neoliberal** free-market ideology (championed by Reagan and Thatcher), and the digital revolution (which enabled instantaneous global transactions). The result was a world economy far more integrated than ever before — but also one where gains were unevenly distributed and where manufacturing migrated toward low-wage regions while knowledge work concentrated in educated, technology-rich societies.
 
 > [!exam-tip]
-> The AP exam frequently tests continuity here: multinational corporations are NOT new in the late 20th century. The British East India Company and Dutch East India Company were the original MNCs — see [[Concept Notes/East India Company\|East India Company]] and [[Unit-4.5/Maritime Empires Develop Overview\|Maritime Empires Develop Overview]]. Know the continuity (profit-driven global operations, exploitation of labor) and the change (scale, speed, digital infrastructure).
+> The AP exam frequently tests continuity here: multinational corporations are NOT new in the late 20th century. The British East India Company and [[Concept Notes/Dutch East India Company\|Dutch East India Company]] were the original MNCs — see [[Concept Notes/East India Company\|East India Company]] and [[Unit-4.5/Maritime Empires Develop Overview\|Maritime Empires Develop Overview]]. Know the continuity (profit-driven global operations, exploitation of labor) and the change (scale, speed, digital infrastructure).
 
 ---
 

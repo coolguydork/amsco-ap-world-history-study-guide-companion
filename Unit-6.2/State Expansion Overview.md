@@ -47,9 +47,9 @@ Key colonial situations to know:
 
 **South Asia:** The British [[Concept Notes/East India Company\|East India Company]] (EIC) steadily absorbed the weak Mughal Empire, eventually controlling all of South Asia from Pakistan to Ceylon (Sri Lanka). After the Sepoy (Indian) Rebellion of 1857, the British Crown dissolved the EIC and assumed direct rule.
 
-**East Asia — China:** China kept its own government but was carved into spheres of influence by multiple powers. Internal crises weakened the Qing Dynasty and invited foreign domination:
+**East Asia — China:** China kept its own government but was carved into spheres of influence by multiple powers. Internal crises weakened the [[Concept Notes/Qing Dynasty\|Qing Dynasty]] and invited foreign domination:
 
-- **Taiping Rebellion (1850–1864):** 20+ million dead; one of history's deadliest conflicts; weakened Qing authority.
+- **[[Concept Notes/Taiping Rebellion\|Taiping Rebellion]] (1850–1864):** 20+ million dead; one of history's deadliest conflicts; weakened Qing authority.
 - **Boxer Rebellion (1899–1901):** Anti-imperialist uprising encouraged by Empress Cixi; defeated by a multinational force; further humiliated Qing legitimacy.
 
 **East Asia — Japan:** After Commodore Perry forced open Japan in 1853, Japan industrialized rapidly (Meiji Restoration) and became an imperial power itself, eventually building an empire across Korea, parts of China, and Southeast Asia.
@@ -65,7 +65,7 @@ The Dutch controlled the **Dutch East Indies** (Indonesia) after the VOC went ba
 **United States expansion** followed a parallel logic:
 - The **Monroe Doctrine** (1823) warned Europe out of the Western Hemisphere while implying American dominance there.
 - **Manifest Destiny** rationalized continental expansion and displacement of Native Americans (Trail of Tears, 1830s).
-- The **Spanish-American War** (1898) made the U.S. a Pacific and Caribbean imperial power (Philippines, Guam, Puerto Rico, Cuba).
+- The **[[Concept Notes/Spanish-American War\|Spanish-American War]]** (1898) made the U.S. a Pacific and Caribbean imperial power (Philippines, Guam, Puerto Rico, Cuba).
 - The **Roosevelt Corollary** (1904) asserted the U.S. right to intervene in "unstable" Latin American nations.
 
 **Russia** expanded east and south — into Central Asia, Alaska (sold to U.S. in 1867), and Manchuria — competing with Britain in the **Great Game** over Afghanistan.

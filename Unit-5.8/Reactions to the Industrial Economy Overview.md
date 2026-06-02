@@ -19,7 +19,7 @@ tags: [apwh, unit-5, topic-5-8, period-3, industrial-revolution, labor, socialis
 
 ## The Big Picture
 
-Industrialization created enormous wealth — and enormous misery. Low wages, brutal working conditions, child labor, and crushing hours provoked resistance on three fronts: workers organized collectively through **labor unions**, intellectuals proposed alternative economic systems from **utilitarianism** to **Marxism**, and governments in the Ottoman Empire, China, and Japan enacted top-down reforms to modernize without losing power. All three paths involved tension between tradition and change, and all three produced both progress and backlash.
+[[Concept Notes/Industrialization\|Industrialization]] created enormous wealth — and enormous misery. Low wages, brutal working conditions, child labor, and crushing hours provoked resistance on three fronts: workers organized collectively through **labor unions**, intellectuals proposed alternative economic systems from **utilitarianism** to **Marxism**, and governments in the Ottoman Empire, China, and Japan enacted top-down reforms to modernize without losing power. All three paths involved tension between tradition and change, and all three produced both progress and backlash.
 
 > [!exam-tip]
 > The AP exam loves this topic for comparison and causation. Be ready to compare different responses to industrialization (workers vs. intellectuals vs. governments) and explain why some reforms succeeded while others failed.
@@ -49,7 +49,7 @@ As transnational businesses grew, thinkers questioned capitalism itself. **Utopi
 - The **proletariat** — factory workers who sold their labor for bare survival
 - The **bourgeoisie** — owners of the **means of production** (factories, mines, land) who extracted the wealth workers created
 
-Market competition, Marx argued, drove the bourgeoisie to maximize profit by exploiting the proletariat. The solution was for workers to seize control of the means of production. **Socialism** would replace capitalism; then **communism** — a classless society with no private ownership — would be the final stage (p. 334).
+Market competition, Marx argued, drove the bourgeoisie to maximize profit by exploiting the proletariat. The solution was for workers to seize control of the means of production. **[[Concept Notes/Socialism\|Socialism]]** would replace capitalism; then **communism** — a classless society with no private ownership — would be the final stage (p. 334).
 
 > [!tip]
 > Key contrast for the AP exam: **Mill** wanted to reform capitalism from within. **Marx** wanted to replace it entirely. Both responded to the same conditions; their diagnoses and prescriptions were opposite.

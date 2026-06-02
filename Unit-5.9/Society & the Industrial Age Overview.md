@@ -19,7 +19,7 @@ tags: [apwh, unit-5, topic-5-9, period-3, society, industrialization, class, gen
 
 ## New Class Hierarchy
 
-Industrialization shattered the old landed-gentry order and built a new three-tier class structure in its place.
+[[Concept Notes/Industrialization\|Industrialization]] shattered the old landed-gentry order and built a new three-tier class structure in its place.
 
 | Class | Who they were | AP significance |
 |---|---|---|

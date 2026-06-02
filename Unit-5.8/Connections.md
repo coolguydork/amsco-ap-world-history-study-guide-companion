@@ -33,7 +33,7 @@ The *Communist Manifesto* (1848) and Marxist theory laid the intellectual ground
 **Topic 4.3 — Columbian Exchange and the Origins of a Global Economy**
 A much earlier case of economic change creating social disruption and institutional responses. Compare how early modern states managed the disruption of new trade networks with how 19th-century states managed industrialization's disruptions.
 
-**Topic 6.2 — Imperialism: Motivations and Mechanisms**
+**Topic 6.2 — [[Concept Notes/Imperialism\|Imperialism]]: Motivations and Mechanisms**
 The same period when Western powers exported industrial capitalism globally through imperialism. Non-Western responses in Topic 5.8 (Tanzimat, Self-Strengthening, Meiji) were partly motivated by the need to resist imperialist encroachment. The Boxer Rebellion (1900), referenced in Topic 5.8's narrative, directly connects to Topic 6.2.
 
 **Topic 7.5 — Unresolved Tensions After WWI**

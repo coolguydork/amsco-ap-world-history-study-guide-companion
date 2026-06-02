@@ -46,7 +46,7 @@ Rulers who could not personally supervise every province delegated to loyal offi
 
 **Mughal India — Zamindars:** Akbar created paid government officials called **zamindars** who oversaw taxation, construction, and water supply. Later they received land grants rather than salaries and kept a portion of collected taxes. This worked efficiently under Akbar, but subsequent zamindars began keeping more revenue and building private armies — a classic pattern of administrative decay. *AMSCO p. 160*
 
-**Qing China — Kangxi:** Emperor **Kangxi** (r. 1661–1722) maintained the traditional civil service examination system, re-employing Han Chinese scholars in the bureaucracy while carefully maintaining Manchu ethnic distinctions. The exam system provided meritocratic legitimacy; the emperor kept ultimate control.
+**Qing China — Kangxi:** Emperor **Kangxi** (r. 1661–1722) maintained the traditional civil service examination system, re-employing Han Chinese scholars in the bureaucracy while carefully maintaining [[Concept Notes/Manchu\|Manchu]] ethnic distinctions. The exam system provided meritocratic legitimacy; the emperor kept ultimate control.
 
 **Tokugawa Japan — Sankin-kōtai:** The Tokugawa shogunate divided Japan into 250 domains (hans), each controlled by a daimyo. To prevent rebellion, it required daimyo to maintain residences both in their home territory and in the capital, Edo. When a daimyo visited home, his family stayed in Edo — essentially as hostages. This system brilliantly neutralized the threat from powerful regional lords. *AMSCO p. 159*
 

@@ -29,8 +29,8 @@ Revolutionary party representing Russia's industrial working class. Seized power
 
 ## China
 
-**Qing Dynasty (1644–1911)**
-China's last imperial dynasty, ruled by the Manchu ethnic minority. Never fully accepted by the Han majority. By the late 19th century the Qing faced: (1) ethnic tension with Han Chinese, (2) persistent famine from overpopulation relative to farmland, (3) insufficient tax revenues to maintain infrastructure, and (4) European economic imperialism that forced unequal trade concessions. The dynasty collapsed in 1911 under Sun Yat-sen's revolutionary movement.
+**[[Concept Notes/Qing Dynasty\|Qing Dynasty]] (1644–1911)**
+China's last imperial dynasty, ruled by the [[Concept Notes/Manchu\|Manchu]] ethnic minority. Never fully accepted by the Han majority. By the late 19th century the Qing faced: (1) ethnic tension with Han Chinese, (2) persistent famine from overpopulation relative to farmland, (3) insufficient tax revenues to maintain infrastructure, and (4) European economic imperialism that forced unequal trade concessions. The dynasty collapsed in 1911 under Sun Yat-sen's revolutionary movement.
 
 **Sun Yat-sen (1866–1925)**
 "Father of the Chinese Republic" and founder of the Kuomintang. A Christian educated in Hawaii and Hong Kong, Sun blended Confucian traditions with modern political thought in his Three People's Principles: *nationalism* (loyalty to a central Chinese state, expulsion of foreign domination), *democracy* (governance by capable experts rather than the masses), and *livelihood* (ending extreme inequality and foreign economic exploitation). He led the 1911 revolution but stepped aside after two months, lacking the military strength to govern. Both the Kuomintang and the Chinese Communists later claimed Sun as their founder.

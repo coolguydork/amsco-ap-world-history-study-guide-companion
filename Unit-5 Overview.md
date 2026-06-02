@@ -88,7 +88,7 @@ The factory system was a social as well as a technological revolution. It moved 
 
 ### 5.4 — Industrialization Spreads
 
-Industrialization spread from Britain across Western Europe, North America, and eventually Asia and Latin America — but unevenly, with different patterns in each region. The core question is: why did some regions industrialize rapidly while others did not?
+[[Concept Notes/Industrialization\|Industrialization]] spread from Britain across Western Europe, North America, and eventually Asia and Latin America — but unevenly, with different patterns in each region. The core question is: why did some regions industrialize rapidly while others did not?
 
 **Western Europe and the United States** industrialized by the mid-19th century, borrowing British technology, adapting it to local conditions, and often receiving British capital investment. Belgium, France, and Germany each developed distinct industrial profiles. The United States leveraged its abundant natural resources, large internal market, and immigrant labor supply.
 
@@ -181,7 +181,7 @@ The synthesis topic asks the CCOT question across the unit as a whole: what chan
 
 **Major changes:** The factory-based industrial economy replaced agricultural and artisanal production as the engine of wealth. Nation-states replaced dynastic empires as the dominant political form in the Atlantic world. A new global inequality emerged between industrialized and non-industrialized regions. New ideologies (liberalism, nationalism, socialism, Marxism) competed for political dominance. Urban life replaced rural life as the norm in industrializing countries.
 
-**Major continuities:** Patriarchal family structures and gender subordination persisted across the period despite the emergence of feminist movements. Coercive and exploitative labor — now in factory form rather than plantation or feudal form — continued to extract surplus value from workers. Social hierarchy (now defined by class and race rather than birth and religion) remained a structural feature of every society. Imperial expansion, driven by new industrial power and nationalist competition, continued and intensified — setting up Unit 6's Age of Imperialism.
+**Major continuities:** Patriarchal family structures and gender subordination persisted across the period despite the emergence of feminist movements. Coercive and exploitative labor — now in factory form rather than plantation or feudal form — continued to extract surplus value from workers. Social hierarchy (now defined by class and race rather than birth and religion) remained a structural feature of every society. Imperial expansion, driven by new industrial power and nationalist competition, continued and intensified — setting up Unit 6's Age of [[Concept Notes/Imperialism\|Imperialism]].
 
 **Historical Perspectives:** Historians debate the Industrial Revolution's overall impact. Early historians emphasized material progress and rising living standards. Later social historians (E.P. Thompson's *The Making of the English Working Class*) emphasized the human cost — deskilling, exploitation, loss of artisanal autonomy — arguing that workers experienced industrialization as dispossession, not progress.
 

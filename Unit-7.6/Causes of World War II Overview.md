@@ -40,11 +40,11 @@ After the 1932 elections gave the Nazis a parliamentary plurality, President Pau
 
 Hitler's ideology combined several elements into a totalitarian program:
 - **Racial supremacy** (Aryan master race, pseudoscientific racism)
-- **Anti-Semitism** — scapegoating Jews for Germany's problems
+- **[[Concept Notes/Anti-Semitism\|Anti-Semitism]]** — scapegoating Jews for Germany's problems
 - **Lebensraum** — the drive to conquer Eastern Europe for "living space"
 - **Ultranationalism** — repudiating Versailles, rearming Germany
 
-The **Nuremberg Laws** (1935) stripped Jews of citizenship and forbade marriage with non-Jews, institutionalizing persecution as state policy. **Kristallnacht** (November 1938) — the "Night of Broken Glass" — saw state-orchestrated pogroms destroy synagogues and send 30,000 Jews to concentration camps, marking a decisive escalation toward the [[Concept Notes/Holocaust\|Holocaust]].
+The **[[Concept Notes/Nuremberg Laws\|Nuremberg Laws]]** (1935) stripped Jews of citizenship and forbade marriage with non-Jews, institutionalizing persecution as state policy. **Kristallnacht** (November 1938) — the "Night of Broken Glass" — saw state-orchestrated pogroms destroy synagogues and send 30,000 Jews to concentration camps, marking a decisive escalation toward the [[Concept Notes/Holocaust\|Holocaust]].
 
 ---
 

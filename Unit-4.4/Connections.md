@@ -32,7 +32,7 @@ The racial categories and social hierarchies created by conquest and slavery in 
 **Latin American Revolutions [[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview|Nationalism & Revolutions Overview]]**
 The colonial economic structures built in 4.4 ([[Concept Notes/Mercantilism|mercantilism]], encomienda, silver extraction) create the resentments and inequalities that fuel Latin American independence movements in the early 19th century.
 
-**19th-Century Imperialism [[Unit-6.2/State Expansion Overview|State Expansion Overview]]**
+**19th-Century [[Concept Notes/Imperialism\|Imperialism]] [[Unit-6.2/State Expansion Overview|State Expansion Overview]]**
 The earlier British trading post model in India (EIC, sepoys, treaty expansion) directly prefigures the formal British Raj. Comparing 4.4's commercial empire-building with 6.2's formal colonial state reveals continuity and change in imperial methods.
 
 ## Compare With

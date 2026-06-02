@@ -7,7 +7,7 @@ tags: [apwh, unit-6, topic-6-5, period-3, economic-imperialism, trade-networks, 
 
 # Economic Imperialism
 
-**Unit 6 | Consequences of Industrialization | AP Period 3 | AMSCO pp. 407–416**
+**Unit 6 | Consequences of [[Concept Notes/Industrialization\|Industrialization]] | AP Period 3 | AMSCO pp. 407–416**
 
 > [!exam-tip]
 > The AP exam distinguishes **economic imperialism** (control without formal colonization) from **political imperialism** (direct colonial rule). Britain's role in Argentina and Latin America is the go-to example of the former. Know both Opium Wars, the Treaty of Nanking, and the Culture System for free-response evidence.
@@ -27,7 +27,7 @@ The mechanism was consistent: colonial or semi-colonial powers forced subject re
 
 **China** became the center of the most dramatic confrontation. Chinese goods (silk, porcelain, tea) were in high demand in Britain, but China wanted little from Britain in return. To offset this imbalance, the East India Company flooded China with opium. When Chinese Commissioner **Lin Zexu** destroyed British opium stocks in Canton (1839), the First **Opium War** (1839–1842) followed. British industrial military technology—steamships and superior firearms—overwhelmed Chinese defenses. The **Treaty of Nanking** (1842) forced China to open five ports, cede Hong Kong, and pay reparations: the first of the "unequal treaties." The Second Opium War (1856–1860) produced the Treaty of Tientsin, legalizing opium and opening additional ports. Other powers—France, Germany, Russia, Japan, the United States—then pressed China for their own **spheres of influence**, exclusive trading zones within Chinese territory (pp. 408–409).
 
-**Dutch East Indies** (present-day Indonesia): The Dutch East India Company monopolized the **Spice Islands** trade before pivoting to agriculture. In 1830 the Dutch government introduced the **Culture System**, forcing Javanese farmers to devote one-fifth of their land to export crops (sugar, coffee, indigo) or perform **corvée labor** for 66 days per year. Food shortages resulted. The system was abolished in 1870 under humanitarian pressure (p. 408).
+**Dutch East Indies** (present-day Indonesia): The [[Concept Notes/Dutch East India Company\|Dutch East India Company]] monopolized the **Spice Islands** trade before pivoting to agriculture. In 1830 the Dutch government introduced the **Culture System**, forcing Javanese farmers to devote one-fifth of their land to export crops (sugar, coffee, indigo) or perform **corvée labor** for 66 days per year. Food shortages resulted. The system was abolished in 1870 under humanitarian pressure (p. 408).
 
 > [!warning]
 > The Open Door Policy (US, 1899) proposed that all foreign powers have equal trading access to China—it was *not* altruistic. It was designed to prevent any single power from monopolizing China and cutting the US out of the market.

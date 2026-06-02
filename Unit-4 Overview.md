@@ -85,7 +85,7 @@ States responded with varying success — using military force, legal codificati
 
 The colonial encounter produced the period's most distinctive social innovation: the race-based casta system in Spanish colonial Latin America. Social categories (peninsulares → criollos → mestizos → mulattos → zambos → indigenous/enslaved Africans) were assigned at baptism and carried legal weight. Race, not class or faith, became the primary social marker in the Americas.
 
-Across the [[Concept Notes/Gunpowder Empires|gunpowder empires]], established hierarchies adapted. The Ottoman millet system tolerated Jews and Christians as protected minorities. Akbar the Great abolished the jizya and integrated Hindu elites, demonstrating religious pluralism as a governance strategy. The Qing Dynasty (1644–) imposed ethnic hierarchy: Manchu minority over Han majority, enforced by the queue requirement. In Europe, Louis XIV neutralized the French nobility at Versailles; in Russia, Ivan IV crushed boyar independence.
+Across the [[Concept Notes/Gunpowder Empires|gunpowder empires]], established hierarchies adapted. The Ottoman millet system tolerated Jews and Christians as protected minorities. Akbar the Great abolished the jizya and integrated Hindu elites, demonstrating religious pluralism as a governance strategy. The [[Concept Notes/Qing Dynasty\|Qing Dynasty]] (1644–) imposed ethnic hierarchy: [[Concept Notes/Manchu\|Manchu]] minority over Han majority, enforced by the queue requirement. In Europe, Louis XIV neutralized the French nobility at Versailles; in Russia, Ivan IV crushed boyar independence.
 
 → [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]]
 

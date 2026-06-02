@@ -13,7 +13,7 @@ tags: [apwh, unit-4, topic-4-8, period-2, ccot, people, states]
 Dominican friar and Spanish colonist turned critic. His 1552 work *A Short Account of the Destruction of the Indies* documented Spanish atrocities against indigenous peoples in graphic detail — the foundational text of the Black Legend. Las Casas appears in Topic 4.8's Historical Perspectives section as the origin point of the debate over how to judge Spanish colonialism. His writings are DBQ gold — a passionate insider critique that invites questions about authorship, purpose, and audience. (AMSCO p. 265)
 
 **Alfred Crosby (1931–2018)**
-Modern historian who identified and named the Columbian Exchange. His work reframed the significance of 1492 from political (Columbus finding America) to biological (the exchange of species between hemispheres). The epigraph for Topic 4.8 ("The seams of [the world] were closing, drawn together by the sailmaker's needle") is from Crosby's 1986 work *Ecological Imperialism*. (AMSCO p. 261)
+Modern historian who identified and named the Columbian Exchange. His work reframed the significance of 1492 from political (Columbus finding America) to biological (the exchange of species between hemispheres). The epigraph for Topic 4.8 ("The seams of [the world] were closing, drawn together by the sailmaker's needle") is from Crosby's 1986 work *Ecological [[Concept Notes/Imperialism\|Imperialism]]*. (AMSCO p. 261)
 
 **Julián Juderías (1877–1918)**
 Spanish historian who coined the term "Black Legend" in 1914. He argued that anti-Spanish sentiment among Protestant Europeans distorted the historical record, and that Spanish colonial rule was better than critics claimed. His work represents nationalist historical revisionism. (AMSCO p. 265)

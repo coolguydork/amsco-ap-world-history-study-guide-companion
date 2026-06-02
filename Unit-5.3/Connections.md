@@ -25,13 +25,13 @@ Enlightenment rationalism supported the scientific and empirical approach to imp
 
 ## Leads To
 
-**Topic 5.4 — Industrialization Spreads**
+**Topic 5.4 — [[Concept Notes/Industrialization\|Industrialization]] Spreads**
 The British model of industrialization — factory system, division of labor, coal power — spread to Western Europe and North America in the early-to-mid 19th century. Topic 5.4 examines which nations industrialized, why, and with what differences from the British pattern. **Forward-looking: Topic 5.4** (not yet built).
 
 **Topic 5.5 — New Technologies**
 The steam engine (Watt, 1765) pioneered in 5.3 became the energy source for the transformative technologies of the mid-1800s: railroads, steamships, the telegraph. Topic 5.5 traces how industrialization's second phase further shrank distances and changed warfare and commerce. **Forward-looking: Topic 5.5** (not yet built).
 
-**Topic 6.1 — Industrialization and Imperialism**
+**Topic 6.1 — Industrialization and [[Concept Notes/Imperialism\|Imperialism]]**
 Britain's industrial lead gave it a decisive military and economic advantage over non-industrialized regions, driving a new wave of imperial expansion in Africa and Asia. The need for raw materials and consumer markets — the same drivers that shaped 5.3 — now scaled globally. **Forward-looking: Topic 6.1** (not yet built).
 
 ---

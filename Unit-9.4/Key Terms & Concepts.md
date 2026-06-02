@@ -45,7 +45,7 @@ Regional intergovernmental organization founded in 1967 (Indonesia, Malaysia, Ph
 ## Economy: Globalization
 
 **multinational corporation**
-A business incorporated in one country but producing or selling goods and services in multiple others. The joint-stock companies of the Commercial Revolution ([[Concept Notes/East India Company\|East India Company]], Dutch East India Company — [[Unit-4.5/Maritime Empires Develop Overview\|Maritime Empires Develop Overview]]) were the earliest MNCs. Today's MNCs employ knowledge workers in wealthy countries and low-wage manufacturers abroad, selling to global markets. Key AP continuity.
+A business incorporated in one country but producing or selling goods and services in multiple others. The joint-stock companies of the Commercial Revolution ([[Concept Notes/East India Company\|East India Company]], [[Concept Notes/Dutch East India Company\|Dutch East India Company]] — [[Unit-4.5/Maritime Empires Develop Overview\|Maritime Empires Develop Overview]]) were the earliest MNCs. Today's MNCs employ knowledge workers in wealthy countries and low-wage manufacturers abroad, selling to global markets. Key AP continuity.
 
 **knowledge economy**
 A post-industrial economy driven by the production, distribution, and application of knowledge and information rather than physical goods. Characteristic of late-20th-century developed societies. Finland, Silicon Valley, and India's IT sector are the defining examples. Contrast with manufacturing economies (Bangladesh, Vietnam, Mexico).

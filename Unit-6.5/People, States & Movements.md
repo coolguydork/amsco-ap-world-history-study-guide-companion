@@ -7,7 +7,7 @@ tags: [apwh, unit-6, topic-6-5, period-3, economic-imperialism, china, latin-ame
 
 # People, States & Movements
 
-**Topic 6.5 — Economic Imperialism | AMSCO pp. 407–416**
+**Topic 6.5 — Economic [[Concept Notes/Imperialism\|Imperialism]] | AMSCO pp. 407–416**
 
 ---
 
@@ -29,14 +29,14 @@ American industrialist whose Standard Oil Company dominated global petroleum pro
 
 ## Key States and Colonial Holdings
 
-**China (Qing Dynasty)**
+**China ([[Concept Notes/Qing Dynasty\|Qing Dynasty]])**
 By 1839 the Qing Dynasty ruled a massive empire that had long viewed itself as the center of civilization. The Opium Wars revealed a fatal gap: China had not developed industrialized military technology, and it could not resist British steamships and rifles. The result was the "century of humiliation"—a series of unequal treaties that carved China into spheres of influence without formally colonizing it. China's experience is the AP's primary example of a powerful non-Western state losing sovereignty through economic imperialism (pp. 408–409).
 
 **India (British East India Company, then British Crown)**
 India underwent the full spectrum from economic to political imperialism. The East India Company first dominated trade, then forced India into a raw-material economy (cotton, opium), and eventually became the colonial government. After the Indian Rebellion of 1857, the British Crown took direct control (the British Raj). India's transformation from the world's leading textile manufacturer to a raw cotton exporter for British mills is one of the AP's central examples of economic imperialism's destructive effects on local industry (pp. 407–408).
 
 **Dutch East Indies (Indonesia)**
-The Dutch East India Company established colonial control over present-day Indonesia through the spice trade, then the Dutch government imposed the Culture System (1830), forcing farmers to grow export crops. The system generated massive profits for the Netherlands while causing food shortages in Java. Dutch Indonesia is the clearest case study of a colonial power using forced labor systems to restructure an agricultural economy (p. 408).
+The [[Concept Notes/Dutch East India Company\|Dutch East India Company]] established colonial control over present-day Indonesia through the spice trade, then the Dutch government imposed the Culture System (1830), forcing farmers to grow export crops. The system generated massive profits for the Netherlands while causing food shortages in Java. Dutch Indonesia is the clearest case study of a colonial power using forced labor systems to restructure an agricultural economy (p. 408).
 
 **Argentina**
 The wealthiest nation in Latin America by WWI, built through British investment rather than colonization. British capital built Argentina's railroads, telegraph system, and port infrastructure. British entrepreneurs developed the Pampas for large-scale cattle ranching and farming. Argentina exemplifies "informal empire"—economic dominance without political control. Its prosperity was real but dependent: Argentina's economy was structured to serve British needs, not Argentine development (pp. 412).

@@ -18,7 +18,7 @@ Topic 5.4 covers industrialization's geographic spread to Europe, the U.S., and 
 ## Leads To
 
 **Causes of Migration in an Interconnected World [[Unit-6.6/Causes of Migration in an Interconnected World Overview|Causes of Migration in an Interconnected World Overview]]** ← folder not yet built
-Industrialization in 5.9 drives migration in 6.6: urban poverty, industrial slums, and economic dislocation push people out of cities and out of unindustrialized regions; industrial centers pull migrants in. The Five Points neighborhood (cited in the SAQ practice) is a direct bridge.
+[[Concept Notes/Industrialization\|Industrialization]] in 5.9 drives migration in 6.6: urban poverty, industrial slums, and economic dislocation push people out of cities and out of unindustrialized regions; industrial centers pull migrants in. The Five Points neighborhood (cited in the SAQ practice) is a direct bridge.
 
 **Effects of Migration [[Unit-6.7/Effects of Migration Overview|Effects of Migration Overview]]** ← folder not yet built
 The demographic transformations begun by industrialization — urbanization, class formation, ethnic mixing in industrial cities — continue in 6.7 as global migration intensifies.
@@ -41,7 +41,7 @@ A core AP comparison: how did social hierarchies change between the pre-industri
 
 **[[Unit-5.8/Reactions to the Industrial Economy Overview|Reactions to the Industrial Economy Overview]]** — The social conditions documented in 5.9 (working-class poverty, exploitation, slums) are precisely the conditions that generated the ideological and political responses in 5.8 (Marxism, socialism, labor unions, utilitarianism). Topics 5.8 and 5.9 are two sides of the same coin and frequently appear together on AP prompts.
 
-**Topic 7.1 — Imperialism** ← folder not yet built
+**Topic 7.1 — [[Concept Notes/Imperialism\|Imperialism]]** ← folder not yet built
 Topic 5.9 explicitly notes that industrialized states sought raw materials globally, undercutting industrialization in Egypt, China, and India and fueling a second wave of colonization. This connection bridges domestic social history to global imperial history.
 
 > [!exam-tip]

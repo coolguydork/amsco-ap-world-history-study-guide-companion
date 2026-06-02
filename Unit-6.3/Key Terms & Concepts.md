@@ -42,7 +42,7 @@ Region of southeastern Europe under Ottoman control where ethnic nationalist mov
 Southeast Asian country colonized by France in the 19th century. Vietnamese leaders including Emperor Ham Nghi and guerrilla commander Phan Dinh Phung resisted French control from the beginning, establishing a tradition of anti-colonial resistance that extended well into the 20th century.
 
 **Philippines**
-Southeast Asian archipelago colonized by Spain in the 16th century. An educated Filipino nationalist class emerged in the 19th century; their resistance — the Philippine Revolution (1896) — outlasted Spanish rule only to face U.S. colonization after the Spanish-American War (1898), triggering the Philippine-American War (1899–1902).
+Southeast Asian archipelago colonized by Spain in the 16th century. An educated Filipino nationalist class emerged in the 19th century; their resistance — the Philippine Revolution (1896) — outlasted Spanish rule only to face U.S. colonization after the [[Concept Notes/Spanish-American War\|Spanish-American War]] (1898), triggering the Philippine-American War (1899–1902).
 
 **Sokoto Caliphate**
 Large West African Islamic theocracy founded by Usman dan Fodio (1804), centered at Sokoto in present-day Nigeria. The largest African empire of the 19th century; maintained the slave trade while Britain worked to abolish it; subdued by Britain in 1903 and incorporated into the colony of Nigeria.

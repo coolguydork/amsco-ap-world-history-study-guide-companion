@@ -48,7 +48,7 @@ tags: [apwh, unit-9, topic-9-3, period-4, environment, climate-change, timeline]
 → **global warming** → rising seas, severe storms, droughts
 → international response: **Kyoto (1997)** → limited; **Paris (2015)** → broader but fragile
 
-**Industrialization spreading globally** (especially post-Cold War)
+**[[Concept Notes/Industrialization\|Industrialization]] spreading globally** (especially post-Cold War)
 → manufacturing + middle-class growth in developing nations
 → increased resource extraction + consumption
 → air quality decline + accelerated emissions

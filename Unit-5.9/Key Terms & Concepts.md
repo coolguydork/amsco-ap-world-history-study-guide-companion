@@ -7,7 +7,7 @@ tags: [apwh, unit-5, topic-5-9, period-3, society, industrialization, class, urb
 
 # Key Terms & Concepts
 
-**Industrialization**
+**[[Concept Notes/Industrialization\|Industrialization]]**
 The transformation from agrarian/artisan economies to factory-based, machine-powered manufacturing. Industrialization reshaped class structures, family life, gender roles, and urban environments across the 19th century. The AP exam emphasizes its *unequal* social effects: it created new prosperity for the middle class while exposing the working class to dangerous, low-paid factory labor and overcrowded urban slums. Compare the social effects here with the technological drivers in [[Unit-5.3/Industrial Revolution Begins Overview|Industrial Revolution Begins Overview]] and [[Unit-5.4/Industrialization Spreads Overview|Industrialization Spreads Overview]].
 
 **mass production**

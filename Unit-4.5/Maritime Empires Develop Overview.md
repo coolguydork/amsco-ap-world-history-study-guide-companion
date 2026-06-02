@@ -45,7 +45,7 @@ The high inflation of the 16th–early 17th century is the **[[Concept Notes/Pri
 
 The Dutch, English, and French created **joint-stock companies** — corporations in which investors bought shares and split both profits and risks. **Limited liability** meant an investor's loss was capped at their initial investment. This made empire-building commercially viable for the middle class.
 
-Key companies: the **British [[Concept Notes/East India Company\|East India Company]]** (EIC, founded 1600) and the **Dutch East India Company** (VOC, founded 1602). Spain and Portugal instead used direct royal grants to explorers. See [[Unit-4.5/People, States & Movements|People, States & Movements]] for the VOC in detail.
+Key companies: the **British [[Concept Notes/East India Company\|East India Company]]** (EIC, founded 1600) and the **[[Concept Notes/Dutch East India Company\|Dutch East India Company]]** (VOC, founded 1602). Spain and Portugal instead used direct royal grants to explorers. See [[Unit-4.5/People, States & Movements|People, States & Movements]] for the VOC in detail.
 
 The Dutch led European finance: a stock exchange by 1602, the Bank of Amsterdam by 1609, the highest standard of living in Europe. England and France meanwhile suffered from speculative **financial bubbles** — overinflated share schemes that collapsed, causing bankruptcies and economic damage.
 

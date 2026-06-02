@@ -7,7 +7,7 @@ tags: [apwh, unit-6, topic-6-3, period-3, resistance, nationalism, imperialism, 
 
 # Indigenous Responses to State Expansion
 
-**Unit 6 — Consequences of Industrialization | AP Period 3 | AMSCO pp. 388–397**
+**Unit 6 — Consequences of [[Concept Notes/Industrialization\|Industrialization]] | AP Period 3 | AMSCO pp. 388–397**
 
 **Essential Question:** How did indigenous peoples and colonized societies resist colonial rule?
 
@@ -57,7 +57,7 @@ The Raj had an unintended consequence. By educating Indians at British universit
 
 By the 1880s only Siam (Thailand) remained independent in Southeast Asia. In **Vietnam**, resistance to French colonialism began immediately; Emperor Ham Nghi and guerrilla leader Phan Dinh Phung sustained it through the 1880s–1890s.
 
-In the **Philippines**, wealthy Filipino families sent sons to Europe, where José Rizal founded the Liga Filipina (1892) as a reform movement. The Spanish executed Rizal, shocking Filipino opinion and triggering the Philippine Revolution (1896). When the Spanish-American War (1898) ended, Filipinos expected independence — but the Treaty of Paris transferred control from Spain to the United States. The Philippine-American War (1899–1902) followed. Roughly 20,000 Filipino troops and over 200,000 civilians died. The Philippines remained a U.S. possession until 1946.
+In the **Philippines**, wealthy Filipino families sent sons to Europe, where José Rizal founded the Liga Filipina (1892) as a reform movement. The Spanish executed Rizal, shocking Filipino opinion and triggering the Philippine Revolution (1896). When the [[Concept Notes/Spanish-American War\|Spanish-American War]] (1898) ended, Filipinos expected independence — but the Treaty of Paris transferred control from Spain to the United States. The Philippine-American War (1899–1902) followed. Roughly 20,000 Filipino troops and over 200,000 civilians died. The Philippines remained a U.S. possession until 1946.
 
 > [!warning]
 > Don't confuse the Spanish-American War (1898) with the Philippine-American War (1899–1902). The first transferred colonial authority; the second was the Filipino resistance to that transfer.

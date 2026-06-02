@@ -21,7 +21,7 @@ British mining magnate and colonialist who built a personal fortune through the 
 British Viceroy of India (r. 1899–1905); a symbol of the administrative machinery of British colonial rule. The Viceroy was the Crown's representative, overseeing a vast bureaucracy that ran the Indian subcontinent after the EIC's dissolution in 1858. Curzon's tenure exemplified both the confidence of British imperialism at its height and the tensions with Indian nationalist sentiment that would intensify in the 20th century.
 
 **Empress Dowager Cixi**
-Chinese ruler (effectively 1861–1908) who encouraged the Boxer Rebellion (1899–1901) and in 1900 ordered all foreigners killed. When the Boxers were defeated by a multinational foreign force, Cixi fled Beijing; the resulting settlement imposed further foreign controls on China. Her combination of conservatism and tactical maneuvering — earlier ending the Hundred Days of Reform ([[Unit-5.8/Reactions to the Industrial Economy Overview\|Topic 5.8]]), later belatedly supporting limited reforms — illustrates the Qing Dynasty's inability to adapt quickly enough to survive foreign pressure.
+Chinese ruler (effectively 1861–1908) who encouraged the Boxer Rebellion (1899–1901) and in 1900 ordered all foreigners killed. When the Boxers were defeated by a multinational foreign force, Cixi fled Beijing; the resulting settlement imposed further foreign controls on China. Her combination of conservatism and tactical maneuvering — earlier ending the Hundred Days of Reform ([[Unit-5.8/Reactions to the Industrial Economy Overview\|Topic 5.8]]), later belatedly supporting limited reforms — illustrates the [[Concept Notes/Qing Dynasty\|Qing Dynasty]]'s inability to adapt quickly enough to survive foreign pressure.
 
 **President James Monroe**
 U.S. president who in 1823 issued the Monroe Doctrine warning European powers to stay out of the Western Hemisphere. Although framed as defensive, the doctrine implicitly reserved the Americas as a U.S. sphere of influence — a claim that Theodore Roosevelt made explicit with the 1904 Roosevelt Corollary.
@@ -44,7 +44,7 @@ France controlled Algeria (settler colony since 1830), West African territories 
 Expanded south into Central Asia (Great Game rivalry with Britain over Afghanistan) and east into Manchuria. Sold Alaska to the United States in 1867. Russia's expansion was predominantly overland rather than maritime — distinct from Western European patterns.
 
 **United States — Emerging Pacific Power**
-After the Spanish-American War (1898), the U.S. held the Philippines, Guam, and Puerto Rico, while Cuba became a U.S. protectorate. This marked a dramatic departure from continental expansion into overseas imperialism.
+After the [[Concept Notes/Spanish-American War\|Spanish-American War]] (1898), the U.S. held the Philippines, Guam, and Puerto Rico, while Cuba became a U.S. protectorate. This marked a dramatic departure from continental expansion into overseas imperialism.
 
 **Japan — Industrial Imperial Power**
 After the [[Concept Notes/Meiji Restoration\|Meiji Restoration]] (1868), Japan rapidly industrialized and began to build its own empire. Through the Colonization Society (1893) and later military conquest, Japan sought colonies in Korea, China, and Southeast Asia — driven by lack of natural resources and the desire to match Western imperial powers.
@@ -57,7 +57,7 @@ The rapid European colonization of Africa in the last decades of the 19th centur
 **Boer Wars (1880–81; 1899–1902)**
 Wars between Britain and the Afrikaners (Dutch-descended settlers in South Africa) over land and political control. The Second Boer War was the bloodier conflict; Britain used scorched-earth tactics and concentration camps. The wars ended with British control over South Africa but laid the seeds for the apartheid system that would emerge in the 20th century.
 
-**Taiping Rebellion (1850–1864)**
+**[[Concept Notes/Taiping Rebellion\|Taiping Rebellion]] (1850–1864)**
 Massive internal revolt against the Qing Dynasty in China, led by Hong Xiuquan. One of the bloodiest conflicts in human history — 20+ million dead. The rebellion catastrophically weakened the Qing government, making China more susceptible to foreign economic domination through spheres of influence.
 
 **Boxer Rebellion (1899–1901)**

@@ -26,7 +26,7 @@ Coastal holding pens ("slave castles") in West Africa where captured Africans we
 
 ## Governance: East Asian States
 
-**Ming Dynasty**
+**[[Concept Notes/Ming Dynasty\|Ming Dynasty]]**
 Chinese dynasty (1368–1644) that responded to Zheng He's voyages by restricting foreign trade — prohibiting private foreign trade, destroying dockyards, limiting ship sizes, and rebuilding the Great Wall. These conservative policies reflected anti-Mongol sentiment and a reassertion of Confucian values. Many restrictions were eventually reversed. (See [[Concept Notes/Civil Service Examination|Civil Service Examination]] for Ming exam system context.)
 
 ## Governance: Americas
@@ -49,7 +49,7 @@ Diplomatic agreement between Spain and Portugal dividing the Americas: Spain rec
 **Hispaniola**
 Island (now Haiti and Dominican Republic) where Columbus first believed gold was plentiful. The site of early Spanish colonization and the first large-scale enslaving of indigenous Taíno people.
 
-**Conquistadores**
+**[[Concept Notes/Conquistadores\|Conquistadores]]**
 Spanish soldier-explorers who carried out the conquest of the Americas. Many were rewarded with land grants (encomiendas or haciendas) and became encomenderos. Their violence and the diseases they brought devastated indigenous populations.
 
 **Viceroyalties**
@@ -103,7 +103,7 @@ The middle leg of the triangular Atlantic trade: the ocean crossing from West Af
 **Sepoys**
 Indian soldiers trained and employed by the British [[Concept Notes/East India Company\|East India Company]] to help extend British political control inland in India. They represented a key mechanism by which a commercial company (not just a government) expanded European territorial power.
 
-**Mestizos**
+**[[Concept Notes/Mestizos\|Mestizos]]**
 People of mixed Spanish and indigenous American ancestry, a new demographic group produced by the colonial encounter. Their emergence reflected both the gendered nature of conquest (most conquistadores were men) and the social mixing that made Spanish colonies demographically distinct from British ones.
 
 **Mulattos**

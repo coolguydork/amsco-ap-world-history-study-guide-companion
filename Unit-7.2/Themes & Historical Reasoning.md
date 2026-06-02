@@ -33,7 +33,7 @@ The AP wants you to show causal *mechanisms*, not just list factors. Practice co
 
 - *Militarism* → Arms buildup created military establishments with influence over foreign policy, reduced diplomatic flexibility, and made mobilization seem like a rational first move.
 - *Alliances* → Defensive pacts created automatic cascade: Serbia-Austria → Russia → Germany → France → Britain. Each power's mobilization *forced* others to mobilize before being caught unprepared.
-- *Imperialism* → Colonial competition produced a decade of crises (Morocco 1905, 1911; Balkans 1908, 1912–13) that habituated powers to confrontation and hardened hostile groupings.
+- *[[Concept Notes/Imperialism\|Imperialism]]* → Colonial competition produced a decade of crises (Morocco 1905, 1911; Balkans 1908, 1912–13) that habituated powers to confrontation and hardened hostile groupings.
 - *Nationalism* → Ethnic minorities' desire for self-determination destabilized multinational empires from within, making Austria-Hungary desperate to crush separatism militarily rather than concede it politically.
 
 > [!exam-tip]

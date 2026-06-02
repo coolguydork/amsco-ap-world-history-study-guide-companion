@@ -41,7 +41,7 @@ A device that placed seeds at controlled depths in rows, improving germination r
 **Industrial Revolution**
 The broad transformation of economies from agrarian and craft-based to mechanized and factory-based production, beginning in Britain c. 1750 and spreading globally through the 19th century. Characterized by coal-powered machinery, urbanization, wage labor, and expanded commodity production (AMSCO p. 297).
 
-**Industrialization**
+**[[Concept Notes/Industrialization\|Industrialization]]**
 The process of developing manufacturing industries and mechanized production at scale, accompanied by urbanization, capital investment, and wage-labor systems. Britain industrialized first; the pattern then spread globally [[Unit-5.4/Industrialization Spreads Overview|Industrialization Spreads Overview]].
 
 **Cottage industry (putting-out system)**

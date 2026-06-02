@@ -28,7 +28,7 @@ The "Sun King" who famously declared "I am the state." Louis centralized royal p
 First tsar of Russia. Ivan's suppression of the Novgorod boyars — confiscating their lands and forcing them to Moscow — represents the Russian tsarist strategy of subordinating the noble class to centralized royal authority. His violence (including murdering his own son) earned his sobriquet. (AMSCO p. 255)
 
 **Li Chengdong**
-Han Chinese defector general who served the Qing Dynasty. Li orchestrated three massacres in the city of Jiading within a single month as the Qing enforced cultural submission. His actions illustrate how the Qing used Han collaborators to suppress Han resistance. (AMSCO p. 254)
+Han Chinese defector general who served the [[Concept Notes/Qing Dynasty\|Qing Dynasty]]. Li orchestrated three massacres in the city of Jiading within a single month as the Qing enforced cultural submission. His actions illustrate how the Qing used Han collaborators to suppress Han resistance. (AMSCO p. 254)
 
 **Liu Liangzuo**
 Another Han Chinese defector who massacred the entire population of Jiangyin, killing between 70,000 and 100,000 people in 1645. These massacres were the Qing's most violent tool for enforcing the queue requirement. (AMSCO p. 254)
@@ -42,10 +42,10 @@ The most religiously tolerant of the gunpowder empires in practice. The Ottoman 
 Founded 1526 by Babur; peaked under Akbar. The Mughal case is central to the AP exam because Akbar's tolerance is the clearest example of a ruler *deliberately reshaping* social hierarchy to sustain imperial rule over a diverse population. The Mughal Empire ultimately failed to maintain Akbar's tolerance — later emperors like Aurangzeb reversed course, reimposing the jizya and persecuting Hindus, contributing to the empire's eventual fragmentation. See [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power Overview]].
 
 **Qing Dynasty (China, 1644–1912)**
-Manchu rulers over a Han Chinese majority. The Qing maintained the civil service examination system (continuity) while enforcing cultural submission through the queue requirement (change). The contrast between Qing ethnic domination and Ottoman/Mughal tolerance is a productive AP comparison.
+[[Concept Notes/Manchu\|Manchu]] rulers over a Han Chinese majority. The Qing maintained the civil service examination system (continuity) while enforcing cultural submission through the queue requirement (change). The contrast between Qing ethnic domination and Ottoman/Mughal tolerance is a productive AP comparison.
 
 **Spanish Colonial Empire (Americas)**
-Created the casta system — the most systematized racial hierarchy of the period. Administered through viceroyalties (New Spain and Peru), the empire formalized racial categories in law, art (*casta paintings*), and the Church. Peninsulares and criollos monopolized political office; enslaved Africans and indigenous peoples bore the heaviest tax and labor burdens.
+Created the casta system — the most systematized racial hierarchy of the period. Administered through viceroyalties (New Spain and Peru), the empire formalized racial categories in law, art (*casta paintings*), and the Church. [[Concept Notes/Peninsulares\|Peninsulares]] and criollos monopolized political office; enslaved Africans and indigenous peoples bore the heaviest tax and labor burdens.
 
 ## Key Movements & Patterns
 

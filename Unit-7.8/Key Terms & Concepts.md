@@ -101,7 +101,7 @@ A disease epidemic affecting a very wide geographic area or the entire world. Th
 
 ## Society: Discrimination
 
-**Nuremberg Laws**
+**[[Concept Notes/Nuremberg Laws\|Nuremberg Laws]]**
 1935 German racial laws that stripped Jews of citizenship, forbade marriage between Jews and non-Jews, and excluded Jews from professional and public life. The legal foundation of Nazi persecution; transformed Jews from citizens to stateless subjects. A key AP example of how law can institutionalize racism and pave the way for genocide.
 
 **ghetto**

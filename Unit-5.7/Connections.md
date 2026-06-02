@@ -32,7 +32,7 @@ The monopolies, wage inequality, and concentration of power described in Topic 5
 **Global Economic Development [[Unit-6.4/Global Economic Development Overview|Global Economic Development Overview]]** ← not yet built
 The global banking system, transnational corporations, and free-trade ideology of the 19th century laid the infrastructure for 20th-century economic globalization.
 
-**Economic Imperialism [[Unit-6.5/Economic Imperialism Overview|Economic Imperialism Overview]]** ← not yet built
+**Economic [[Concept Notes/Imperialism\|Imperialism]] [[Unit-6.5/Economic Imperialism Overview|Economic Imperialism Overview]]** ← not yet built
 De Beers, Unilever, HSBC — all the transnational companies in Topic 5.7 were instruments of economic imperialism. Topic 6.5 examines this relationship systematically: how industrial capitalism drove the conquest and economic subordination of non-European regions.
 
 ---

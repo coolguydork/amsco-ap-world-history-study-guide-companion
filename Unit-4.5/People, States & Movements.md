@@ -51,7 +51,7 @@ France established colonies in Canada (New France) and the Caribbean. Like Engla
 
 ## Key Movements & Institutions
 
-**Dutch East India Company (VOC)**
+**[[Concept Notes/Dutch East India Company\|Dutch East India Company]] (VOC)**
 *Vereenigde Oost-Indische Compagnie* — founded 1602. The world's first major [[Concept Notes/Joint-Stock Companies|joint-stock company]]. Issued shares to the public, offered limited liability, and generated enormous profits from spice trade in Southeast Asia. Its charter (quoted in AMSCO p. 232) allowed any Dutch resident to invest. Established Batavia as its Asian headquarters; displaced Portuguese dominance in the Spice Islands. Set the institutional template for British imperialism.
 
 **East India Company (British EIC)**

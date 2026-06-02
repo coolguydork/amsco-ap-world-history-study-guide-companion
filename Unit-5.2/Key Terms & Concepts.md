@@ -39,16 +39,16 @@ The radical phase of the French Revolution (1793–1794) during which the Jacobi
 **Maroons**
 Individuals who had escaped slavery in Haiti and lived independently before the 1791 revolt. Maroons joined the enslaved Africans led by Toussaint L'Ouverture in the Haitian Revolution, providing experienced fighters. Communities of escaped enslaved people also existed throughout the Caribbean and Americas. (AMSCO p. 287)
 
-**Philosophes**
+**[[Concept Notes/Philosophes\|Philosophes]]**
 French Enlightenment intellectuals (e.g., Montesquieu, Voltaire, Rousseau) who popularized ideas about natural rights, religious liberty, and representative government. Their writings circulated widely in Europe and the Americas, giving intellectual justification to revolutionaries. (AMSCO pp. 276, 286)
 
 **Creoles**
 In colonial Latin America, people of European ancestry born in the Americas. Better educated and wealthier than mestizos or indigenous people, creoles led most Latin American independence movements. They resented Spain's [[Concept Notes/Mercantilism|mercantilism]] and peninsulares' monopoly on high government posts. (AMSCO p. 288)
 
-**Peninsulares**
+**[[Concept Notes/Peninsulares\|Peninsulares]]**
 Colonists born in Spain or Portugal, considered the social elite in colonial Latin America. They monopolized top government and church positions in the colonies, fueling resentment among creoles. See also [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]] for the full casta hierarchy. (AMSCO pp. 255, 288)
 
-**Mestizos**
+**[[Concept Notes/Mestizos\|Mestizos]]**
 In colonial Latin America, people of mixed European and indigenous ancestry. Below creoles in the social hierarchy; often worked in towns, mines, or on estates. Wanted political power and a share of colonial wealth. See also [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]]. (AMSCO pp. 256, 288)
 
 **Mulattoes**

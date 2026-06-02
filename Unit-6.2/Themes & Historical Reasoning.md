@@ -40,7 +40,7 @@ The economic motivations for imperialism ([[Unit-6.1/Rationales for Imperialism 
 
 ### MIG — Migration and Demographic Change
 
-Imperialism in this period produced massive, often forced, population movements:
+[[Concept Notes/Imperialism\|Imperialism]] in this period produced massive, often forced, population movements:
 
 **Settler migration:** Large numbers of Europeans relocated permanently to colonies — Dutch and then British settlers to South Africa, British convicts and free settlers to Australia and New Zealand, French settlers to Algeria. These migrations fundamentally altered the demographic and cultural character of colonized regions.
 
@@ -57,7 +57,7 @@ Imperialism in this period produced massive, often forced, population movements:
 The primary AP skill for 6.2 is **causation** — explaining *why* state expansion happened when and where it did. The exam expects multi-causal analysis:
 
 **Enabling causes (making expansion possible):**
-- Industrialization → superior military technology (rifles, machine guns, artillery, steamships)
+- [[Concept Notes/Industrialization\|Industrialization]] → superior military technology (rifles, machine guns, artillery, steamships)
 - [[Concept Notes/Quinine\|Quinine]] → survival in tropical climates (especially Africa)
 - Steam-powered transport → penetration of river interiors; global naval reach
 
@@ -69,7 +69,7 @@ The primary AP skill for 6.2 is **causation** — explaining *why* state expansi
 
 **Structural causes (why some regions were more vulnerable):**
 - Political fragmentation in Africa made unified resistance difficult
-- Internal crises (Taiping Rebellion, Boxer Rebellion) weakened Qing China
+- Internal crises ([[Concept Notes/Taiping Rebellion\|Taiping Rebellion]], Boxer Rebellion) weakened Qing China
 - Technological gap between industrial powers and non-industrial societies
 
 > [!tip] Writing about Causation

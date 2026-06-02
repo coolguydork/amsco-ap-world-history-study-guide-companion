@@ -70,11 +70,11 @@ Fierce peasant-warriors from the Russian steppe, hired by the Stroganov merchant
 
 ## China & East Asia
 
-**Ming Dynasty**
-Chinese dynasty (1368–1644) that overthrew the Mongol Yuan Dynasty. The Ming stabilized East Asia for ~300 years, expanded the Great Wall, and oversaw the arrival of European traders. Overthrown by the Manchu in 1644. (p. 145)
+**[[Concept Notes/Ming Dynasty\|Ming Dynasty]]**
+Chinese dynasty (1368–1644) that overthrew the Mongol Yuan Dynasty. The Ming stabilized East Asia for ~300 years, expanded the Great Wall, and oversaw the arrival of European traders. Overthrown by the [[Concept Notes/Manchu\|Manchu]] in 1644. (p. 145)
 
 **Manchu**
-The ethnic group from Manchuria (northeastern China) who overthrew the Ming Dynasty and established the Qing Dynasty in 1644. Though foreign rulers, the Manchu largely adopted Chinese governance structures. (p. 145)
+The ethnic group from Manchuria (northeastern China) who overthrew the Ming Dynasty and established the [[Concept Notes/Qing Dynasty\|Qing Dynasty]] in 1644. Though foreign rulers, the Manchu largely adopted Chinese governance structures. (p. 145)
 
 **Qing Dynasty**
 Chinese dynasty (1644–1912) established by the Manchu. Under Kangxi and Qianlong, the Qing expanded China's territory significantly and presided over long periods of stability. Became increasingly vulnerable to internal rebellion and European pressure in the 19th century. (p. 145)

@@ -7,7 +7,7 @@ tags: [apwh, unit-6, topic-6-5, period-3, economic-imperialism, causation, econo
 
 # Themes & Historical Reasoning
 
-**Topic 6.5 — Economic Imperialism | AMSCO pp. 407–416**
+**Topic 6.5 — Economic [[Concept Notes/Imperialism\|Imperialism]] | AMSCO pp. 407–416**
 **AP Themes: ECN (Economics), GOV (Governance)**
 **AP Skill: Causation**
 

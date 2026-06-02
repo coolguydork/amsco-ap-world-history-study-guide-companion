@@ -38,7 +38,7 @@ tags: [apwh, unit-7, topic-7-8, period-4, genocide, holocaust, human-rights, tim
 | 2005 | UN adopts "Responsibility to Protect" (R2P) doctrine | International community asserts duty to intervene when states commit atrocities against own people |
 
 > [!exam-tip]
-> For AP chronology questions on this topic, know the **sequence of [[Concept Notes/Holocaust\|Holocaust]] escalation**: Nuremberg Laws (1935) → ghettos → Wannsee Conference / Final Solution (1942) → death camps → liberation. This shows genocide as a process, not a sudden event — a key analytical point.
+> For AP chronology questions on this topic, know the **sequence of [[Concept Notes/Holocaust\|Holocaust]] escalation**: [[Concept Notes/Nuremberg Laws\|Nuremberg Laws]] (1935) → ghettos → Wannsee Conference / Final Solution (1942) → death camps → liberation. This shows genocide as a process, not a sudden event — a key analytical point.
 
 > [!tip]
 > Notice the pattern: every genocide in this topic (Armenian, Holocaust, Rwanda, Bosnia, Darfur) is followed by international declarations of "Never again" — and then another genocide. The AP expects you to explain WHY enforcement has repeatedly failed (sovereignty, geopolitical interests, slow recognition, lack of political will).

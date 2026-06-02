@@ -25,7 +25,7 @@ Akbar is the most-tested Mughal emperor on the AP exam. He is notable for his po
 **Peter the Great (Peter I), r. 1682–1725 — Russian Empire**
 Peter modernized Russia through top-down, state-directed reforms: he reorganized and re-equipped the military along European lines, mandated Western dress at court (Decree on Western Dress, 1701), invited foreign craftsmen and experts, founded the College of Manufactures to develop Russian industry, and mandated mathematics education in the provinces. His reforms show how a land empire could adapt to survive in an era of rapid European military advancement. Primary source documents on pp. 186–188 of AMSCO.
 
-**Qianlong Emperor, r. 1735–1796 — Qing (Manchu) Dynasty**
+**Qianlong Emperor, r. 1735–1796 — Qing ([[Concept Notes/Manchu\|Manchu]]) Dynasty**
 Quoted at the opening of the chapter: "Foreigners appreciate only military power." His statement captures the Qing approach to empire — projecting strength and demanding submission. The Qing expanded Qing territory significantly and used portrait paintings of the emperor as tools of legitimacy and cultural projection.
 
 **Suleiman I vs. Akbar — A Side-by-Side**

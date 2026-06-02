@@ -64,7 +64,7 @@ Compare with India and Egypt: both lacked effective sovereignty and were subject
 
 AMSCO's TAH prompt asks whether imperialism and industrialization could have existed separately. The evidence from Topic 5.4 points to a **mutually reinforcing relationship**:
 
-- Industrialization created demand for raw materials that Europe could not supply domestically → drove colonial expansion to secure overseas supply chains
+- [[Concept Notes/Industrialization\|Industrialization]] created demand for raw materials that Europe could not supply domestically → drove colonial expansion to secure overseas supply chains
 - Colonial profits provided capital for further industrial investment
 - Industrialized military technology (steam warships, repeating rifles, railroads) made colonial conquest faster and cheaper
 - Colonial control suppressed non-European manufacturing → guaranteed captive markets for European finished goods

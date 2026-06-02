@@ -50,5 +50,5 @@ Irish famine of 1845–1852 caused by a potato blight, with mass death worsened 
 > [!warning]
 > The Great Famine was not just a natural disaster. The AP exam may ask about the **role of British colonial policy** — continued food exports during starvation, eviction of tenant farmers after the Corn Laws repeal — as a contributing cause. Frame it as both environmental (blight) and political (colonial exploitation).
 
-**Taiping Rebellion**
-Massive Chinese civil war (1850–1864) led by Hong Xiuquan against the Qing Dynasty; estimated 20+ million deaths. The chaos and poverty it caused pushed large numbers of Chinese peasants to emigrate to the Americas, Australia, and Southeast Asia. A key push factor for the Chinese diaspora. See [[Unit-6.2/State Expansion Overview\|State Expansion Overview]] for more context.
+**[[Concept Notes/Taiping Rebellion\|Taiping Rebellion]]**
+Massive Chinese civil war (1850–1864) led by Hong Xiuquan against the [[Concept Notes/Qing Dynasty\|Qing Dynasty]]; estimated 20+ million deaths. The chaos and poverty it caused pushed large numbers of Chinese peasants to emigrate to the Americas, Australia, and Southeast Asia. A key push factor for the Chinese diaspora. See [[Unit-6.2/State Expansion Overview\|State Expansion Overview]] for more context.

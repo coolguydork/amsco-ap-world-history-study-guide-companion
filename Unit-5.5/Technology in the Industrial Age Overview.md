@@ -43,7 +43,7 @@ Earlier, the **telegraph** had already revolutionized communication by enabling 
 
 Industrial technologies did more than change production — they reorganized the world. Railroads and steamships opened interior regions of every continent to exploration, resource extraction, and settlement. Migration followed infrastructure: workers moved to mines, rail lines, and factory towns wherever industry pushed.
 
-The desire for **capital** — money available to invest in business — drove industrialized nations outward. Britain, Germany, and the United States sought to secure raw materials and markets by establishing colonies, intensifying the imperial scramble that would define the late 19th century. Technologies of the Industrial Age thus directly enabled the New Imperialism covered in later topics.
+The desire for **capital** — money available to invest in business — drove industrialized nations outward. Britain, Germany, and the United States sought to secure raw materials and markets by establishing colonies, intensifying the imperial scramble that would define the late 19th century. Technologies of the Industrial Age thus directly enabled the New [[Concept Notes/Imperialism\|Imperialism]] covered in later topics.
 
 > [!warning]
 > Don't conflate the First and Second Industrial Revolutions. First = textiles, steam, iron (Britain-led, c. 1760–1840). Second = steel, oil, electricity, chemicals (US/Germany dominant, c. 1870–1914). AP essays sometimes ask you to distinguish them.

@@ -51,7 +51,7 @@ Two key examples from the textbook:
 Banking and finance also matured. Lloyd's of London institutionalized marine insurance, and the number of banks exploded as entrepreneurs needed capital to build factories and hire workers.
 
 > [!tip]
-> Connect: Unilever in the Belgian Congo → **[[Unit-4.3/Columbian Exchange Overview\|Topic 4.3]]** (resource extraction patterns) and **Topic 6.5** (Economic Imperialism). The mechanisms of extraction evolve but the logic — use colonial labor and resources to enrich the metropole — stays consistent across periods.
+> Connect: Unilever in the Belgian Congo → **[[Unit-4.3/Columbian Exchange Overview\|Topic 4.3]]** (resource extraction patterns) and **Topic 6.5** (Economic [[Concept Notes/Imperialism\|Imperialism]]). The mechanisms of extraction evolve but the logic — use colonial labor and resources to enrich the metropole — stays consistent across periods.
 
 ---
 

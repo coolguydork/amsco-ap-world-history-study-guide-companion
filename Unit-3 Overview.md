@@ -102,7 +102,7 @@ Both controlled vast, diverse territories, but through radically different metho
 ## Connections Forward
 
 - **Unit 4** (Maritime Empires) will contrast land-based empire methods with the Portuguese, Spanish, Dutch, and British maritime networks. The Gunpowder Empires are the "other side" of the Unit 4 story — powerful on land, but increasingly vulnerable to sea-based commercial empires.
-- **Unit 5** (Industrialization) will follow Peter the Great's trajectory: state-directed modernization becomes the model that later empires tried to replicate.
+- **Unit 5** ([[Concept Notes/Industrialization\|Industrialization]]) will follow Peter the Great's trajectory: state-directed modernization becomes the model that later empires tried to replicate.
 - The **Ming silver tax policy** — a domestic fiscal decision — connects directly to Unit 4's global silver trade, showing how land empire economics shaped Atlantic commerce.
 
 ---

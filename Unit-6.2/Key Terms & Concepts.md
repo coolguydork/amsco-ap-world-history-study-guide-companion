@@ -15,7 +15,7 @@ tags: [apwh, unit-6, topic-6-2, period-3, imperialism, colonialism, key-terms]
 Belgian king (r. 1865–1909) who personally owned the Congo Free State as a private colony; used brutal forced labor — including severing workers' hands — to extract ivory and rubber; responsible for the deaths of up to 8 million Congolese; international outcry prompted the Belgian Parliament to take over the colony in 1908. His quote to missionaries — "teach students to read and not to reason" — is a classic AP source for analyzing imperial attitudes.
 
 **Cixi**
-Empress Dowager of China (1835–1908) who supported the Boxer Rebellion and in 1900 ordered all foreigners killed; the rebellion's defeat further humiliated the Qing Dynasty and deepened Western control. Cross-reference Topic 5.8 for her earlier role ending the Hundred Days of Reform.
+Empress Dowager of China (1835–1908) who supported the Boxer Rebellion and in 1900 ordered all foreigners killed; the rebellion's defeat further humiliated the [[Concept Notes/Qing Dynasty\|Qing Dynasty]] and deepened Western control. Cross-reference Topic 5.8 for her earlier role ending the Hundred Days of Reform.
 
 ## Colonial Territories
 
@@ -108,13 +108,13 @@ Two conflicts (1880–81 and 1899–1902) between Britain and Afrikaner (Boer) s
 **Seven Years' War**
 Global conflict (1756–1763) fought between Britain, France, and their allies across multiple continents; France's defeat drove it out of India, leaving Britain as the dominant colonial power in South Asia — a turning point in the history of British imperialism.
 
-**Taiping Rebellion**
+**[[Concept Notes/Taiping Rebellion\|Taiping Rebellion]]**
 Massive Chinese civil war (1850–1864) led by Hong Xiuquan against the Qing Dynasty; one of the deadliest conflicts in history with 20+ million deaths; weakened the Qing government and made China more vulnerable to European economic domination.
 
 **Boxer Rebellion**
 Anti-imperialist uprising in China (1899–1901) by the "Boxers" (martial arts practitioners) who attacked Chinese Christians and foreign missionaries; supported by Empress Cixi; crushed by a multinational force; further humiliated the Qing Dynasty and deepened Western control over China.
 
-**Spanish-American War**
+**[[Concept Notes/Spanish-American War\|Spanish-American War]]**
 1898 war between the United States and Spain in which U.S. victory gave America control of Guam, Puerto Rico, Cuba, and the Philippines; marked the emergence of the United States as a global imperial power.
 
 ## Peoples

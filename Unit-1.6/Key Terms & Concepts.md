@@ -30,7 +30,7 @@ An unwritten code of conduct for knights emphasizing honor, courtesy, and braver
 **Primogeniture**
 The practice of passing an entire inheritance to the eldest son. This left younger noble sons landless and restless, creating social pressure that contributed to the [[Concept Notes/Crusades\|Crusades]] — restless younger sons sought wealth through military conquest. (AMSCO p. 57)
 
-**Bourgeoisie (Burghers)**
+**[[Concept Notes/Bourgeoisie\|Bourgeoisie]] (Burghers)**
 The emerging middle class of merchants, shopkeepers, craftspeople, and small landholders in late medieval Europe. Their wealth came from commerce rather than land or Church rank. Their rise signaled a gradual shift away from the purely agricultural feudal economy. (AMSCO p. 59)
 
 **Guilds**

@@ -56,4 +56,4 @@ The division of British India into Hindu-majority India and Muslim-majority Paki
 The emergence of the United States and the Soviet Union as the two dominant global powers after WWII, displacing Western Europe. Sets the context for the Cold War (Unit 8) and represents a major political effect of 20th-century global conflict.
 
 > [!warning]
-> MAIN (Militarism, Alliances, Imperialism, Nationalism) is a useful mnemonic for WWI causes — but AP prompts usually ask you to go beyond listing. You need to argue which of these was most significant and support it with evidence.
+> MAIN (Militarism, Alliances, [[Concept Notes/Imperialism\|Imperialism]], Nationalism) is a useful mnemonic for WWI causes — but AP prompts usually ask you to go beyond listing. You need to argue which of these was most significant and support it with evidence.

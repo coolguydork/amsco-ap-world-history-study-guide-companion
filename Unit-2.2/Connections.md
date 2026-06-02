@@ -42,7 +42,7 @@ The collapse of Mongol power in the mid-14th century created a power vacuum that
 **Topic 3.1 — Gunpowder Empires** *(forward-looking)*
 Compare methods of empire: Mongol conquest used speed, terror, and adaptability; gunpowder empires relied on standing armies and artillery. Both used religious toleration strategically. Both governed ethnically and religiously diverse populations.
 
-**Topic 6.2 — European Imperialism** *(forward-looking)*
+**Topic 6.2 — European [[Concept Notes/Imperialism\|Imperialism]]** *(forward-looking)*
 Compare the Mongol and European imperial models: Mongols conquered contiguous land territory via nomadic cavalry; Europeans built maritime trade empires. Both used violence and cultural disruption; European imperialism's racial hierarchies contrast with Mongol pragmatic toleration.
 
 ---

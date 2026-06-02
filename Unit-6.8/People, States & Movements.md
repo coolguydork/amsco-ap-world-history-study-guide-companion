@@ -78,4 +78,4 @@ Indian soldiers employed by the [[Concept Notes/East India Company\|East India C
 
 A Chinese nationalist organization active in the late 1890s–1901, known in English as the "Boxers" because of their martial arts training. The Boxers targeted Western missionaries, Chinese Christians, and foreign economic concessions in China. They besieged the foreign diplomatic quarter in Beijing in 1900. A multinational force of eight nations (including Japan, Russia, Britain, France, Germany, and the U.S.) suppressed the uprising. The resulting **Boxer Protocol (1901)** imposed massive reparations on China.
 
-Like the Indian Rebellion, the Boxer Rebellion failed militarily but accelerated Chinese nationalism and contributed to the collapse of the Qing Dynasty in 1912.
+Like the Indian Rebellion, the Boxer Rebellion failed militarily but accelerated Chinese nationalism and contributed to the collapse of the [[Concept Notes/Qing Dynasty\|Qing Dynasty]] in 1912.

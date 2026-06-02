@@ -10,7 +10,7 @@ tags: [apwh, unit-6, topic-6-1, period-3, imperialism, social-darwinism, vocabul
 **Topic 6.1 | AMSCO pp. 367–374**
 
 **imperialism**
-Policy by which one country extends its power over other territories through military force, economic control, or political dominance. The late 19th-century wave—often called "New Imperialism"—differed from earlier colonialism in its ideological intensity, industrial backing, and global scope, culminating in the Scramble for Africa and consolidation of Asian colonies.
+Policy by which one country extends its power over other territories through military force, economic control, or political dominance. The late 19th-century wave—often called "New [[Concept Notes/Imperialism\|Imperialism]]"—differed from earlier colonialism in its ideological intensity, industrial backing, and global scope, culminating in the Scramble for Africa and consolidation of Asian colonies.
 
 **nationalism**
 Ideology that a people sharing language, culture, and history should form their own state. In 19th-century Europe, nationalism drove both the unification of Germany and Italy and the competition for overseas empire: colonies became proof of national greatness. In Asia, nationalism equally fueled Japanese imperial ambitions and, later, anti-colonial resistance.
@@ -36,5 +36,5 @@ Scottish missionary-explorer (1813–1873) who traveled throughout central Afric
 **[[Concept Notes/East India Company\|East India Company]] (EIC)**
 British joint-stock trading company (chartered 1600) that gradually acquired military and administrative control over the Indian subcontinent. After the Indian Rebellion (Sepoy Mutiny) of 1857, the British Crown dissolved the EIC and assumed direct rule of India in 1858. Demonstrates how corporate economic structures became instruments of formal imperial governance.
 
-**Dutch East India Company (VOC)**
+**[[Concept Notes/Dutch East India Company\|Dutch East India Company]] (VOC)**
 Dutch trading company (*Vereenigde Oost-Indische Compagnie*, chartered 1602) that dominated the Southeast Asian spice trade and established colonial control over present-day Indonesia. One of the world's first multinational corporations; its joint-stock structure and blend of commercial and political power became a model for later European colonial enterprises.
