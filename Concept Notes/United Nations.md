@@ -45,3 +45,7 @@ As dozens of new African and Asian states gained independence in the 1950s–60s
 - [[Unit-8.1/Setting the Stage for the Cold War & Decolonization Overview\|Setting the Stage for the Cold War & Decolonization Overview]] (pp. 547–553) — postwar institutional design
 - [[Unit-8.5/Decolonization after 1900 Overview\|Decolonization after 1900 Overview]] (pp. 579–588) — General Assembly as anti-colonial forum
 - [[Unit-8.6/Newly Independent States Overview\|Newly Independent States Overview]] (pp. 589–597) — newly independent states use UN framework
+- [[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]] (pp. 503–510) — WWII's failures of collective security made a stronger postwar institution necessary
+- [[Unit-7.9/Causation in Global Conflict Overview\|Causation in Global Conflict Overview]] (pp. 531–543) — UN as the institutional response to global conflict's causes and effects
+- [[Unit-9.5/Calls for Reform & Responses Overview\|Calls for Reform & Responses Overview]] (pp. 667–678) — human rights framework enforced through UN bodies
+- [[Unit-9.8/Institutions Developing in a Globalized World Overview\|Institutions Developing in a Globalized World Overview]] (pp. 696–706) — UN as primary case study of postwar global institution-building

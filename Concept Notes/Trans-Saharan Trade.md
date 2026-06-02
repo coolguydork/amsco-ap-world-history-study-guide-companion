@@ -79,3 +79,5 @@ Mansa Musa's hajj exemplifies this relationship: he was a devout Muslim ruler of
 - [[Unit-1.5/Africa Overview\|Africa Overview]] (pp. 43–52)
 - [[Unit-1.5/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.5]]
 - [[Unit-1.7/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.7]]
+- [[Unit-2.4/Trans-Saharan Trade Routes Overview\|Trans-Saharan Trade Routes Overview]] (pp. 103–110) — primary Unit 2 coverage; camel caravans, gold-salt trade, Mali and Songhai
+- [[Unit-2.7/Comparison of Economic Exchange Overview\|Comparison of Economic Exchange Overview]] (pp. 127–139) — trans-Saharan trade compared with Silk Roads and Indian Ocean networks

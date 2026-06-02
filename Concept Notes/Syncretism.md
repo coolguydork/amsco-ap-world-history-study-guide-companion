@@ -66,7 +66,9 @@ Syncretism is not universal. Some religious encounters produced conflict rather 
 
 ## Key Connections
 
-[[Concept Notes/Buddhism|Buddhism]] · [[Concept Notes/Sufism|Sufism]] · [[Concept Notes/Neo-Confucianism|Neo-Confucianism]] · [[Concept Notes/Bhakti Movement|Bhakti Movement]] · [[Concept Notes/Crusades|Crusades]]
+[[Concept Notes/Buddhism\|Buddhism]] · [[Concept Notes/Sufism\|Sufism]] · [[Concept Notes/Neo-Confucianism\|Neo-Confucianism]] · [[Concept Notes/Bhakti Movement\|Bhakti Movement]] · [[Concept Notes/Crusades\|Crusades]]
+
+- [[Unit-4.5/Maritime Empires Develop Overview\|Maritime Empires Develop Overview]] (pp. 232–241) — colonial-era syncretism: Candomblé, Vodou, and other African-Christian blended practices in the Americas and Caribbean
 
 ## Referenced By
 

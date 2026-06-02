@@ -54,13 +54,14 @@ The mercantilist era ended gradually as theorists — especially Adam Smith (*Th
 
 **Causation:** Mercantilism → colonial extraction → Atlantic slave trade → Price Revolution. These are all causally linked.
 
-**Comparison:** European mercantilist colonial economy vs. Indian Ocean trade network (decentralized, multi-actor, not state-directed). See [[Concept Notes/Indian Ocean Trade Network|Indian Ocean Trade Network]].
+**Comparison:** European mercantilist colonial economy vs. Indian Ocean trade network (decentralized, multi-actor, not state-directed). See [[Concept Notes/Indian Ocean Trade Network\|Indian Ocean Trade Network]].
 
 ## Vault Cross-References
 
-- [[Unit-4.4/Maritime Empires Link Regions Overview|Maritime Empires Link Regions Overview]] — mercantilism and silver (pp. 218–228)
-- [[Unit-4.4/Key Terms & Concepts|4.4 Key Terms]] — mercantilism definition
-- [[Unit-4.5/Maritime Empires Develop Overview|Maritime Empires Develop Overview]] — Commercial Revolution; mercantilism in practice
-- [[Unit-4.5/Key Terms & Concepts|4.5 Key Terms]] — capital, mercantilism, monopoly, Commercial Revolution
-- [[Unit-4.8/Continuity & Change Overview|Continuity & Change Overview]] — mercantilism to capitalism as a CCOT thread
-- [[Unit-5.1/Enlightenment Overview|Enlightenment Overview]] — Adam Smith's critique; laissez-faire capitalism
+- [[Unit-4.2/Exploration: Causes & Events Overview\|Exploration: Causes & Events Overview]] (pp. 199–208) — mercantilist motives as a driver of European exploration; search for direct trade routes to avoid middlemen
+- [[Unit-4.4/Maritime Empires Link Regions Overview\|Maritime Empires Link Regions Overview]] — mercantilism and silver (pp. 218–228)
+- [[Unit-4.4/Key Terms & Concepts\|4.4 Key Terms]] — mercantilism definition
+- [[Unit-4.5/Maritime Empires Develop Overview\|Maritime Empires Develop Overview]] (pp. 232–241) — Commercial Revolution; mercantilism in practice
+- [[Unit-4.5/Key Terms & Concepts\|4.5 Key Terms]] — capital, mercantilism, monopoly, Commercial Revolution
+- [[Unit-4.8/Continuity & Change Overview\|Continuity & Change Overview]] (pp. 261–271) — mercantilism to capitalism as a CCOT thread
+- [[Unit-5.1/Enlightenment Overview\|Enlightenment Overview]] (pp. 275–284) — Adam Smith's critique; laissez-faire capitalism

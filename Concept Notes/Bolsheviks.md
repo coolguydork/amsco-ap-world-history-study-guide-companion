@@ -46,6 +46,7 @@ Lenin died in January 1924. Joseph Stalin outmaneuvered rivals (including Trotsk
 
 ## Cross-Topic Connections
 
+- **[[Unit-7.1/Shifting Power Overview\|Shifting Power Overview]] (pp. 453–460)** — the Bolshevik Revolution as a shift in global power; early Soviet state formation
 - **[[Unit-7.4/Economy in the Interwar Period Overview\|Economy in the Interwar Period Overview]]** — Bolshevik economic policies: War Communism → NEP → Stalinist collectivization and Five-Year Plans
 - **[[Unit-7.5/Unresolved Tensions After World War I Overview\|Unresolved Tensions After World War I Overview]] (pp. 493–502)** — Bolshevik success inspired global communist and anti-colonial movements; Comintern
 - **[[Unit-8.2/Cold War Overview\|Cold War Overview]] (pp. 554–561)** — USSR as Bolshevik state vs. U.S. capitalism; the ideological confrontation that defined 1945–1991

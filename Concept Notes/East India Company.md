@@ -47,6 +47,8 @@ The East India Company is the AP's clearest example of **economic imperialism pr
 ## Cross-Topic Connections
 
 - **[[Unit-4.1/Technological Innovations Overview\|Technological Innovations Overview]] (pp. 191–198)** — Joint-stock companies as a financial innovation enabling long-distance trade
+- **[[Unit-4.5/Maritime Empires Develop Overview\|Maritime Empires Develop Overview]] (pp. 232–241)** — EIC in its early commercial phase; trade goods, factory networks, competition with VOC
+- **[[Unit-6.1/Rationales for Imperialism Overview\|Rationales for Imperialism Overview]] (pp. 367–374)** — EIC as a model for how commercial interest generated imperial ideology
 - **[[Concept Notes/Joint-Stock Companies\|Joint-Stock Companies]]** — EIC as the most consequential joint-stock company in history
 - **[[Unit-6.2/State Expansion Overview\|State Expansion Overview]] (pp. 375–387)** — EIC's conquest of India as a case of state expansion via company proxy
 - **[[Unit-6.3/Indigenous Responses to State Expansion Overview\|Indigenous Responses to State Expansion Overview]] (pp. 388–397)** — Sepoy Mutiny as the primary South Asian resistance case study

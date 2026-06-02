@@ -28,6 +28,7 @@ Germany's democratic government established after WWI (1919–1933). Named for t
 
 ## AP Connections
 
+- [[Unit-7.3/Conducting World War I Overview\|Conducting World War I Overview]] (pp. 469–479) — the armistice and German defeat that made the Weimar Republic's founding necessary; "stab-in-the-back" myth origin
 - [[Unit-7.2/Causes of World War I Overview\|Causes of World War I Overview]] (pp. 461–468) — WWI's outcome created the Weimar Republic
 - [[Unit-7.4/Economy in the Interwar Period Overview\|Economy in the Interwar Period Overview]] — Great Depression destabilized it
 - [[Unit-7.5/Unresolved Tensions After World War I Overview\|Unresolved Tensions After World War I Overview]] (pp. 493–502) — Treaty of Versailles imposed impossible burdens

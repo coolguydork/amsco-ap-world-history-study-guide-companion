@@ -18,11 +18,13 @@ Nationalism: the belief that people who share a common culture, language, ethnic
 
 ## Where It Appears Across the Vault
 
+- **[[Unit-5.1/Enlightenment Overview\|Enlightenment Overview]] (pp. 275–284)** — Enlightenment ideas of popular sovereignty and natural rights as nationalism's intellectual roots
 - **[[Unit-5.2/Nationalism & Revolutions Overview\|Nationalism & Revolutions Overview]] (pp. 285–296)** — 19th-century European nationalism; German and Italian unification; Meiji Japan's nationalist modernization
 - **[[Unit-7.1/Shifting Power Overview\|Shifting Power Overview]] (pp. 453–460)** — Post-WWI nationalism in Europe; Ottoman collapse; Turkish nationalism under Atatürk
 - **[[Unit-7.2/Causes of World War I Overview\|Causes of World War I Overview]] (pp. 461–468)** — Balkan nationalism and the fall of empires; Bolshevik internationalism vs. Russian nationalism
 - **[[Unit-7.5/Unresolved Tensions After World War I Overview\|Unresolved Tensions After World War I Overview]] (pp. 493–502)** — Anti-colonial nationalism in Asia and Africa: May Fourth Movement, March First Movement, Indian National Congress, Pan-Arabism, Négritude
 - **[[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]] (pp. 503–510)** — Hypernationalism in Europe; fascism as extreme nationalism; Nazi racial nationalism
+- **[[Unit-6.1/Rationales for Imperialism Overview\|Rationales for Imperialism Overview]] (pp. 367–374)** — nationalist competition among European powers as a driver of imperialism
 - **[[Unit-8.5/Decolonization after 1900 Overview\|Decolonization after 1900 Overview]] (pp. 579–588)** — Decolonization; post-WWII nationalist independence movements
 
 ## Types of Nationalism (AP Comparison Framework)

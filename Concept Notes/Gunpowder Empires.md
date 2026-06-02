@@ -74,10 +74,12 @@ All three Gunpowder Empires followed a similar arc:
 
 ## Vault Cross-References
 
-- [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Gunpowder Empires Expand Overview]] — founding, military technology, all three empires
-- [[Unit-3.1/Key Terms & Concepts|3.1 Key Terms]] — gunpowder empires, ghazi ideal, devshirme, mansabdar, Sunni–Shia rivalry
-- [[Unit-3.2/Empires: Administration Overview|Empires: Administration Overview]] — administrative systems compared
-- [[Unit-3.3/Empires: Belief Systems Overview|Empires: Belief Systems Overview]] — religion as a governance tool
-- [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power Overview]] — Maratha challenge to Mughals; Pugachev
+- [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview\|Gunpowder Empires Expand Overview]] — founding, military technology, all three empires
+- [[Unit-3.1/Key Terms & Concepts\|3.1 Key Terms]] — gunpowder empires, ghazi ideal, devshirme, mansabdar, Sunni–Shia rivalry
+- [[Unit-3.2/Empires: Administration Overview\|Empires: Administration Overview]] — administrative systems compared
+- [[Unit-3.3/Empires: Belief Systems Overview\|Empires: Belief Systems Overview]] — religion as a governance tool
+- [[Unit-4.6/Internal & External Challenges to State Power Overview\|Internal & External Challenges to State Power Overview]] (pp. 243–250) — Maratha challenge to Mughals; Pugachev
+- [[Unit-1.7/Comparison Overview\|Comparison Overview]] (pp. 65–73) — Gunpowder Empires compared with Song China and other Period 1 states; early emergence of Ottoman and Mongol predecessor states
+- [[Unit-4.7/Changing Social Hierarchies Overview\|Changing Social Hierarchies Overview]] (pp. 251–259) — social hierarchies within Gunpowder Empires; women's roles; slavery
 - [[Concept Notes/Mongols|Mongols]] — direct predecessors; Tamerlane as the bridge figure
 - [[Concept Notes/Tribute System|Tribute System]] — Ottoman timar and Mughal mansabdari as tribute-adjacent systems

@@ -42,6 +42,7 @@ Pan-Africanism is essential for understanding **African decolonization** (Topic 
 
 ## Cross-Topic Connections
 
+- **[[Unit-6.3/Indigenous Responses to State Expansion Overview\|Indigenous Responses to State Expansion Overview]] (pp. 388–397)** — early Pan-Africanist ideas as a response to colonial subjugation; resistance movements in Africa
 - **[[Unit-7.5/Unresolved Tensions After World War I Overview\|Unresolved Tensions After World War I Overview]] (pp. 493–502)** — Pan-African Congresses 1919–1927; Du Bois demanding self-determination for Africa at Versailles
 - **[[Unit-8.5/Decolonization after 1900 Overview\|Decolonization after 1900 Overview]] (pp. 579–588)** — Pan-Africanism as the ideological framework for African independence movements; Nkrumah and Ghana 1957; OAU 1963
 - **[[Concept Notes/Self-Determination\|Self-Determination]]** — Pan-Africanism applied Wilson's self-determination rhetoric to colonial Africa

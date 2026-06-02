@@ -30,7 +30,8 @@ France withdrew from NATO's integrated military command in 1966 (though remainin
 
 - [[Unit-8.2/Cold War Overview\|Cold War Overview]] (pp. 554–561) — NATO's founding in the context of early Cold War origins 
 - [[Unit-8.3/Effects of the Cold War Overview\|Effects of the Cold War Overview]] (pp. 562–570) — NATO vs. Warsaw Pact alliance system; comparison with SEATO and CENTO 
-- [[Unit-8.3/Key Terms & Concepts\|Key Terms & Concepts]] — full definition and exam context 
+- [[Unit-8.3/Key Terms & Concepts\|Key Terms & Concepts]] — full definition and exam context
+- [[Unit-6.7/Effects of Migration Overview\|Effects of Migration Overview]] (pp. 429–438) — NATO-member nations received large waves of postwar migration; context for understanding the societies NATO defended 
 
 ## AP Exam Significance
 

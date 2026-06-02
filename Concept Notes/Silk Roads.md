@@ -54,6 +54,7 @@ Song Dynasty China anchored the eastern end of the Silk Roads. Chinese exports �
 | **4.1** | European maritime technology eventually bypasses the Silk Roads |
 
 → Primary coverage: [[Unit-2.1/Silk Roads Overview\|Silk Roads Overview]] (pp. 77–84) — the dedicated Silk Roads topic.
+→ Synthesis coverage: [[Unit-2.7/Comparison of Economic Exchange Overview\|Comparison of Economic Exchange Overview]] (pp. 127–139) — Silk Roads compared with Indian Ocean and trans-Saharan networks.
 
 ---
 
