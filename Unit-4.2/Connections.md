@@ -9,13 +9,13 @@ tags: [apwh, unit-4, topic-4-2, period-2, exploration, connections, cross-topic]
 
 ## Builds On
 
-**[[Unit-4.1/Technological Innovations Overview|Technological Innovations Overview]] (4.1)**
+**[[Unit-4.1/Technological Innovations Overview|Technological Innovations Overview]] ([[Unit-4.1/Technological Innovations Overview|4.1]])**
 European maritime exploration was only possible because of the technological breakthroughs covered in 4.1: caravel ships, lateen sails, magnetic compasses, astrolabes, and improved cartography. No technology = no exploration. Topic 4.2 is the *consequence* of [[Unit-4.1/Technological Innovations Overview|Topic 4.1]].
 
-**[[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]] (1.6) — Reconquista**
+**[[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]] ([[Unit-1.6/Medieval Europe Overview|1.6]]) — Reconquista**
 The completion of the Reconquista in 1492 gave Spain both the resources and the crusading mentality to sponsor Columbus. Spanish overseas expansion was infused with the same Christian-vs.-infidel ideology that had defined the Reconquista for centuries.
 
-**[[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]] (1.2) — Ottoman Empire and Trade Disruption**
+**[[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]] ([[Unit-1.2/Dar al-Islam Overview|1.2]]) — Ottoman Empire and Trade Disruption**
 Ottoman expansion into the eastern Mediterranean and control of overland trade routes raised costs for European traders. The desire to bypass Ottoman middlemen was a direct economic driver of Portuguese and Spanish exploration.
 
 ---
@@ -35,7 +35,7 @@ The methods and motivations of 1450–1750 exploration created a template for 19
 
 ## Compare With
 
-**[[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]] (2.3) — Zheng He**
+**[[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]] ([[Unit-2.3/Indian Ocean Overview|2.3]]) — Zheng He**
 China's Zheng He voyages (1405–1433) were larger in scale than anything Europe produced, yet China withdrew after 1433 while Europe accelerated. The comparison asks: what institutional and political factors explain such different outcomes from similar capabilities? China's Confucian court politics vs. Europe's inter-state competitive pressure is the standard explanation.
 
 **[[Unit-6.2/State Expansion Overview|Topic 6.2 — 19th-Century Imperialism]]**

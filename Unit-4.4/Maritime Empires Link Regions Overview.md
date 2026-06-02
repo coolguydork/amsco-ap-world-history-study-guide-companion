@@ -109,5 +109,5 @@ The plantation economy and Atlantic slave trade reshaped populations, social str
 
 - Builds on [[Unit-4.2/Exploration: Causes & Events Overview|Exploration: Causes & Events Overview]] (exploration → conquest) and [[Unit-4.3/Columbian Exchange Overview|Columbian Exchange Overview]] (disease → indigenous collapse)
 - Builds on [[Unit-1.4/The Americas Overview|The Americas Overview]] (Aztec and Inca states being conquered)
-- Compare with [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] (land-based vs. maritime empire administration)
+- Compare with [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] (land-based vs. maritime empire administration)
 - Leads to **Maintaining Colonial Empires** [[Unit-4.5/Maritime Empires Develop Overview|Maritime Empires Develop Overview]] and **Social Hierarchies in Colonial Societies** [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]]

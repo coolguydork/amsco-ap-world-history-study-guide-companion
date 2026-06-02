@@ -145,4 +145,4 @@ The plague was the Pax Mongolica's dark mirror — the same roads that carried s
 
 ---
 
-*See also:* [[Key Terms & Concepts]] · [[People, States & Movements]] · [[Themes & Historical Reasoning]] · [[Unit-2.1/Practice & Review|Unit-2.1 Practice & Review]]
+*See also:* [[Unit-2.2/Key Terms & Concepts|Key Terms & Concepts]] · [[Unit-2.2/People, States & Movements|People, States & Movements]] · [[Unit-2.2/Themes & Historical Reasoning|Themes & Historical Reasoning]] · [[Unit-2.1/Practice & Review|Unit-2.1 Practice & Review]]

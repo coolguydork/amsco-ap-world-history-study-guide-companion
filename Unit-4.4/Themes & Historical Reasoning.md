@@ -94,7 +94,7 @@ The colonial encounter transformed social structures on multiple continents:
 - Spanish: military conquest of large empires; encomienda and hacienda; significant intermarriage/mestizo population; Catholic mission system; silver-extraction economy
 - British: smaller initial scale; trading posts → settler colonies; indentured servitude before enslaved labor; less intermarriage; Protestant establishment
 
-**Maritime empires vs. land-based empires** (compare [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]]): Maritime empires depended on naval technology and control of sea lanes; land-based empires (Ottoman, Mughal, Qing) controlled contiguous territory through military force and administrative systems.
+**Maritime empires vs. land-based empires** (compare [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]]): Maritime empires depended on naval technology and control of sea lanes; land-based empires (Ottoman, Mughal, Qing) controlled contiguous territory through military force and administrative systems.
 
 ## Think As a Historian: Purpose and Audience
 

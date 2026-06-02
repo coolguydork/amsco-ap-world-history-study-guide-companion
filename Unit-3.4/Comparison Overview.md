@@ -124,5 +124,5 @@ Russia under **Peter the Great (r. 1682–1725)** illustrates how a land empire 
 ## Connections
 
 - Builds on [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|3.1 Overview]], [[Unit-3.2/Empires: Administration Overview|3.2 Overview]], [[Unit-3.3/Empires: Belief Systems Overview|3.3 Overview]]
-- See [[Connections]] for cross-unit links and AP threads
+- See [[Unit-3.4/Connections|Connections]] for cross-unit links and AP threads
 - Contrasts with Unit 4 maritime empire methods — land vs. sea as paths to power

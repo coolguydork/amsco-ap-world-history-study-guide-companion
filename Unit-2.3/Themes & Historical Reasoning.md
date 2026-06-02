@@ -64,7 +64,7 @@ Both networks were **causes** and **effects** of expanded global exchange after 
 
 **Similarities:** Both relied on diasporic merchant communities; both spread religion and technology alongside commodities; both depended on political stability at key nodes; both experienced disruption in the 14th–15th centuries.
 
-See [[Unit-2.1/[[Concept Notes/Silk Roads\|Silk Roads]] Overview|Silk Roads Overview]] and [[Unit-2.1/Themes & Historical Reasoning|Themes & Historical Reasoning]].
+See [[Unit-2.1/Silk Roads Overview|Silk Roads Overview]] and [[Unit-2.1/Themes & Historical Reasoning|Themes & Historical Reasoning]].
 
 ---
 

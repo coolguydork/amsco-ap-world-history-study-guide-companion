@@ -23,7 +23,7 @@ Industrial technology—steamships, telegraphs, repeating rifles, and the Maxim 
 Topic 6.1 establishes the ideological foundations; [[Unit-6.2/State Expansion Overview|Topic 6.2]] examines how those ideologies translated into specific patterns of territorial acquisition across Africa, Asia, and the Pacific. The [[Concept Notes/Berlin Conference\|Berlin Conference]] and Scramble for Africa are the primary case studies.
 
 **Indigenous Responses to State Expansion** [[Unit-6.3/Indigenous Responses to State Expansion Overview|Indigenous Responses to State Expansion Overview]]
-The "civilizing mission" ideology produced not just colonial policies but colonial resistance. Understanding what drove imperialism (6.1) is essential for analyzing how colonized peoples responded to and resisted those ideologies (6.3). Social Darwinism and the civilizing mission generated both accommodation and rebellion.
+The "civilizing mission" ideology produced not just colonial policies but colonial resistance. Understanding what drove imperialism ([[Unit-6.1/Rationales for Imperialism Overview|6.1]]) is essential for analyzing how colonized peoples responded to and resisted those ideologies ([[Unit-6.3/Indigenous Responses to State Expansion Overview|6.3]]). Social Darwinism and the civilizing mission generated both accommodation and rebellion.
 
 ## Cross-Topic Comparisons
 

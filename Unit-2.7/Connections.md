@@ -38,7 +38,7 @@ The trade networks of 1200–1450 directly shape the empires and conflicts of Un
 
 ## Compare With
 
-**All three networks side by side** — The core comparison for this topic. The table in [[Comparison of Economic Exchange Overview|Comparison of Economic Exchange Overview]] (this folder) is your primary study reference.
+**All three networks side by side** — The core comparison for this topic. The table in [[Unit-2.7/Comparison of Economic Exchange Overview|Comparison of Economic Exchange Overview]] (this folder) is your primary study reference.
 
 **AP Exam comparison questions to practice:**
 

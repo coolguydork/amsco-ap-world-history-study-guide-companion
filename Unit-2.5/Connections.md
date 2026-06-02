@@ -10,7 +10,7 @@ tags: [apwh, unit-2, topic-2-5, period-1, cultural-diffusion, trade-networks, co
 ## Builds On
 
 **[[Unit-2.1/Silk Roads Overview|Silk Roads Overview]] [[Unit-2.1/Silk Roads Overview|Silk Roads Overview]]**
-The Silk Roads are the mechanism; 2.5 is the cultural output. Samarkand, Kashgar, and the overland routes already existed — 2.5 shows what Buddhism, Neo-Confucianism, papermaking, and gunpowder look like *after* those routes have been functioning for centuries. The [[Concept Notes/Pax Mongolica|Pax Mongolica]] (2.2) made those routes safer than ever, directly enabling Marco Polo's journey.
+The Silk Roads are the mechanism; 2.5 is the cultural output. Samarkand, Kashgar, and the overland routes already existed — 2.5 shows what Buddhism, Neo-Confucianism, papermaking, and gunpowder look like *after* those routes have been functioning for centuries. The [[Concept Notes/Pax Mongolica|Pax Mongolica]] ([[Unit-2.2/Mongol Empire Overview|2.2]]) made those routes safer than ever, directly enabling Marco Polo's journey.
 
 **[[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]] [[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]]**
 The Indian Ocean network carried Islam to Southeast Asia and East Africa, Hinduism and Buddhism to Southeast Asia, and lateen sails plus the stern rudder as diffused technologies. The Srivijaya and Majapahit kingdoms, and Swahili culture along the East African coast, are products of Indian Ocean connectivity analyzed in 2.5.
@@ -27,13 +27,13 @@ The religious diffusion documented in 2.5 (Islam in South and Southeast Asia, Bu
 The Columbian Exchange (c. 1492 onward) is the *next* major biological and cultural exchange network after the one 2.5 describes. Compare scale, mechanisms, and consequences: the Columbian Exchange was biologically more catastrophic (90%+ Indigenous population loss) and geographically global, but the *pattern* — trade routes as vectors for goods, ideas, and disease — was established in the Afro-Eurasian networks of 1200–1450.
 
 **[[Unit-5.3/Industrial Revolution Begins Overview|Topic 5.3 — Industrial Technology Diffusion (forward-looking)]]**
-Technology transfer along trade routes (2.5) is the earlier version of the global diffusion of industrial technology documented in 5.3. Both involve uneven power relationships and unintended consequences.
+Technology transfer along trade routes ([[Unit-2.5/Cultural Consequences Overview|2.5]]) is the earlier version of the global diffusion of industrial technology documented in 5.3. Both involve uneven power relationships and unintended consequences.
 
 ## Cross-Topic Comparisons
 
 **2.5 vs. 4.3 — Mechanisms of Cultural Diffusion**
 
-| Dimension | Afro-Eurasian Networks (2.5) | Columbian Exchange (4.3) |
+| Dimension | Afro-Eurasian Networks ([[Unit-2.5/Cultural Consequences Overview\|2.5]]) | Columbian Exchange ([[Unit-4.3/Columbian Exchange Overview\|4.3]]) |
 |-----------|------------------------------|--------------------------|
 | Primary vectors | Merchants, missionaries, scholars, pilgrims | Conquistadors, settlers, enslaved people |
 | Scale | Afro-Eurasia | Global (Americas + Afro-Eurasia) |

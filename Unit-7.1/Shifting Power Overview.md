@@ -52,7 +52,7 @@ The revolution was devastating — roughly 2 million deaths out of a population 
 
 **Builds on:**
 - [[Unit-6.5/Economic Imperialism Overview\|Economic Imperialism Overview]] — foreign economic penetration created resentment that fueled revolution in Mexico, China, and the Ottoman Empire
-- [[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview\|Nationalism & Revolutions Overview]] — 19th-century nationalist ideology shaped all four revolutionary movements
+- [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]] — 19th-century nationalist ideology shaped all four revolutionary movements
 
 **Leads to:**
 - **Causes of World War I** [[Unit-7.2/Causes of World War I Overview|Causes of World War I Overview]]

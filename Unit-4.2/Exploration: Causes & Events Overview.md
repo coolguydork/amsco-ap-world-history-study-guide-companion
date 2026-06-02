@@ -64,7 +64,7 @@ Spain lagged behind Portugal initially, but the completion of the **Reconquista 
 **The Philippines and the Manila Galleon Trade**: Spain colonized the Philippines after 1565 and founded Manila as a commercial hub. From Manila, heavily armed Spanish **galleons** carried silver from the Americas across the Pacific to China — where the Ming dynasty had adopted silver as its main currency. In exchange, Europeans received silk, spices, and other luxury goods. By the early 1600s, silver had become a dominant force in the emerging global economy.
 
 > [!exam-tip]
-> The **Manila galleon trade** is a high-value AP topic connecting European exploration (4.2), the Columbian Exchange (4.3), and early global economic integration. Silver flowing from the Americas to China created one of the first truly global trade circuits.
+> The **Manila galleon trade** is a high-value AP topic connecting European exploration ([[Unit-4.2/Exploration: Causes & Events Overview|4.2]]), the Columbian Exchange ([[Unit-4.3/Columbian Exchange Overview|4.3]]), and early global economic integration. Silver flowing from the Americas to China created one of the first truly global trade circuits.
 
 ## France, England, and the Netherlands
 

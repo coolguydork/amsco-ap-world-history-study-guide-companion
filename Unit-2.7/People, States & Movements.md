@@ -53,7 +53,7 @@ Founder of the Mongol Empire. Topic 2.7 includes a Historical Perspectives readi
 Muslim sultanate controlling the Strait of Malacca — the narrow waterway connecting the Indian Ocean to the South China Sea. Malacca levied fees on all passing ships and used the revenue to build a powerful navy. The clearest example of how trading cities grew into centralized polities through commercial wealth. (AMSCO p. 129)
 
 **Mali Empire** (c. 1235–1468)
-West African empire that dominated the trans-Saharan gold and salt trade. Controlled by a Muslim ruling class, including the famous Mansa Musa, while much of the population maintained older religious practices. Ibn Battuta's 1352 account of Mali is a primary source on this network. See [[Unit-2.4/[[Concept Notes/Trans-Saharan Trade\|Trans-Saharan Trade]] Routes Overview|Trans-Saharan Trade Routes Overview]].
+West African empire that dominated the trans-Saharan gold and salt trade. Controlled by a Muslim ruling class, including the famous Mansa Musa, while much of the population maintained older religious practices. Ibn Battuta's 1352 account of Mali is a primary source on this network. See [[Unit-2.4/Trans-Saharan Trade Routes Overview|Trans-Saharan Trade Routes Overview]].
 
 **Vijayanagara Empire** (1336–1646)
 Hindu empire in southern India. Domingo Paes's account of its massive labor mobilization illustrates how state power organized large-scale projects in a trading-zone context. (AMSCO p. 132)

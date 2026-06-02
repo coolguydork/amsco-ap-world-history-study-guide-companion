@@ -18,7 +18,7 @@ tags: [apwh, unit-7, topic-7-4, period-4, great-depression, fascism, economic-sy
 Rise in prices that erodes purchasing power. Weimar Germany experienced hyperinflation in the early 1920s as the government printed money to pay war reparations, destroying middle-class savings and destabilizing democracy. The Great Depression later reversed this into deflation. Both extremes fueled political radicalism.
 
 **deficit spending**
-Government policy of spending more than it collects in taxes, borrowing to make up the difference. [[John Maynard Keynes|Keynesian economics]] endorsed deficit spending as the tool to stimulate demand during recessions. FDR's [[New Deal]] and WWII mobilization used it to pull the U.S. out of the Depression.
+Government policy of spending more than it collects in taxes, borrowing to make up the difference. **Keynesian economics** endorsed deficit spending as the tool to stimulate demand during recessions. FDR's **New Deal** and WWII mobilization used it to pull the U.S. out of the Depression.
 
 **relief**
 The first "R" of FDR's New Deal: immediate aid to suffering Americans — unemployment insurance, food assistance, welfare programs — to prevent starvation and homelessness during the Great Depression.
@@ -58,7 +58,7 @@ Lenin's pragmatic 1921 retreat from pure communism after the Russian Civil War d
 Stalin's centralized economic blueprints setting mandatory production quotas for Soviet industry and agriculture in five-year cycles. The first (1928–32) prioritized heavy industry — steel, coal, machinery — rapidly industrializing the USSR at enormous human cost (forced labor, famine, purges). Subsequent plans continued the pattern; used as a model by other authoritarian states.
 
 **PEMEX** (Petróleos Mexicanos)
-State-owned oil company created in 1938 when President [[Lázaro Cárdenas]] nationalized Mexico's oil industry, expropriating mostly U.S. and British companies. Became one of the world's largest state-owned enterprises. Key AP example of economic nationalism and state-led development in Latin America.
+State-owned oil company created in 1938 when President **Lázaro Cárdenas** nationalized Mexico's oil industry, expropriating mostly U.S. and British companies. Became one of the world's largest state-owned enterprises. Key AP example of economic nationalism and state-led development in Latin America.
 
 ## Political Structures
 

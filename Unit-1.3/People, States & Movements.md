@@ -49,7 +49,7 @@ Muslim scholar at the court of Mahmud of Ghazni who wrote extensively about Indi
 ## Key Movements
 
 ### The Bhakti Movement
-Began in southern India in the 12th century. Emphasized **personal devotion** (*bhakti* = devotion) to a specific deity, bypassing priestly intermediaries, scripture study, and ritual. Appealed especially to women and low-caste Hindus who were excluded from traditional religious roles. Helped Hinduism spread and adapt as Islam entered the subcontinent. See [[Key Terms & Concepts]].
+Began in southern India in the 12th century. Emphasized **personal devotion** (*bhakti* = devotion) to a specific deity, bypassing priestly intermediaries, scripture study, and ritual. Appealed especially to women and low-caste Hindus who were excluded from traditional religious roles. Helped Hinduism spread and adapt as Islam entered the subcontinent. See [[Unit-1.3/Key Terms & Concepts|Key Terms & Concepts]].
 
 ### Sufi Islam in South and Southeast Asia
 Sufi missionaries entered India and Southeast Asia alongside Muslim merchants. Their **tolerance for local religious practices** was the key to their success — converts could adopt Islam while still honoring local customs and deities. Sufis were the primary vectors through which Islam spread peacefully in the region, complementing the earlier violent/political entry of Islam via the Delhi Sultanate. See [[Unit-1.2/Key Terms & Concepts|Key Terms & Concepts — Topic 1.2]].

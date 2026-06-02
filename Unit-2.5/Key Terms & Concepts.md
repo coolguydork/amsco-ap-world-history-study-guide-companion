@@ -72,7 +72,7 @@ Caused by the bacterium *Yersinia pestis*; spread westward along trade routes fr
 A Chinese city of approximately one million people under the Song Dynasty; center of culture and trade at the southern end of the Grand Canal. Described by Marco Polo. Home to poets and artists as well as a thriving Arab merchant community. (AMSCO p. 114)
 
 **Timbuktu**
-A West African city on the Niger River that became a major center of Islamic scholarship and trans-Saharan trade. Evidence of Islam's intellectual diffusion into sub-Saharan Africa. See [[Unit-2.4/[[Concept Notes/Trans-Saharan Trade\|Trans-Saharan Trade]] Routes Overview|Trans-Saharan Trade Routes Overview]]. (AMSCO p. 113)
+A West African city on the Niger River that became a major center of Islamic scholarship and trans-Saharan trade. Evidence of Islam's intellectual diffusion into sub-Saharan Africa. See [[Unit-2.4/Trans-Saharan Trade Routes Overview|Trans-Saharan Trade Routes Overview]]. (AMSCO p. 113)
 
 **Samarkand**
 A Central Asian city on the [[Concept Notes/Silk Roads\|Silk Roads]]; known for Islamic scholarship, bustling markets, and as a waystation for merchants. Raided and ultimately weakened by Tamerlane. See [[Unit-2.1/Silk Roads Overview|Silk Roads Overview]]. (AMSCO pp. 79, 114)

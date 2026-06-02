@@ -64,7 +64,7 @@ The Reformation's core move — challenging established authority on principled 
 
 **Comparison:** Protestant Reformation vs. Sunni–Shia split; Catholic Counter-Reformation vs. Islamic reform movements.
 
-**Connection to Revolution:** Glorious Revolution (4.6) → Locke's political theory (5.1) → American and French Revolutions (5.2). The Reformation is the starting point of this chain.
+**Connection to Revolution:** Glorious Revolution ([[Unit-4.6/Internal & External Challenges to State Power Overview|4.6]]) → Locke's political theory ([[Unit-5.1/Enlightenment Overview|5.1]]) → American and French Revolutions ([[Unit-5.2/Nationalism & Revolutions Overview|5.2]]). The Reformation is the starting point of this chain.
 
 ## Vault Cross-References
 

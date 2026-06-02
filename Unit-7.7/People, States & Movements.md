@@ -57,7 +57,7 @@ After Germany's conquest of France (1940), the collaborationist Vichy regime und
 Colonies from across the British, French, and Dutch empires contributed soldiers to Allied forces. India's army grew from 200,000 to 2.5 million — the largest volunteer army in history — fighting in North Africa and Southeast Asia. Colonial participation in WWII strengthened demands for independence after the war, accelerating decolonization.
 
 > [!exam-tip]
-> AP essays frequently reward noting that colonial subjects fought for empires that denied them rights — their wartime service became leverage for postwar independence movements. This connects WWII conduct (7.7) directly to decolonization (Unit 8).
+> AP essays frequently reward noting that colonial subjects fought for empires that denied them rights — their wartime service became leverage for postwar independence movements. This connects WWII conduct ([[Unit-7.7/Conducting World War II Overview|7.7]]) directly to decolonization (Unit 8).
 
 > [!tip]
 > **"Big Three" comparison:** Churchill prioritized Europe; Stalin demanded a second front; Roosevelt balanced both. Their agreements at Yalta (1945) divided post-war Europe and planted the seeds of the Cold War.

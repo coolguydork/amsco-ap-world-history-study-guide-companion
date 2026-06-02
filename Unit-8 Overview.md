@@ -49,7 +49,7 @@ Second, WWII made decolonization structurally inevitable. Britain, France, and t
 The 1947 independence of India and Pakistan — the first major break in European empire — demonstrated that the colonial system could be dismantled and that independence could be won through mass organization rather than purely armed rebellion. It was a signal to independence movements from Ghana to Vietnam: the age of empire was ending.
 
 > [!exam-tip]
-> WWII is not just "before Unit 8" — it is the **structural cause** of both the Cold War and decolonization. AP exam questions that ask you to explain the origins of either phenomenon require you to start here: WWII weakened colonial powers AND elevated incompatible superpowers AND provided ideological ammunition for anti-colonialism ([[Concept Notes/self-determination\|self-determination]], Atlantic Charter).
+> WWII is not just "before Unit 8" — it is the **structural cause** of both the Cold War and decolonization. AP exam questions that ask you to explain the origins of either phenomenon require you to start here: WWII weakened colonial powers AND elevated incompatible superpowers AND provided ideological ammunition for anti-colonialism ([[Concept Notes/Self-Determination|self-determination]], Atlantic Charter).
 
 > [!tip]
 > **Useful comparison:** After WWI, the US retreated into isolationism. After WWII, it committed globally — Marshall Plan, [[Concept Notes/NATO\|NATO]], Truman Doctrine. Why? The atomic bomb, the Soviet threat, and the lesson of appeasement all made non-engagement feel more dangerous than engagement.

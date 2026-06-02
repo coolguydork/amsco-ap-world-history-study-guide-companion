@@ -45,7 +45,7 @@ All three occurred after the Cold War ended and after the "Never again" commitme
 
 **[[Concept Notes/International Criminal Court\|International Criminal Court]]** — Built on Nuremberg precedent; charged Milošević and Bashir; represents the post-1945 shift toward individual accountability for atrocities.
 
-**[[Concept Notes/Genocide\|Genocide]]** — Cross-topic concept appearing in Armenian Genocide (7.8), Holocaust (7.8), Cambodia/Pol Pot (8.6), Rwanda (7.8), Darfur (7.8).
+**[[Concept Notes/Genocide\|Genocide]]** — Cross-topic concept appearing in Armenian Genocide ([[Unit-7.8/Mass Atrocities Overview|7.8]]), Holocaust ([[Unit-7.8/Mass Atrocities Overview|7.8]]), Cambodia/Pol Pot ([[Unit-8.6/Newly Independent States Overview|8.6]]), Rwanda ([[Unit-7.8/Mass Atrocities Overview|7.8]]), Darfur ([[Unit-7.8/Mass Atrocities Overview|7.8]]).
 
 > [!exam-tip]
 > The most common AP comparison for this topic: **Armenian Genocide ↔ Holocaust**. Both involve: (1) state organization, (2) targeting of a minority group framed as a threat, (3) use of wartime conditions as cover, (4) international inaction. The key difference is method (deportation + exposure vs. industrial death camps) and scale. Know both well enough to write a paragraph comparing causes, methods, and outcomes.

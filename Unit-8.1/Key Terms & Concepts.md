@@ -59,7 +59,7 @@ US President (1953–1961) and former WWII Supreme Allied Commander. Oversaw the
 The principle that peoples have the right to choose their own political status and form of government. Used by Woodrow Wilson after WWI to justify redrawing European borders, but denied to colonial peoples in Asia and Africa. After WWII, the hypocrisy of denying self-determination to colonized peoples — who had fought for Allied powers — became impossible to sustain, fueling the decolonization wave of the 1950s–1970s.
 
 > [!tip]
-> Self-determination is a cross-topic thread: Wilson's Fourteen Points (7.3) → denied to colonial peoples (5.x, 6.x) → revived after WWII → decolonization (8.5–8.6). On an LEQ, connect these across units.
+> Self-determination is a cross-topic thread: Wilson's Fourteen Points ([[Unit-7.3/Conducting World War I Overview|7.3]]) → denied to colonial peoples (5.x, 6.x) → revived after WWII → decolonization (8.5–8.6). On an LEQ, connect these across units.
 
 ---
 

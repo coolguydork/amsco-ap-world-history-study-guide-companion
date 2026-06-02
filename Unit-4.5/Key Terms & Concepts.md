@@ -57,7 +57,7 @@ Spanish-appointed administrators who governed colonial territories as representa
 Royal courts established in Spanish America to hear appeals against viceroy decisions and policies. Designed to keep viceroys accountable to the Spanish crown. An institutional check within colonial administration. (p. 236)
 
 > [!tip]
-> **Comparison thread:** Viceroy/audiencia = Spanish maritime empire's administrative layer. Compare to: Ottoman timar system [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]], Mongol administrative borrowing [[Unit-3.3/Empires: Belief Systems Overview|Empires: Belief Systems Overview]], Ming centralized bureaucracy [[Unit-3.4/Comparison Overview|Comparison Overview]]. The AP loves asking you to compare land-based and maritime administrative strategies.
+> **Comparison thread:** Viceroy/audiencia = Spanish maritime empire's administrative layer. Compare to: Ottoman timar system [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]], Mongol administrative borrowing [[Unit-3.3/Empires: Belief Systems Overview|Empires: Belief Systems Overview]], Ming centralized bureaucracy [[Unit-3.4/Comparison Overview|Comparison Overview]]. The AP loves asking you to compare land-based and maritime administrative strategies.
 
 ---
 
@@ -79,7 +79,7 @@ The combining of different religious beliefs and practices into a new hybrid sys
 A syncretic Catholic cult that emerged in Mexico around a dark-complexioned Virgin Mary who appeared to an indigenous man in 1531. Catholic saints' days coinciding with indigenous celebrations became focal points for religious blending. Patron saint of New Spain. (p. 238)
 
 **Creoles**
-People born in the Americas of Spanish (or European) descent. By 1750, creoles dominated political life in New Spain. Their exclusion from top colonial offices held by peninsulares (Spanish-born) fueled the independence movements of the early 19th century [[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview|Nationalism & Revolutions Overview]]. (p. 237)
+People born in the Americas of Spanish (or European) descent. By 1750, creoles dominated political life in New Spain. Their exclusion from top colonial offices held by peninsulares (Spanish-born) fueled the independence movements of the early 19th century [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]]. (p. 237)
 
 **Polygyny**
 The practice of a man having more than one wife. Became more common in West African societies affected by the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]], which removed more than two-thirds of the enslaved population from male-dominated age groups, creating gender imbalance. (p. 236)

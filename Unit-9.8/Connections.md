@@ -36,7 +36,7 @@ The institutions built in 9.8 shape the environment in which 9.9 (20th/21st-cent
 ## Compare With
 
 **[[Unit-9.5/Calls for Reform & Responses Overview\|Calls for Reform & Responses Overview]]**
-9.5 examines civil society reform movements and international rights advocacy; 9.8 examines the intergovernmental institutions those movements pressure. Eleanor Roosevelt and the Universal Declaration of Human Rights appear in both topics — the UDHR is both a UN product (9.8) and a tool used by reform movements (9.5). NGOs like Human Rights Watch bridge both topics directly.
+9.5 examines civil society reform movements and international rights advocacy; 9.8 examines the intergovernmental institutions those movements pressure. Eleanor Roosevelt and the Universal Declaration of Human Rights appear in both topics — the UDHR is both a UN product ([[Unit-9.8/Institutions Developing in a Globalized World Overview|9.8]]) and a tool used by reform movements ([[Unit-9.5/Calls for Reform & Responses Overview|9.5]]). NGOs like Human Rights Watch bridge both topics directly.
 
 **League of Nations [[Unit-7.3/Conducting World War I Overview|Conducting World War I Overview]] vs. United Nations [[Unit-9.8/Institutions Developing in a Globalized World Overview|Institutions Developing in a Globalized World Overview]]**
 The most classic AP comparison in this topic. Same goal (prevent war through collective security), opposite outcomes (League failed; UN more durable). Key variables: US membership, Security Council veto, specialized agencies, breadth of membership. A comparison essay on this topic will likely appear on every AP exam cycle.

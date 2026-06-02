@@ -25,7 +25,7 @@ The Atlantic Revolutions demonstrated that popular political mobilization could 
 The British origins of industrialization — steam power, textile mills, coal and iron — establish the baseline from which 5.10's CCOT analysis departs. The factory system and the emergence of the working class begin here.
 
 **[[Unit-5.4/Industrialization Spreads Overview\|Industrialization Spreads Overview]] — [[Unit-5.4/Industrialization Spreads Overview|Topic 5.4]]**
-Documents how the Industrial Revolution spread to the United States, continental Europe, Russia, and Japan — and why some regions (Middle East, Asia) fell behind. The global manufacturing output table (5.10) is the culminating data point for this diffusion process.
+Documents how the Industrial Revolution spread to the United States, continental Europe, Russia, and Japan — and why some regions (Middle East, Asia) fell behind. The global manufacturing output table ([[Unit-5.10/Continuity & Change Overview|5.10]]) is the culminating data point for this diffusion process.
 
 **[[Unit-5.5/Technology in the Industrial Age Overview\|Technology in the Industrial Age Overview]] — [[Unit-5.5/Technology in the Industrial Age Overview|Topic 5.5]]**
 Steam engines, railroads, telegraphs, steamships — the technological changes that made industrial production and global trade possible. 5.10 frames these as *changes* in the means of production and communication; the underlying *continuity* is that technology served the interests of those who owned it.

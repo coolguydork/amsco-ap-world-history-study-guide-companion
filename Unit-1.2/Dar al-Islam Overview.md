@@ -40,7 +40,7 @@ By the 1100s and 1200s, the Abbasid Caliphate faced pressure from four distinct 
 
 **3. The Crusaders**: When the Seljuk Turks restricted Christian pilgrimages to Jerusalem — reversing the tolerant Abbasid policy — European Christians launched the [[Concept Notes/Crusades|Crusades]] to reopen access. (See [[Unit-1.6/Medieval Europe Overview|Topic 1.6]] for the European perspective.) [[Unit-1.2/People, States & Movements|Saladin]], the Kurdish Muslim sultan, famously recaptured Jerusalem in 1187.
 
-**4. The Mongols**: In 1258, the [[Concept Notes/Mongols|Mongols]] — the most devastating of all invaders — conquered Baghdad, sacked the city, killed the caliph, and destroyed the House of Wisdom. They ended both the Abbasid Caliphate and Seljuk rule. The Mongols pushed westward but were stopped in Egypt by the **Mamluks**. (See [[Topic 2.2]] for the Mongol Empire.)
+**4. The Mongols**: In 1258, the [[Concept Notes/Mongols|Mongols]] — the most devastating of all invaders — conquered Baghdad, sacked the city, killed the caliph, and destroyed the House of Wisdom. They ended both the Abbasid Caliphate and Seljuk rule. The Mongols pushed westward but were stopped in Egypt by the **Mamluks**. (See [[Unit-2.2/Mongol Empire Overview|Topic 2.2]] for the Mongol Empire.)
 
 > [!warning]
 > The fall of Baghdad in 1258 is one of the most significant dates in Period 1. It marks the end of the Abbasid Caliphate and a turning point in Islamic political history — yet Islam itself survived and the cultural region of Dar al-Islam continued to expand.

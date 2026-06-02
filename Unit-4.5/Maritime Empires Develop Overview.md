@@ -120,7 +120,7 @@ The **Virgin of Guadalupe** cult in Mexico exemplifies Catholic syncretism with 
 Increased global connections also sharpened religious conflicts:
 - **[[Concept Notes/Sufism|Sufism]]** spread Islam widely and may have influenced the development of **Sikhism** (blending Muslim and Hindu traditions)
 - The Mughal emperor Akbar attempted to mediate Muslim–Hindu tensions [[Unit-3.2/Empires: Administration Overview|Empires: Administration Overview]]
-- The Sunni–Shi'a split worsened Ottoman–Safavid conflict [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]]
+- The Sunni–Shi'a split worsened Ottoman–Safavid conflict [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]]
 - Catholic–Protestant divisions, and Anglican vs. other Protestant sects, drove European settlement of North America as groups sought religious freedom
 
 > [!tip]
@@ -131,6 +131,6 @@ Increased global connections also sharpened religious conflicts:
 ## Connections
 
 - **Builds on:** [[Unit-4.4/Maritime Empires Link Regions Overview|Maritime Empires Link Regions Overview]] — empires now established, this topic explains how they governed and extracted wealth; [[Unit-4.3/Columbian Exchange Overview|Columbian Exchange Overview]] — silver, sugar, and new crops are the economic rationale
-- **Leads to:** **Independence movements** [[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview|Nationalism & Revolutions Overview]] — creole political frustration matures into revolution; **19th-century imperialism** [[Unit-6.2/State Expansion Overview|State Expansion Overview]] — colonial economic patterns persist
+- **Leads to:** **Independence movements** [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]] — creole political frustration matures into revolution; **19th-century imperialism** [[Unit-6.2/State Expansion Overview|State Expansion Overview]] — colonial economic patterns persist
 - **Compare with:** [[Unit-3.2/Empires: Administration Overview|Empires: Administration Overview]] — land-based vs. maritime colonial administration
 - See [[Unit-4.5/Connections|Connections]] for the full connections note

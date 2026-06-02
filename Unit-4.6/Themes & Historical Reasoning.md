@@ -80,8 +80,8 @@ Every revolt in 4.6 has a specific, exam-ready causal chain:
 Both represent religious fractures within broader religious traditions (Islam / Christianity). Both were used by political actors to justify wars and realignments of state power. Both led to prolonged conflict and eventual negotiated settlements (or ongoing tension).
 → [[Unit-3.3/Themes & Historical Reasoning|Themes & Historical Reasoning (3.3)]]
 
-**Mughal Hindu–Muslim tension (4.6) vs. Ottoman tolerance (3.1)**
+**Mughal Hindu–Muslim tension ([[Unit-4.6/Internal & External Challenges to State Power Overview|4.6]]) vs. Ottoman tolerance ([[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|3.1]])**
 The Mughals faced internal revolt from their Hindu majority partly because of the lack of the accommodating pluralism that helped the Ottomans manage diversity.
-→ [[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|Gunpowder Empires Overview (3.1)]]
+→ [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Gunpowder Empires Overview (3.1)]]
 
 **Later decolonization [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]]** represents a much later, 20th-century form of the same fundamental challenge: colonized peoples resisting state power and seeking [[Concept Notes/Self-Determination\|self-determination]].

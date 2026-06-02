@@ -75,4 +75,4 @@ The following are significant concepts from this topic that recur across multipl
 - [[Concept Notes/Neo-Confucianism|Neo-Confucianism]] — recurs in Topics 1.7, 2.5, 3.2
 - [[Concept Notes/Silk Roads|Silk Roads]] — central to [[Unit-2.1/Silk Roads Overview|Topic 2.1]]
 - [[Concept Notes/Tribute System|Tribute System]] — recurs in Topics 2.3, 3.1, 3.2
-- [[Concept Notes/Feudalism|Feudalism]] — compare Japan (1.1) and Europe (1.6)
+- [[Concept Notes/Feudalism|Feudalism]] — compare Japan ([[Unit-1.1/East Asia Overview|1.1]]) and Europe ([[Unit-1.6/Medieval Europe Overview|1.6]])

@@ -70,9 +70,9 @@ As factories churned out goods at unprecedented scale and speed, **[[Unit-5.7/Ke
 
 | Direction | Topic | Connection |
 |---|---|---|
-| Builds on | [[Unit-5.3/Industrial Revolution Begins Overview\|Industrial Revolution Begins Overview]] (5.3) | Corporations needed the factory system and capital accumulation that industrialization created |
-| Builds on | [[Unit-5.4/Industrialization Spreads Overview\|Industrialization Spreads Overview]] (5.4) | Spread of industry created demand for transnational finance and global supply chains |
-| Builds on | [[Unit-5.5/Technology in the Industrial Age Overview\|Technology in the Industrial Age Overview]] (5.5) | Technologies like the Bessemer process enabled monopoly-scale production |
+| Builds on | [[Unit-5.3/Industrial Revolution Begins Overview\|Industrial Revolution Begins Overview]] ([[Unit-5.3/Industrial Revolution Begins Overview\|5.3]]) | Corporations needed the factory system and capital accumulation that industrialization created |
+| Builds on | [[Unit-5.4/Industrialization Spreads Overview\|Industrialization Spreads Overview]] ([[Unit-5.4/Industrialization Spreads Overview\|5.4]]) | Spread of industry created demand for transnational finance and global supply chains |
+| Builds on | [[Unit-5.5/Technology in the Industrial Age Overview\|Technology in the Industrial Age Overview]] ([[Unit-5.5/Technology in the Industrial Age Overview\|5.5]]) | Technologies like the Bessemer process enabled monopoly-scale production |
 | Leads to | **Reactions to the Industrial Economy** [[Unit-5.8/Reactions to the Industrial Economy Overview\|Reactions to the Industrial Economy Overview]] | Monopolies and inequality → socialism, labor movements, Marxist critique |
 | Leads to | **Global Economic Development** [[Unit-6.4/Global Economic Development Overview\|Global Economic Development Overview]] | Industrial capitalism → global financial integration |
 | Leads to | **Economic Imperialism** [[Unit-6.5/Economic Imperialism Overview\|Economic Imperialism Overview]] | Transnational companies → formal and informal imperialism |

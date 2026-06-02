@@ -28,7 +28,7 @@ European imperialism met resistance everywhere it expanded. The irony of colonia
 
 ## Nationalist Movements in the Balkans
 
-The Ottoman Empire had once stretched deep into Europe, but by the early 19th century ethnic nationalism — inspired by the French Revolution — was fragmenting its European territories in the [[Concept Notes/Balkan nationalism|Balkan Peninsula]]. Serbia (1815) and Greece (1829) won independence after long wars. Bosnia, Montenegro, and Bulgaria all revolted. After the Russo-Turkish War (1877–1878), the Treaty of Berlin freed Bulgaria, Romania, and Montenegro, though Bosnia-Herzegovina passed to Austria-Hungary. The ethnic tensions this left unresolved would set the stage for World War I.
+The Ottoman Empire had once stretched deep into Europe, but by the early 19th century ethnic nationalism — inspired by the French Revolution — was fragmenting its European territories in the [[Concept Notes/Balkan Nationalism|Balkan Peninsula]]. Serbia (1815) and Greece (1829) won independence after long wars. Bosnia, Montenegro, and Bulgaria all revolted. After the Russo-Turkish War (1877–1878), the Treaty of Berlin freed Bulgaria, Romania, and Montenegro, though Bosnia-Herzegovina passed to Austria-Hungary. The ethnic tensions this left unresolved would set the stage for World War I.
 
 ---
 
@@ -49,7 +49,7 @@ India's **sepoys** — Indian soldiers in British [[Concept Notes/East India Com
 The Raj had an unintended consequence. By educating Indians at British universities, it created a class of nationalist leaders. In 1885 British-educated Indians founded the [[Concept Notes/Indian National Congress\|Indian National Congress]], initially as a forum for grievances, quickly as a vehicle for self-rule. The INC eventually led India to independence in 1947.
 
 > [!tip]
-> Compare the Haitian Revolution [[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview|Nationalism & Revolutions Overview]] with the Indian Rebellion of 1857: both challenged colonial rule, both drew on a sense of violated rights, and both produced very different outcomes — one produced independence, the other tightened imperial control.
+> Compare the Haitian Revolution [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]] with the Indian Rebellion of 1857: both challenged colonial rule, both drew on a sense of violated rights, and both produced very different outcomes — one produced independence, the other tightened imperial control.
 
 ---
 

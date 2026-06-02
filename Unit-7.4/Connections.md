@@ -28,7 +28,7 @@ The Great Depression exposed the vulnerabilities of the industrial capitalist sy
 Cárdenas's 1938 speech echoes the same critique of foreign economic exploitation that anticolonial movements made throughout Unit 6. The pattern of foreign corporations extracting resources while underpaying local labor and enjoying government-granted privileges connects directly to Unit 6's imperialism — PEMEX is an economic nationalist response to an imperial economic structure. Latin American economic nationalism anticipates decolonization-era nationalizations worldwide.
 
 **Unit 7.1 — Shifting Power After WWI**
-The political settlements of [[Unit-7.1/Shifting Power Overview|Topic 7.1]] (Versailles, new states, League of Nations) created the economic and political fragility that Topic 7.4's Depression then shattered. The weak [[Concept Notes/Weimar Republic\|Weimar Republic]] (born from 7.1) was the democracy that the Depression (7.4) destroyed.
+The political settlements of [[Unit-7.1/Shifting Power Overview|Topic 7.1]] (Versailles, new states, League of Nations) created the economic and political fragility that Topic 7.4's Depression then shattered. The weak [[Concept Notes/Weimar Republic\|Weimar Republic]] (born from 7.1) was the democracy that the Depression ([[Unit-7.4/Economy in the Interwar Period Overview|7.4]]) destroyed.
 
 ## Cross-Topic Concept Notes
 

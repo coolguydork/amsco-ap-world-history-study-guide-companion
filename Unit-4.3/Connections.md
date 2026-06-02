@@ -37,7 +37,7 @@ The demographic collapse of indigenous American populations (from Columbian Exch
 **[[Unit-2.6/Environmental Consequences Overview|Topic 2.6 — Black Death]]**
 Side-by-side comparison of epidemic consequences:
 
-| Feature | Black Death (2.6) | Columbian Exchange (4.3) |
+| Feature | Black Death ([[Unit-2.6/Environmental Consequences Overview\|2.6]]) | Columbian Exchange ([[Unit-4.3/Columbian Exchange Overview\|4.3]]) |
 |---|---|---|
 | Pathogen vector | Flea/rat (bubonic plague) | Direct respiratory/animal contact (smallpox, etc.) |
 | Mortality | ~30–50% of Europe | Up to 90% in some American regions |

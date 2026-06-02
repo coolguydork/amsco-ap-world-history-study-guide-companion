@@ -43,7 +43,7 @@ The Cold War's end (Berlin Wall falls 1989, Soviet dissolution 1991) is the culm
 NATO and the Warsaw Pact echoed the pre-WWI alliance system (Triple Entente vs. Triple Alliance) — interlocking defensive commitments that could pull great powers into conflicts started by smaller states. Key difference: nuclear deterrence prevented the escalation that WWI's alliances enabled.
 
 **[[Unit-7.6/Causes of World War II Overview\|WWII & Occupation of Germany]]**
-The division of Germany into occupation zones after WWII directly produced the Cold War division of Germany (8.3). The Berlin Blockade and Airlift emerged directly from WWII's settlement.
+The division of Germany into occupation zones after WWII directly produced the Cold War division of Germany ([[Unit-8.3/Effects of the Cold War Overview|8.3]]). The Berlin Blockade and Airlift emerged directly from WWII's settlement.
 
 **[[Unit-9.3/Technology & the Environment Overview|Topic 9.3 — Spread of Disease After 1900 / Globalization]]**
 The Cold War's proxy wars created long-term instability and humanitarian crises (Angola, Nicaragua) that connect to later topics on global inequality and political instability.
@@ -54,11 +54,11 @@ The Cold War's proxy wars created long-term instability and humanitarian crises 
 
 **[[Concept Notes/NATO\|NATO]]** — central to this topic; also relevant to post-Cold War expansion debates (Topic 9.x)
 
-**Containment** — the organizing US Cold War strategy; connects to Truman Doctrine (8.2), Vietnam (8.3), Reagan Doctrine (8.8)
+**Containment** — the organizing US Cold War strategy; connects to Truman Doctrine ([[Unit-8.2/Cold War Overview|8.2]]), Vietnam ([[Unit-8.3/Effects of the Cold War Overview|8.3]]), Reagan Doctrine ([[Unit-8.8/End of the Cold War Overview|8.8]])
 
-**Non-Aligned Movement** — connects to decolonization (8.5) and developing-world politics (Unit 9)
+**Non-Aligned Movement** — connects to decolonization ([[Unit-8.5/Decolonization after 1900 Overview|8.5]]) and developing-world politics (Unit 9)
 
-**Nuclear deterrence / Mutual Assured Destruction** — connects to arms control (8.3) and Cold War's end (8.8)
+**Nuclear deterrence / Mutual Assured Destruction** — connects to arms control ([[Unit-8.3/Effects of the Cold War Overview|8.3]]) and Cold War's end ([[Unit-8.8/End of the Cold War Overview|8.8]])
 
 > [!tip] LEQ Bridge
 > Topic 8.3 is excellent evidence for LEQ prompts about: (1) US foreign policy in the Cold War, (2) the impact of the Cold War on developing nations, (3) continuity and change in international conflict after WWII, (4) the relationship between decolonization and the Cold War.

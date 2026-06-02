@@ -50,7 +50,7 @@ AMSCO structures Topic 6.7 around causation, and the Think as a Historian exerci
 
 **Causation structure for the AP:**
 
-*Cause (6.6) → Effect (6.7):*
+*Cause ([[Unit-6.6/Causes of Migration in an Interconnected World Overview|6.6]]) → Effect ([[Unit-6.7/Effects of Migration Overview|6.7]]):*
 - Push factor (poverty, famine, coercion) → Chinese/Indian/Irish migration → ethnic enclaves + nativist backlash
 - Pull factor (gold rush, railroad construction, plantation labor demand) → migration → discrimination laws (Chinese Exclusion Act, White Australia Policy)
 - Indentured labor system → Indian diaspora in Africa/Caribbean/SE Asia → permanent demographic transformation

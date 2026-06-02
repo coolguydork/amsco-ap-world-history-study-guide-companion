@@ -14,7 +14,7 @@ tags: [apwh, unit-3, topic-3-2, period-2, governance, land-based-empires, econom
 ## Builds On (Prerequisites)
 
 **[[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Topic 3.1 — Empires Expand]]**
-The empires whose *administrative* methods are examined in 3.2 were *established* in 3.1. You can't administer an empire you haven't yet conquered. The gunpowder technology that enabled conquest (3.1) also gave rulers new tools for suppressing internal rivals (3.2 — oprichnina, sword hunts, professional armies). The same rulers appear in both topics, but the lens shifts from expansion to governance.
+The empires whose *administrative* methods are examined in 3.2 were *established* in 3.1. You can't administer an empire you haven't yet conquered. The gunpowder technology that enabled conquest ([[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|3.1]]) also gave rulers new tools for suppressing internal rivals (3.2 — oprichnina, sword hunts, professional armies). The same rulers appear in both topics, but the lens shifts from expansion to governance.
 
 **[[Unit-1.1/East Asia Overview|Topic 1.1 — Developments in East Asia]]**
 The Chinese civil service examination system, first developed under the Tang and perfected under the Song, is the direct ancestor of the Qing bureaucratic model in 3.2. Kangxi's ability to rule through Han Chinese officials using Confucian-style administration depended on this centuries-old tradition. See [[Concept Notes/Civil Service Examination|Civil Service Examination]].

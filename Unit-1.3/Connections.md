@@ -40,14 +40,14 @@ The prosperous Indian Ocean trade networks and the politically fragmented South 
 ### [[Unit-1.1/East Asia Overview|Topic 1.1 — East Asia]]
 [[Unit-1.1/East Asia Overview|East Asia Overview]] offers a direct contrast to Topic 1.3's South Asia on two key dimensions:
 
-| Dimension | South Asia (1.3) | East Asia (1.1) |
+| Dimension | South Asia ([[Unit-1.3/South & Southeast Asia Overview\|1.3]]) | East Asia ([[Unit-1.1/East Asia Overview\|1.1]]) |
 |---|---|---|
 | Political structure | Decentralized; competing kingdoms; no unified state | More centralized; Song/Tang dynasties; civil service exam |
 | Religion & state | Religion (Hinduism, Islam) shapes politics but no unified church-state | Neo-Confucianism as state ideology; Buddhism present but secondary |
 | Social mobility | Caste system rigid; conversion doesn't change status | Civil service exam enables (limited) meritocratic mobility |
 | Cultural spread | India spreads culture via trade into SE Asia | China spreads culture via tributary system into Korea, Japan, Vietnam |
 
-AMSCO explicitly directs you to compare the caste system (1.3) with China's social structures (1.1), and to compare Islam's spread in South Asia with Buddhism's spread in China.
+AMSCO explicitly directs you to compare the caste system ([[Unit-1.3/South & Southeast Asia Overview|1.3]]) with China's social structures ([[Unit-1.1/East Asia Overview|1.1]]), and to compare Islam's spread in South Asia with Buddhism's spread in China.
 
 ### [[Unit-1.2/Dar al-Islam Overview|Topic 1.2 — Dar al-Islam]]
 Dar al-Islam is not just a predecessor but also a **lateral comparison**. Dar al-Islam and South Asia were **competing spheres of influence** — both Muslim-ruled regions, both with significant non-Muslim populations, but with very different administrative histories (centralized caliphate vs. fragmented sultanate).

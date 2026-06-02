@@ -56,7 +56,7 @@ The **[[Concept Notes/Green Revolution\|Green Revolution]]** — developed by No
 > 9.1 is the causation foundation for all of Unit 9. When an AP prompt asks you to explain the causes of globalization, lead with technology — specifically, how communication, transportation, agricultural, and medical innovations together compressed distance and accelerated exchange in ways no prior era could match.
 
 > [!tip]
-> The oral contraceptive pill → declining fertility rates → demographic transition → aging wealthy-nation populations is a CCOT chain the AP loves. Connect birth control to women's rights movements (9.5) and to the contrast between aging developed-nation populations and still-growing developing-nation populations.
+> The oral contraceptive pill → declining fertility rates → demographic transition → aging wealthy-nation populations is a CCOT chain the AP loves. Connect birth control to women's rights movements ([[Unit-9.5/Calls for Reform & Responses Overview|9.5]]) and to the contrast between aging developed-nation populations and still-growing developing-nation populations.
 
 → [[Unit-9.1/Advances in Technology & Exchange Overview\|Advances in Technology & Exchange Overview]]
 
