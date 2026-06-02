@@ -31,7 +31,7 @@ The UDHR established for the first time that human rights were an **internationa
 
 **Cross-topic connections:**
 - [[Unit-9.5/Calls for Reform & Responses Overview\|Topic 9.5]] — core document of the human rights era; Eleanor Roosevelt
-- [[Unit-9.8/Global Institutions Overview\|Topic 9.8]] — UN institutional framework
-- [[Unit-7.8/World War II Overview\|Topic 7.8]] — Holocaust as direct cause; Nuremberg Trials as precursor
+- [[Unit-9.8/Institutions Developing in a Globalized World Overview\|Topic 9.8]] — UN institutional framework
+- [[Unit-7.8/Mass Atrocities Overview\|Topic 7.8]] — Holocaust as direct cause; Nuremberg Trials as precursor
 - [[Concept Notes/United Nations\|United Nations]] — parent institution
 - [[Concept Notes/Human Rights\|Human Rights]] — broader concept this document defines

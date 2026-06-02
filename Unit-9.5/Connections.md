@@ -35,7 +35,7 @@ The World Fair Trade Organization (1989) was explicitly founded as a counterweig
 **[[Unit-9.7/Resistance to Globalization Overview\|Resistance to Globalization]]**
 The human rights framework established in 9.5 becomes the basis for resistance to globalization's inequities — including labor rights violations in global supply chains, environmental degradation, and cultural homogenization.
 
-**[[Unit-9.8/Global Institutions Overview\|Global Institutions]]**
+**[[Unit-9.8/Institutions Developing in a Globalized World Overview\|Global Institutions]]**
 The UN institutions created in 9.5 (UNICEF, ICJ, UDHR) are central to 9.8's discussion of international organizations managing global challenges. The ICC (2002) extends the international accountability framework.
 
 ---

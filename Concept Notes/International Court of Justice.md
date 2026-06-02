@@ -25,6 +25,6 @@ The ICJ is the principal judicial organ of the [[Concept Notes/United Nations\|U
 
 **Cross-topic connections:**
 - [[Unit-9.5/Calls for Reform & Responses Overview\|Topic 9.5]] — UN human rights framework
-- [[Unit-9.8/Global Institutions Overview\|Topic 9.8]] — international institutions managing global challenges
+- [[Unit-9.8/Institutions Developing in a Globalized World Overview\|Topic 9.8]] — international institutions managing global challenges
 - [[Concept Notes/United Nations\|United Nations]] — parent institution
 - [[Concept Notes/International Criminal Court\|International Criminal Court]] — parallel institution for individual criminal accountability
