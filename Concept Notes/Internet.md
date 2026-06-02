@@ -24,9 +24,9 @@ The internet's precursor, ARPANET, was funded by the U.S. Defense Department dur
 
 ## AP Significance
 
-**Economic globalization:** The internet enabled e-commerce, digital financial markets, and remote work, making economic activity genuinely global. Combined with shipping containers (Topic 9.1), it underpinned the rise of global supply chains and knowledge economies.
+**Economic globalization:** The internet enabled e-commerce, digital financial markets, and remote work, making economic activity genuinely global. Combined with shipping containers ([[Unit-9.1/Advances in Technology & Exchange Overview\|Advances in Technology & Exchange Overview]] (pp. 633–640)), it underpinned the rise of global supply chains and knowledge economies.
 
-**Cultural diffusion (CDI):** Social media platforms (Facebook, Twitter, YouTube) allowed music, film, fashion, and ideas to cross borders instantaneously. This accelerated both cultural homogenization (American popular culture spreading globally) and resistance (Topic 9.7).
+**Cultural diffusion (CDI):** Social media platforms (Facebook, Twitter, YouTube) allowed music, film, fashion, and ideas to cross borders instantaneously. This accelerated both cultural homogenization (American popular culture spreading globally) and resistance ([[Unit-9.7/Resistance to Globalization Overview\|Resistance to Globalization Overview]] (pp. 688–695)).
 
 **Political change:** Social media enabled new forms of political mobilization. The Arab Spring (2010s) saw protesters in Tunisia, Egypt, and Libya coordinate and amplify demonstrations via social media, demonstrating the internet's capacity to challenge authoritarian governments.
 
@@ -34,8 +34,8 @@ The internet's precursor, ARPANET, was funded by the U.S. Defense Department dur
 
 ## Cross-Topic Connections
 
-- **Topic 9.1** — Introduced as part of the communication/transportation revolution after 1900
-- **Topic 9.4** — Underpins the knowledge economy and global economic integration
-- **Topic 9.6** — Primary mechanism of cultural globalization
-- **Topic 9.7** — Target of resistance from those who fear cultural homogenization or political destabilization
-- **Topic 8.2** (Cold War origins) — ARPANET as Cold War military investment producing civilian spin-off
+- **[[Unit-9.1/Advances in Technology & Exchange Overview\|Advances in Technology & Exchange Overview]] (pp. 633–640)** — Introduced as part of the communication/transportation revolution after 1900
+- **[[Unit-9.4/Economics in the Global Age Overview\|Economics in the Global Age Overview]] (pp. 657–666)** — Underpins the knowledge economy and global economic integration
+- **[[Unit-9.6/Globalized Culture Overview\|Globalized Culture Overview]] (pp. 679–687)** — Primary mechanism of cultural globalization
+- **[[Unit-9.7/Resistance to Globalization Overview\|Resistance to Globalization Overview]] (pp. 688–695)** — Target of resistance from those who fear cultural homogenization or political destabilization
+- **[[Unit-8.2/Cold War Overview\|Cold War Overview]] (pp. 554–561)** (Cold War origins) — ARPANET as Cold War military investment producing civilian spin-off

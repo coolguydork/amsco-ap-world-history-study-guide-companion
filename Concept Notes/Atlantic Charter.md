@@ -32,8 +32,8 @@ The Atlantic Charter is significant for several reasons. First, it signaled U.S.
 
 ## Cross-Topic Connections
 
-- [[Unit-7.7/Conducting World War II Overview\|Conducting World War II Overview]] — Atlantic Charter issued during WWII conduct
-- [[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]] — preceded U.S. entry into the war
+- [[Unit-7.7/Conducting World War II Overview\|Conducting World War II Overview]] (pp. 511–520) — Atlantic Charter issued during WWII conduct
+- [[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]] (pp. 503–510) — preceded U.S. entry into the war
 - Decolonization movements (Unit 8) — self-determination clause used by independence leaders
 
 > [!exam-tip]

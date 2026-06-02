@@ -62,9 +62,9 @@ Bhakti's inclusive spirit often produced religious blending. Figures like Kabir 
 
 ## Key Connections Across Topics
 
-**Topic 1.3 — South & Southeast Asia:** Bhakti originated in and primarily shaped South Asia during this period. See [[Unit-1.3/Key Terms & Concepts|Key Terms & Concepts — Topic 1.3]] and [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]].
+**[[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] (pp. 23–32) — South & Southeast Asia:** Bhakti originated in and primarily shaped South Asia during this period. See [[Unit-1.3/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.3]] and [[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] (pp. 23–32).
 
-**Topic 1.7 — Comparison:** Bhakti vs. Sufism is the signature cross-regional comparison for Unit 1. See [[Unit-1.7/Themes & Historical Reasoning|Themes & Historical Reasoning — Topic 1.7]].
+**[[Unit-1.7/Comparison Overview\|Comparison Overview]] (pp. 65–73) — Comparison:** Bhakti vs. Sufism is the signature cross-regional comparison for Unit 1. See [[Unit-1.7/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.7]].
 
 **Related concepts:** [[Concept Notes/Sufism|Sufism]] (the parallel Islamic mystical movement); [[Concept Notes/Syncretism|Syncretism]] (blending of traditions that Bhakti helped produce).
 
@@ -77,7 +77,7 @@ Bhakti's inclusive spirit often produced religious blending. Figures like Kabir 
 
 ## Referenced By
 
-- [[Unit-1.3/Key Terms & Concepts|Key Terms & Concepts — Topic 1.3]]
-- [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]]
-- [[Unit-1.7/Comparison Overview|Comparison Overview — Topic 1.7]]
-- [[Unit-1.7/Themes & Historical Reasoning|Themes & Historical Reasoning — Topic 1.7]]
+- [[Unit-1.3/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.3]]
+- [[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] (pp. 23–32)
+- [[Unit-1.7/Comparison Overview\|Comparison Overview — Topic 1.7]] (pp. 65–73)
+- [[Unit-1.7/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.7]]

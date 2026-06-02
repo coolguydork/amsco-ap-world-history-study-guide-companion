@@ -44,7 +44,7 @@ The Crusades were not caused by religious zeal alone. AP students should know al
 
 **Third Crusade (1189–1192):** Launched after **Saladin** (Kurdish Muslim sultan) recaptured Jerusalem (1187). Led by Richard I of England ("the Lionheart") and Philip II of France. Failed to retake Jerusalem; negotiated limited Christian access to holy sites. Saladin's chivalric reputation impressed Europeans — a notable cross-cultural moment.
 
-**Fourth Crusade (1202–1204):** Never reached the Holy Land. Venetian financial interests and political maneuvering redirected it to **sack Constantinople** (1204) — the capital of the Christian Byzantine Empire. This disaster deepened the **Great Schism** between Catholic and Orthodox Christianity. See [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]]. (AMSCO p. 58, date range 1202–1204)
+**Fourth Crusade (1202–1204):** Never reached the Holy Land. Venetian financial interests and political maneuvering redirected it to **sack Constantinople** (1204) — the capital of the Christian Byzantine Empire. This disaster deepened the **Great Schism** between Catholic and Orthodox Christianity. See [[Unit-1.6/Medieval Europe Overview\|Medieval Europe Overview]] (pp. 53–64). (AMSCO p. 58, date range 1202–1204)
 
 **Later Crusades:** Diminishing returns; the Crusader states eventually collapsed with the fall of Acre (1291).
 
@@ -74,11 +74,11 @@ The Crusades were not caused by religious zeal alone. AP students should know al
 
 ## Key Connections Across Topics
 
-**Topic 1.2 — Dar al-Islam:** The Crusades appear from the Islamic side — as one of several threats the Abbasid world faced alongside Seljuk Turks, Mamluks, and Mongols. The Seljuks' restriction of Christian pilgrimage triggered the First Crusade. See [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]].
+**[[Unit-1.2/Dar al-Islam Overview\|Dar al-Islam Overview]] (pp. 15–22) — Dar al-Islam:** The Crusades appear from the Islamic side — as one of several threats the Abbasid world faced alongside Seljuk Turks, Mamluks, and Mongols. The Seljuks' restriction of Christian pilgrimage triggered the First Crusade. See [[Unit-1.2/Dar al-Islam Overview\|Dar al-Islam Overview]] (pp. 15–22).
 
-**Topic 1.6 — Medieval Europe:** The Crusades are central to European medieval history — papal authority, feudal society, the Great Schism, and eventual trade expansion. See [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]] and [[Unit-1.6/Themes & Historical Reasoning|Themes & Historical Reasoning — Topic 1.6]].
+**[[Unit-1.6/Medieval Europe Overview\|Medieval Europe Overview]] (pp. 53–64) — Medieval Europe:** The Crusades are central to European medieval history — papal authority, feudal society, the Great Schism, and eventual trade expansion. See [[Unit-1.6/Medieval Europe Overview\|Medieval Europe Overview]] (pp. 53–64) and [[Unit-1.6/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.6]].
 
-**Topic 1.7 — Comparison:** The Crusades are an example of religious conflict between civilizations — contrast with the more syncretic interactions in South and Southeast Asia.
+**[[Unit-1.7/Comparison Overview\|Comparison Overview]] (pp. 65–73) — Comparison:** The Crusades are an example of religious conflict between civilizations — contrast with the more syncretic interactions in South and Southeast Asia.
 
 **Related concepts:** [[Concept Notes/Feudalism|Feudalism]] (the social system that produced Crusader knights); [[Concept Notes/Syncretism|Syncretism]] (contrast — the Crusades represent religious conflict rather than blending).
 
@@ -91,8 +91,8 @@ The Crusades were not caused by religious zeal alone. AP students should know al
 
 ## Referenced By
 
-- [[Unit-1.2/Key Terms & Concepts|Key Terms & Concepts — Topic 1.2]]
-- [[Unit-1.2/Connections|Connections — Topic 1.2]]
-- [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]]
-- [[Unit-1.6/Key Terms & Concepts|Key Terms & Concepts — Topic 1.6]]
-- [[Unit-1.7/Themes & Historical Reasoning|Themes & Historical Reasoning — Topic 1.7]]
+- [[Unit-1.2/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.2]]
+- [[Unit-1.2/Connections\|Connections — Topic 1.2]]
+- [[Unit-1.6/Medieval Europe Overview\|Medieval Europe Overview]] (pp. 53–64)
+- [[Unit-1.6/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.6]]
+- [[Unit-1.7/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.7]]

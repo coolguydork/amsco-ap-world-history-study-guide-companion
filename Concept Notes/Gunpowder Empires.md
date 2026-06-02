@@ -47,7 +47,7 @@ Founded by Shah Ismail I in 1501; distinguished by its **official Shia Islam** i
 
 ## The Mughal Empire
 
-Founded by Babur in 1526; peaked under Akbar (1556–1605), who governed a predominantly Hindu population with remarkable tolerance — abolishing the **jizya** (non-Muslim tax), appointing Hindus to high office, and attempting the syncretic **Din-i-Ilahi** religion. His great-grandson Aurangzeb reversed this: reimposing the jizya, destroying Hindu temples, and military overextension — triggering the Maratha challenge (Topic 4.6) and beginning Mughal decline. *(AMSCO p. 149)*
+Founded by Babur in 1526; peaked under Akbar (1556–1605), who governed a predominantly Hindu population with remarkable tolerance — abolishing the **jizya** (non-Muslim tax), appointing Hindus to high office, and attempting the syncretic **Din-i-Ilahi** religion. His great-grandson Aurangzeb reversed this: reimposing the jizya, destroying Hindu temples, and military overextension — triggering the Maratha challenge ([[Unit-4.6/Internal & External Challenges to State Power Overview\|Internal & External Challenges to State Power Overview]] (pp. 243–250)) and beginning Mughal decline. *(AMSCO p. 149)*
 
 ## Shared Decline Pattern
 
@@ -60,7 +60,7 @@ All three Gunpowder Empires followed a similar arc:
 6. External pressure and internal rebellion accelerate decline
 
 > [!tip]
-> For any AP comparison question about land-based empires: **Ottoman devshirme** (administrative loyalty through conscription), **Mughal mansabdari** (rank-based land grants for service), and **Russian tsar/boyar tension** are the three most important administrative comparison points. All three appear in Topic 3.2.
+> For any AP comparison question about land-based empires: **Ottoman devshirme** (administrative loyalty through conscription), **Mughal mansabdari** (rank-based land grants for service), and **Russian tsar/boyar tension** are the three most important administrative comparison points. All three appear in [[Unit-3.2/Empires: Administration Overview\|Empires: Administration Overview]] (pp. 155–166).
 
 ## AP Exam Threads
 

@@ -28,13 +28,13 @@ Doctors Without Borders (MSF) is an international humanitarian medical organizat
 
 MSF represents the post-1945 proliferation of **non-governmental organizations (NGOs)** as major actors in global humanitarian response — one of the defining features of Period 4 globalization. Where states and intergovernmental organizations cannot or will not act, NGOs like MSF fill critical gaps.
 
-In the context of **Topic 9.2 (Disease)**, MSF treated approximately 1.7 million malaria patients annually in the early 21st century and provided frontline medical care during Ebola outbreaks in West and Central Africa. MSF is the primary example of an NGO operating in global public health.
+In the context of **[[Unit-9.2/Technological Advancements & Limitations — Disease Overview\|Technological Advancements & Limitations — Disease Overview]] (pp. 641–648)**, MSF treated approximately 1.7 million malaria patients annually in the early 21st century and provided frontline medical care during Ebola outbreaks in West and Central Africa. MSF is the primary example of an NGO operating in global public health.
 
 ---
 
 ## Cross-Topic Appearances
 
-- **[[Unit-9.2/Technological Advancements & Limitations — Disease Overview\|Topic 9.2]]** — Malaria treatment (1.7 million patients/year); Ebola response
+- **[[Unit-9.2/Technological Advancements & Limitations — Disease Overview\|Technological Advancements & Limitations — Disease Overview]] (pp. 641–648)** — Malaria treatment (1.7 million patients/year); Ebola response
 - Related to discussions of **international organizations** in Unit 8–9: alongside the WHO and UNICEF, MSF represents the non-state tier of global health governance
 
 ---

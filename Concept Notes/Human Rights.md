@@ -20,19 +20,19 @@ The idea that every person possesses inherent rights by virtue of being human �
 
 ## Key Connections by Topic
 
-**Topic 7.8 — World War II and the Holocaust**
+**[[Unit-7.8/Mass Atrocities Overview\|Mass Atrocities Overview]] (pp. 521–530) — World War II and the Holocaust**
 The systematic genocide of Jews and other groups by Nazi Germany provided the direct impetus for the postwar human rights framework. The Nuremberg Trials established that "following orders" was not a legal defense for crimes against humanity — a foundational principle of international human rights law. See [[Concept Notes/Holocaust\|Holocaust]] and [[Concept Notes/Genocide\|Genocide]].
 
-**Topic 8.6 — Decolonization**
+**[[Unit-8.6/Newly Independent States Overview\|Newly Independent States Overview]] (pp. 589–597) — Decolonization**
 Anti-colonial movements deployed human rights language to argue that self-determination and freedom from imperial rule were universal rights, not privileges granted by colonial powers. The Universal Declaration of Human Rights (1948) was weaponized both by colonized peoples demanding independence and by Western powers claiming to defend freedom against communism.
 
-**Topic 9.5 — Calls for Reform**
+**[[Unit-9.5/Calls for Reform & Responses Overview\|Calls for Reform & Responses Overview]] (pp. 667–678) — Calls for Reform**
 Human rights frameworks drove the Civil Rights Movement in the United States, the anti-apartheid movement in South Africa (where the African National Congress appealed to international human rights norms to isolate South Africa as a pariah state), and advocacy for dalits in India. Human Rights Watch and Amnesty International emerged as nongovernmental watchdogs.
 
-**Topic 9.7 — Resistance to Globalization**
+**[[Unit-9.7/Resistance to Globalization Overview\|Resistance to Globalization Overview]] (pp. 688–695) — Resistance to Globalization**
 Critics of economic globalization framed labor exploitation in maquiladoras and sweatshops as human rights violations. NGOs like Greenpeace and fair-trade organizations extended the human rights frame to workers' rights and environmental justice.
 
-**Topic 9.8 — Global Institutions**
+**[[Unit-9.8/Institutions Developing in a Globalized World Overview\|Institutions Developing in a Globalized World Overview]] (pp. 696–706) — Global Institutions**
 The [[Concept Notes/United Nations\|United Nations]] institutionalized human rights through the Universal Declaration (1948), the Human Rights Council, and bodies like UNICEF and the World Food Program. The International Court of Justice and International Criminal Court prosecute human rights violators. **Human Rights Watch** monitors compliance globally.
 
 ---

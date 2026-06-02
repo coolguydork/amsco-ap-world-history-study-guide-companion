@@ -21,11 +21,11 @@ Sufism is the mystical branch of Islam. Sufis emphasize **inner spiritual experi
 
 ## Key Connections Across Topics
 
-**Topic 1.2 — Dar al-Islam:** Sufism originated within the Islamic heartland and is a defining feature of the Dar al-Islam's cultural and intellectual richness. Sufi orders maintained lodges (*khanqahs*) across the Islamic world that served as centers of learning and community.
+**[[Unit-1.2/Dar al-Islam Overview\|Dar al-Islam Overview]] (pp. 15–22) — Dar al-Islam:** Sufism originated within the Islamic heartland and is a defining feature of the Dar al-Islam's cultural and intellectual richness. Sufi orders maintained lodges (*khanqahs*) across the Islamic world that served as centers of learning and community.
 
-**Topic 1.3 — South & Southeast Asia:** Sufis were the primary vectors of peaceful Islamic expansion in both South Asia (alongside the more coercive Delhi Sultanate) and Southeast Asia. In Southeast Asia, Sufi tolerance of local customs allowed converts to blend Islam with pre-existing Hindu-Buddhist practices. The parallel between **Bhakti Hinduism** and Sufism — both mystical, both inclusive — is a key AP comparison point. See [[Unit-1.3/Key Terms & Concepts|Key Terms & Concepts — Topic 1.3]].
+**[[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] (pp. 23–32) — South & Southeast Asia:** Sufis were the primary vectors of peaceful Islamic expansion in both South Asia (alongside the more coercive Delhi Sultanate) and Southeast Asia. In Southeast Asia, Sufi tolerance of local customs allowed converts to blend Islam with pre-existing Hindu-Buddhist practices. The parallel between **Bhakti Hinduism** and Sufism — both mystical, both inclusive — is a key AP comparison point. See [[Unit-1.3/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.3]].
 
-**Topic 2.3 — Indian Ocean Trade:** Sufi missionaries often traveled the same trade routes as Muslim merchants, making the Indian Ocean network a vehicle for both commerce and Islamic religious diffusion.
+**[[Unit-2.3/Indian Ocean Overview\|Indian Ocean Overview]] (pp. 95–102) — Indian Ocean Trade:** Sufi missionaries often traveled the same trade routes as Muslim merchants, making the Indian Ocean network a vehicle for both commerce and Islamic religious diffusion.
 
 ## AP Exam Relevance
 
@@ -36,12 +36,12 @@ Sufism is a recurring AP World History concept. Expect it to appear in:
 
 ## Referenced By
 
-- [[Unit-1.2/Key Terms & Concepts|Key Terms & Concepts — Topic 1.2]]
+- [[Unit-1.2/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.2]]
 - [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]]
-- [[Unit-1.3/Key Terms & Concepts|Key Terms & Concepts — Topic 1.3]]
-- [[Unit-1.3/People, States & Movements|People, States & Movements — Topic 1.3]]
+- [[Unit-1.3/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.3]]
+- [[Unit-1.3/People, States & Movements\|People, States & Movements — Topic 1.3]]
 
 ## AMSCO Page References
 
-- Topic 1.2 (Dar al-Islam) — Sufism as Islamic mystical movement
-- Topic 1.3, printed pp. 27, 29 — Bhakti-Sufi parallels; Sufis in Southeast Asia
+- [[Unit-1.2/Dar al-Islam Overview\|Dar al-Islam Overview]] (pp. 15–22) — Sufism as Islamic mystical movement
+- [[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] (pp. 23–32) (printed pp. 27, 29) — Bhakti-Sufi parallels; Sufis in Southeast Asia

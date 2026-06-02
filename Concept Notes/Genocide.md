@@ -35,7 +35,7 @@ All AP case studies share: (1) war or political crisis, (2) state organization, 
 
 ## AP Connections
 
-- **[[Unit-7.8/Mass Atrocities Overview\|Mass Atrocities Overview]]** — Primary AMSCO coverage of genocide
+- **[[Unit-7.8/Mass Atrocities Overview\|Mass Atrocities Overview]] (pp. 521–530)** — Primary AMSCO coverage of genocide
 - **[[Concept Notes/Holocaust\|Holocaust]]** — Paradigmatic genocide; generated the legal framework
 - **[[Concept Notes/International Criminal Court\|International Criminal Court]]** — Primary enforcement mechanism for genocide today
 

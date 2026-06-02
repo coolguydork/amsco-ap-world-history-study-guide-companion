@@ -24,7 +24,7 @@ tags: [apwh, concept-note, wwi, culture, lost-generation, literature]
 
 ## AP Appearances
 
-**Topic 7.3 — Conducting World War I**
+**[[Unit-7.3/Conducting World War I Overview\|Conducting World War I Overview]] (pp. 469–479) — Conducting World War I**
 AMSCO references the novel to illustrate the soldier's experience of trench warfare (p. 470). The novel is evidence for the SIO theme: how total war shattered the idealistic nationalism that had sent young men to enlist in 1914.
 
 ## Exam Angle

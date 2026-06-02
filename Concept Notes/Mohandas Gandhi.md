@@ -18,8 +18,8 @@ Mohandas Karamchand Gandhi (1869–1948): Indian lawyer, activist, and leader of
 
 ## Where He Appears
 
-- **Topic 6.3 (Indigenous Responses to State Expansion)** — Gandhi's South Africa years (1893–1914): fought racial discrimination as a lawyer; founded the Natal Indian Congress; first developed satyagraha as a method
-- **[[Unit-7.5/Unresolved Tensions After World War I Overview\|Topic 7.5]]** — India independence movement: leads Indian National Congress as a mass movement; Amritsar Massacre (1919) radicalizes India; Salt March (1930); opposed partition with Pakistan
+- **[[Unit-6.3/Indigenous Responses to State Expansion Overview\|Indigenous Responses to State Expansion Overview]] (pp. 388–397)** — Gandhi's South Africa years (1893–1914): fought racial discrimination as a lawyer; founded the Natal Indian Congress; first developed satyagraha as a method
+- **[[Unit-7.5/Unresolved Tensions After World War I Overview\|Unresolved Tensions After World War I Overview]] (pp. 493–502)** — India independence movement: leads Indian National Congress as a mass movement; Amritsar Massacre (1919) radicalizes India; Salt March (1930); opposed partition with Pakistan
 
 ## Core Concepts
 

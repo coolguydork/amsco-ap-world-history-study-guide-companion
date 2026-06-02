@@ -23,6 +23,6 @@ Worker associations that used collective action — strikes, collective bargaini
 **Limitation:** Union membership was largely restricted to male workers throughout this period; women's labor, though essential to industrial production, was often excluded from union organizing.
 
 **Appears in:**
-- [[Unit-5.8/Reactions to the Industrial Economy Overview\|Reactions to the Industrial Economy Overview]] (Topic 5.8) — origins and methods
-- [[Unit-5.9/Society & the Industrial Age Overview\|Society & the Industrial Age Overview]] (Topic 5.9) — social impact
-- [[Unit-5.10/Continuity & Change Overview\|Continuity & Change Overview]] (Topic 5.10) — as evidence of change
+- [[Unit-5.8/Reactions to the Industrial Economy Overview\|Reactions to the Industrial Economy Overview]] (pp. 332–342)  — origins and methods
+- [[Unit-5.9/Society & the Industrial Age Overview\|Society & the Industrial Age Overview]] (pp. 343–350)  — social impact
+- [[Unit-5.10/Continuity & Change Overview\|Continuity & Change Overview]] (pp. 351–363)  — as evidence of change

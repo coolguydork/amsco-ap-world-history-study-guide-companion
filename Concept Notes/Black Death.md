@@ -79,7 +79,7 @@ Population collapse across Eurasia took over a century to recover in many region
 > [!exam-tip]
 > The Black Death appears most often in these exam contexts:
 > 1. **Cause & Effect** — Mongol connectivity as the cause; demographic collapse and feudal decline as effects.
-> 2. **Comparison** — Black Death vs. **Columbian Exchange** (Topic 4.3): both involve disease spread through newly connected networks; both caused massive demographic collapse; both accelerated political and economic change.
+> 2. **Comparison** — Black Death vs. **Columbian Exchange** ([[Unit-4.3/Columbian Exchange Overview\|Columbian Exchange Overview]] (pp. 209–217)): both involve disease spread through newly connected networks; both caused massive demographic collapse; both accelerated political and economic change.
 > 3. **Continuity & Change** — What changed (labor relations, Church authority, population) vs. what continued (trade routes still operated, religious practice continued, agricultural systems rebuilt).
 > 4. **Causation** — The plague is a strong supporting piece of evidence for any argument about *why* feudalism declined or *why* the Church's authority weakened before the Reformation.
 
@@ -98,4 +98,4 @@ Population collapse across Eurasia took over a century to recover in many region
 - [[Unit-2.5/Cultural Consequences Overview|Cultural Consequences Overview]] — Plague's effect on Constantinople and European intellectual life
 - [[Unit-2.6/Environmental Consequences Overview|Environmental Consequences Overview]] — **Primary source note** for the Black Death; full narrative on pp. 121–123
 - [[Unit-4.3/Columbian Exchange Overview|Columbian Exchange Overview]] — Compare: disease exchange on a hemispheric scale in the 1490s–1600s
-- **Protestant Reformation** (Topic 3.3) — Church authority undermined partly by its failure during the Black Death
+- **Protestant Reformation** ([[Unit-3.3/Empires: Belief Systems Overview\|Empires: Belief Systems Overview]] (pp. 167–176)) — Church authority undermined partly by its failure during the Black Death

@@ -29,7 +29,7 @@ The movement also had a deeper social mission: it demonstrated to rural women th
 4. **CDI** — African women redefining their cultural role
 
 **Cross-topic connections:**
-- [[Unit-9.5/Calls for Reform & Responses Overview\|Topic 9.5]] — environmental and social reform
-- [[Unit-9.3/Technology & the Environment Overview\|Topic 9.3]] — environmental degradation and activism
-- [[Unit-8.5/Decolonization after 1900 Overview\|Topic 8.5]] — colonial ecological legacy in Africa
+- [[Unit-9.5/Calls for Reform & Responses Overview\|Calls for Reform & Responses Overview]] (pp. 667–678) — environmental and social reform
+- [[Unit-9.3/Technology & the Environment Overview\|Technology & the Environment Overview]] (pp. 649–656) — environmental degradation and activism
+- [[Unit-8.5/Decolonization after 1900 Overview\|Decolonization after 1900 Overview]] (pp. 579–588) — colonial ecological legacy in Africa
 - [[Concept Notes/Human Rights\|Human Rights]] — environmental rights as human rights

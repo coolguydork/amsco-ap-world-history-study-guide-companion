@@ -40,7 +40,7 @@ The Great Andean Rebellion is the AP's **primary example of indigenous resistanc
 
 ## Cross-Topic Connections
 
-- **[[Unit-5.2/Nationalism & Revolutions Overview\|Nationalism & Revolutions Overview]]** — Primary context: Andean rebellion as a precursor to Latin American independence movements
+- **[[Unit-5.2/Nationalism & Revolutions Overview\|Nationalism & Revolutions Overview]] (pp. 285–296)** — Primary context: Andean rebellion as a precursor to Latin American independence movements
 - **[[Unit-5.2/People, States & Movements\|People, States & Movements — Topic 5.2]]** — Túpac Amaru II as a key figure in the Age of Revolutions
-- **[[Unit-5.1/Enlightenment Overview\|Enlightenment Overview]]** — Bourbon Reforms as an example of Enlightened Despotism; how Enlightenment ideas of natural rights filtered into colonial grievances
+- **[[Unit-5.1/Enlightenment Overview\|Enlightenment Overview]] (pp. 275–284)** — Bourbon Reforms as an example of Enlightened Despotism; how Enlightenment ideas of natural rights filtered into colonial grievances
 - **[[Concept Notes/Encomienda\|Encomienda]]** — The colonial labor system that preceded and paralleled the mita system the rebellion targeted

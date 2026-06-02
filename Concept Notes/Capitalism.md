@@ -23,6 +23,6 @@ An economic system in which private individuals or companies own the means of pr
 **Critiques:** Karl Marx and Friedrich Engels (*The Communist Manifesto*, 1848) argued that capitalism structurally exploited the proletariat, concentrating wealth in the hands of the bourgeoisie. Their analysis inspired socialism, labor unions, and 20th-century communist revolutions.
 
 **Appears in:**
-- [[Unit-5.7/Economic Developments & Innovations Overview\|Economic Developments & Innovations Overview]] (Topic 5.7) — origins and innovations
-- [[Unit-5.8/Reactions to the Industrial Economy Overview\|Reactions to the Industrial Economy Overview]] (Topic 5.8) — Marxist critique
-- [[Unit-5.10/Continuity & Change Overview\|Continuity & Change Overview]] (Topic 5.10) — synthesis framework
+- [[Unit-5.7/Economic Developments & Innovations Overview\|Economic Developments & Innovations Overview]] (pp. 325–331) — origins and innovations
+- [[Unit-5.8/Reactions to the Industrial Economy Overview\|Reactions to the Industrial Economy Overview]] (pp. 332–342) — Marxist critique
+- [[Unit-5.10/Continuity & Change Overview\|Continuity & Change Overview]] (pp. 351–363) — synthesis framework

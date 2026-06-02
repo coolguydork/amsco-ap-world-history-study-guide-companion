@@ -37,13 +37,13 @@ The tribute system appears across multiple AP units as evidence of Chinese polit
 
 ---
 
-## Topic 1.1 Connection — Song Dynasty Origins (AMSCO pp. 6)
+## [[Unit-1.1/East Asia Overview\|East Asia Overview]] (pp. 3–14) — Song Dynasty Origins (AMSCO pp. 6)
 
 The tribute system's origins lie in the Han Dynasty, but by the Song era it was fully systematized. Japan, Korea, and kingdoms throughout Southeast Asia were tributary states. The Chinese emperor expected the kowtow from visiting representatives. The Song also sent out massive fleets (later expanded under the Ming with Zheng He's voyages) to demonstrate imperial power and collect tribute.
 
 The system cemented China's **economic and political dominance** in East Asia while creating stability and stimulating trade for all parties involved.
 
-→ Full context: [[Unit-1.1/East Asia Overview|Topic 1.1 — East Asia Overview]]
+→ Full context: [[Unit-1.1/East Asia Overview\|East Asia Overview]] (pp. 3–14)
 
 ---
 
@@ -51,11 +51,9 @@ The system cemented China's **economic and political dominance** in East Asia wh
 
 | Topic | Connection |
 |-------|-----------|
-| **2.3** | Zheng He's Indian Ocean voyages extended the tributary system into maritime Southeast Asia and East Africa |
-| **3.1** | Ming Dynasty as gunpowder empire: tribute system in the early modern period |
-| **3.2** | Comparison with Ottoman devshirme and other imperial administrative tools |
-
-*This note will be expanded when Topics 2.3 and 3.1 are added to the vault.*
+| **[[Unit-2.3/Indian Ocean Overview\|Indian Ocean Overview]] (pp. 95–102)** | Zheng He's Indian Ocean voyages extended the tributary system into maritime Southeast Asia and East Africa |
+| **[[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview\|European, East Asian & Gunpowder Empires Expand Overview]] (pp. 143–154)** | Ming Dynasty as gunpowder empire: tribute system in the early modern period |
+| **[[Unit-3.2/Empires: Administration Overview\|Empires: Administration Overview]] (pp. 155–166)** | Comparison with Ottoman devshirme and other imperial administrative tools |
 
 ---
 

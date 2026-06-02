@@ -54,6 +54,6 @@ Authoritarian ultranationalist ideology that rejects both liberal democracy and 
 
 ## AP Connections
 
-- **[[Unit-7.4/Economy in the Interwar Period Overview\|Topic 7.4]]** — Depression enables fascist rise; Spanish Civil War; corporatism
-- **Topic 7.5** — Fascist states' racial policies; Holocaust context
-- **Topic 7.6** — Fascist aggression causes WWII
+- **[[Unit-7.4/Economy in the Interwar Period Overview\|Economy in the Interwar Period Overview]]** — Depression enables fascist rise; Spanish Civil War; corporatism
+- **[[Unit-7.5/Unresolved Tensions After World War I Overview\|Unresolved Tensions After World War I Overview]] (pp. 493–502)** — Fascist states' racial policies; Holocaust context
+- **[[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]] (pp. 503–510)** — Fascist aggression causes WWII

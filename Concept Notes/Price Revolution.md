@@ -47,14 +47,14 @@ American silver did not stay in Europe. It flowed along two major routes:
 1. **East across the Pacific (Manila Galleon trade)** — Spanish ships from Acapulco carried silver to Manila, where it was traded for Chinese silk, porcelain, and spices; China's tax system demanded silver, making it the ultimate destination
 2. **East through Levantine trade** — silver moved through Ottoman and Mughal commercial networks
 
-This is why the Price Revolution is a global phenomenon, not just a European one — American silver linked the hemispheres economically for the first time. *(Topic 4.8 — CCOT)*
+This is why the Price Revolution is a global phenomenon, not just a European one — American silver linked the hemispheres economically for the first time. *([[Unit-4.8/Continuity & Change Overview\|Continuity & Change Overview]] (pp. 261–271) — CCOT)*
 
 > [!tip]
 > The Price Revolution is evidence for the AP argument that the period 1450–1750 saw the creation of the **first truly global economy**: American silver connected the Western Hemisphere to China via the Pacific, and to Europe and the Islamic world via the Atlantic.
 
 ## AP Exam Threads
 
-**Causation:** Spanish silver extraction (Topic 4.4) → Price Revolution → incentive for commercial innovation (joint-stock companies, financial instruments) → Commercial Revolution (Topic 4.5).
+**Causation:** Spanish silver extraction ([[Unit-4.4/Maritime Empires Link Regions Overview\|Maritime Empires Link Regions Overview]] (pp. 218–231)) → Price Revolution → incentive for commercial innovation (joint-stock companies, financial instruments) → Commercial Revolution ([[Unit-4.5/Maritime Empires Develop Overview\|Maritime Empires Develop Overview]] (pp. 232–241)).
 
 **Unintended consequences:** Spain did not intend to inflate European prices or accelerate Dutch and English commercial development. The Price Revolution demonstrates how economic forces produce outcomes no actor planned.
 

@@ -43,7 +43,7 @@ Spain also transformed the Inca **mit'a** — a communal labor obligation in whi
 
 ## Why Encomienda Gave Way to Chattel Slavery
 
-Indigenous workers knew the local terrain and could escape. Epidemic disease killed them faster than they could be replaced. The New Laws (1542) limited encomienda legally. Indentured servants became free after their contracts expired. Enslaved Africans could be held permanently, their children were born enslaved under chattel slavery, and their skin color made escape into European-dominated society harder. The logic was brutal economics. *(Topic 4.4)*
+Indigenous workers knew the local terrain and could escape. Epidemic disease killed them faster than they could be replaced. The New Laws (1542) limited encomienda legally. Indentured servants became free after their contracts expired. Enslaved Africans could be held permanently, their children were born enslaved under chattel slavery, and their skin color made escape into European-dominated society harder. The logic was brutal economics. *([[Unit-4.4/Maritime Empires Link Regions Overview\|Maritime Empires Link Regions Overview]] (pp. 218–231))*
 
 ## Long-Term Legacy
 
@@ -51,7 +51,7 @@ Encomienda created the hacienda system — large agricultural estates in which l
 
 ## AP Exam Threads
 
-**Causation:** Columbian Exchange disease → indigenous population collapse → encomienda labor insufficient → Atlantic slave trade. This is the central causal chain of Topic 4.4.
+**Causation:** Columbian Exchange disease → indigenous population collapse → encomienda labor insufficient → Atlantic slave trade. This is the central causal chain of [[Unit-4.4/Maritime Empires Link Regions Overview\|Maritime Empires Link Regions Overview]] (pp. 218–231).
 
 **Comparison:** Encomienda vs. Ottoman devshirme (both extract labor from subject populations, but devshirme created loyal soldiers/administrators while encomienda created resentment and resistance).
 

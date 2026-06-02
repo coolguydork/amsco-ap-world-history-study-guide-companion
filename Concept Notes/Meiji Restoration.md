@@ -42,7 +42,7 @@ The Meiji Restoration is the clearest example of **defensive modernization** —
 
 ## Cross-Topic Links
 
-Primary coverage: [[Unit-5.4/Industrialization Spreads Overview|Industrialization Spreads Overview]] (Topic 5.4)
-Detailed coverage: Topic 5.6 (not yet built)
-Political context: [[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]] (Topic 5.2) — nationalism and state-building as industrialization preconditions
-Imperialism context: Topics 6.1–6.2 (not yet built) — Japan's own imperial expansion after Meiji industrialization
+- **[[Unit-5.4/Industrialization Spreads Overview\|Industrialization Spreads Overview]] (pp. 304–309)** — Primary coverage; Japan as defensive modernization case study
+- **[[Unit-5.6/Industrialization: Government's Role Overview\|Industrialization: Government's Role Overview]] (pp. 317–324)** — State-directed industrial policy; Meiji government's role in building and transferring state industries to zaibatsu
+- **[[Unit-5.2/Nationalism & Revolutions Overview\|Nationalism & Revolutions Overview]] (pp. 285–296)** — Political context: nationalism and state-building as industrialization preconditions
+- **[[Unit-6.1/Rationales for Imperialism Overview\|Rationales for Imperialism Overview]] (pp. 367–374)** / **[[Unit-6.2/State Expansion Overview\|State Expansion Overview]] (pp. 375–387)** — Japan's own imperial expansion after Meiji industrialization; First Sino-Japanese War; Russo-Japanese War

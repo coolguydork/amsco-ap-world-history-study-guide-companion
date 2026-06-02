@@ -34,13 +34,13 @@ Approximately 12–13 million Africans were transported across the Atlantic betw
 
 ## Effects on African Societies
 
-*(AMSCO pp. 235–236 — Topic 4.5)*
+*(AMSCO pp. 235–236 — [[Unit-4.5/Maritime Empires Develop Overview\|Maritime Empires Develop Overview]] (pp. 232–241))*
 
 - **Population loss** — century-long declines in coastal West Africa; raids devastated inland communities
 - **Political disruption** — kingdoms like Kongo were weakened as slave raiding bypassed royal authority
 - **Firearms dependency** — raiding kingdoms (Dahomey, Oyo) became economically dependent on European goods, locking them into an escalating cycle of violence
 - **Gender imbalance** — more than two-thirds of those enslaved were male; polygyny became more common in affected societies; women took on traditionally male economic roles
-- **Long-term** — economic dependency on European trade goods set the stage for 19th-century imperialism (Topic 6.2)
+- **Long-term** — economic dependency on European trade goods set the stage for 19th-century imperialism ([[Unit-6.2/State Expansion Overview\|State Expansion Overview]] (pp. 375–387))
 
 > [!warning]
 > The AP exam frequently asks you to compare the Atlantic slave trade with the Indian Ocean slave trade. Key differences: the Atlantic trade was racially defined, hereditary, and uniquely large in scale. The Indian Ocean trade was older, involved both men and women, and enslaved people in Islamic communities had limited legal protections (e.g., the right to marry).
@@ -57,7 +57,7 @@ The legal system that made the Atlantic trade function: enslaved people defined 
 
 **CCOT:** What continued from pre-1450 slavery? (Slave trade in Africa and the Islamic world, coercive labor generally.) What was new? (Scale, racial hereditary system, Middle Passage, plantation economy.)
 
-**Continuity into Unit 5+:** The racial hierarchies of the colonial period (casta system) and the disruption of West African societies both feed directly into 19th-century imperialism (Topic 6.2) and the abolition movement (Topics 5.1, 5.2).
+**Continuity into Unit 5+:** The racial hierarchies of the colonial period (casta system) and the disruption of West African societies both feed directly into 19th-century imperialism ([[Unit-6.2/State Expansion Overview\|State Expansion Overview]] (pp. 375–387)) and the abolition movement (Topics 5.1, 5.2).
 
 ## Vault Cross-References
 

@@ -28,9 +28,9 @@ France withdrew from NATO's integrated military command in 1966 (though remainin
 
 ## Appearances in This Vault
 
-- [[Unit-8.2/Cold War Overview\|Cold War Overview]] — NATO's founding in the context of early Cold War origins (Topic 8.2)
-- [[Unit-8.3/Effects of the Cold War Overview\|Effects of the Cold War Overview]] — NATO vs. Warsaw Pact alliance system; comparison with SEATO and CENTO (Topic 8.3)
-- [[Unit-8.3/Key Terms & Concepts\|Key Terms & Concepts]] — full definition and exam context (Topic 8.3)
+- [[Unit-8.2/Cold War Overview\|Cold War Overview]] (pp. 554–561) — NATO's founding in the context of early Cold War origins 
+- [[Unit-8.3/Effects of the Cold War Overview\|Effects of the Cold War Overview]] (pp. 562–570) — NATO vs. Warsaw Pact alliance system; comparison with SEATO and CENTO 
+- [[Unit-8.3/Key Terms & Concepts\|Key Terms & Concepts]] — full definition and exam context 
 
 ## AP Exam Significance
 

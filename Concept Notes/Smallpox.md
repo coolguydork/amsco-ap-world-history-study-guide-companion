@@ -23,10 +23,10 @@ Smallpox is a highly contagious viral disease (caused by Variola virus) that pro
 ## AP Significance Across Periods
 
 ### Period 4 (1450–1750) — Columbian Exchange
-Smallpox was the most devastating of the Old World diseases carried to the Americas after 1492. Indigenous American populations had no prior immunity, making them extraordinarily vulnerable. Smallpox killed an estimated 50–90% of indigenous populations in some regions within decades of contact — a demographic catastrophe that fundamentally reshaped the Americas and enabled European colonization. See **[[Unit-4.3/Columbian Exchange Overview\|Topic 4.3]]**.
+Smallpox was the most devastating of the Old World diseases carried to the Americas after 1492. Indigenous American populations had no prior immunity, making them extraordinarily vulnerable. Smallpox killed an estimated 50–90% of indigenous populations in some regions within decades of contact — a demographic catastrophe that fundamentally reshaped the Americas and enabled European colonization. See **[[Unit-4.3/Columbian Exchange Overview\|Columbian Exchange Overview]] (pp. 209–217)**.
 
 ### Period 6 (1900–present) — Eradication
-Smallpox continued to kill millions annually as recently as the 1960s. The WHO coordinated a global vaccination campaign (1967–1979) that tracked every remaining case and vaccinated surrounding populations ("ring vaccination"). In 1979, the WHO declared smallpox eradicated — the **only human disease ever eliminated from Earth**. Samples are kept only at two secure facilities (CDC in the U.S. and VECTOR in Russia). See **[[Unit-9.2/Technological Advancements & Limitations — Disease Overview\|Topic 9.2]]**.
+Smallpox continued to kill millions annually as recently as the 1960s. The WHO coordinated a global vaccination campaign (1967–1979) that tracked every remaining case and vaccinated surrounding populations ("ring vaccination"). In 1979, the WHO declared smallpox eradicated — the **only human disease ever eliminated from Earth**. Samples are kept only at two secure facilities (CDC in the U.S. and VECTOR in Russia). See **[[Unit-9.2/Technological Advancements & Limitations — Disease Overview\|Technological Advancements & Limitations — Disease Overview]] (pp. 641–648)**.
 
 ---
 
@@ -44,8 +44,8 @@ Smallpox continued to kill millions annually as recently as the 1960s. The WHO c
 
 ## Cross-Topic Connections
 
-- **[[Unit-4.3/Columbian Exchange Overview\|Columbian Exchange (4.3)]]** — Primary vector of indigenous population collapse in the Americas
-- **[[Unit-9.2/Technological Advancements & Limitations — Disease Overview\|Disease & Technology (9.2)]]** — Model case of 20th-century disease eradication through global public health cooperation
+- **[[Unit-4.3/Columbian Exchange Overview\|Columbian Exchange (4.3)]] (pp. 209–217)** — Primary vector of indigenous population collapse in the Americas
+- **[[Unit-9.2/Technological Advancements & Limitations — Disease Overview\|Disease & Technology (9.2)]] (pp. 641–648)** — Model case of 20th-century disease eradication through global public health cooperation
 
 > [!exam-tip]
 > Smallpox eradication (1979) is the strongest single example of **technology + international cooperation eliminating a major threat**. It is unique — no other human disease has been eradicated. When comparing to polio (nearly eradicated but incomplete) or malaria (still 600,000 deaths/year), smallpox's complete eradication illustrates both the potential and the rarity of total success.

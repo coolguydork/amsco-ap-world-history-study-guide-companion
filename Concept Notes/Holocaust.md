@@ -24,9 +24,9 @@ Nazi Germany's systematic genocide of approximately 6 million Jews and 5 million
 
 ## AP Connections
 
-- **[[Unit-7.8/Mass Atrocities Overview\|Mass Atrocities Overview]]** — Primary AMSCO coverage; causes, conditions, and consequences
-- **[[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]]** — Rise of Nazism and political conditions enabling the Holocaust
-- **[[Unit-7.7/Conducting World War II Overview\|Conducting World War II Overview]]** — WWII context in which the Holocaust operated
+- **[[Unit-7.8/Mass Atrocities Overview\|Mass Atrocities Overview]] (pp. 521–530)** — Primary AMSCO coverage; causes, conditions, and consequences
+- **[[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]] (pp. 503–510)** — Rise of Nazism and political conditions enabling the Holocaust
+- **[[Unit-7.7/Conducting World War II Overview\|Conducting World War II Overview]] (pp. 511–520)** — WWII context in which the Holocaust operated
 - **[[Concept Notes/Nazism\|Nazism]]** — The ideology underlying the Holocaust
 - **[[Concept Notes/Genocide\|Genocide]]** — The Holocaust as the paradigmatic modern genocide
 - **[[Concept Notes/International Criminal Court\|International Criminal Court]]** — Built on the Nuremberg Trials precedent the Holocaust created

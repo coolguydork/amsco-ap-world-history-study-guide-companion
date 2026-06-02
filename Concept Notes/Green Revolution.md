@@ -49,7 +49,7 @@ An agricultural transformation beginning in the 1960s that introduced high-yield
 
 ## Cross-Topic Connections
 
-- **Topic 9.1** — Primary context: agricultural technology as a driver of global exchange
-- **Topic 9.3** — Environmental costs of the Green Revolution (chemical runoff, deforestation, soil degradation)
-- **Topic 8.5** — U.S. Cold War strategy: agricultural aid to developing nations to counter communist appeal
-- **Topic 6.2/6.5** — Compare: earlier colonial agricultural restructuring forced cash crop monocultures; Green Revolution continued pattern of large-scale agricultural transformation with winners and losers
+- **[[Unit-9.1/Advances in Technology & Exchange Overview\|Advances in Technology & Exchange Overview]] (pp. 633–640)** — Primary context: agricultural technology as a driver of global exchange
+- **[[Unit-9.3/Technology & the Environment Overview\|Technology & the Environment Overview]] (pp. 649–656)** — Environmental costs of the Green Revolution (chemical runoff, deforestation, soil degradation)
+- **[[Unit-8.5/Decolonization after 1900 Overview\|Decolonization after 1900 Overview]] (pp. 579–588)** — U.S. Cold War strategy: agricultural aid to developing nations to counter communist appeal
+- **[[Unit-6.2/State Expansion Overview\|State Expansion Overview]] (pp. 375–387)** / **[[Unit-6.5/Economic Imperialism Overview\|Economic Imperialism Overview]] (pp. 407–416)** — Compare: earlier colonial agricultural restructuring forced cash crop monocultures; Green Revolution continued the pattern of large-scale agricultural transformation with winners and losers

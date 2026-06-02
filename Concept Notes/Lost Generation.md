@@ -18,9 +18,9 @@ Term originally applied to American expatriate writers — Hemingway, Fitzgerald
 
 The Lost Generation is a **CDI theme**: it shows how total war reshapes culture and identity. WWI shattered faith in progress, nationalism, and traditional values that had characterized 19th-century European civilization. Writers of the Lost Generation produced works (Hemingway's *A Farewell to Arms*, *All Quiet on the Western Front*) that rejected the romanticism of war and expressed existential disillusionment.
 
-The term appears in AMSCO Topic 7.8 as a cultural consequence of WWI's mass atrocities — alongside physical casualties, the war produced a psychological and cultural wound that persisted through the interwar period.
+The term appears in AMSCO [[Unit-7.8/Mass Atrocities Overview\|Mass Atrocities Overview]] (pp. 521–530) as a cultural consequence of WWI's mass atrocities — alongside physical casualties, the war produced a psychological and cultural wound that persisted through the interwar period.
 
 ## AP Connections
 
-- **[[Unit-7.8/Mass Atrocities Overview\|Mass Atrocities Overview]]** — Cultural consequences of WWI's mass death
-- **[[Unit-7.3/Conducting World War I Overview\|Conducting World War I Overview]]** — The conditions that produced the Lost Generation
+- **[[Unit-7.8/Mass Atrocities Overview\|Mass Atrocities Overview]] (pp. 521–530)** — Cultural consequences of WWI's mass death
+- **[[Unit-7.3/Conducting World War I Overview\|Conducting World War I Overview]] (pp. 469–479)** — The conditions that produced the Lost Generation

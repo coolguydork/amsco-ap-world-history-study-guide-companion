@@ -60,9 +60,9 @@ Mansa Musa's hajj exemplifies this relationship: he was a devout Muslim ruler of
 
 ## Key Connections Across Topics
 
-**Topic 1.2 — Dar al-Islam:** North African and Arab Muslim merchants drove trans-Saharan commerce. Islamic trade networks connected West Africa to the wider Islamic world. See [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]].
+**[[Unit-1.2/Dar al-Islam Overview\|Dar al-Islam Overview]] (pp. 15–22) — Dar al-Islam:** North African and Arab Muslim merchants drove trans-Saharan commerce. Islamic trade networks connected West Africa to the wider Islamic world. See [[Unit-1.2/Dar al-Islam Overview\|Dar al-Islam Overview]] (pp. 15–22).
 
-**Topic 1.5 — Africa:** Trans-Saharan trade is the economic foundation of Ghana and Mali. Great Zimbabwe connected to the Indian Ocean network, not trans-Saharan — an important distinction. See [[Unit-1.5/Africa Overview|Africa Overview]] and [[Unit-1.5/Key Terms & Concepts|Key Terms & Concepts — Topic 1.5]].
+**[[Unit-1.5/Africa Overview\|Africa Overview]] (pp. 43–52) — Africa:** Trans-Saharan trade is the economic foundation of Ghana and Mali. Great Zimbabwe connected to the Indian Ocean network, not trans-Saharan — an important distinction. See [[Unit-1.5/Africa Overview\|Africa Overview]] (pp. 43–52) and [[Unit-1.5/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.5]].
 
 **Related concept:** [[Concept Notes/Indian Ocean Trade Network|Indian Ocean Trade Network]] (parallel maritime system on Africa's east coast).
 
@@ -75,7 +75,7 @@ Mansa Musa's hajj exemplifies this relationship: he was a devout Muslim ruler of
 
 ## Referenced By
 
-- [[Unit-1.2/Connections|Connections — Topic 1.2]]
-- [[Unit-1.5/Africa Overview|Africa Overview]]
-- [[Unit-1.5/Key Terms & Concepts|Key Terms & Concepts — Topic 1.5]]
-- [[Unit-1.7/Themes & Historical Reasoning|Themes & Historical Reasoning — Topic 1.7]]
+- [[Unit-1.2/Connections\|Connections — Topic 1.2]]
+- [[Unit-1.5/Africa Overview\|Africa Overview]] (pp. 43–52)
+- [[Unit-1.5/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.5]]
+- [[Unit-1.7/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.7]]

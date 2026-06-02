@@ -28,7 +28,7 @@ Germany's democratic government established after WWI (1919–1933). Named for t
 
 ## AP Connections
 
-- [[Unit-7.2/Causes of World War I Overview\|Causes of World War I Overview]] — WWI's outcome created the Weimar Republic
+- [[Unit-7.2/Causes of World War I Overview\|Causes of World War I Overview]] (pp. 461–468) — WWI's outcome created the Weimar Republic
 - [[Unit-7.4/Economy in the Interwar Period Overview\|Economy in the Interwar Period Overview]] — Great Depression destabilized it
-- [[Unit-7.5/Unresolved Tensions After World War I Overview\|Unresolved Tensions After World War I Overview]] — Treaty of Versailles imposed impossible burdens
-- [[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]] — Weimar's collapse enabled Nazi rise
+- [[Unit-7.5/Unresolved Tensions After World War I Overview\|Unresolved Tensions After World War I Overview]] (pp. 493–502) — Treaty of Versailles imposed impossible burdens
+- [[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]] (pp. 503–510) — Weimar's collapse enabled Nazi rise

@@ -18,13 +18,13 @@ Key Mongol successor states: the Yuan Dynasty (China), the Ilkhanate (Persia/Mid
 
 ## Key Connections Across Topics
 
-**Topic 1.1 — East Asia:** The Mongol Yuan Dynasty (1271–1368) ruled China after defeating the Song Dynasty. It is a defining political event in East Asian history of Period 1.
+**[[Unit-1.1/East Asia Overview\|East Asia Overview]] (pp. 3–14) — East Asia:** The Mongol Yuan Dynasty (1271–1368) ruled China after defeating the Song Dynasty. It is a defining political event in East Asian history of Period 1.
 
-**Topic 1.3 — South & Southeast Asia:** The Delhi Sultanate successfully **repelled the Mongols** from South Asia — one of the few powers in Eurasia to do so. However, the Sultanate was ultimately conquered in 1526 by the **Mughal Empire**, whose rulers traced their ancestry to the Mongols (and to Timur/Tamerlane). This connection is important for understanding the transition from Delhi Sultanate to Mughal rule. See [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]].
+**[[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] (pp. 23–32) — South & Southeast Asia:** The Delhi Sultanate successfully **repelled the Mongols** from South Asia — one of the few powers in Eurasia to do so. However, the Sultanate was ultimately conquered in 1526 by the **Mughal Empire**, whose rulers traced their ancestry to the Mongols (and to Timur/Tamerlane). This connection is important for understanding the transition from Delhi Sultanate to Mughal rule.
 
-**Topic 1.2 — Dar al-Islam:** The Mongols sacked Baghdad in 1258, ending the Abbasid Caliphate — the most catastrophic event in Islamic political history of this period.
+**[[Unit-1.2/Dar al-Islam Overview\|Dar al-Islam Overview]] (pp. 15–22) — Dar al-Islam:** The Mongols sacked Baghdad in 1258, ending the Abbasid Caliphate — the most catastrophic event in Islamic political history of this period.
 
-**Topic 1.7 (Mongol Empires and the Black Death):** Mongol trade networks facilitated the spread of the Black Death across Eurasia in the mid-14th century.
+**[[Unit-1.7/Comparison Overview\|Comparison Overview]] (pp. 65–73) (Mongol Empires and the Black Death):** Mongol trade networks facilitated the spread of the Black Death across Eurasia in the mid-14th century.
 
 ## AP Exam Relevance
 

@@ -29,5 +29,5 @@ The Berlin Conference is the defining moment of the **Scramble for Africa**. For
 
 ## Key Connections
 
-- **[[Unit-6.2/State Expansion Overview\|Topic 6.2 — State Expansion]]:** Berlin Conference explained as the formalization of the Scramble for Africa; arbitrary borders and lack of African representation (AMSCO pp. 377–378)
-- **[[Unit-6.1/Rationales for Imperialism Overview\|Topic 6.1 — Rationales for Imperialism]]:** Great-power competition and nationalist rivalries as causes of imperialism; Berlin Conference as a case study
+- **[[Unit-6.2/State Expansion Overview\|State Expansion Overview]] (pp. 375–387):** Berlin Conference explained as the formalization of the Scramble for Africa; arbitrary borders and lack of African representation (AMSCO pp. 377–378)
+- **[[Unit-6.1/Rationales for Imperialism Overview\|Rationales for Imperialism Overview]] (pp. 367–374):** Great-power competition and nationalist rivalries as causes of imperialism; Berlin Conference as a case study

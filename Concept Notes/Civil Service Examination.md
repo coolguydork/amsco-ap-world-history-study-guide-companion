@@ -54,9 +54,9 @@ The civil service exam system spread as part of **Chinese cultural influence** (
 
 ## Key Connections Across Topics
 
-**Topic 1.1 — East Asia:** The exam system is central to Song China's political structure and its spread to Korea and Vietnam. See [[Unit-1.1/Key Terms & Concepts|Key Terms & Concepts — Topic 1.1]].
+**[[Unit-1.1/East Asia Overview\|East Asia Overview]] (pp. 3–14) — East Asia:** The exam system is central to Song China's political structure and its spread to Korea and Vietnam. See [[Unit-1.1/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.1]].
 
-**Topic 1.7 — Comparison:** The exam appears in comparison questions contrasting centralized China with decentralized Japan and Europe. See [[Unit-1.7/Comparison Overview|Comparison Overview — Topic 1.7]].
+**[[Unit-1.7/Comparison Overview\|Comparison Overview]] (pp. 65–73) — Comparison:** The exam appears in comparison questions contrasting centralized China with decentralized Japan and Europe. See [[Unit-1.7/Comparison Overview\|Comparison Overview — Topic 1.7]] (pp. 65–73).
 
 **Related concepts:** [[Concept Notes/Neo-Confucianism|Neo-Confucianism]] (ideological basis of the exam); [[Concept Notes/Tribute System|Tribute System]] (China's mechanism of regional influence, of which cultural diffusion via Sinification was a component).
 
@@ -69,7 +69,7 @@ The civil service exam system spread as part of **Chinese cultural influence** (
 
 ## Referenced By
 
-- [[Unit-1.1/Key Terms & Concepts|Key Terms & Concepts — Topic 1.1]]
+- [[Unit-1.1/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.1]]
 - [[Unit-1.1/East Asia Overview|East Asia Overview]]
-- [[Unit-1.7/Key Terms & Concepts|Key Terms & Concepts — Topic 1.7]]
-- [[Unit-1.7/Comparison Overview|Comparison Overview — Topic 1.7]]
+- [[Unit-1.7/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.7]]
+- [[Unit-1.7/Comparison Overview\|Comparison Overview — Topic 1.7]] (pp. 65–73)

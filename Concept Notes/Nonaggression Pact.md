@@ -36,5 +36,5 @@ Germany violated the pact on **June 22, 1941** by launching Operation Barbarossa
 
 ## Cross-Topic Connections
 
-- [[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]] — Pact as cause of WWII
-- [[Unit-7.7/Conducting World War II Overview\|Conducting World War II Overview]] — Japan's pivot to Pearl Harbor; Operation Barbarossa
+- [[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]] (pp. 503–510) — Pact as cause of WWII
+- [[Unit-7.7/Conducting World War II Overview\|Conducting World War II Overview]] (pp. 511–520) — Japan's pivot to Pearl Harbor; Operation Barbarossa

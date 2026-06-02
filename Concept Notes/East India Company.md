@@ -46,8 +46,8 @@ The East India Company is the AP's clearest example of **economic imperialism pr
 
 ## Cross-Topic Connections
 
-- **[[Unit-4.1/Technological Innovations Overview\|Technological Innovations Overview]]** — Joint-stock companies as a financial innovation enabling long-distance trade
+- **[[Unit-4.1/Technological Innovations Overview\|Technological Innovations Overview]] (pp. 191–198)** — Joint-stock companies as a financial innovation enabling long-distance trade
 - **[[Concept Notes/Joint-Stock Companies\|Joint-Stock Companies]]** — EIC as the most consequential joint-stock company in history
-- **[[Unit-6.2/State Expansion Overview\|State Expansion Overview]]** — EIC's conquest of India as a case of state expansion via company proxy
-- **[[Unit-6.3/Indigenous Responses to State Expansion Overview\|Indigenous Responses to State Expansion Overview]]** — Sepoy Mutiny as the primary South Asian resistance case study
-- **[[Unit-6.5/Economic Imperialism Overview\|Economic Imperialism Overview]]** — Opium Trade; deindustrialization of Indian textile industry; drain of wealth
+- **[[Unit-6.2/State Expansion Overview\|State Expansion Overview]] (pp. 375–387)** — EIC's conquest of India as a case of state expansion via company proxy
+- **[[Unit-6.3/Indigenous Responses to State Expansion Overview\|Indigenous Responses to State Expansion Overview]] (pp. 388–397)** — Sepoy Mutiny as the primary South Asian resistance case study
+- **[[Unit-6.5/Economic Imperialism Overview\|Economic Imperialism Overview]] (pp. 407–416)** — Opium Trade; deindustrialization of Indian textile industry; drain of wealth

@@ -21,4 +21,4 @@ Serbian nationalist secret society (formally *Ujedinjenje ili smrt* — "Union o
 **Source notes:**
 - [[Unit-7.2/Key Terms & Concepts\|Key Terms & Concepts]] — definition and AP context
 - [[Unit-7.2/People, States & Movements\|People, States & Movements]] — Princip's role
-- [[Unit-7.2/Causes of World War I Overview\|Causes of World War I Overview]] — broader causal context
+- [[Unit-7.2/Causes of World War I Overview\|Causes of World War I Overview]] (pp. 461–468) — broader causal context

@@ -29,7 +29,7 @@ Feudalism is a key comparison topic. The AP frequently asks students to compare 
 
 ---
 
-## Japanese Feudalism (Topic 1.1 — AMSCO pp. 9–10)
+## Japanese Feudalism — [[Unit-1.1/East Asia Overview\|East Asia Overview]] (pp. 3–14) (AMSCO pp. 9–10)
 
 Japanese feudalism developed as central imperial authority declined, with powerful landowning aristocrats (**daimyo**) competing for control. Key features:
 
@@ -44,11 +44,11 @@ Japanese feudalism developed as central imperial authority declined, with powerf
 
 The **Kamakura Shogunate** (1192–1333) established Japan's first feudal government under a shogun. The daimyo in Japan wielded *more* effective power relative to the political center than European nobles did — the emperor and even the shogun were often subordinate in practice to the strongest daimyo.
 
-→ Full context: [[Unit-1.1/People, States & Movements|Topic 1.1 — People, States & Movements]]
+→ Full context: [[Unit-1.1/People, States & Movements\|People, States & Movements — Topic 1.1]]
 
 ---
 
-## European Feudalism (Topic 1.6 — stub; to be expanded)
+## European Feudalism
 
 European feudalism arose from the collapse of the Western Roman Empire and the inability of weak monarchies to provide security. Key features mirrored Japan's but with important differences:
 
@@ -61,7 +61,7 @@ European feudalism arose from the collapse of the Western Roman Empire and the i
 
 **Chivalry** — the European warrior code — emphasized duty to God, duty to women (courtly love), and duty to countrymen.
 
-*This section will be expanded when Topic 1.6 is added to the vault.*
+*See also [[Unit-1.6/Medieval Europe Overview\|Medieval Europe Overview]] (pp. 53–64) for full treatment of European feudalism.*
 
 ---
 
@@ -88,7 +88,6 @@ European feudalism arose from the collapse of the Western Roman Empire and the i
 | **3.1** | Tokugawa Shogunate — Japan's feudalism evolves in the gunpowder empire era |
 | **4.6** | Challenges to state power — feudal structures resist or adapt to centralizing forces |
 
-*This note will be significantly expanded when Topic 1.6 is added to the vault.*
 
 ---
 

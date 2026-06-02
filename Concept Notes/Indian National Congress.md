@@ -44,8 +44,8 @@ The INC is the AP's **primary example of anti-colonial nationalism in South Asia
 
 ## Cross-Topic Connections
 
-- **[[Unit-6.3/Indigenous Responses to State Expansion Overview\|Indigenous Responses to State Expansion Overview]]** — Early INC as a moderate response to British colonialism; Swadeshi movement
-- **[[Unit-7.5/Unresolved Tensions After World War I Overview\|Unresolved Tensions After World War I Overview]]** — WWI's promise of self-determination galvanizes the INC; Amritsar Massacre; Gandhi's mass campaigns
-- **[[Unit-8.5/Decolonization after 1900 Overview\|Decolonization after 1900 Overview]]** — INC leads India to independence; Partition; Nehru's non-alignment
+- **[[Unit-6.3/Indigenous Responses to State Expansion Overview\|Indigenous Responses to State Expansion Overview]] (pp. 388–397)** — Early INC as a moderate response to British colonialism; Swadeshi movement
+- **[[Unit-7.5/Unresolved Tensions After World War I Overview\|Unresolved Tensions After World War I Overview]] (pp. 493–502)** — WWI's promise of self-determination galvanizes the INC; Amritsar Massacre; Gandhi's mass campaigns
+- **[[Unit-8.5/Decolonization after 1900 Overview\|Decolonization after 1900 Overview]] (pp. 579–588)** — INC leads India to independence; Partition; Nehru's non-alignment
 - **[[Concept Notes/Mohandas Gandhi\|Mohandas Gandhi]]** — Gandhi transformed the INC into a mass movement
 - **[[Concept Notes/Self-Determination\|Self-Determination]]** — INC as the most successful application of Wilson's self-determination principle in Asia

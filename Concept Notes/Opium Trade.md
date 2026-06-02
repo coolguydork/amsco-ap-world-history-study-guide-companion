@@ -40,8 +40,8 @@ The British East India Company's solution: sell opium grown in Bengal to Chinese
 
 ## Cross-Topic Connections
 
-- **[[Unit-6.2/State Expansion Overview\|State Expansion Overview]]** — The Opium Wars as gunboat diplomacy; unequal treaties as tools of informal empire
-- **[[Unit-6.4/Global Economic Development Overview\|Global Economic Development Overview]]** — How the Opium Trade restructured Asian trade networks and silver flows
-- **[[Unit-6.5/Economic Imperialism Overview\|Economic Imperialism Overview]]** — Treaty ports, extraterritoriality, and the "open door" as economic imperialism without formal colonization
-- **[[Unit-6.3/Indigenous Responses to State Expansion Overview\|Indigenous Responses to State Expansion Overview]]** — Chinese responses: Self-Strengthening Movement, Boxer Rebellion
+- **[[Unit-6.2/State Expansion Overview\|State Expansion Overview]] (pp. 375–387)** — The Opium Wars as gunboat diplomacy; unequal treaties as tools of informal empire
+- **[[Unit-6.4/Global Economic Development Overview\|Global Economic Development Overview]] (pp. 398–406)** — How the Opium Trade restructured Asian trade networks and silver flows
+- **[[Unit-6.5/Economic Imperialism Overview\|Economic Imperialism Overview]] (pp. 407–416)** — Treaty ports, extraterritoriality, and the "open door" as economic imperialism without formal colonization
+- **[[Unit-6.3/Indigenous Responses to State Expansion Overview\|Indigenous Responses to State Expansion Overview]] (pp. 388–397)** — Chinese responses: Self-Strengthening Movement, Boxer Rebellion
 - **[[Concept Notes/East India Company\|East India Company]]** — The EIC produced the opium in Bengal; the Opium Trade was an EIC commercial operation before becoming a Crown policy

@@ -32,7 +32,7 @@ Balkan nationalism is the **proximate cause** of WWI in AMSCO's framing — the 
 
 ## Cross-Topic Connections
 
-- **[[Unit-7.2/Causes of World War I Overview\|Causes of World War I Overview]]** — Primary context; the Balkans as the immediate cause of WWI
+- **[[Unit-7.2/Causes of World War I Overview\|Causes of World War I Overview]] (pp. 461–468)** — Primary context; the Balkans as the immediate cause of WWI
 - **[[Unit-7.2/People, States & Movements\|People, States & Movements — Topic 7.2]]** — Gavrilo Princip, Black Hand, Franz Ferdinand
-- **[[Unit-5.2/Nationalism & Revolutions Overview\|Nationalism & Revolutions Overview]]** — 19th-century origins: Greek independence (1821), Serbian autonomy — the Balkans as an early theater of nationalist revolution
+- **[[Unit-5.2/Nationalism & Revolutions Overview\|Nationalism & Revolutions Overview]] (pp. 285–296)** — 19th-century origins: Greek independence (1821), Serbian autonomy — the Balkans as an early theater of nationalist revolution
 - **[[Concept Notes/Nationalism\|Nationalism]]** — Balkan nationalism as a case study of ethnic nationalism destabilizing multiethnic empires

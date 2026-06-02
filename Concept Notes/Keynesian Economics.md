@@ -40,6 +40,6 @@ FDR's New Deal (1933–1939) was the first large-scale application of Keynesian 
 
 ## AP Connections
 
-- **[[Unit-7.4/Economy in the Interwar Period Overview\|Topic 7.4]]** — Core concept; Keynes vs. laissez-faire; New Deal as application
+- **[[Unit-7.4/Economy in the Interwar Period Overview\|Economy in the Interwar Period Overview]]** — Core concept; Keynes vs. laissez-faire; New Deal as application
 - **Post-WWII welfare states** — Keynesian economics underpinned European and American welfare state expansion
 - **[[Concept Notes/Great Depression\|Great Depression]]** — The crisis that made Keynesian intervention necessary and politically viable

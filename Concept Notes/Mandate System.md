@@ -18,8 +18,8 @@ The post-WWI arrangement by which Britain and France administered former Ottoman
 
 ## Where It Appears
 
-- **[[Unit-7.5/Unresolved Tensions After World War I Overview\|Topic 7.5]]** — Core content: mandate system created at Paris (1919); Middle Eastern mandates (Palestine, Syria, Lebanon, Iraq, Transjordan); African mandates (Cameroon split between Britain and France); triggers Pan-Arabism and anti-colonial nationalism
-- **Topic 8.5** — Decolonization: mandate territories among the first to seek independence after WWII
+- **[[Unit-7.5/Unresolved Tensions After World War I Overview\|Unresolved Tensions After World War I Overview]] (pp. 493–502)** — Core content: mandate system created at Paris (1919); Middle Eastern mandates (Palestine, Syria, Lebanon, Iraq, Transjordan); African mandates (Cameroon split between Britain and France); triggers Pan-Arabism and anti-colonial nationalism
+- **[[Unit-8.5/Decolonization after 1900 Overview\|Decolonization after 1900 Overview]] (pp. 579–588)** — Decolonization: mandate territories among the first to seek independence after WWII
 
 ## Key Facts for the AP
 

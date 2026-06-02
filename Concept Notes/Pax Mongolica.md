@@ -44,15 +44,15 @@ The Pax Mongolica collapsed in the mid-14th century as the khanates fragmented, 
 
 ## Key Connections Across Topics
 
-**Topic 1.1 — East Asia:** China under the Yuan dynasty (Mongol rulers) was a central node of the Pax Mongolica. See [[Unit-1.1/East Asia Overview|East Asia Overview]].
+**[[Unit-1.1/East Asia Overview\|East Asia Overview]] (pp. 3–14) — East Asia:** China under the Yuan dynasty (Mongol rulers) was a central node of the Pax Mongolica. See [[Unit-1.1/East Asia Overview\|East Asia Overview]] (pp. 3–14).
 
-**Topic 1.2 — Dar al-Islam:** The Mongols destroyed the Abbasid Caliphate in 1258, ending Baghdad's role as Islamic intellectual center. The Ilkhanate rulers eventually converted to Islam, preserving Islamic culture even while disrupting its political structures. See [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]].
+**[[Unit-1.2/Dar al-Islam Overview\|Dar al-Islam Overview]] (pp. 15–22) — Dar al-Islam:** The Mongols destroyed the Abbasid Caliphate in 1258, ending Baghdad's role as Islamic intellectual center. The Ilkhanate rulers eventually converted to Islam, preserving Islamic culture even while disrupting its political structures. See [[Unit-1.2/Dar al-Islam Overview\|Dar al-Islam Overview]] (pp. 15–22).
 
-**Topic 1.3 — South & Southeast Asia:** The Delhi Sultanate successfully repelled the Mongols, shaping its political development. See [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]].
+**[[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] (pp. 23–32) — South & Southeast Asia:** The Delhi Sultanate successfully repelled the Mongols, shaping its political development. See [[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] (pp. 23–32).
 
-**Topic 2.1 — Silk Roads:** The Pax Mongolica is the direct cause of Silk Road trade expansion in the 13th–14th centuries. The concept note for [[Concept Notes/Silk Roads|Silk Roads]] covers the trade network itself; Pax Mongolica explains why it peaked when it did.
+**[[Unit-2.1/Silk Roads Overview\|Silk Roads Overview]] (pp. 77–84) — Silk Roads:** The Pax Mongolica is the direct cause of Silk Road trade expansion in the 13th–14th centuries. The concept note for [[Concept Notes/Silk Roads|Silk Roads]] covers the trade network itself; Pax Mongolica explains why it peaked when it did.
 
-**Topic 2.2 — Mongol Empire:** The Mongols themselves are covered in [[Concept Notes/Mongols|Mongols]].
+**[[Unit-2.2/Mongol Empire Overview\|Mongol Empire Overview]] (pp. 85–94) — Mongol Empire:** The Mongols themselves are covered in [[Concept Notes/Mongols|Mongols]].
 
 ## AP Exam Relevance
 
@@ -62,7 +62,7 @@ The Pax Mongolica collapsed in the mid-14th century as the khanates fragmented, 
 
 ## Referenced By
 
-- [[Unit-1.1/Connections|Connections — Topic 1.1]]
-- [[Unit-1.2/Connections|Connections — Topic 1.2]]
-- [[Unit-1.3/People, States & Movements|People, States & Movements — Topic 1.3]]
-- [[Unit-1.7/Themes & Historical Reasoning|Themes & Historical Reasoning — Topic 1.7]]
+- [[Unit-1.1/Connections\|Connections — Topic 1.1]]
+- [[Unit-1.2/Connections\|Connections — Topic 1.2]]
+- [[Unit-1.3/People, States & Movements\|People, States & Movements — Topic 1.3]]
+- [[Unit-1.7/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.7]]

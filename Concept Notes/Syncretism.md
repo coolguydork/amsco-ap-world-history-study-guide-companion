@@ -28,26 +28,26 @@ When a new religion or cultural system encounters an existing one, several outco
 
 ## Examples from Unit 1
 
-**Chan (Zen) Buddhism — Topic 1.1**
-Buddhism entered China via the Silk Roads and encountered Daoism. Buddhist monks translated *dharma* (cosmic order) as *dao* (the way). Over time, Buddhist meditation practices blended with Daoist direct experience to produce **Chan Buddhism** — simultaneously Buddhist and distinctly Chinese. This is syncretism as creative synthesis. (AMSCO p. 9) See [[Unit-1.1/Key Terms & Concepts|Key Terms & Concepts — Topic 1.1]].
+**Chan (Zen) Buddhism — [[Unit-1.1/East Asia Overview\|East Asia Overview]] (pp. 3–14)**
+Buddhism entered China via the Silk Roads and encountered Daoism. Buddhist monks translated *dharma* (cosmic order) as *dao* (the way). Over time, Buddhist meditation practices blended with Daoist direct experience to produce **Chan Buddhism** — simultaneously Buddhist and distinctly Chinese. This is syncretism as creative synthesis. (AMSCO p. 9) See [[Unit-1.1/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.1]].
 
-**Neo-Confucianism — Topic 1.1**
+**Neo-Confucianism — [[Unit-1.1/East Asia Overview\|East Asia Overview]] (pp. 3–14)**
 Neo-Confucianism was itself a syncretic development: Confucian ethics blended with Buddhist and Daoist philosophical elements to produce a new intellectual tradition that then became the dominant state ideology of Song China and spread to Korea and Japan. See [[Concept Notes/Neo-Confucianism|Neo-Confucianism]].
 
-**Islam in West Africa — Topic 1.5**
+**Islam in West Africa — [[Unit-1.5/Africa Overview\|Africa Overview]] (pp. 43–52)**
 West African rulers converted to Islam for political and commercial reasons, but most retained elements of traditional African religion alongside Islamic practice. Mansa Musa performed the hajj as a devout Muslim while most of his subjects continued traditional religion. This selective, surface-level adoption is a common pattern of syncretic conversion. (AMSCO p. 46) See [[Unit-1.5/Africa Overview|Africa Overview]].
 
 **Islam in Southeast Asia — Topics 1.2 & 1.3**
 Sufi missionaries spread Islam in Southeast Asia by tolerating local Hindu-Buddhist customs. Converts often blended Islamic monotheism with pre-existing animist or Hindu-Buddhist practices. The result was a distinctly Southeast Asian form of Islam. See [[Concept Notes/Sufism|Sufism]].
 
-**Hindu-Buddhist Synthesis — Topic 1.3**
+**Hindu-Buddhist Synthesis — [[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] (pp. 23–32)**
 In South and Southeast Asia, Hinduism and Buddhism coexisted and blended for centuries before Islam arrived. Rulers might present themselves as both divine Hindu kings and Buddhist bodhisattvas simultaneously. Angkor Wat was built as a Hindu temple and later converted to Buddhist use. The **Bhakti Movement** drew on both Hindu devotionalism and Buddhist/Sufi mysticism. See [[Concept Notes/Bhakti Movement|Bhakti Movement]].
 
-**Islam in South Asia — Topic 1.3**
+**Islam in South Asia — [[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] (pp. 23–32)**
 The Qutub Minar in Delhi physically embodies syncretism: its tower combines architectural elements from Hindu temples (height, ornamentation) with Islamic design (domes, calligraphy). (AMSCO p. 28)
 
-**Scholasticism in Europe — Topic 1.6**
-European scholasticism blended Christian theology with classical Greek philosophy (especially Aristotle). Thomas Aquinas synthesized Aristotle's logic and natural philosophy with Christian doctrine — a syncretic intellectual tradition. See [[Unit-1.6/Key Terms & Concepts|Key Terms & Concepts — Topic 1.6]].
+**Scholasticism in Europe — [[Unit-1.6/Medieval Europe Overview\|Medieval Europe Overview]] (pp. 53–64)**
+European scholasticism blended Christian theology with classical Greek philosophy (especially Aristotle). Thomas Aquinas synthesized Aristotle's logic and natural philosophy with Christian doctrine — a syncretic intellectual tradition. See [[Unit-1.6/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.6]].
 
 ## The Limits of Syncretism
 
@@ -70,9 +70,9 @@ Syncretism is not universal. Some religious encounters produced conflict rather 
 
 ## Referenced By
 
-- [[Unit-1.1/Themes & Historical Reasoning|Themes & Historical Reasoning — Topic 1.1]]
-- [[Unit-1.2/Themes & Historical Reasoning|Themes & Historical Reasoning — Topic 1.2]]
-- [[Unit-1.3/Key Terms & Concepts|Key Terms & Concepts — Topic 1.3]]
-- [[Unit-1.5/Themes & Historical Reasoning|Themes & Historical Reasoning — Topic 1.5]]
-- [[Unit-1.6/Key Terms & Concepts|Key Terms & Concepts — Topic 1.6]]
-- [[Unit-1.7/Themes & Historical Reasoning|Themes & Historical Reasoning — Topic 1.7]]
+- [[Unit-1.1/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.1]]
+- [[Unit-1.2/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.2]]
+- [[Unit-1.3/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.3]]
+- [[Unit-1.5/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.5]]
+- [[Unit-1.6/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.6]]
+- [[Unit-1.7/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.7]]

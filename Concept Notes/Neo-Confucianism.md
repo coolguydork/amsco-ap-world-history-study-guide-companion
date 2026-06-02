@@ -38,7 +38,7 @@ Neo-Confucianism is one of the most exam-tested concepts in AP World History. It
 
 ---
 
-## Topic 1.1 — Developments in East Asia (AMSCO pp. 9–10)
+## [[Unit-1.1/East Asia Overview\|East Asia Overview]] (pp. 3–14) — Developments in East Asia (AMSCO pp. 9–10)
 
 Neo-Confucianism developed during the Song Dynasty as Confucian scholars encountered Buddhist texts made widely available through woodblock printing. Rather than rejecting Buddhism, Song scholars absorbed its ideas of self-cultivation and Daoist naturalism into a reinvigorated Confucian framework. This new synthesis became **immensely popular** in China and spread to Japan, Korea, and Vietnam — the countries in China's political and cultural orbit.
 
@@ -47,7 +47,7 @@ Key social effects in China:
 - Strengthened **patriarchal norms**, including foot binding among aristocratic families
 - Provided ideological backing for the **scholar-gentry** class and the civil service exam
 
-→ Full context: [[Unit-1.1/Themes & Historical Reasoning|Topic 1.1 — Themes & Historical Reasoning]]
+→ Full context: [[Unit-1.1/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.1]]
 
 ---
 

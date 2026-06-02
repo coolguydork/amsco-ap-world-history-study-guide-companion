@@ -55,13 +55,13 @@ A significant **Indian Ocean slave trade** ran between East Africa and the Middl
 
 ## Key Connections Across Topics
 
-**Topic 1.2 — Dar al-Islam:** Muslim merchants were the dominant commercial force on the Indian Ocean. The Abbasid Caliphate's trade networks extended across the ocean. See [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]].
+**[[Unit-1.2/Dar al-Islam Overview\|Dar al-Islam Overview]] (pp. 15–22) — Dar al-Islam:** Muslim merchants were the dominant commercial force on the Indian Ocean. The Abbasid Caliphate's trade networks extended across the ocean. See [[Unit-1.2/Dar al-Islam Overview\|Dar al-Islam Overview]] (pp. 15–22).
 
-**Topic 1.3 — South & Southeast Asia:** Indian Ocean trade brought Indian culture (Hinduism, Buddhism, Sanskrit) to Southeast Asia centuries before Islam arrived. The Srivijaya and Majapahit empires were built on Indian Ocean commerce. See [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]].
+**[[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] (pp. 23–32) — South & Southeast Asia:** Indian Ocean trade brought Indian culture (Hinduism, Buddhism, Sanskrit) to Southeast Asia centuries before Islam arrived. The Srivijaya and Majapahit empires were built on Indian Ocean commerce. See [[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] (pp. 23–32).
 
-**Topic 1.5 — Africa:** The Swahili city-states were the African anchor of the Indian Ocean network. Great Zimbabwe's gold fueled East African trade. See [[Unit-1.5/Africa Overview|Africa Overview]].
+**[[Unit-1.5/Africa Overview\|Africa Overview]] (pp. 43–52) — Africa:** The Swahili city-states were the African anchor of the Indian Ocean network. Great Zimbabwe's gold fueled East African trade. See [[Unit-1.5/Africa Overview\|Africa Overview]] (pp. 43–52).
 
-**Topic 2.3:** Indian Ocean trade is a primary topic for Unit 2. This concept note lays the Unit 1 foundation.
+**[[Unit-2.3/Indian Ocean Overview\|Indian Ocean Overview]] (pp. 95–102):** Indian Ocean trade is a primary topic for Unit 2. This concept note lays the Unit 1 foundation.
 
 **Related concepts:** [[Concept Notes/Trans-Saharan Trade|Trans-Saharan Trade]] (parallel land-based African trade network); [[Concept Notes/Silk Roads|Silk Roads]] (parallel overland Eurasian network); [[Concept Notes/Sufism|Sufism]] (spread via these routes).
 
@@ -74,7 +74,7 @@ A significant **Indian Ocean slave trade** ran between East Africa and the Middl
 
 ## Referenced By
 
-- [[Unit-1.2/Connections|Connections — Topic 1.2]]
-- [[Unit-1.3/Connections|Connections — Topic 1.3]]
-- [[Unit-1.5/Africa Overview|Africa Overview]]
-- [[Unit-1.5/Connections|Connections — Topic 1.5]]
+- [[Unit-1.2/Connections\|Connections — Topic 1.2]]
+- [[Unit-1.3/Connections\|Connections — Topic 1.3]]
+- [[Unit-1.5/Africa Overview\|Africa Overview]] (pp. 43–52)
+- [[Unit-1.5/Connections\|Connections — Topic 1.5]]

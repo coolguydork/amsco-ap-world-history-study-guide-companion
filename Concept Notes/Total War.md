@@ -24,10 +24,10 @@ tags: [apwh, concept-note, total-war, wwi, wwii, governance, technology]
 
 ## AP Appearances
 
-**Topic 7.3 — Conducting World War I** (primary source)
+**[[Unit-7.3/Conducting World War I Overview\|Conducting World War I Overview]] (pp. 469–479)** (primary source)
 WWI was the first major example of total war at industrial scale. All belligerent governments adopted total war measures: economic planning, propaganda campaigns, censorship, and conscription. See [[Unit-7.3/Themes & Historical Reasoning\|7.3 Themes]] for full analysis.
 
-**Topic 7.7 — Conducting World War II**
+**[[Unit-7.7/Conducting World War II Overview\|Conducting World War II Overview]] (pp. 511–520)**
 WWII escalated every dimension of total war: air campaigns targeting civilian cities (London Blitz, Dresden, Hiroshima), genocide as a state policy, and even larger industrial mobilization. The U.S. conversion of civilian factories to war production is a classic WWII total war example.
 
 ## Exam Angle
@@ -35,4 +35,4 @@ WWII escalated every dimension of total war: air campaigns targeting civilian ci
 Total war is evidence for the **GOV theme** (governance extending into civilian life) and **SIO theme** (war restructuring society). For AP free response, use total war to explain *why* WWI and WWII changed civilian life so dramatically compared to earlier conflicts — and why the death tolls reached unprecedented levels.
 
 > [!exam-tip]
-> Contrast total war with earlier "limited wars" like the Seven Years' War (Topic 3.3), which were fought primarily by professional armies without mass civilian mobilization. The shift to total war in the 20th century reflects both industrialization (capacity) and nationalism (willingness to mobilize entire populations).
+> Contrast total war with earlier "limited wars" like the Seven Years' War ([[Unit-3.3/Empires: Belief Systems Overview\|Topic 3.3]] (pp. 167–176)), which were fought primarily by professional armies without mass civilian mobilization. The shift to total war in the 20th century reflects both industrialization (capacity) and nationalism (willingness to mobilize entire populations).

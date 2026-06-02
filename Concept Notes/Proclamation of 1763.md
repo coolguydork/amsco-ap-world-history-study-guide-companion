@@ -48,6 +48,6 @@ On the AP exam, the Proclamation of 1763 appears as an early example of the tens
 
 ## Cross-Topic Connections
 
-- **[[Unit-5.1/Enlightenment Overview\|Enlightenment Overview]]** — Enlightenment ideas about natural rights and limited government that colonists used to justify resistance
-- **[[Unit-5.2/Nationalism & Revolutions Overview\|Nationalism & Revolutions Overview]]** — The Proclamation as one of the triggering grievances of the American Revolution
+- **[[Unit-5.1/Enlightenment Overview\|Enlightenment Overview]] (pp. 275–284)** — Enlightenment ideas about natural rights and limited government that colonists used to justify resistance
+- **[[Unit-5.2/Nationalism & Revolutions Overview\|Nationalism & Revolutions Overview]] (pp. 285–296)** — The Proclamation as one of the triggering grievances of the American Revolution
 - **[[Unit-5.2/People, States & Movements\|People, States & Movements — Topic 5.2]]** — Colonial leaders who opposed British imperial policy

@@ -57,7 +57,7 @@ Joint-stock companies are the institutional ancestor of the modern corporation. 
 
 **CCOT:** Before 1600, large-scale trade ventures were funded by monarchs or individual merchant princes. After 1600, middle-class investors could participate through shares — a democratization of commercial risk and reward.
 
-**Forward connection:** The EIC's transformation from trading company to governing body (Topic 5.4) illustrates how commercial power converted to political power during industrialization.
+**Forward connection:** The EIC's transformation from trading company to governing body ([[Unit-5.4/Industrialization Spreads Overview\|Industrialization Spreads Overview]] (pp. 304–309)) illustrates how commercial power converted to political power during industrialization.
 
 ## Vault Cross-References
 

@@ -35,11 +35,11 @@ The Silk Roads are central to **Unit 2** (Networks of Exchange) and appear repea
 
 ---
 
-## Topic 1.1 Connection — East Asia as Eastern Anchor (AMSCO pp. 3–8)
+## [[Unit-1.1/East Asia Overview\|East Asia Overview]] (pp. 3–14) Connection — East Asia as Eastern Anchor (AMSCO pp. 3–8)
 
 Song Dynasty China anchored the eastern end of the Silk Roads. Chinese exports — **silk, porcelain, and tea** — were the luxury goods that made the routes economically viable. Chinese innovations — **gunpowder, the compass, and woodblock printing** — traveled westward along these routes over centuries, eventually reshaping warfare, navigation, and literacy across Eurasia. Buddhist ideas also spread eastward into China via the Silk Roads (Xuanzang's pilgrimage to India being a famous example).
 
-→ Full context: [[Unit-1.1/East Asia Overview|Topic 1.1 — East Asia Overview]]
+→ Full context: [[Unit-1.1/East Asia Overview\|East Asia Overview]] (pp. 3–14)
 
 ---
 
@@ -53,7 +53,7 @@ Song Dynasty China anchored the eastern end of the Silk Roads. Chinese exports �
 | **2.6** | Black Death spreads via Silk Road networks |
 | **4.1** | European maritime technology eventually bypasses the Silk Roads |
 
-*This note will be substantially expanded when Topic 2.1 is added to the vault — that is the dedicated Silk Roads topic.*
+→ Primary coverage: [[Unit-2.1/Silk Roads Overview\|Silk Roads Overview]] (pp. 77–84) — the dedicated Silk Roads topic.
 
 ---
 

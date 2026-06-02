@@ -17,7 +17,7 @@ tags: [apwh, concept-note, europe, economic-systems, trade-networks, governance]
 The dominant European economic doctrine c. 1450–1750: national wealth equals gold and silver reserves; states should maximize exports, minimize imports, and use colonies as sources of raw materials and captive markets for finished goods. Government-directed rather than market-directed. *(AMSCO p. 232–233)*
 
 > [!warning]
-> Mercantilism is frequently confused with capitalism on the AP exam. Mercantilism = government-directed accumulation of bullion and trade surpluses through colonial extraction. Free-market capitalism (Adam Smith, laissez-faire) develops later, as a *reaction against* mercantilism — Topic 5.1 and 5.7.
+> Mercantilism is frequently confused with capitalism on the AP exam. Mercantilism = government-directed accumulation of bullion and trade surpluses through colonial extraction. Free-market capitalism (Adam Smith, laissez-faire) develops later, as a *reaction against* mercantilism — [[Unit-5.1/Enlightenment Overview\|Enlightenment Overview]] (pp. 275–284) and [[Unit-5.7/Economic Developments & Innovations Overview\|Economic Developments & Innovations Overview]] (pp. 325–331).
 
 ## Core Principles
 
@@ -46,7 +46,7 @@ The massive influx of American silver into Europe caused the **Price Revolution*
 
 ## Transition to Capitalism
 
-The mercantilist era ended gradually as theorists — especially Adam Smith (*The Wealth of Nations*, 1776) — argued that free markets, not government direction, produce national wealth. Smith's **laissez-faire** capitalism became the ideological foundation for 19th-century industrial economies. The shift from mercantilism to capitalism is one of the AP's central economic transition moments. *(Topic 5.1, 5.7)*
+The mercantilist era ended gradually as theorists — especially Adam Smith (*The Wealth of Nations*, 1776) — argued that free markets, not government direction, produce national wealth. Smith's **laissez-faire** capitalism became the ideological foundation for 19th-century industrial economies. The shift from mercantilism to capitalism is one of the AP's central economic transition moments. *([[Unit-5.1/Enlightenment Overview\|Enlightenment Overview]] (pp. 275–284), [[Unit-5.7/Economic Developments & Innovations Overview\|Economic Developments & Innovations Overview]] (pp. 325–331))*
 
 ## AP Exam Threads
 

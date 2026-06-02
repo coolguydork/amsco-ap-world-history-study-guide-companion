@@ -22,5 +22,5 @@ It also illustrates the **irony of colonial medicine**: a medicine derived from 
 
 ## Key Connections
 
-- **[[Unit-6.2/State Expansion Overview\|Topic 6.2 — State Expansion]]:** Quinine identified as a key enabling technology for the Scramble for Africa; allowed Europeans to survive in tropical Africa and penetrate river interiors (AMSCO p. 376)
-- **[[Unit-6.1/Rationales for Imperialism Overview\|Topic 6.1 — Rationales for Imperialism]]:** Technological superiority (including medical) as an enabling condition for imperial ideology and practice
+- **[[Unit-6.2/State Expansion Overview\|State Expansion Overview]] (pp. 375–387):** Quinine identified as a key enabling technology for the Scramble for Africa; allowed Europeans to survive in tropical Africa and penetrate river interiors (AMSCO p. 376)
+- **[[Unit-6.1/Rationales for Imperialism Overview\|Rationales for Imperialism Overview]] (pp. 367–374):** Technological superiority (including medical) as an enabling condition for imperial ideology and practice

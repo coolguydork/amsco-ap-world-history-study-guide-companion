@@ -37,7 +37,7 @@ The ideology and political movement of the National Socialist German Workers' Pa
 
 ## AP Connections
 
-- [[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]] — Nazism is the primary cause of WWII in Europe
+- [[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]] (pp. 503–510) — Nazism is the primary cause of WWII in Europe
 - [[Concept Notes/Fascism\|Fascism]] — Nazism is a radicalized variant of Italian fascism, adding racial pseudoscience
 - [[Concept Notes/Weimar Republic\|Weimar Republic]] — structural conditions that enabled Nazism's rise
 - [[Concept Notes/Great Depression\|Great Depression]] — economic crisis that gave the Nazi Party mass appeal

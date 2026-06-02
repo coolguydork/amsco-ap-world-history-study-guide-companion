@@ -49,12 +49,12 @@ The Church's internal response: the Council of Trent (1545–1563) clarified doc
 
 ## Connection to the Enlightenment
 
-*(Topic 5.1)*
+*(see [[Unit-5.1/Enlightenment Overview\|Enlightenment Overview]] (pp. 275–284))*
 
 The Reformation's core move — challenging established authority on principled grounds — was a prerequisite for Enlightenment thought. Hobbes wrote *Leviathan* (1651) against the backdrop of English religious war; Locke's *Two Treatises* (1689) drew on the Glorious Revolution as proof that governments can be legitimately overthrown. The Reformation demonstrated that intellectual authority could be challenged; the Enlightenment applied the same logic to political authority.
 
 > [!tip]
-> **AP comparison thread:** Protestant Reformation (challenge to Catholic religious authority in Europe) ↔ Sunni–Shia split (challenge to Islamic political-religious authority, Topic 3.1). Both are internal religious fractures used by political actors as weapons. Both ended in partial negotiated settlements. Key difference: the Shia–Sunni split was about political succession as much as theology; the Reformation involved new doctrinal claims about salvation.
+> **AP comparison thread:** Protestant Reformation (challenge to Catholic religious authority in Europe) ↔ Sunni–Shia split (challenge to Islamic political-religious authority, [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview\|European, East Asian & Gunpowder Empires Expand Overview]] (pp. 143–154)). Both are internal religious fractures used by political actors as weapons. Both ended in partial negotiated settlements. Key difference: the Shia–Sunni split was about political succession as much as theology; the Reformation involved new doctrinal claims about salvation.
 
 ## AP Exam Threads
 

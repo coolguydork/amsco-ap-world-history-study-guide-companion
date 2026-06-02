@@ -29,6 +29,6 @@ Liberation theology emerged in the context of extreme inequality in Latin Americ
 **AP Significance:** Liberation theology is an AP-relevant example of: (1) religious reform movements challenging political authority; (2) the intersection of CDI (religious ideas) and GOV (state repression/reform); (3) a distinctly Global South adaptation of a religion introduced through colonialism (Catholicism) to serve anti-colonial and anti-authoritarian ends.
 
 **Cross-topic connections:**
-- [[Unit-9.5/Calls for Reform & Responses Overview\|Topic 9.5]] — cultural/religious reform movement; Pope Francis
-- [[Unit-8.5/Decolonization after 1900 Overview\|Topic 8.5]] — anti-colonial intellectual movements
-- [[Unit-7.4/Economy in the Interwar Period Overview\|Topic 7.4]] — Latin American economic inequality as background context
+- [[Unit-9.5/Calls for Reform & Responses Overview\|Calls for Reform & Responses Overview]] (pp. 667–678) — cultural/religious reform movement; Pope Francis
+- [[Unit-8.5/Decolonization after 1900 Overview\|Decolonization after 1900 Overview]] (pp. 579–588) — anti-colonial intellectual movements
+- [[Unit-7.4/Economy in the Interwar Period Overview\|Economy in the Interwar Period Overview]] — Latin American economic inequality as background context

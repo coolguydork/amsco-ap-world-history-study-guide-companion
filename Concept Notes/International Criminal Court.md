@@ -30,6 +30,6 @@ ICC enforcement depends on state cooperation; the U.S., China, and Russia have n
 
 ## AP Connections
 
-- **[[Unit-7.8/Mass Atrocities Overview\|Mass Atrocities Overview]]** — Darfur, Bosnia, and the ICC's role
+- **[[Unit-7.8/Mass Atrocities Overview\|Mass Atrocities Overview]] (pp. 521–530)** — Darfur, Bosnia, and the ICC's role
 - **[[Concept Notes/Holocaust\|Holocaust]]** — The Nuremberg Trials precedent that led to the ICC
 - **[[Concept Notes/Genocide\|Genocide]]** — The ICC's primary mandate includes genocide prosecution

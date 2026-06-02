@@ -50,11 +50,11 @@ Buddhism is one of the clearest examples of **syncretism** in AP World History �
 
 ## Key Connections Across Topics
 
-**Topic 1.1 — East Asia:** Chan/Zen Buddhism and its relationship to Neo-Confucianism; Buddhism in Japan and Korea. See [[Unit-1.1/Key Terms & Concepts|Key Terms & Concepts — Topic 1.1]] and [[Unit-1.1/East Asia Overview|East Asia Overview]].
+**[[Unit-1.1/East Asia Overview\|East Asia Overview]] (pp. 3–14) — East Asia:** Chan/Zen Buddhism and its relationship to Neo-Confucianism; Buddhism in Japan and Korea. See [[Unit-1.1/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.1]] and [[Unit-1.1/East Asia Overview\|East Asia Overview]] (pp. 3–14).
 
-**Topic 1.3 — South & Southeast Asia:** Hindu-Buddhist synthesis; Buddhism's decline in India; Theravada in Southeast Asia; Buddhist kingdoms (Khmer, Srivijaya). See [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]].
+**[[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] (pp. 23–32) — South & Southeast Asia:** Hindu-Buddhist synthesis; Buddhism's decline in India; Theravada in Southeast Asia; Buddhist kingdoms (Khmer, Srivijaya). See [[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] (pp. 23–32).
 
-**Topic 1.7 — Comparison:** Buddhism appears in the cross-regional comparison of how universalizing religions spread and adapted. See [[Unit-1.7/Themes & Historical Reasoning|Themes & Historical Reasoning — Topic 1.7]].
+**[[Unit-1.7/Comparison Overview\|Comparison Overview]] (pp. 65–73) — Comparison:** Buddhism appears in the cross-regional comparison of how universalizing religions spread and adapted. See [[Unit-1.7/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.7]].
 
 **Concept Notes:** [[Concept Notes/Syncretism|Syncretism]] (adaptation to local cultures); [[Concept Notes/Silk Roads|Silk Roads]] (primary transmission route).
 
@@ -67,8 +67,8 @@ Buddhism is one of the clearest examples of **syncretism** in AP World History �
 
 ## Referenced By
 
-- [[Unit-1.1/Key Terms & Concepts|Key Terms & Concepts — Topic 1.1]]
-- [[Unit-1.1/Themes & Historical Reasoning|Themes & Historical Reasoning — Topic 1.1]]
-- [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]]
-- [[Unit-1.3/Key Terms & Concepts|Key Terms & Concepts — Topic 1.3]]
-- [[Unit-1.7/Comparison Overview|Comparison Overview — Topic 1.7]]
+- [[Unit-1.1/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.1]]
+- [[Unit-1.1/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.1]]
+- [[Unit-1.3/South & Southeast Asia Overview\|South & Southeast Asia Overview]] (pp. 23–32)
+- [[Unit-1.3/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.3]]
+- [[Unit-1.7/Comparison Overview\|Comparison Overview — Topic 1.7]] (pp. 65–73)

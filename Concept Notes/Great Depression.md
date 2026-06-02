@@ -42,7 +42,7 @@ In the **United States**, strong democratic institutions and the New Deal preser
 
 ## AP Connections
 
-- **[[Unit-7.3/Conducting World War I Overview\|Topic 7.3]]** — WWI reparations caused Weimar hyperinflation; created the fragility the Depression shattered
-- **[[Unit-7.4/Economy in the Interwar Period Overview\|Topic 7.4]]** — Core topic; government responses compared
-- **Topic 7.6** — Depression → fascist rise → WWII (causes of WWII)
-- **Unit 6 Imperialism** — Colonial economies devastated; accelerated anticolonial nationalism
+- **[[Unit-7.3/Conducting World War I Overview\|Conducting World War I Overview]] (pp. 469–479)** — WWI reparations caused Weimar hyperinflation; created the fragility the Depression shattered
+- **[[Unit-7.4/Economy in the Interwar Period Overview\|Economy in the Interwar Period Overview]]** — Core topic; government responses compared
+- **[[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]] (pp. 503–510)** — Depression → fascist rise → WWII (causes of WWII)
+- **[[Unit-6.4/Global Economic Development Overview\|Global Economic Development Overview]] (pp. 398–406)** / **[[Unit-6.5/Economic Imperialism Overview\|Economic Imperialism Overview]] (pp. 407–416)** — Colonial economies devastated; accelerated anticolonial nationalism

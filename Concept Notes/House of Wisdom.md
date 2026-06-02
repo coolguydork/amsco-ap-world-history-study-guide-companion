@@ -41,18 +41,18 @@ Islamic preservation and advancement of Greek knowledge flowed into Europe throu
 1. **Al-Andalus (Islamic Spain):** Córdoba, Toledo, and Seville were centers where Arabic texts were translated into Latin, accessible to European scholars.
 2. **The Crusades and Mediterranean trade:** Contact between Islamic and European cultures during the Crusades facilitated intellectual exchange.
 
-This transmission helped spark the European **Renaissance** (14th–17th centuries) and **Scholasticism** (the synthesis of Aristotle with Christian theology, championed by Thomas Aquinas). See [[Unit-1.6/Key Terms & Concepts|Key Terms & Concepts — Topic 1.6]].
+This transmission helped spark the European **Renaissance** (14th–17th centuries) and **Scholasticism** (the synthesis of Aristotle with Christian theology, championed by Thomas Aquinas). See [[Unit-1.6/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.6]].
 
 > [!warning]
 > The "Dark Ages" narrative that Europe was intellectually stagnant while Islamic civilization flourished is a simplification. European monasteries preserved much classical learning. But it is accurate that the Islamic world was the more dynamic intellectual center during 800–1200 CE, and that Islamic scholars made original contributions far beyond mere preservation.
 
 ## Key Connections Across Topics
 
-**Topic 1.2 — Dar al-Islam:** The House of Wisdom is the crown jewel of the Islamic Golden Age under the Abbasids. See [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]] and [[Unit-1.2/Themes & Historical Reasoning|Themes & Historical Reasoning — Topic 1.2]].
+**[[Unit-1.2/Dar al-Islam Overview\|Dar al-Islam Overview]] (pp. 15–22) — Dar al-Islam:** The House of Wisdom is the crown jewel of the Islamic Golden Age under the Abbasids. See [[Unit-1.2/Dar al-Islam Overview\|Dar al-Islam Overview]] (pp. 15–22) and [[Unit-1.2/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.2]].
 
-**Topic 1.6 — Europe:** European scholasticism (especially Aquinas) drew heavily on Aristotle as transmitted through Islamic translations. See [[Unit-1.6/Key Terms & Concepts|Key Terms & Concepts — Topic 1.6]].
+**[[Unit-1.6/Medieval Europe Overview\|Medieval Europe Overview]] (pp. 53–64) — Europe:** European scholasticism (especially Aquinas) drew heavily on Aristotle as transmitted through Islamic translations. See [[Unit-1.6/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.6]].
 
-**Topic 1.7 — Comparison:** The House of Wisdom is evidence for the Islamic world's intellectual leadership compared to contemporary Europe. See [[Unit-1.7/Comparison Overview|Comparison Overview — Topic 1.7]].
+**[[Unit-1.7/Comparison Overview\|Comparison Overview]] (pp. 65–73) — Comparison:** The House of Wisdom is evidence for the Islamic world's intellectual leadership compared to contemporary Europe. See [[Unit-1.7/Comparison Overview\|Comparison Overview — Topic 1.7]] (pp. 65–73).
 
 **Related concepts:** [[Concept Notes/Syncretism|Syncretism]] (intellectual blending); [[Concept Notes/Mongols|Mongols]] (whose 1258 sack ended the Abbasid Caliphate and damaged this institution).
 
@@ -65,6 +65,6 @@ This transmission helped spark the European **Renaissance** (14th–17th centuri
 
 ## Referenced By
 
-- [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]]
-- [[Unit-1.2/Key Terms & Concepts|Key Terms & Concepts — Topic 1.2]]
-- [[Unit-1.7/Themes & Historical Reasoning|Themes & Historical Reasoning — Topic 1.7]]
+- [[Unit-1.2/Dar al-Islam Overview\|Dar al-Islam Overview]] (pp. 15–22)
+- [[Unit-1.2/Key Terms & Concepts\|Key Terms & Concepts — Topic 1.2]]
+- [[Unit-1.7/Themes & Historical Reasoning\|Themes & Historical Reasoning — Topic 1.7]]

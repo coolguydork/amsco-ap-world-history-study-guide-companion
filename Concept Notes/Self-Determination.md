@@ -20,16 +20,16 @@ The principle that peoples and nations have the right to determine their own pol
 
 ## Key Connections by Topic
 
-**Topic 7.2 — Causes of World War I / Rise of Nationalism**
+**[[Unit-7.2/Causes of World War I Overview\|Causes of World War I Overview]] (pp. 461–468) — Rise of Nationalism**
 Nationalism — the belief that each ethnic or cultural group deserves its own state — is self-determination's ideological foundation. In the multi-ethnic Austro-Hungarian and Ottoman Empires, nationalist self-determination movements were a direct cause of WWI. South Slavic peoples demanding union with Serbia sparked the assassination of Archduke Franz Ferdinand.
 
-**Topic 7.3 — World War I and the Paris Peace Conference**
+**[[Unit-7.3/Conducting World War I Overview\|Conducting World War I Overview]] (pp. 469–479) — WWI and the Paris Peace Conference**
 Woodrow Wilson's Fourteen Points explicitly championed self-determination for European peoples. The Paris Peace Conference (1919) applied it selectively: new states (Poland, Czechoslovakia, Yugoslavia) were created in Europe, but the same principle was denied to colonized peoples in Africa and Asia. Ho Chi Minh famously appealed to Wilson for Vietnamese self-determination and was ignored. This hypocrisy fueled anti-colonial nationalism for decades.
 
-**Topic 8.1 — The Cold War**
+**[[Unit-8.1/Setting the Stage for the Cold War & Decolonization Overview\|Setting the Stage for the Cold War & Decolonization Overview]] (pp. 547–553) — The Cold War**
 Both the U.S. and Soviet Union deployed self-determination rhetoric in competition for the loyalty of newly independent nations. The U.S. framed its Cold War interventions as defending peoples' freedom from communist domination; the Soviet Union framed its as liberating peoples from capitalist imperialism. In practice, both superpowers undermined self-determination when their strategic interests conflicted with it (U.S. in Iran, Guatemala, Chile; USSR in Hungary, Czechoslovakia).
 
-**Topic 8.5–8.6 — Decolonization**
+**[[Unit-8.5/Decolonization after 1900 Overview\|Decolonization after 1900 Overview]] (pp. 579–588) / [[Unit-8.6/Newly Independent States Overview\|Newly Independent States Overview]] (pp. 589–597) — Decolonization**
 The post-WWII decolonization wave was the most successful application of self-determination. The [[Concept Notes/United Nations\|United Nations]] Charter affirmed the right of all peoples to self-determination, and newly independent nations used this framework to demand an end to colonial rule. By 1975, most of Africa and Asia had achieved formal independence.
 
 ---
