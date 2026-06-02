@@ -24,27 +24,27 @@ Maritime technology and gunpowder weapons enabled the early-modern age of explor
 ## Leads To (Forward Connections)
 
 **Technological Advancements — Diseases**[[Unit-9.2/Technological Advancements & Limitations — Disease Overview|Technological Advancements & Limitations — Disease Overview]] ← folder not yet built
-The same technologies enabling global exchange (air travel, container shipping, mass migration) also accelerated the spread of disease. Topic 9.2 explores how connected the benefits and costs of 9.1's transportation revolution truly are.
+The same technologies enabling global exchange (air travel, container shipping, mass migration) also accelerated the spread of disease. [[Unit-9.2/Technological Advancements & Limitations — Disease Overview|Topic 9.2]] explores how connected the benefits and costs of 9.1's transportation revolution truly are.
 
 **Technology and the Environment**[[Unit-9.3/Technology & the Environment Overview|Technology & the Environment Overview]] ← folder not yet built
 The [[Concept Notes/Green Revolution\|Green Revolution]]'s chemical use, fossil fuel expansion, and deforestation introduced here connect directly to the environmental degradation addressed in 9.3. The trade-off between technological productivity and environmental health is the through-line.
 
 **Economics in the Global Age** [[Unit-9.4/Economics in the Global Age Overview|Economics in the Global Age Overview]] ← folder not yet built
-Shipping containers and the internet created the material and informational infrastructure for the global economic integration Topic 9.4 analyzes. Without these technologies, global supply chains, outsourcing, and the knowledge economy would be impossible.
+Shipping containers and the internet created the material and informational infrastructure for the global economic integration [[Unit-9.4/Economics in the Global Age Overview|Topic 9.4]] analyzes. Without these technologies, global supply chains, outsourcing, and the knowledge economy would be impossible.
 
 ---
 
 ## Cross-Unit AP Connections
 
-**Topic 8.1 — The Cold War** — The Space Race and ARPANET/internet emerged directly from Cold War state competition. Technology (Sputnik, Apollo, nuclear energy) was a primary arena of U.S.-Soviet rivalry. This is a classic example of geopolitical competition producing civilian technological spin-offs.
+**[[Unit-8.1/Setting the Stage for the Cold War & Decolonization Overview|Topic 8.1]] — The Cold War** — The Space Race and ARPANET/internet emerged directly from Cold War state competition. Technology (Sputnik, Apollo, nuclear energy) was a primary arena of U.S.-Soviet rivalry. This is a classic example of geopolitical competition producing civilian technological spin-offs.
 
-**Topic 8.5 — Decolonization** — The Green Revolution was partly designed to prevent newly independent developing nations from turning to communism by addressing food insecurity. U.S. agricultural aid was as much Cold War strategy as humanitarian effort.
+**[[Unit-8.5/Decolonization after 1900 Overview|Topic 8.5]] — Decolonization** — The Green Revolution was partly designed to prevent newly independent developing nations from turning to communism by addressing food insecurity. U.S. agricultural aid was as much Cold War strategy as humanitarian effort.
 
-**Topic 9.5 — Calls for Reform** — Birth control and women's roles in the workforce connect directly to feminist movements. The oral contraceptive pill is one of the material technological causes of the women's rights movements analyzed in 9.5.
+**[[Unit-9.5/Calls for Reform & Responses Overview|Topic 9.5]] — Calls for Reform** — Birth control and women's roles in the workforce connect directly to feminist movements. The oral contraceptive pill is one of the material technological causes of the women's rights movements analyzed in 9.5.
 
-**Topic 9.6 — Globalized Culture** — The internet and social media are the primary mechanisms by which cultural globalization (the spread of music, film, fashion, ideas across borders) occurred in Period 4.
+**[[Unit-9.6/Globalized Culture Overview|Topic 9.6]] — Globalized Culture** — The internet and social media are the primary mechanisms by which cultural globalization (the spread of music, film, fashion, ideas across borders) occurred in Period 4.
 
-**Topic 9.8 — International Institutions** — WHO vaccine campaigns and agricultural research programs (Rockefeller Foundation, CGIAR) illustrate how international institutions channeled technology to address global problems.
+**[[Unit-9.8/Institutions Developing in a Globalized World Overview|Topic 9.8]] — International Institutions** — WHO vaccine campaigns and agricultural research programs (Rockefeller Foundation, CGIAR) illustrate how international institutions channeled technology to address global problems.
 
 ---
 

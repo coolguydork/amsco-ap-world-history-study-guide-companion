@@ -12,13 +12,13 @@ tags: [apwh, unit-2, topic-2-6, period-1]
 **Topics 2.1–2.5 — The exchange networks themselves**
 The Silk Roads, Indian Ocean network, and trans-Saharan routes are the vectors for everything in 2.6. Without those networks, Champa rice stays in Vietnam, bananas stay in Southeast Asia, and the [[Concept Notes/Black Death\|Black Death]] stays in Central Asia. The environmental consequences of 2.6 are the direct byproduct of the connectivity built in 2.1–2.5. See: [[Concept Notes/Silk Roads|Silk Roads]], [[Concept Notes/Indian Ocean Trade Network|Indian Ocean Trade Network]], [[Concept Notes/Trans-Saharan Trade|Trans-Saharan Trade]].
 
-**Topic 1.1 — East Asian agriculture**
+**[[Unit-1.1/East Asia Overview|Topic 1.1 — East Asian agriculture]]**
 Champa rice transforms Chinese agriculture — but that story begins with the farming practices already in place in Song China [[Unit-1.1/East Asia Overview|East Asia Overview]]. AMSCO explicitly asks students to compare Chinese farming techniques with Indonesian or Vietnamese techniques. (AMSCO p. 122)
 
-**Topic 1.5 — Great Zimbabwe**
-Overgrazing is the environmental cause of Great Zimbabwe's decline. That context is set up in Topic 1.5. (AMSCO p. 123)
+**[[Unit-1.5/Africa Overview|Topic 1.5 — Great Zimbabwe]]**
+Overgrazing is the environmental cause of Great Zimbabwe's decline. That context is set up in [[Unit-1.5/Africa Overview|Topic 1.5]]. (AMSCO p. 123)
 
-**Topic 1.6 — Medieval Europe**
+**[[Unit-1.6/Medieval Europe Overview|Topic 1.6 — Medieval Europe]]**
 The Black Death hits a Europe already weakened by feudal agriculture and early deforestation. The social and economic vulnerability of feudal Europe [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]] makes it particularly susceptible to the plague's demographic consequences. See: [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]], [[Concept Notes/Feudalism|Feudalism]].
 
 **[[Concept Notes/Mongols|Mongols]] and [[Concept Notes/Pax Mongolica|Pax Mongolica]]**
@@ -26,11 +26,11 @@ The Mongol conquests created both the trade infrastructure and the conditions fo
 
 ## Forward Connections — What 2.6 Makes Possible
 
-**Topic 4.3 — Columbian Exchange**
+**[[Unit-4.3/Columbian Exchange Overview|Topic 4.3 — Columbian Exchange]]**
 The Columbian Exchange (c. 1492 onward) is the next great episode of biological exchange — crops, animals, and diseases moving across new networks (Atlantic trade routes) after European contact with the Americas. It mirrors Topic 2.6's structure exactly: agricultural diffusion, population effects, and epidemic disease (smallpox killing up to 90% of indigenous populations). The Black Death is the most powerful precedent for understanding why the Columbian Exchange's disease component was so devastating.
 
-**Topic 9.8 — Industrial environmental consequences**
-The Industrial Revolution produced the next major wave of human-caused environmental degradation: air and water pollution, deforestation at industrial scale, and climate change. Topic 2.6 establishes the pattern — economic growth creates environmental costs — that Topic 9.8 examines at far greater scale.
+**[[Unit-9.8/Institutions Developing in a Globalized World Overview|Topic 9.8 — Industrial environmental consequences]]**
+The Industrial Revolution produced the next major wave of human-caused environmental degradation: air and water pollution, deforestation at industrial scale, and climate change. Topic 2.6 establishes the pattern — economic growth creates environmental costs — that [[Unit-9.8/Institutions Developing in a Globalized World Overview|Topic 9.8]] examines at far greater scale.
 
 ## Lateral Connections — Compare Across Regions
 

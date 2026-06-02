@@ -20,18 +20,18 @@ Topic 4.8 is the synthesis topic for Unit 4. Every prior topic feeds into it:
 - [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power Overview]] — how social/economic disruption bred resistance
 - [[Unit-4.7/Changing Social Hierarchies Overview|Changing Social Hierarchies Overview]] — the social structures that economic change produced
 
-**Topic 2.7 — Earlier Trade Networks for Comparison**
+**[[Unit-2.7/Comparison of Economic Exchange Overview|Topic 2.7 — Earlier Trade Networks for Comparison]]**
 Topic 4.8 explicitly connects to Unit 2's treatment of pre-1450 exchange networks. The Indian Ocean trade, Silk Roads, and trans-Saharan routes all predate the Atlantic System and provide the baseline for measuring change.
 → [[Unit-2.7/Comparison of Economic Exchange Overview|Comparison of Economic Exchange Overview]]
 
 ## Leads To
 
-**Topic 5.3 — [[Concept Notes/Industrialization\|Industrialization]]**
-The [[Concept Notes/Joint-Stock Companies|joint-stock companies]], accumulated merchant capital, and mercantile-to-capitalist transition of 1450–1750 are the direct preconditions for the Industrial Revolution. Britain's commercial wealth — built through Atlantic trade — financed the factories and infrastructure of industrialization. **(Topic 5.3 — not yet built)**
+**[[Unit-5.3/Industrial Revolution Begins Overview|Topic 5.3]] — [[Concept Notes/Industrialization\|Industrialization]]**
+The [[Concept Notes/Joint-Stock Companies|joint-stock companies]], accumulated merchant capital, and mercantile-to-capitalist transition of 1450–1750 are the direct preconditions for the Industrial Revolution. Britain's commercial wealth — built through Atlantic trade — financed the factories and infrastructure of industrialization. **([[Unit-5.3/Industrial Revolution Begins Overview|Topic 5.3]] — not yet built)**
 
 ## Compare With
 
-**Topic 2.7 — Pre-1450 Trade Networks**
+**[[Unit-2.7/Comparison of Economic Exchange Overview|Topic 2.7 — Pre-1450 Trade Networks]]**
 How did the Indian Ocean trade of 1200–1450 compare to the Atlantic System of 1492–1750? Key differences: the Indian Ocean network was decentralized and multi-actor (Arab, Indian, Chinese, East African merchants all participated); the Atlantic System was dominated by European states and their chartered companies. Key similarity: both organized long-distance exchange of specialized goods using complementary regional products.
 → [[Unit-2.7/Comparison of Economic Exchange Overview|Comparison of Economic Exchange Overview]]
 

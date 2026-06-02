@@ -24,7 +24,7 @@ The [[Concept Notes/Holocaust\|Holocaust]] directly motivated the Universal Decl
 ## Leads To (What This Prepares)
 
 **The Cold War [[Unit-8.2/Cold War Overview|Cold War Overview]]** ← folder not yet built
-The Truman Doctrine, Marshall Plan, Berlin Blockade, and [[Concept Notes/NATO\|NATO]] formation all flow directly from the tensions established in 8.1. Topic 8.2 fills in how the Cold War was institutionalized and exported globally.
+The Truman Doctrine, Marshall Plan, Berlin Blockade, and [[Concept Notes/NATO\|NATO]] formation all flow directly from the tensions established in 8.1. [[Unit-8.2/Cold War Overview|Topic 8.2]] fills in how the Cold War was institutionalized and exported globally.
 
 **Decolonization After 1900 [[Unit-8.5/Decolonization after 1900 Overview|Decolonization after 1900 Overview]]** ← folder not yet built
 The three structural conditions identified in 8.1 (weakened colonial powers, strengthened nationalist movements, Cold War leverage) are the causal framework for understanding how specific colonies achieved independence in 8.5.
@@ -33,10 +33,10 @@ The three structural conditions identified in 8.1 (weakened colonial powers, str
 
 ## Compare With
 
-**Post-WWI (Topic 7.2 — the Paris Peace Conference)**
+**Post-WWI ([[Unit-7.2/Causes of World War I Overview|Topic 7.2]] — the Paris Peace Conference)**
 WWI also created an opportunity for [[Concept Notes/Self-Determination\|self-determination]] — Wilson's Fourteen Points — but colonial peoples were denied it at Paris. Compare: after WWI, the colonial powers were weakened but not weak enough; anti-colonial movements existed but weren't yet mass movements; and no Cold War competition gave nationalists leverage. After WWII, all three conditions were different. This comparison directly answers: why did decolonization succeed after WWII but not after WWI?
 
-**The [[Concept Notes/Mandate System\|Mandate System]] (Topic 7.2 — Paris Peace Conference)**
+**The [[Concept Notes/Mandate System\|Mandate System]] ([[Unit-7.2/Causes of World War I Overview|Topic 7.2]] — Paris Peace Conference)**
 After WWI, the League of Nations Mandate System *replaced* Ottoman and German colonies with European administration — formally a new layer of colonial control. After WWII, the UN system instead created a framework for self-determination and human rights. The contrast shows how the normative international order shifted.
 
 ---

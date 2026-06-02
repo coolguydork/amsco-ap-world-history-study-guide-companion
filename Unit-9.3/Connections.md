@@ -17,12 +17,12 @@ tags: [apwh, unit-9, topic-9-3, period-4, environment, connections]
 Technology cuts both ways in Unit 9: the industrial and digital technologies that drove economic growth (9.1) also created the environmental crises of 9.3. The internal combustion engine, mass manufacturing, and global supply chains (9.1 context) are the same systems that produce greenhouse gas emissions and resource depletion. The internet and global communication (9.1) also enabled coordinated environmental activism (Greta Thunberg's global reach). Technology is simultaneously cause and potential cure.
 
 **[[Unit-9.2/Technological Advancements & Limitations — Disease Overview\|Topic 9.2 — Disease and Technology]]**
-The population boom enabled by medical advances (Topic 9.2 — vaccines, antibiotics, improved sanitation) is a direct contributing cause of environmental pressure in 9.3. More people require more food, water, and energy. The [[Concept Notes/Green Revolution\|Green Revolution]] that reduced famine (9.1/9.2 context) also intensified agricultural land use, contributing to soil depletion and water overuse discussed in 9.3.
+The population boom enabled by medical advances ([[Unit-9.2/Technological Advancements & Limitations — Disease Overview|Topic 9.2]] — vaccines, antibiotics, improved sanitation) is a direct contributing cause of environmental pressure in 9.3. More people require more food, water, and energy. The [[Concept Notes/Green Revolution\|Green Revolution]] that reduced famine (9.1/9.2 context) also intensified agricultural land use, contributing to soil depletion and water overuse discussed in 9.3.
 
-**Topic 9.4 — Economics in the Global Age** (unbuilt)
+**[[Unit-9.4/Economics in the Global Age Overview|Topic 9.4]] — Economics in the Global Age** (unbuilt)
 The free-market globalization of 9.4 (liberalization, multinationals, WTO) directly connects to the environmental harms of 9.3. The post-Cold War expansion of capitalism into developing nations intensified resource extraction and emissions — exactly the Marxist analysis invoked in the 9.3 TAH passage. Environmental regulation vs. free-market growth is a central tension in both topics.
 
-**Topic 9.5 — Movements for Rights** (unbuilt)
+**[[Unit-9.5/Calls for Reform & Responses Overview|Topic 9.5]] — Movements for Rights** (unbuilt)
 The [[Concept Notes/Green Belt Movement\|Green Belt Movement]] connects environmental activism to women's rights. Water scarcity in developing countries disproportionately burdens women. Both topics 9.3 and 9.5 show how global problems (environment, inequality) prompted new forms of activism that crossed national borders.
 
 ---
@@ -35,7 +35,7 @@ The Industrial Revolution is the ultimate cause of the environmental crisis. Fos
 **[[Unit-5.1/Enlightenment Overview\|Topic 5.1 — The Enlightenment]]**
 Scientific thinking and empirical inquiry (5.1) is the foundation for climate science: the IPCC, James Hansen's testimony, and the Brundtland Commission all reflect an Enlightenment tradition of using rational inquiry to identify and solve human problems. Environmental activism's appeal to scientific consensus has Enlightenment roots.
 
-**Topic 6.3 — Indigenous Responses to State Expansion** (builds on)
+**[[Unit-6.3/Indigenous Responses to State Expansion Overview|Topic 6.3]] — Indigenous Responses to State Expansion** (builds on)
 Colonial-era deforestation and land clearance for plantation agriculture established patterns of extractive resource use that 20th-century industrialization intensified. The environmental damage of 9.3 has deep historical roots in the land use transformations of the colonial era.
 
 ---

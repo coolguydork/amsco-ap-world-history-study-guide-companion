@@ -15,12 +15,12 @@ tags: [apwh, unit-6, topic-6-1, period-3, imperialism, connections, causation]
 The global spread of industrialization created the economic conditions that drove imperialism. Nations that industrialized first gained both the economic incentive (need for raw materials and markets) and the military-technological advantage necessary to dominate non-industrial societies. The New [[Concept Notes/Imperialism\|Imperialism]] of the late 19th century cannot be understood apart from the Second Industrial Revolution.
 
 **[[Unit-5.5/Technology in the Industrial Age Overview\|Technology in the Industrial Age Overview]]**
-Industrial technology—steamships, telegraphs, repeating rifles, and the Maxim gun—gave European powers decisive military advantages over colonized peoples. Topic 6.1 explains *why* Europeans wanted empire; Topic 5.5 explains *how* they were able to achieve it so rapidly. Always connect rationale (ideology) to capacity (technology) in AP essays.
+Industrial technology—steamships, telegraphs, repeating rifles, and the Maxim gun—gave European powers decisive military advantages over colonized peoples. Topic 6.1 explains *why* Europeans wanted empire; [[Unit-5.5/Technology in the Industrial Age Overview|Topic 5.5]] explains *how* they were able to achieve it so rapidly. Always connect rationale (ideology) to capacity (technology) in AP essays.
 
 ## Topics This Prepares
 
 **State Expansion** [[Unit-6.2/State Expansion Overview|State Expansion Overview]]
-Topic 6.1 establishes the ideological foundations; Topic 6.2 examines how those ideologies translated into specific patterns of territorial acquisition across Africa, Asia, and the Pacific. The [[Concept Notes/Berlin Conference\|Berlin Conference]] and Scramble for Africa are the primary case studies.
+Topic 6.1 establishes the ideological foundations; [[Unit-6.2/State Expansion Overview|Topic 6.2]] examines how those ideologies translated into specific patterns of territorial acquisition across Africa, Asia, and the Pacific. The [[Concept Notes/Berlin Conference\|Berlin Conference]] and Scramble for Africa are the primary case studies.
 
 **Indigenous Responses to State Expansion** [[Unit-6.3/Indigenous Responses to State Expansion Overview|Indigenous Responses to State Expansion Overview]]
 The "civilizing mission" ideology produced not just colonial policies but colonial resistance. Understanding what drove imperialism (6.1) is essential for analyzing how colonized peoples responded to and resisted those ideologies (6.3). Social Darwinism and the civilizing mission generated both accommodation and rebellion.

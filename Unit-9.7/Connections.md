@@ -23,7 +23,7 @@ Cultural resistance (anti-Americanization, internet censorship, religious fundam
 
 ## Leads To
 
-**Topic 9.8 — Institutions Developing in the Age of Globalization**
+**[[Unit-9.8/Institutions Developing in a Globalized World Overview|Topic 9.8 — Institutions Developing in the Age of Globalization]]**
 The anti-globalization pressure of 9.7 provides the context for 9.8's international institutions (UN, ICC, human rights bodies) that attempted to address resistance demands. The Jubilee 2000 debt relief campaign and fair trade certification systems that emerged from anti-globalization activism are addressed in the institutional framework of 9.8.
 
 ---

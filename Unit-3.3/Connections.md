@@ -12,35 +12,35 @@ tags: [apwh, unit-3, topic-3-3, period-2, religion, connections, cross-topic]
 ## Builds On
 
 **[[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]] [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]]**
-Islam's origins, early spread, Sunni-Shia split, and Sufism all provide the foundation for understanding why the Ottoman-Safavid rivalry was so intense. The Sunni-Shia divide (632 CE) had centuries of history before it became a state-level conflict in 1501. Sikhism's Sufi influences also trace back to the Islamic mystical tradition introduced in Topic 1.2.
+Islam's origins, early spread, Sunni-Shia split, and Sufism all provide the foundation for understanding why the Ottoman-Safavid rivalry was so intense. The Sunni-Shia divide (632 CE) had centuries of history before it became a state-level conflict in 1501. Sikhism's Sufi influences also trace back to the Islamic mystical tradition introduced in [[Unit-1.2/Dar al-Islam Overview|Topic 1.2]].
 
 **[[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]] [[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]]**
-The Catholic Church's medieval dominance — and the problems of corruption, the Babylonian Captivity, and failed reform movements (Wycliffe, Hus) — set up the [[Concept Notes/Protestant Reformation|Protestant Reformation]]. Understand Topic 1.6's Church to understand why Topic 3.3's Reformation succeeded.
+The Catholic Church's medieval dominance — and the problems of corruption, the Babylonian Captivity, and failed reform movements (Wycliffe, Hus) — set up the [[Concept Notes/Protestant Reformation|Protestant Reformation]]. Understand [[Unit-1.6/Medieval Europe Overview|Topic 1.6]]'s Church to understand why Topic 3.3's Reformation succeeded.
 
-**[[Unit-3.1/European, East Asian & [[Concept Notes/Gunpowder Empires\|Gunpowder Empires]] Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]] [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]]**
-The Ottoman, Safavid, and Mughal empires whose religious policies dominate Topic 3.3 are introduced in Topic 3.1. Their expansion and administrative structures provide the political context in which religious policies operated.
+**[[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|European, East Asian & Gunpowder Empires Expand Overview]]**
+The Ottoman, Safavid, and Mughal empires whose religious policies dominate Topic 3.3 are introduced in [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Topic 3.1]]. Their expansion and administrative structures provide the political context in which religious policies operated.
 
 ---
 
 ## Leads To
 
-**Topic 4.6 — Protestant Reformation: Parallel Religious Contestation in Europe**
-Topic 3.3 introduces the Reformation; Topic 4.6 explores its broader connections to European expansion, colonialism, and the encounter with indigenous religions in the Americas.
+**[[Unit-4.6/Internal & External Challenges to State Power Overview|Topic 4.6 — Protestant Reformation: Parallel Religious Contestation in Europe]]**
+Topic 3.3 introduces the Reformation; [[Unit-4.6/Internal & External Challenges to State Power Overview|Topic 4.6]] explores its broader connections to European expansion, colonialism, and the encounter with indigenous religions in the Americas.
 
-**Topic 5.1 — The Enlightenment**
+**[[Unit-5.1/Enlightenment Overview|Topic 5.1 — The Enlightenment]]**
 The Scientific Revolution (introduced briefly in Topic 3.3 via Bacon and Newton) leads directly to Enlightenment philosophy — the application of reason not just to nature but to government and society.
 
-**Topic 8.5 — Religion in Independence Movements**
+**[[Unit-8.5/Decolonization after 1900 Overview|Topic 8.5 — Religion in Independence Movements]]**
 Religious identities forged in this era (Protestant/Catholic nationalism, Hindu/Muslim distinctions in South Asia, Sunni/Shia divisions) resurface in 19th and 20th century independence and nationalist movements.
 
 ---
 
 ## Compare With
 
-**Topic 1.6 — Medieval Catholic Church**
+**[[Unit-1.6/Medieval Europe Overview|Topic 1.6 — Medieval Catholic Church]]**
 Compare pre-Reformation Catholic authority (universal, dominant, relatively unchallenged) with post-Reformation fragmentation. The change is stark: from one church to dozens of denominations, with rulers appropriating religious authority.
 
-**Topic 4.6 — Protestant Reformation in colonial context**
+**[[Unit-4.6/Internal & External Challenges to State Power Overview|Topic 4.6 — Protestant Reformation in colonial context]]**
 The same Reformation that fragmented Europe also drove missionary activity globally — Jesuits in the Americas and Asia were a Counter-Reformation response. Compare religious consolidation in Europe with religious imposition in the colonial world.
 
 ---

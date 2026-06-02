@@ -14,7 +14,7 @@ tags: [apwh, unit-8, topic-8-6, period-4, decolonization, middle-east, south-asi
 ## Builds On
 
 **[[Unit-8.5/Decolonization after 1900 Overview\|Decolonization after 1900 (8.5)]]**
-Topic 8.5 covers the independence movements that produced the new states examined here. The colonial structures dismantled in 8.5 created the structural problems — underdevelopment, artificial borders, weak institutions — that Topic 8.6 examines. The same movements (Indian National Congress, Zionism, African nationalism) appear in both topics.
+[[Unit-8.5/Decolonization after 1900 Overview|Topic 8.5]] covers the independence movements that produced the new states examined here. The colonial structures dismantled in 8.5 created the structural problems — underdevelopment, artificial borders, weak institutions — that Topic 8.6 examines. The same movements (Indian National Congress, Zionism, African nationalism) appear in both topics.
 
 **[[Unit-8.3/Effects of the Cold War Overview\|Effects of the Cold War (8.3)]]**
 Cold War superpower competition deeply shaped the fate of newly independent states. The US supported Israel and various anti-communist regimes; the Soviet Union backed India in the 1971 war and supported socialist experiments in Africa. Cambodia became a casualty of Cold War proxy conflicts in Southeast Asia.
@@ -29,13 +29,13 @@ The Dreyfus Affair (1894) triggered Theodor Herzl's founding of political Zionis
 
 ## Leads To
 
-**Topic 8.7 — End of the Cold War**
+**[[Unit-8.7/Global Resistance to Established Power Structures Overview|Topic 8.7 — End of the Cold War]]**
 The end of the Cold War changed the geopolitical environment for newly independent states. Without superpower patronage, some authoritarian regimes collapsed; others democratized. The Oslo Accords (1993) were partly products of this new environment.
 
-**Topic 9.6 — Globalization and Cultural Exchange**
+**[[Unit-9.6/Globalized Culture Overview|Topic 9.6 — Globalization and Cultural Exchange]]**
 Post-independence migration from newly independent nations to former colonial metropoles (South Asians to London; Algerians to Paris) created multicultural urban societies that became sites of cultural exchange and tension — themes central to Unit 9.
 
-**Topic 9.8 — Demographic and Environmental Challenges**
+**[[Unit-9.8/Institutions Developing in a Globalized World Overview|Topic 9.8 — Demographic and Environmental Challenges]]**
 Population displacement (Palestinian refugees, partition refugees) and rapid urbanization in newly independent states connect to Unit 9's examination of global population and migration patterns.
 
 ---

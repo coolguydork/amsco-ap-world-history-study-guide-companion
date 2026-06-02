@@ -14,7 +14,7 @@ tags: [apwh, unit-8, topic-8-2, period-4, cold-war, connections]
 ## Builds On
 
 **[[Unit-8.1/Setting the Stage for the Cold War & Decolonization Overview\|Setting the Stage for the Cold War & Decolonization]]**
-Topic 8.1 established the preconditions for the Cold War: WWII devastated Europe and Asia, leaving a power vacuum; the US and USSR emerged as the only powers capable of filling it; the atomic bomb changed the calculus of great-power conflict. The ideological differences and wartime tensions described in 8.1 hardened directly into the Cold War rivalry analyzed in 8.2.
+[[Unit-8.1/Setting the Stage for the Cold War & Decolonization Overview|Topic 8.1]] established the preconditions for the Cold War: WWII devastated Europe and Asia, leaving a power vacuum; the US and USSR emerged as the only powers capable of filling it; the atomic bomb changed the calculus of great-power conflict. The ideological differences and wartime tensions described in 8.1 hardened directly into the Cold War rivalry analyzed in 8.2.
 
 **League of Nations and Collective Security (Topics 7.2, 7.5)**
 The UN was explicitly designed to correct the League's failures — lack of US participation and no enforcement mechanism. The Cold War immediately tested the UN's design: the Security Council veto power (held by both the US and USSR) meant the two superpowers could block each other's resolutions, often paralyzing the institution they had jointly created.

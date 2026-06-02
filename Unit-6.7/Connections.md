@@ -14,7 +14,7 @@ tags: [apwh, unit-6, topic-6-7, period-3, migration, connections]
 ## Builds On
 
 **[[Unit-6.6/Causes of Migration in an Interconnected World Overview\|Causes of Migration in an Interconnected World Overview]]**
-Topic 6.6 establishes the push and pull factors that drove 19th-century migration — poverty, famine, labor demand, abolition of slavery, colonial recruitment systems. Topic 6.7 follows directly: the migrations *caused* by those factors produced the ethnic enclaves, nativist backlash, discrimination laws, and political organizations covered here. Never discuss effects without grounding them in the causes from 6.6.
+[[Unit-6.6/Causes of Migration in an Interconnected World Overview|Topic 6.6]] establishes the push and pull factors that drove 19th-century migration — poverty, famine, labor demand, abolition of slavery, colonial recruitment systems. Topic 6.7 follows directly: the migrations *caused* by those factors produced the ethnic enclaves, nativist backlash, discrimination laws, and political organizations covered here. Never discuss effects without grounding them in the causes from 6.6.
 
 ---
 
@@ -27,10 +27,10 @@ Gandhi's experience organizing against anti-Indian discrimination in South Afric
 
 ## Compare With
 
-**Topic 1.3 — African Societies**
+**[[Unit-1.3/South & Southeast Asia Overview|Topic 1.3 — African Societies]]**
 The demographic disruption caused by the [[Concept Notes/Atlantic Slave Trade\|Atlantic Slave Trade]] and the later 19th-century Indian and Chinese migration flows are both cases of large-scale coerced or semi-coerced migration reshaping populations. The key difference: the slave trade created diasporas with *no* connection to homeland, while 19th-century indentured laborers often maintained ties and sometimes returned.
 
-**Topic 6.6 — Causes of Migration**
+**[[Unit-6.6/Causes of Migration in an Interconnected World Overview|Topic 6.6 — Causes of Migration]]**
 The companion topic. 6.6 = causes; 6.7 = effects. They are frequently tested together. Know how to move from one to the other in an essay without blending them.
 
 ---

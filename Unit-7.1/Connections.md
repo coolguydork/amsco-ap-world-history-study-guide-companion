@@ -14,9 +14,9 @@ tags: [apwh, unit-7, topic-7-1, period-4, connections, causation, revolution]
 ## Builds On
 
 **[[Unit-6.5/Economic Imperialism Overview\|Economic Imperialism Overview]]**
-Foreign economic penetration is the crucial *external cause* linking Topic 6.5 to the revolutions of Topic 7.1. In China, European spheres of influence and unequal trade treaties humiliated the Qing and undermined the dynasty's legitimacy. In Mexico, U.S. investors controlling key industries and the wealthiest 1% owning 97% of the land created the inequality that drove the revolution. In the Ottoman Empire, British and French economic policies generated the resentment that pushed it toward Germany in WWI. Economic imperialism did not merely exploit — it destabilized governments.
+Foreign economic penetration is the crucial *external cause* linking [[Unit-6.5/Economic Imperialism Overview|Topic 6.5]] to the revolutions of Topic 7.1. In China, European spheres of influence and unequal trade treaties humiliated the Qing and undermined the dynasty's legitimacy. In Mexico, U.S. investors controlling key industries and the wealthiest 1% owning 97% of the land created the inequality that drove the revolution. In the Ottoman Empire, British and French economic policies generated the resentment that pushed it toward Germany in WWI. Economic imperialism did not merely exploit — it destabilized governments.
 
-**[[Unit-5.2/[[Concept Notes/Nationalism\|Nationalism]] & Revolutions Overview\|Nationalism & Revolutions Overview]]**
+**[[Unit-5.2/Nationalism & Revolutions Overview|Nationalism & Revolutions Overview]]**
 The 19th-century wave of nationalist thought and revolutionary practice created the intellectual and organizational templates for 20th-century upheaval. Sun Yat-sen's Three People's Principles drew directly on European nationalist ideology. Atatürk's Turkish nationalism was shaped by Young Turk engagement with Western political thought. The [[Concept Notes/Bolsheviks\|Bolsheviks]] adapted Marx's revolutionary theory (itself a product of 19th-century European thought) to Russian conditions. Each revolution in Topic 7.1 is, in part, a 20th-century application of 19th-century nationalist and socialist ideas.
 
 ---

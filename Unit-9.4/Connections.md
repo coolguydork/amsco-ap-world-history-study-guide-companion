@@ -17,21 +17,21 @@ tags: [apwh, unit-9, topic-9-4, period-4, globalization, economics, connections]
 The collapse of the Soviet Union (1991) is the most direct cause of late-20th-century economic globalization. The Eastern Bloc's opening to global markets massively expanded the pool of available cheap labor and new consumers, enabling the supply chain restructuring that defines this topic. Deng Xiaoping's market reforms in China also developed alongside the Cold War's final stages.
 
 **[[Unit-9.1/Advances in Technology & Exchange Overview\|Advances in Technology & Exchange Overview]]**
-The digital revolution — internet, telecommunications, computers — is the technological infrastructure that makes global supply chains logistically and financially viable. Without the information technology of Topic 9.1, the knowledge economy, outsourcing, and the MNC operations described in 9.4 would not be possible at their current scale.
+The digital revolution — internet, telecommunications, computers — is the technological infrastructure that makes global supply chains logistically and financially viable. Without the information technology of [[Unit-9.1/Advances in Technology & Exchange Overview|Topic 9.1]], the knowledge economy, outsourcing, and the MNC operations described in 9.4 would not be possible at their current scale.
 
 ---
 
 ## Leads To
 
 **Resistance to Globalization** [[Unit-9.7/Resistance to Globalization Overview|Resistance to Globalization Overview]]
-The economic globalization described here directly generates the backlash of Topic 9.7. The WTO's power, MNC exploitation, maquiladora labor conditions, and the widening gap between wealthy and developing nations all fuel anti-globalization movements. The 1999 Seattle WTO protests are the most visible early example. Topic 9.4 is the cause; Topic 9.7 is the effect.
+The economic globalization described here directly generates the backlash of [[Unit-9.7/Resistance to Globalization Overview|Topic 9.7]]. The WTO's power, MNC exploitation, maquiladora labor conditions, and the widening gap between wealthy and developing nations all fuel anti-globalization movements. The 1999 Seattle WTO protests are the most visible early example. Topic 9.4 is the cause; [[Unit-9.7/Resistance to Globalization Overview|Topic 9.7]] is the effect.
 
 ---
 
 ## AP Comparisons
 
 **[[Unit-6.4/Global Economic Development Overview\|Global Economic Development Overview]]**
-Topic 6.4 covers the development of global economic structures in the industrial era — imperial extraction, raw material exports from periphery to core, and the rise of industrial capitalism. Compare: in 6.4 the periphery exports raw materials; in 9.4 the periphery manufactures finished goods. The inequality between wealthy and developing nations is a continuity; what changed is the nature of the economic relationship (production vs. extraction).
+[[Unit-6.4/Global Economic Development Overview|Topic 6.4]] covers the development of global economic structures in the industrial era — imperial extraction, raw material exports from periphery to core, and the rise of industrial capitalism. Compare: in 6.4 the periphery exports raw materials; in 9.4 the periphery manufactures finished goods. The inequality between wealthy and developing nations is a continuity; what changed is the nature of the economic relationship (production vs. extraction).
 
 ---
 

@@ -33,7 +33,7 @@ The monopolies, wage inequality, and concentration of power described in Topic 5
 The global banking system, transnational corporations, and free-trade ideology of the 19th century laid the infrastructure for 20th-century economic globalization.
 
 **Economic [[Concept Notes/Imperialism\|Imperialism]] [[Unit-6.5/Economic Imperialism Overview|Economic Imperialism Overview]]** ← not yet built
-De Beers, Unilever, HSBC — all the transnational companies in Topic 5.7 were instruments of economic imperialism. Topic 6.5 examines this relationship systematically: how industrial capitalism drove the conquest and economic subordination of non-European regions.
+De Beers, Unilever, HSBC — all the transnational companies in Topic 5.7 were instruments of economic imperialism. [[Unit-6.5/Economic Imperialism Overview|Topic 6.5]] examines this relationship systematically: how industrial capitalism drove the conquest and economic subordination of non-European regions.
 
 ---
 
@@ -43,7 +43,7 @@ De Beers, Unilever, HSBC — all the transnational companies in Topic 5.7 were i
 |---|---|---|
 | Joint-stock companies (VOC, British East India Co.) — [[Unit-4.2/Exploration: Causes & Events Overview\|Topic 4.2]] | Modern corporations with limited liability | Same risk-spreading logic; corporations are the industrial-era successor to the joint-stock company |
 | Mercantile extractive trade networks — Topics 4.1–4.3 | Transnational corporations (Unilever, De Beers) | Extraction of colonial resources continues; mechanism shifts from state-chartered companies to private corporations |
-| Atlantic Slave Trade labor extraction — Topic 4.3 | Colonial wage labor (African railroad workers, Congo plantation workers) | Unpaid/severely underpaid labor in colonies enriches European metropole; continuity in exploitation across periods |
+| Atlantic Slave Trade labor extraction — [[Unit-4.3/Columbian Exchange Overview\|Topic 4.3]] | Colonial wage labor (African railroad workers, Congo plantation workers) | Unpaid/severely underpaid labor in colonies enriches European metropole; continuity in exploitation across periods |
 
 > [!exam-tip]
 > **Compare and contrast question:** Joint-stock companies ([[Unit-4.2/Exploration: Causes & Events Overview\|Topic 4.2]]) vs. corporations (this topic). Both spread risk across multiple investors, both enabled large-scale trade/production, and both were tools of colonial extraction. Key difference: corporations featured *limited liability* and were not typically state-chartered monopolies — they operated in a competitive (if often monopolistic) market, not under royal charter.

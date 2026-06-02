@@ -38,13 +38,13 @@ The 15th–18th century European maritime empires operated on the same basic log
 ## Cross-Topic Themes
 
 **[[Concept Notes/Opium Trade\|Opium Trade]] and Chinese Resistance**
-Lin Zexu's stand against the [[Concept Notes/Opium Trade\|Opium Trade]] connects to Topic 6.3's discussion of indigenous resistance to imperial power. While most 6.3 resistance took the form of military rebellion, Lin Zexu's approach—moral suasion, legal action, then confiscation—shows the limits of non-military resistance against industrialized military power.
+Lin Zexu's stand against the [[Concept Notes/Opium Trade\|Opium Trade]] connects to [[Unit-6.3/Indigenous Responses to State Expansion Overview|Topic 6.3]]'s discussion of indigenous resistance to imperial power. While most 6.3 resistance took the form of military rebellion, Lin Zexu's approach—moral suasion, legal action, then confiscation—shows the limits of non-military resistance against industrialized military power.
 
 **Labor Systems**
 The corvée labor of the Dutch Culture System connects backward to the tributary labor systems of the Aztec and Inca empires ([[Unit-2.2/Mongol Empire Overview\|Topic 2.2]]), and forward to the forced labor debates of the early 20th century. The AP frequently asks you to trace continuities and changes in labor systems across periods.
 
 **Commodity Chains**
-The cotton that Indian farmers grew in Topic 6.5 fueled the British textile mills (Topic 5.3 — Industrial Revolution) that had displaced Indian weavers in the first place. This full circle—Indian cotton → British mills → Indian market for finished textiles—is a powerful piece of evidence for how economic imperialism functioned as a system, not just a collection of individual decisions.
+The cotton that Indian farmers grew in Topic 6.5 fueled the British textile mills ([[Unit-5.3/Industrial Revolution Begins Overview|Topic 5.3]] — Industrial Revolution) that had displaced Indian weavers in the first place. This full circle—Indian cotton → British mills → Indian market for finished textiles—is a powerful piece of evidence for how economic imperialism functioned as a system, not just a collection of individual decisions.
 
 **Ecological Consequences**
 The shift from diverse food agriculture to monoculture cash crops (cotton, cocoa, rubber) created environmental vulnerability that lasted well beyond the colonial period. This connects to ENV themes across Unit 6 and to the environmental consequences of industrialization ([[Unit-6.4/Global Economic Development Overview\|Topic 6.4]]).

@@ -10,7 +10,7 @@ tags: [apwh, unit-4, topic-4-2, period-2, exploration, connections, cross-topic]
 ## Builds On
 
 **[[Unit-4.1/Technological Innovations Overview|Technological Innovations Overview]] (4.1)**
-European maritime exploration was only possible because of the technological breakthroughs covered in 4.1: caravel ships, lateen sails, magnetic compasses, astrolabes, and improved cartography. No technology = no exploration. Topic 4.2 is the *consequence* of Topic 4.1.
+European maritime exploration was only possible because of the technological breakthroughs covered in 4.1: caravel ships, lateen sails, magnetic compasses, astrolabes, and improved cartography. No technology = no exploration. Topic 4.2 is the *consequence* of [[Unit-4.1/Technological Innovations Overview|Topic 4.1]].
 
 **[[Unit-1.6/Medieval Europe Overview|Medieval Europe Overview]] (1.6) — Reconquista**
 The completion of the Reconquista in 1492 gave Spain both the resources and the crusading mentality to sponsor Columbus. Spanish overseas expansion was infused with the same Christian-vs.-infidel ideology that had defined the Reconquista for centuries.
@@ -22,13 +22,13 @@ Ottoman expansion into the eastern Mediterranean and control of overland trade r
 
 ## Leads To
 
-**Topic 4.3 — Columbian Exchange**
+**[[Unit-4.3/Columbian Exchange Overview|Topic 4.3 — Columbian Exchange]]**
 Columbus's voyages were the trigger event for the Columbian Exchange: the transfer of plants, animals, diseases, and people between hemispheres that followed from sustained European-American contact. Topic 4.2 is the cause; 4.3 is the immediate consequence.
 
-**Topic 4.4 — Empires in the Americas**
+**[[Unit-4.4/Maritime Empires Link Regions Overview|Topic 4.4 — Empires in the Americas]]**
 European exploration identified the Aztec and Inca empires as targets. The conquests that followed were motivated by the gold and silver that explorers had been searching for all along. Topic 4.2 sets up the conquest era covered in 4.4.
 
-**Topic 6.1 — New [[Concept Notes/Imperialism\|Imperialism]]**
+**[[Unit-6.1/Rationales for Imperialism Overview|Topic 6.1]] — New [[Concept Notes/Imperialism\|Imperialism]]**
 The methods and motivations of 1450–1750 exploration created a template for 19th-century imperialism: state sponsorship, commercial extraction, religious conversion, and military superiority. Topic 4.2 is the first chapter of a story that continues through Unit 6.
 
 ---
@@ -38,7 +38,7 @@ The methods and motivations of 1450–1750 exploration created a template for 19
 **[[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]] (2.3) — Zheng He**
 China's Zheng He voyages (1405–1433) were larger in scale than anything Europe produced, yet China withdrew after 1433 while Europe accelerated. The comparison asks: what institutional and political factors explain such different outcomes from similar capabilities? China's Confucian court politics vs. Europe's inter-state competitive pressure is the standard explanation.
 
-**Topic 6.2 — 19th-Century Imperialism**
+**[[Unit-6.2/State Expansion Overview|Topic 6.2 — 19th-Century Imperialism]]**
 Compare 15th–16th-century exploration with 19th-century imperialism: both involved state sponsorship and commercial extraction, but the later period featured industrial technology, formal territorial colonization at continental scale, and racial ideologies that were less prominent in the earlier period.
 
 ---

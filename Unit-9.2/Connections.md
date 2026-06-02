@@ -14,10 +14,10 @@ tags: [apwh, unit-9, topic-9-2, period-4, disease, connections, cross-unit]
 ## Prerequisite Topics
 
 **[[Unit-9.1/Advances in Technology & Exchange Overview\|Advances in Technology & Exchange Overview]]**
-Topic 9.1 established the technology context for Period 4: antibiotics (Fleming, 1928), vaccines, the internet, and shipping containers. Topic 9.2 applies that technology context specifically to disease — showing vaccines (polio) and antibiotics (TB treatment) in action, while also revealing their limits (antibiotic resistance, drug access inequality). Read 9.2 as the disease-specific case study of the medical technology introduced in 9.1.
+[[Unit-9.1/Advances in Technology & Exchange Overview|Topic 9.1]] established the technology context for Period 4: antibiotics (Fleming, 1928), vaccines, the internet, and shipping containers. Topic 9.2 applies that technology context specifically to disease — showing vaccines (polio) and antibiotics (TB treatment) in action, while also revealing their limits (antibiotic resistance, drug access inequality). Read 9.2 as the disease-specific case study of the medical technology introduced in 9.1.
 
 **[[Unit-2.6/Environmental Consequences Overview\|Environmental Consequences Overview]]**
-Disease and environment have been linked throughout world history. Topic 2.6 covers environmental consequences of expanding trade and settlement in the pre-modern period — establishing a baseline pattern of human activity disrupting ecosystems and releasing disease. Topic 9.2 continues that story with 20th-century pathogens emerging from animal reservoirs (Ebola in fruit bats) and spreading through industrialized transportation networks.
+Disease and environment have been linked throughout world history. [[Unit-2.6/Environmental Consequences Overview|Topic 2.6]] covers environmental consequences of expanding trade and settlement in the pre-modern period — establishing a baseline pattern of human activity disrupting ecosystems and releasing disease. Topic 9.2 continues that story with 20th-century pathogens emerging from animal reservoirs (Ebola in fruit bats) and spreading through industrialized transportation networks.
 
 ---
 

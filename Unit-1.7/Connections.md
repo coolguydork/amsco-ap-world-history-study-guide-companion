@@ -43,8 +43,8 @@ Topic 1.7's state-building comparison directly sets up the Unit 2 question: *how
 
 - The [[Concept Notes/Silk Roads\|Silk Roads]] [[Unit-2.1/Silk Roads Overview|Silk Roads Overview]] connected Song China, the Islamic world, and Europe
 - The Mongol Empire [[Unit-2.2/Mongol Empire Overview|Mongol Empire Overview]] is the single most important force reshaping the states identified in Unit 1
-- Trans-Saharan trade [[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]] carried Mali's gold and Islam across Sub-Saharan Africa
-- The Indian Ocean network [[Unit-2.4/[[Concept Notes/Trans-Saharan Trade\|Trans-Saharan Trade]] Routes Overview|Trans-Saharan Trade Routes Overview]] linked the Chola, Vijayanagar, Delhi Sultanate, and East African city-states
+- Trans-Saharan trade [[Unit-2.4/Trans-Saharan Trade Routes Overview|Trans-Saharan Trade Routes Overview]] carried Mali's gold and Islam across Sub-Saharan Africa
+- The Indian Ocean network [[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]] linked the Chola, Vijayanagar, Delhi Sultanate, and East African city-states
 - Cultural syncretism [[Unit-2.5/Cultural Consequences Overview|Cultural Consequences Overview]] shows how the synthesis-type state-building of 1.7 continued and deepened through trade contact
 
 ---

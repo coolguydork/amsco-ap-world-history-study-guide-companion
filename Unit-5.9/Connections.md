@@ -10,10 +10,10 @@ tags: [apwh, unit-5, topic-5-9, period-3, society, connections, comparison]
 ## Builds On
 
 **[[Unit-5.3/Industrial Revolution Begins Overview|Industrial Revolution Begins Overview]]**
-Topic 5.3 establishes the origins and mechanics of the Industrial Revolution (coal, steam, textiles, Britain). Topic 5.9 asks what those mechanics *did to people*. You cannot explain working-class hardship or the cult of domesticity without understanding the factory system and urbanization that 5.3 describes.
+[[Unit-5.3/Industrial Revolution Begins Overview|Topic 5.3]] establishes the origins and mechanics of the Industrial Revolution (coal, steam, textiles, Britain). Topic 5.9 asks what those mechanics *did to people*. You cannot explain working-class hardship or the cult of domesticity without understanding the factory system and urbanization that 5.3 describes.
 
 **[[Unit-5.4/Industrialization Spreads Overview|Industrialization Spreads Overview]]**
-Topic 5.4 covers industrialization's geographic spread to Europe, the U.S., and Japan. Topic 5.9's social effects — new class structures, feminism, urban reform — occurred across all these regions, not just Britain. The spread of industrialization is the spread of 5.9's social changes.
+[[Unit-5.4/Industrialization Spreads Overview|Topic 5.4]] covers industrialization's geographic spread to Europe, the U.S., and Japan. Topic 5.9's social effects — new class structures, feminism, urban reform — occurred across all these regions, not just Britain. The spread of industrialization is the spread of 5.9's social changes.
 
 ## Leads To
 
@@ -41,7 +41,7 @@ A core AP comparison: how did social hierarchies change between the pre-industri
 
 **[[Unit-5.8/Reactions to the Industrial Economy Overview|Reactions to the Industrial Economy Overview]]** — The social conditions documented in 5.9 (working-class poverty, exploitation, slums) are precisely the conditions that generated the ideological and political responses in 5.8 (Marxism, socialism, labor unions, utilitarianism). Topics 5.8 and 5.9 are two sides of the same coin and frequently appear together on AP prompts.
 
-**Topic 7.1 — [[Concept Notes/Imperialism\|Imperialism]]** ← folder not yet built
+**[[Unit-7.1/Shifting Power Overview|Topic 7.1]] — [[Concept Notes/Imperialism\|Imperialism]]** ← folder not yet built
 Topic 5.9 explicitly notes that industrialized states sought raw materials globally, undercutting industrialization in Egypt, China, and India and fueling a second wave of colonization. This connection bridges domestic social history to global imperial history.
 
 > [!exam-tip]

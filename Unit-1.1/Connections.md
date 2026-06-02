@@ -22,19 +22,19 @@ Gunpowder, the compass, and Buddhist ideas all traveled along trade routes that 
 
 ## Leads To (Forward Connections)
 
-**[[Topic 2.2]] — The Mongol Empire and the Modern World**
+**[[Unit-2.2/Mongol Empire Overview|Topic 2.2]] — The Mongol Empire and the Modern World**
 The [[Concept Notes/Mongols\|Mongols]]' conquest of the Song Dynasty (1279) is the direct outcome of Song weaknesses (fiscal exhaustion of the bureaucracy, military vulnerability) identified in Topic 1.1. The Yuan Dynasty replaced the Song. After Mongol rule, the Ming expelled the Yuan (1368) and restored Confucian governance — completing a cycle that 1.1 sets in motion.
 
-**[[Topic 2.1]] — The Silk Roads**
-Song China anchored the eastern end of the Silk Roads. China's porcelain, silk, tea, and eventually gunpowder technology flowed westward along these routes. Chinese commercialization and the Grand Canal fed goods into overland and maritime trade networks that Topic 2.1 examines in detail.
+**[[Unit-2.1/Silk Roads Overview|Topic 2.1]] — The Silk Roads**
+Song China anchored the eastern end of the Silk Roads. China's porcelain, silk, tea, and eventually gunpowder technology flowed westward along these routes. Chinese commercialization and the Grand Canal fed goods into overland and maritime trade networks that [[Unit-2.1/Silk Roads Overview|Topic 2.1]] examines in detail.
 
-**[[Topic 2.3]] — Exchange in the Indian Ocean**
+**[[Unit-2.3/Indian Ocean Overview|Topic 2.3]] — Exchange in the Indian Ocean**
 The [[Concept Notes/Ming Dynasty\|Ming Dynasty]]'s naval expeditions under Zheng He (1405–1433) extended the tributary system into the Indian Ocean world. China's compass technology and shipbuilding advances (both Song-era innovations) made these voyages possible.
 
-**[[Topic 3.1]] — European, East Asian, and [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] Expand**
-The Ming Dynasty (founded 1368) becomes a major subject of Topic 3.1 as one of the great gunpowder empires of the period c. 1450–1750. Neo-Confucian governance, the civil service exam system, and the tributary structure all continue from the Song into the Ming.
+**[[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Topic 3.1]] — European, East Asian, and [[Concept Notes/Gunpowder Empires|Gunpowder Empires]] Expand**
+The Ming Dynasty (founded 1368) becomes a major subject of [[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Topic 3.1]] as one of the great gunpowder empires of the period c. 1450–1750. Neo-Confucian governance, the civil service exam system, and the tributary structure all continue from the Song into the Ming.
 
-**[[Topic 3.2]] — Empires: Administrations**
+**[[Unit-3.2/Empires: Administration Overview|Topic 3.2]] — Empires: Administrations**
 China's civil service exam and meritocratic bureaucracy are the comparison point for other empires' administrative systems (e.g., the Ottoman devshirme system). The Song model is the baseline against which later empires are measured.
 
 ---
@@ -59,9 +59,9 @@ The sharpest contrast in Unit 1. Song China: centralized bureaucracy, meritocrac
 
 | Thread | Manifestation in 1.1 | Continues In |
 |--------|---------------------|-------------|
-| **Meritocracy vs. hereditary privilege** | Civil service exam vs. hereditary daimyo (Japan) | Topic 3.2 (Ottoman devshirme vs. Ming exam) |
-| **Religious syncretism** | Neo-Confucianism; Chan Buddhism | Topic 2.5 (cultural consequences of connectivity) |
-| **Sinification / cultural diffusion** | Japan, Korea, Vietnam adopt and adapt Chinese culture | Topic 2.5 (cultural exchange across networks) |
+| **Meritocracy vs. hereditary privilege** | Civil service exam vs. hereditary daimyo (Japan) | [[Unit-3.2/Empires: Administration Overview\|Topic 3.2]] (Ottoman devshirme vs. Ming exam) |
+| **Religious syncretism** | Neo-Confucianism; Chan Buddhism | [[Unit-2.5/Cultural Consequences Overview\|Topic 2.5]] (cultural consequences of connectivity) |
+| **Sinification / cultural diffusion** | Japan, Korea, Vietnam adopt and adapt Chinese culture | [[Unit-2.5/Cultural Consequences Overview\|Topic 2.5]] (cultural exchange across networks) |
 | **Technological diffusion** | Gunpowder, compass, woodblock printing spread west | Topics 2.1, 4.1 |
 | **State-sponsored trade and tribute** | Tributary system; Grand Canal; Zheng He voyages | Topics 2.3, 3.1 |
 | **Women and patriarchy** | Foot binding; filial piety; Vietnamese resistance | Topics 4.7, 5.9 |
@@ -73,6 +73,6 @@ The sharpest contrast in Unit 1. Song China: centralized bureaucracy, meritocrac
 The following are significant concepts from this topic that recur across multiple units. Consider creating entries in `Concept Notes/` for:
 
 - [[Concept Notes/Neo-Confucianism|Neo-Confucianism]] — recurs in Topics 1.7, 2.5, 3.2
-- [[Concept Notes/Silk Roads|Silk Roads]] — central to Topic 2.1
+- [[Concept Notes/Silk Roads|Silk Roads]] — central to [[Unit-2.1/Silk Roads Overview|Topic 2.1]]
 - [[Concept Notes/Tribute System|Tribute System]] — recurs in Topics 2.3, 3.1, 3.2
 - [[Concept Notes/Feudalism|Feudalism]] — compare Japan (1.1) and Europe (1.6)

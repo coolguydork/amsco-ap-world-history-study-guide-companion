@@ -20,13 +20,13 @@ Trans-Saharan trade routes brought Islam and Islamic scholarship to West Africa 
 
 ## Leads To
 
-**Topic 3.3 — Religious Spread Shapes Empires (forward-looking)**
+**[[Unit-3.3/Empires: Belief Systems Overview|Topic 3.3 — Religious Spread Shapes Empires (forward-looking)]]**
 The religious diffusion documented in 2.5 (Islam in South and Southeast Asia, Buddhism in East Asia) directly shapes the political and cultural character of the empires studied in Unit 3. The Mughal Empire's Hindu-Islamic synthesis, the Ottoman's Sunni state identity, and the Ming's Neo-Confucian governance all flow from patterns established in this period.
 
-**Topic 4.3 — Columbian Exchange (forward-looking)**
+**[[Unit-4.3/Columbian Exchange Overview|Topic 4.3 — Columbian Exchange (forward-looking)]]**
 The Columbian Exchange (c. 1492 onward) is the *next* major biological and cultural exchange network after the one 2.5 describes. Compare scale, mechanisms, and consequences: the Columbian Exchange was biologically more catastrophic (90%+ Indigenous population loss) and geographically global, but the *pattern* — trade routes as vectors for goods, ideas, and disease — was established in the Afro-Eurasian networks of 1200–1450.
 
-**Topic 5.3 — Industrial Technology Diffusion (forward-looking)**
+**[[Unit-5.3/Industrial Revolution Begins Overview|Topic 5.3 — Industrial Technology Diffusion (forward-looking)]]**
 Technology transfer along trade routes (2.5) is the earlier version of the global diffusion of industrial technology documented in 5.3. Both involve uneven power relationships and unintended consequences.
 
 ## Cross-Topic Comparisons

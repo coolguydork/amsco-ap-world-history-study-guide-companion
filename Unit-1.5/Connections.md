@@ -21,33 +21,33 @@ The Kingdom of Ghana (c. 5th–11th centuries) established the gold-salt trade p
 
 ## Leads To
 
-### Topic 2.4 — Trans-Saharan Trade Networks and West Africa
-Topic 1.5 introduces Mali; Topic 2.4 develops it fully — the growth of **Timbuktu** as a major Islamic center of learning, trade, and culture; the development of the **Songhai Empire** under Sunni Ali after 1468; and the full elaboration of the trans-Saharan trade system as a world-historical network.
+### [[Unit-2.4/Trans-Saharan Trade Routes Overview|Topic 2.4 — Trans-Saharan Trade Networks and West Africa]]
+Topic 1.5 introduces Mali; [[Unit-2.4/Trans-Saharan Trade Routes Overview|Topic 2.4]] develops it fully — the growth of **Timbuktu** as a major Islamic center of learning, trade, and culture; the development of the **Songhai Empire** under Sunni Ali after 1468; and the full elaboration of the trans-Saharan trade system as a world-historical network.
 
-### Topic 6.2 — European Colonization of Africa
+### [[Unit-6.2/State Expansion Overview|Topic 6.2 — European Colonization of Africa]]
 The diverse and often decentralized political structures documented in Topic 1.5 are part of what European colonial powers exploited in the 19th century. The absence of unified African resistance — rooted in the kin-based, regional nature of African political organization — enabled rapid colonial partition (the "Scramble for Africa" after 1880).
 
-### Topic 6.6 — The [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]]
+### [[Unit-6.6/Causes of Migration in an Interconnected World Overview|Topic 6.6 — The Atlantic Slave Trade]]
 The **Indian Ocean slave trade** documented in Topic 1.5 (the *zanj* trade to the Middle East) is the historical precursor to the Atlantic slave trade. Both exploited existing African slave-trading networks and practices — but the Atlantic trade was vastly larger in scale and more racially codified. West African states were deeply implicated in supplying the Atlantic trade, often capturing and selling enslaved people from rival communities. Understanding pre-existing African slavery is essential context for understanding the Atlantic trade's scale and operation.
 
 ---
 
 ## Compare With
 
-### Topic 1.2 — Dar al-Islam
+### [[Unit-1.2/Dar al-Islam Overview|Topic 1.2 — Dar al-Islam]]
 [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]] is the source of Islam's entry into sub-Saharan Africa. Ibn Battuta — who traveled from Morocco (part of the Dar al-Islam) to Mali — illustrates how Islam functioned as a cultural connector. The same Islamic legal and commercial framework that united the Dar al-Islam also created a shared identity for Muslim merchants trading across the Sahara. **Islam in West Africa is the eastern frontier of the Dar al-Islam's commercial and cultural reach.**
 
-### Topic 1.3 — South & Southeast Asia
+### [[Unit-1.3/South & Southeast Asia Overview|Topic 1.3 — South & Southeast Asia]]
 [[Unit-1.3/South & Southeast Asia Overview|South & Southeast Asia Overview]] shows the same pattern of **syncretic Islam** found in Africa: convert populations adapted Islam to local customs rather than wholesale adopting Arabic practice. Ibn Battuta criticized both South Asian and West African Muslims for the same thing — retaining pre-Islamic customs. The parallel is direct and exam-worthy.
 
-### Topic 1.4 — The Americas
+### [[Unit-1.4/The Americas Overview|Topic 1.4 — The Americas]]
 [[Unit-1.4/The Americas Overview|The Americas Overview]] offers productive structural comparisons:
 - **Oral tradition:** West African griots :: Inca quipu-runners — both sophisticated information systems without alphabetic text
 - **Stateless vs. centralized:** African kin-based societies :: Mississippian clan-based societies — both contrasted with the centralized Inca or Aztec states
 - **Environmental collapse:** Great Zimbabwe's overgrazing :: Maya deforestation — both civilizational declines caused by environmental degradation
 - **Trade-based state power:** Mali and Zimbabwe derived power from taxing trade :: Aztec derived power from tribute — different mechanisms, similar logic of extracting value from surrounding peoples/networks
 
-### Topic 1.1 — East Asia
+### [[Unit-1.1/East Asia Overview|Topic 1.1 — East Asia]]
 [[Unit-1.1/East Asia Overview|East Asia Overview]] provides the sharpest centralization contrast with Africa. The Song Dynasty's professional bureaucracy, civil service exam, and meritocratic state administration represent the opposite end of the governance spectrum from African kin-based networks. Yet both societies developed sophisticated intellectual traditions — China through written Confucian scholarship, West Africa through the griot oral tradition. The form of knowledge preservation differed; the function (maintaining social memory and political legitimacy) was the same.
 
 ---
@@ -58,4 +58,4 @@ The **Indian Ocean slave trade** documented in Topic 1.5 (the *zanj* trade to th
 - **Trans-Saharan trade** — 500+ years of gold-salt exchange creates one of the most durable trade networks in AP World History.
 - **Stateless vs. centralized societies** — Africa illustrates the full spectrum; use it in any AP question about political diversity.
 - **Oral tradition** — The griot system is the most developed example of non-text historical preservation in the AP curriculum.
-- **Slavery before the Atlantic trade** — Topic 1.5 provides the essential context that makes Topic 6.6 fully understandable.
+- **Slavery before the Atlantic trade** — Topic 1.5 provides the essential context that makes [[Unit-6.6/Causes of Migration in an Interconnected World Overview|Topic 6.6]] fully understandable.

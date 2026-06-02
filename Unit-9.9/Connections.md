@@ -28,7 +28,7 @@ The environmental changes and continuities in 9.9 — climate change, pollution,
 The economic policy table and the analysis of Asia's rise, China's Four Modernizations, and core-periphery persistence in 9.9 synthesize the globalization economics covered in depth in 9.4.
 
 **[[Unit-9.5/Calls for Reform & Responses Overview\|Calls for Reform & Responses Overview]]**
-The political and social changes in 9.9 — women's rights, civil rights movements, anti-apartheid, Arab Spring — synthesize the reform movements detailed in 9.5. AMSCO explicitly cites 9.5 (See Topic 9.5) for birth control and women's status.
+The political and social changes in 9.9 — women's rights, civil rights movements, anti-apartheid, Arab Spring — synthesize the reform movements detailed in 9.5. AMSCO explicitly cites 9.5 (See [[Unit-9.5/Calls for Reform & Responses Overview|Topic 9.5]]) for birth control and women's status.
 
 **[[Unit-9.6/Globalized Culture Overview\|Globalized Culture Overview]]**
 The cultural changes in 9.9 — Western cultural dominance, bidirectional cultural exchange, consumer culture — synthesize 9.6's treatment of cultural globalization.

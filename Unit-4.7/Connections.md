@@ -9,41 +9,41 @@ tags: [apwh, unit-4, topic-4-7, period-2, social-hierarchy, connections]
 
 ## Builds On
 
-**Topic 4.4 — Maritime Empires Link Regions**
+**[[Unit-4.4/Maritime Empires Link Regions Overview|Topic 4.4 — Maritime Empires Link Regions]]**
 Colonial conquest of the Americas brought Europeans, Africans, and indigenous peoples into the same space — the necessary precondition for the casta system. Without Atlantic maritime expansion, racial hierarchy in the Americas does not exist.
 → [[Unit-4.4/Maritime Empires Link Regions Overview|Maritime Empires Link Regions Overview]]
 
-**Topic 1.7 — Comparison: Pre-1450 Social Hierarchies**
+**[[Unit-1.7/Comparison Overview|Topic 1.7 — Comparison: Pre-1450 Social Hierarchies]]**
 The feudal European hierarchy (nobility, clergy, peasants), Chinese civil service meritocracy, and Indian caste system all predate this period. Topic 4.7 shows how these earlier structures were modified, reinforced, or replaced.
 → [[Unit-1.7/Comparison Overview|Comparison Overview]]
 
-**Topic 1.1 — East Asian Social Hierarchy**
+**[[Unit-1.1/East Asia Overview|Topic 1.1 — East Asian Social Hierarchy]]**
 China's civil service examination system (merit-based) vs. the Qing ethnic hierarchy (birth-based) is a productive CCOT argument. The Qing maintained the examination but subordinated it to ethnic privilege.
 → [[Unit-1.1/East Asia Overview|East Asia Overview]]
 
 ## Leads To
 
-**Topic 5.2 — Revolutions**
-The rigid casta system and aristocratic hierarchies of 1450–1750 are the direct cause of Atlantic revolutions. Criollos' resentment of peninsulares' monopoly on office drives Latin American independence; racial hierarchies fuel Haitian and other slave revolts. **(Topic 5.2 — not yet built)**
+**[[Unit-5.2/Nationalism & Revolutions Overview|Topic 5.2 — Revolutions]]**
+The rigid casta system and aristocratic hierarchies of 1450–1750 are the direct cause of Atlantic revolutions. Criollos' resentment of peninsulares' monopoly on office drives Latin American independence; racial hierarchies fuel Haitian and other slave revolts. **([[Unit-5.2/Nationalism & Revolutions Overview|Topic 5.2]] — not yet built)**
 
-**Topic 6.6 — Migration and Labor Systems**
-Racial hierarchies in the colonial Americas directly inform the labor migration systems of the Industrial era — patterns of who does what work, under what conditions, for what pay. **(Topic 6.6 — not yet built)**
+**[[Unit-6.6/Causes of Migration in an Interconnected World Overview|Topic 6.6 — Migration and Labor Systems]]**
+Racial hierarchies in the colonial Americas directly inform the labor migration systems of the Industrial era — patterns of who does what work, under what conditions, for what pay. **([[Unit-6.6/Causes of Migration in an Interconnected World Overview|Topic 6.6]] — not yet built)**
 
-**Topic 9.4 — Civil Rights Movements**
-The racial hierarchies constructed in this period are precisely what 20th-century civil rights movements challenge. **(Topic 9.4 — not yet built)**
+**[[Unit-9.4/Economics in the Global Age Overview|Topic 9.4 — Civil Rights Movements]]**
+The racial hierarchies constructed in this period are precisely what 20th-century civil rights movements challenge. **([[Unit-9.4/Economics in the Global Age Overview|Topic 9.4]] — not yet built)**
 
 ## Compare With
 
-**Topic 1.1 — Chinese Social Hierarchy: Merit vs. Birth**
+**[[Unit-1.1/East Asia Overview|Topic 1.1 — Chinese Social Hierarchy: Merit vs. Birth]]**
 The Chinese civil service examination allowed talent (in theory) to override birth, creating a meritocratic hierarchy. The Qing maintained this system but added ethnic privilege on top of it.
 → [[Unit-1.1/East Asia Overview|East Asia Overview]]
 
-**Topic 4.6 — Challenges to State Power**
-Topic 4.6 shows what happens when social hierarchies are challenged from below (Pueblo Revolt, Maroon Wars, Cossack rebellions, Fronde). Topic 4.7 shows the hierarchies themselves. Together they form a complete picture of social order and disorder.
+**[[Unit-4.6/Internal & External Challenges to State Power Overview|Topic 4.6 — Challenges to State Power]]**
+[[Unit-4.6/Internal & External Challenges to State Power Overview|Topic 4.6]] shows what happens when social hierarchies are challenged from below (Pueblo Revolt, Maroon Wars, Cossack rebellions, Fronde). Topic 4.7 shows the hierarchies themselves. Together they form a complete picture of social order and disorder.
 → [[Unit-4.6/Internal & External Challenges to State Power Overview|Internal & External Challenges to State Power Overview]]
 
-**Topic 4.5 — Maritime Empires Develop**
-The Mughal Empire's social structures and the [[Concept Notes/Protestant Reformation|Protestant Reformation]]'s effects on European hierarchies are developed in Topic 4.5, which provides context for 4.7's treatment of religious minorities.
+**[[Unit-4.5/Maritime Empires Develop Overview|Topic 4.5 — Maritime Empires Develop]]**
+The Mughal Empire's social structures and the [[Concept Notes/Protestant Reformation|Protestant Reformation]]'s effects on European hierarchies are developed in [[Unit-4.5/Maritime Empires Develop Overview|Topic 4.5]], which provides context for 4.7's treatment of religious minorities.
 → [[Unit-4.5/Maritime Empires Develop Overview|Maritime Empires Develop Overview]]
 
 ## AP Threads Running Through This Topic
@@ -58,7 +58,7 @@ Roxelana represents the exceptional but real possibility of female political pow
 Every hierarchy in this period officially limited mobility but contained exceptional cases. Roxelana (enslaved → sultan's wife), Jewish scholars in the Ottoman court, and mestizos who moved up through intermarriage all illustrate both the rigidity and the cracks in social systems.
 
 **Coercive Labor and Social Control**
-Russian serfdom, Ottoman impressment, colonial [[Concept Notes/Encomienda|encomienda]], and Atlantic chattel slavery all connect social hierarchy to forced labor. This thread runs directly from Topic 4.3 (Columbian Exchange) through Topic 4.7 and into Unit 5.
+Russian serfdom, Ottoman impressment, colonial [[Concept Notes/Encomienda|encomienda]], and Atlantic chattel slavery all connect social hierarchy to forced labor. This thread runs directly from [[Unit-4.3/Columbian Exchange Overview|Topic 4.3]] (Columbian Exchange) through Topic 4.7 and into Unit 5.
 
 ## Wikilinks Quick Reference
 

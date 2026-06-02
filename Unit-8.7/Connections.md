@@ -21,7 +21,7 @@ The Brezhnev Doctrine and the crushing of Hungary (1956) and Czechoslovakia (196
 Cold War proxy conflicts supplied weapons, funding, and ideological frameworks to resistance and terrorist movements. The international arms trade that intensified conflicts in the developing world is a direct effect of the military-industrial complex covered in 8.7.
 
 **[[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]]**
-Francisco Franco came to power through the Spanish Civil War (1936–1939), which is covered in Topic 7.6. His dictatorship provides the political context for ETA's emergence in 8.7. The interwar fascist movements that produced Franco connect 8.7 back to earlier authoritarian patterns.
+Francisco Franco came to power through the Spanish Civil War (1936–1939), which is covered in [[Unit-7.6/Causes of World War II Overview|Topic 7.6]]. His dictatorship provides the political context for ETA's emergence in 8.7. The interwar fascist movements that produced Franco connect 8.7 back to earlier authoritarian patterns.
 
 ## Leads To
 
@@ -36,7 +36,7 @@ Post-9/11 terrorism, the "War on Terror," and ongoing global extremism are the d
 **[[Unit-6.8/Causation in the Imperial Age Overview\|Causation in the Imperial Age Overview]]**
 The labor movement and socialist resistance to industrial capitalism (19th century) parallels the ideological resistance to political power structures in 8.7. Both involve non-elite groups organizing against established hierarchies, though the methods and targets differ. Compare also: Luddite machine-breaking (violent) vs. trade union organizing (legal/institutional) — similar violence-vs-legal-means spectrum.
 
-**Topic 4.3 — Columbian Exchange / Topic 5.x — [[Concept Notes/Industrialization\|Industrialization]]**
+**[[Unit-4.3/Columbian Exchange Overview|Topic 4.3]] — Columbian Exchange / Topic 5.x — [[Concept Notes/Industrialization\|Industrialization]]**
 Earlier periods also feature resistance to established power — slave revolts, anticolonial uprisings (Haitian Revolution), indigenous resistance. Compare methods and outcomes across periods: what changed about resistance strategies in the 20th century? (Answer: mass media, international law, decolonization framework, Cold War patron funding.)
 
 ## Cross-Topic Concept Links
@@ -45,7 +45,7 @@ Earlier periods also feature resistance to established power — slave revolts, 
 
 [[Concept Notes/Nationalism\|Nationalism]] — ETA (Basque), IRA (Irish), Czech and Hungarian reform movements all rooted in ethnic/national identity
 
-[[Concept Notes/Fascism\|Fascism]] — Franco's Spain is the primary fascist-state case that survived WWII; connects to Topic 7.6 and the broader interwar fascism unit
+[[Concept Notes/Fascism\|Fascism]] — Franco's Spain is the primary fascist-state case that survived WWII; connects to [[Unit-7.6/Causes of World War II Overview|Topic 7.6]] and the broader interwar fascism unit
 
 ## Exam Connection Points
 

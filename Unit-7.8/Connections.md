@@ -12,7 +12,7 @@ tags: [apwh, unit-7, topic-7-8, period-4, genocide, holocaust, human-rights, con
 ## Builds On
 
 **[[Unit-7.6/Causes of World War II Overview\|Causes of World War II Overview]]**
-WWII's causes — the rise of Nazi Germany, the failures of Versailles, and economic crisis — are direct preconditions for the Holocaust. Understanding how Hitler came to power and what Nazi ideology entailed is essential context for Topic 7.8. The [[Concept Notes/Nuremberg Laws\|Nuremberg Laws]] (1935) and the escalating persecution of Jews during the late 1930s predate WWII but can only be understood in the context of the political conditions Topic 7.6 explains.
+WWII's causes — the rise of Nazi Germany, the failures of Versailles, and economic crisis — are direct preconditions for the Holocaust. Understanding how Hitler came to power and what Nazi ideology entailed is essential context for Topic 7.8. The [[Concept Notes/Nuremberg Laws\|Nuremberg Laws]] (1935) and the escalating persecution of Jews during the late 1930s predate WWII but can only be understood in the context of the political conditions [[Unit-7.6/Causes of World War II Overview|Topic 7.6]] explains.
 
 **[[Unit-7.7/Conducting World War II Overview\|Conducting World War II Overview]]**
 The military conduct of WWII — the Eastern Front, the Pacific theater, Allied strategic bombing — provides the context for understanding how genocide was implemented (death camps operated under wartime cover) and how Allied firebombing of Hamburg, Dresden, and Tokyo blurred the line between military and civilian targets. The Hiroshima and Nagasaki atomic bombings, covered in 7.7, are directly referenced in 7.8 as part of the broader spectrum of WWII mass atrocities.
@@ -23,7 +23,7 @@ The military conduct of WWII — the Eastern Front, the Pacific theater, Allied 
 The Holocaust, Nuremberg Trials, and Universal Declaration of [[Concept Notes/Human Rights\|Human Rights]] (1948) set new global norms that shaped the early Cold War era. Jewish refugees and the moral case for a Jewish homeland contributed to Israel's founding (1948) — a Cold War flashpoint. The human rights framework built after WWII influenced decolonization movements that argued colonial rule itself violated the new norms.
 
 **Calls for Reform and Responses After 1900** [[Unit-9.5/Calls for Reform & Responses Overview|Calls for Reform & Responses Overview]]
-The post-WWII human rights architecture (UN, ICC, Genocide Convention) and post-Cold War genocides (Bosnia, Rwanda, Darfur) drive ongoing global reform debates about sovereignty, intervention, and accountability. Topic 9.5 covers contemporary reform movements including human rights advocacy.
+The post-WWII human rights architecture (UN, ICC, Genocide Convention) and post-Cold War genocides (Bosnia, Rwanda, Darfur) drive ongoing global reform debates about sovereignty, intervention, and accountability. [[Unit-9.5/Calls for Reform & Responses Overview|Topic 9.5]] covers contemporary reform movements including human rights advocacy.
 
 ## Compare With
 
@@ -51,4 +51,4 @@ All three occurred after the Cold War ended and after the "Never again" commitme
 > The most common AP comparison for this topic: **Armenian Genocide ↔ Holocaust**. Both involve: (1) state organization, (2) targeting of a minority group framed as a threat, (3) use of wartime conditions as cover, (4) international inaction. The key difference is method (deportation + exposure vs. industrial death camps) and scale. Know both well enough to write a paragraph comparing causes, methods, and outcomes.
 
 > [!tip]
-> When connecting 7.8 to later units: the Holocaust → Israel (1948) → Arab-Israeli conflict is a chain the AP tests. The "Never again" framework → ICC → R2P doctrine is another chain relevant to Topic 9.5 and global governance discussions.
+> When connecting 7.8 to later units: the Holocaust → Israel (1948) → Arab-Israeli conflict is a chain the AP tests. The "Never again" framework → ICC → R2P doctrine is another chain relevant to [[Unit-9.5/Calls for Reform & Responses Overview|Topic 9.5]] and global governance discussions.

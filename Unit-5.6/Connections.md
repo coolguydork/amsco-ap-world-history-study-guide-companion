@@ -14,7 +14,7 @@ tags: [apwh, unit-5, topic-5-6, period-3, industrialization, governance, connect
 ## Builds On
 
 **[[Unit-5.4/Industrialization Spreads Overview|Industrialization Spreads Overview]]**
-Topic 5.4 shows how industrialization spread from Britain to the rest of Europe and the United States, often with significant government support (German state subsidies, US protective tariffs). Topic 5.6 extends this story to non-Western states. The key connection: the further from Britain and the later the industrialization, the *more* government direction was required. Japan is the extreme case of this pattern.
+[[Unit-5.4/Industrialization Spreads Overview|Topic 5.4]] shows how industrialization spread from Britain to the rest of Europe and the United States, often with significant government support (German state subsidies, US protective tariffs). Topic 5.6 extends this story to non-Western states. The key connection: the further from Britain and the later the industrialization, the *more* government direction was required. Japan is the extreme case of this pattern.
 
 **[[Unit-5.3/Industrial Revolution Begins Overview|Industrial Revolution Begins Overview]]**
 Britain's laissez-faire, private-market model (see [[Unit-5.3/Industrial Revolution Begins Overview|Industrial Revolution Begins Overview]]) is the explicit contrast for Topic 5.6. The AP exam will ask you to compare British industrialization (bottom-up, private) with Japanese industrialization (top-down, state-directed). Know both sides cold.
@@ -24,7 +24,7 @@ Britain's laissez-faire, private-market model (see [[Unit-5.3/Industrial Revolut
 ## Leads To
 
 **Reactions to the Industrial Economy [[Unit-5.8/Reactions to the Industrial Economy Overview|Reactions to the Industrial Economy Overview]]** ← folder not yet built
-The exploitation of female workers in Japanese textile mills (mentioned in AMSCO) connects directly to Topic 5.8's examination of labor movements, socialism, and reform efforts. Japan's industrial workers faced the same conditions that drove European workers to organize unions.
+The exploitation of female workers in Japanese textile mills (mentioned in AMSCO) connects directly to [[Unit-5.8/Reactions to the Industrial Economy Overview|Topic 5.8]]'s examination of labor movements, socialism, and reform efforts. Japan's industrial workers faced the same conditions that drove European workers to organize unions.
 
 **Shifting Power After World War I [[Unit-7.1/Shifting Power Overview|Shifting Power Overview]]** ← folder not yet built
 Japan's Meiji industrialization is what makes it a significant military power by the time of WWI. The same modernization program that built railways and subsidized silk factories also built warships and trained a conscript army. Japan's post-WWI imperial ambitions flow directly from Meiji success.
@@ -33,11 +33,11 @@ Japan's Meiji industrialization is what makes it a significant military power by
 
 ## Cross-Unit Connections
 
-**Topic 6.2 — [[Concept Notes/Imperialism\|Imperialism]]: Causes and Attributes** (not yet built)
+**[[Unit-6.2/State Expansion Overview|Topic 6.2]] — [[Concept Notes/Imperialism\|Imperialism]]: Causes and Attributes** (not yet built)
 Muhammad Ali's Egypt and the Ottoman Empire are prime examples of states that were partially or fully colonized *because* their modernization failed. The link is direct: failed defensive modernization → vulnerability to European imperial control. Egypt becomes a British protectorate; the Ottomans become the "sick man of Europe" whose territory Europeans carve up.
 
-**Topic 6.5 — Reactions to Imperialism** (not yet built)
-Japan's Meiji Restoration is one of the most successful cases of *resisting* imperialism through modernization. It appears as evidence in both Topic 5.6 (the modernization itself) and Topic 6.5 (as the strategy non-Western states could adopt to maintain sovereignty). Know it well for both contexts.
+**[[Unit-6.5/Economic Imperialism Overview|Topic 6.5]] — Reactions to Imperialism** (not yet built)
+Japan's Meiji Restoration is one of the most successful cases of *resisting* imperialism through modernization. It appears as evidence in both Topic 5.6 (the modernization itself) and [[Unit-6.5/Economic Imperialism Overview|Topic 6.5]] (as the strategy non-Western states could adopt to maintain sovereignty). Know it well for both contexts.
 
 ---
 

@@ -11,31 +11,31 @@ tags: [apwh, unit-2, topic-2-4, period-1, africa, trade-networks, dar-al-islam, 
 
 ## Builds On
 
-**Topic 1.5 — Africa: West African States**
+**[[Unit-1.5/Africa Overview|Topic 1.5 — Africa: West African States]]**
 Ghana Empire provided the template for trans-Saharan trade profit that Mali later scaled. Ghana controlled gold sources and taxed routes before Mali emerged. Understanding Ghana's rise and weakening explains why Mali arose when it did. *(See [[Unit-1.5/Africa Overview|Africa Overview]] · [[Unit-1.5/People, States & Movements|People, States & Movements]])*
 
-**Topic 1.2 — Dar al-Islam**
+**[[Unit-1.2/Dar al-Islam Overview|Topic 1.2 — Dar al-Islam]]**
 North African Muslim states were the northern counterparts to West African gold-producing states. Muslim merchants from the Islamic world drove the expansion of trans-Saharan commerce in the 7th–8th centuries. The shared Islamic commercial and legal framework across North Africa lowered transaction costs and enabled long-distance trust networks. *(See [[Unit-1.2/Dar al-Islam Overview|Dar al-Islam Overview]] · [[Unit-1.2/Key Terms & Concepts|Key Terms & Concepts]])*
 
 ---
 
 ## Leads To
 
-**Topic 6.4 — Extractive Colonial Economy**
+**[[Unit-6.4/Global Economic Development Overview|Topic 6.4 — Extractive Colonial Economy]]**
 European colonial economies in Africa eventually replaced African-controlled trade networks. The wealth and infrastructure of trans-Saharan commerce that enriched Mali and Songhai was disrupted by European encroachment and the [[Concept Notes/Atlantic Slave Trade|Atlantic Slave Trade]]. Comparing African-controlled vs. European-controlled trade in Africa is a high-value CCOT prompt.
 
-**Topic 6.6 — Atlantic Slave Trade**
+**[[Unit-6.6/Causes of Migration in an Interconnected World Overview|Topic 6.6 — Atlantic Slave Trade]]**
 The trans-Saharan enslaved people trade predates the Atlantic slave trade by centuries. Both systems commodified human beings, but they differed in scale, direction, and racial ideology. The AP exam may ask you to compare them or trace how one preceded and influenced the other.
 
 ---
 
 ## Compare With
 
-**Topic 2.1 — Silk Roads**
+**[[Unit-2.1/Silk Roads Overview|Topic 2.1 — Silk Roads]]**
 All three major trade networks of Period 1–2 (Silk Roads, Indian Ocean, Trans-Saharan) spread goods, ideas, and religion across long distances. The Silk Roads comparison is especially productive: both connected distant civilizations, both facilitated the spread of Islam (via merchants, not conquest), and both relied on complementary goods (silk/spices vs. gold/salt). Key differences: geography (overland through Central Asia vs. overland through desert), technology (horses/camels on Silk Roads vs. camels only trans-Saharan), and the specific goods and religions exchanged. *(See [[Unit-2.1/Silk Roads Overview|Silk Roads Overview]] · [[Unit-2.1/Themes & Historical Reasoning|Themes & Historical Reasoning]])*
 
-**Topic 2.3 — Indian Ocean Trade**
-The Indian Ocean network connected East Africa to the broader Afro-Eurasian world via maritime routes, while trans-Saharan routes connected West Africa overland. Both spread Islam into Africa (east coast vs. west/sub-Saharan), though via different mechanisms (monsoon-driven sea trade vs. camel caravan). Topic 2.7 synthesizes all three networks for unit-level comparison. *(See [[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]] · [[Unit-2.3/Themes & Historical Reasoning|Themes & Historical Reasoning]])*
+**[[Unit-2.3/Indian Ocean Overview|Topic 2.3 — Indian Ocean Trade]]**
+The Indian Ocean network connected East Africa to the broader Afro-Eurasian world via maritime routes, while trans-Saharan routes connected West Africa overland. Both spread Islam into Africa (east coast vs. west/sub-Saharan), though via different mechanisms (monsoon-driven sea trade vs. camel caravan). [[Unit-2.7/Comparison of Economic Exchange Overview|Topic 2.7]] synthesizes all three networks for unit-level comparison. *(See [[Unit-2.3/Indian Ocean Overview|Indian Ocean Overview]] · [[Unit-2.3/Themes & Historical Reasoning|Themes & Historical Reasoning]])*
 
 ---
 

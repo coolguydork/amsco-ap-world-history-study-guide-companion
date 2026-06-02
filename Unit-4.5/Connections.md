@@ -13,33 +13,33 @@ tags: [apwh, unit-4, topic-4-5, period-2, trade-networks, economic-systems, gove
 
 ## Builds On
 
-**Topic 4.4 — [[Unit-4.4/Maritime Empires Link Regions Overview|Maritime Empires Link Regions Overview]]**
+**[[Unit-4.4/Maritime Empires Link Regions Overview|Topic 4.4 — Maritime Empires Link Regions Overview]]**
 4.4 established *that* maritime empires formed and connected regions; 4.5 explains *how* they governed, extracted wealth, and managed cultural collision. The VOC and EIC (introduced here) are the institutional result of the empire-building 4.4 described.
 
-**Topic 4.3 — [[Unit-4.3/Columbian Exchange Overview|Columbian Exchange Overview]]**
+**[[Unit-4.3/Columbian Exchange Overview|Topic 4.3 — Columbian Exchange Overview]]**
 The Columbian Exchange provided the economic rationale for maritime empires: silver and sugar were the commodities that powered [[Concept Notes/Mercantilism|mercantilism]]. Potosí silver and Caribbean sugar directly drove the [[Concept Notes/Price Revolution\|Price Revolution]] and triangular trade described in 4.5.
 
-**Topic 3.2 — [[Unit-3.2/Empires: Administration Overview|Empires: Administration Overview]]**
+**[[Unit-3.2/Empires: Administration Overview|Topic 3.2 — Empires: Administration Overview]]**
 Land-based empires ([[Concept Notes/Mongols\|Mongols]], Ottomans, early Mughals) developed administrative systems to govern diverse peoples. Spanish colonial administration (viceroy/audiencia) is the maritime counterpart — compare how both types of empires balanced central control with distance/local autonomy.
 
 ---
 
 ## Leads To
 
-**Topic 5.2 — Independence movements (not yet built)**
+**[[Unit-5.2/Nationalism & Revolutions Overview|Topic 5.2 — Independence movements (not yet built)]]**
 Creole political frustration — colonial-born Spanish excluded from top offices — matures into the independence movements of the early 19th century (American, Haitian, Latin American revolutions). 4.5 plants the institutional and social seeds.
 
-**Topic 6.2 — Later British/French imperialism (not yet built)**
+**[[Unit-6.2/State Expansion Overview|Topic 6.2 — Later British/French imperialism (not yet built)]]**
 Colonial economic patterns established in 4.5 (plantation economy, extraction, coercive labor) persist into the 19th century. The VOC and EIC transitions from commercial enterprises to governing powers foreshadow formal empire. The slave trade's disruption of West Africa sets the stage for European conquest.
 
 ---
 
 ## Compare With
 
-**Topic 3.2 — Land-based vs. maritime empire administration**
+**[[Unit-3.2/Empires: Administration Overview|Topic 3.2 — Land-based vs. maritime empire administration]]**
 The Ottoman timar system, Mongol provincial governors, and Ming centralized bureaucracy all attempted to govern large territories at distance. Compare their methods and outcomes with the Spanish viceroy/audiencia system. Key difference: maritime empires administered from across oceans, not across land frontiers — communication lag was a unique constraint.
 
-**Topic 3.1 — Sunni-Shi'a conflict (not yet built) and 4.5's religious conflicts**
+**[[Unit-3.1/European, East Asian & Gunpowder Empires Expand Overview|Topic 3.1 — Sunni-Shi'a conflict (not yet built) and 4.5's religious conflicts]]**
 The Ottoman–Safavid conflict (Sunni vs. Shi'a) was intensified by the same period of global integration that produced syncretic religions in the Americas. Religious conflict and religious blending are two opposite responses to increased contact — know both.
 
 ---

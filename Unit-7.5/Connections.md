@@ -14,7 +14,7 @@ tags: [apwh, unit-7, topic-7-5, period-4, connections, anti-colonialism, nationa
 **[[Unit-7.3/Conducting World War I Overview\|Conducting World War I Overview]]**
 WWI created the conditions for Topic 7.5 on three levels: (1) colonial troops' frontline service radicalized them politically, (2) the Allies' wartime promises of [[Concept Notes/Self-Determination\|self-determination]] created expectations, and (3) the devastation of European powers undermined their credibility as "superior" civilizations. Without WWI, the Paris betrayal and its consequences don't happen.
 
-**Topic 5.6 — [[Concept Notes/Industrialization\|Industrialization]] Spreading (Japan's modernization)**
+**[[Unit-5.6/Industrialization: Government's Role Overview|Topic 5.6]] — [[Concept Notes/Industrialization\|Industrialization]] Spreading (Japan's modernization)**
 Japan's rise as an industrial and military power — [[Concept Notes/Meiji Restoration\|Meiji Restoration]], victory in Russo-Japanese War — is the prerequisite for understanding why Japan could seize Manchuria in 1931 and why the Paris Conference gave Shandong to Japan in 1919. Japan's expansionism in Topic 7.5 is the logical extension of its 19th-century industrialization and imperialism.
 
 **[[Unit-6.3/Indigenous Responses to State Expansion Overview\|Indigenous Responses to State Expansion Overview]]**
@@ -38,8 +38,8 @@ The Soviet model influenced multiple anti-colonial movements in Topic 7.5: the C
 
 ## Cross-Topic Concept Notes
 
-- [[Concept Notes/Mandate System\|Mandate System]] — connect to Topic 7.1 (Ottoman collapse), Topic 7.5, and Topic 8.5 (decolonization)
-- [[Concept Notes/Mohandas Gandhi\|Mohandas Gandhi]] — appears in Topic 6.3 (South Africa) and Topic 7.5 (India independence)
+- [[Concept Notes/Mandate System\|Mandate System]] — connect to [[Unit-7.1/Shifting Power Overview|Topic 7.1]] (Ottoman collapse), Topic 7.5, and [[Unit-8.5/Decolonization after 1900 Overview|Topic 8.5]] (decolonization)
+- [[Concept Notes/Mohandas Gandhi\|Mohandas Gandhi]] — appears in [[Unit-6.3/Indigenous Responses to State Expansion Overview|Topic 6.3]] (South Africa) and Topic 7.5 (India independence)
 - [[Concept Notes/Nationalism\|Nationalism]] — the thread connecting Topics 7.1, 7.2, 7.5, and 8.5
 
 ## AP Essay Opportunities

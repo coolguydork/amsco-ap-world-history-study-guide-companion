@@ -24,21 +24,21 @@ The routes themselves were established in the 2nd century BCE under the Han Dyna
 
 ## Leads To
 
-**Topic 2.2 — The Mongol Empire**
-The Mongols are the central cause of the Silk Roads boom in this period. Topic 2.2 examines the Mongol Empire's rise, its conquest strategies, and its broader impact on Eurasian state-building. The Pax Mongolica (the effect of Mongol unification of trade routes) is the bridge between Topics 2.1 and 2.2. See [[Concept Notes/Mongols|Mongols]] and [[Concept Notes/Pax Mongolica|Pax Mongolica]].
+**[[Unit-2.2/Mongol Empire Overview|Topic 2.2 — The Mongol Empire]]**
+The Mongols are the central cause of the Silk Roads boom in this period. [[Unit-2.2/Mongol Empire Overview|Topic 2.2]] examines the Mongol Empire's rise, its conquest strategies, and its broader impact on Eurasian state-building. The Pax Mongolica (the effect of Mongol unification of trade routes) is the bridge between Topics 2.1 and 2.2. See [[Concept Notes/Mongols|Mongols]] and [[Concept Notes/Pax Mongolica|Pax Mongolica]].
 
-**Topic 2.5 — Cultural Consequences of Connectivity**
-All the cultural diffusion seeded by Silk Roads exchange — Islam spreading into Central Asia, Buddhist art mixing with Hellenistic forms, Chinese technology traveling westward — is developed more fully in Topic 2.5. Cities like Kashgar and Samarkand, introduced in 2.1, appear again as examples of multicultural exchange.
+**[[Unit-2.5/Cultural Consequences Overview|Topic 2.5 — Cultural Consequences of Connectivity]]**
+All the cultural diffusion seeded by Silk Roads exchange — Islam spreading into Central Asia, Buddhist art mixing with Hellenistic forms, Chinese technology traveling westward — is developed more fully in [[Unit-2.5/Cultural Consequences Overview|Topic 2.5]]. Cities like Kashgar and Samarkand, introduced in 2.1, appear again as examples of multicultural exchange.
 
-**Topic 2.6 — Environmental Consequences of Connectivity**
-The [[Concept Notes/Black Death\|Black Death]] is the most dramatic negative effect of Silk Roads exchange. The plague bacteria traveled westward along Silk Road trade corridors, reaching Europe by 1347 and killing an estimated one-third of the European population. Topic 2.6 traces this biological diffusion.
+**[[Unit-2.6/Environmental Consequences Overview|Topic 2.6 — Environmental Consequences of Connectivity]]**
+The [[Concept Notes/Black Death\|Black Death]] is the most dramatic negative effect of Silk Roads exchange. The plague bacteria traveled westward along Silk Road trade corridors, reaching Europe by 1347 and killing an estimated one-third of the European population. [[Unit-2.6/Environmental Consequences Overview|Topic 2.6]] traces this biological diffusion.
 
 ---
 
 ## Compare With
 
 **[[Concept Notes/Indian Ocean Trade Network|Topic 2.3 — Indian Ocean Trade]]**
-Both the Silk Roads and the Indian Ocean routes expanded dramatically after 1200, both facilitated luxury goods trade and cultural diffusion, and both connected China to the Islamic world and beyond. The key differences are **medium** (overland vs. maritime), **technology** (caravans/caravanserais vs. dhows/monsoon winds), and **geographic reach** (Eurasia vs. Afro-Eurasia including East Africa). For the AP comparison essay (Topic 2.7 / LEQ), be ready to compare and contrast.
+Both the Silk Roads and the Indian Ocean routes expanded dramatically after 1200, both facilitated luxury goods trade and cultural diffusion, and both connected China to the Islamic world and beyond. The key differences are **medium** (overland vs. maritime), **technology** (caravans/caravanserais vs. dhows/monsoon winds), and **geographic reach** (Eurasia vs. Afro-Eurasia including East Africa). For the AP comparison essay ([[Unit-2.7/Comparison of Economic Exchange Overview|Topic 2.7]] / LEQ), be ready to compare and contrast.
 
 **[[Concept Notes/Trans-Saharan Trade|Topic 2.4 — Trans-Saharan Trade Routes]]**
 Both networks were overland routes requiring specialized infrastructure (caravanserais vs. oasis cities). Both connected luxury goods producers to distant consumers. But they differed in geography (Eurasian steppe vs. Sahara Desert), goods (silk/porcelain vs. gold/salt/enslaved people), and the states that controlled them (Mongol khanates vs. Mali/Songhai empires).
@@ -67,7 +67,7 @@ Both networks were overland routes requiring specialized infrastructure (caravan
 | 1.2 Key Terms & Concepts | Abbasid merchant networks revive overland routes |
 | Silk Roads (Concept Note) | Cross-topic concept hub |
 | Pax Mongolica (Concept Note) | The political foundation for Silk Roads peak |
-| Mongols (Concept Note) | The cause; Topic 2.2 covers in depth |
+| Mongols (Concept Note) | The cause; [[Unit-2.2/Mongol Empire Overview\|Topic 2.2]] covers in depth |
 | Crusades (Concept Note) | Demand driver — introduced European appetite for luxury goods |
 | Indian Ocean Trade Network (Concept Note) | Parallel sea-based network; compare for 2.7 |
 | Trans-Saharan Trade (Concept Note) | Parallel overland network; compare for 2.7 |
