@@ -28,7 +28,9 @@ An exam-focused Obsidian knowledge vault for **AP World History: Modern**, built
 
 ## What This Vault Is
 
-This is a structured, interconnected Obsidian study system for AP World History: Modern. It is not a simple summary of a textbook. Every topic is built around the College Board's learning objectives, AP themes, and historical reasoning skills. Notes are designed to answer three questions that drive every AP exam prompt:
+This is a structured, interconnected Obsidian study system for AP World History: Modern. It is not a replacement for the AMSCO textbook — **read the textbook first.** This vault is a study companion: once you've read a chapter, these notes help you consolidate what you learned, connect it to other topics, and practice applying it the way the AP exam actually tests it. The textbook builds your knowledge; this vault helps you use that knowledge to earn a 5.
+
+Every topic is built around the College Board's learning objectives, AP themes, and historical reasoning skills. Notes are designed to answer three questions that drive every AP exam prompt:
 
 - **What happened, and why?** (causation)
 - **What changed and what stayed the same?** (continuity and change over time)
