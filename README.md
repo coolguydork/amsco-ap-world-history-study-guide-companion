@@ -4,7 +4,7 @@ An exam-focused Obsidian knowledge vault for **AP World History: Modern**, built
 
 > **Textbook:** AMSCO *AP World History: Modern* (single-volume edition)
 > **Exam:** College Board AP World History: Modern (APWH)
-> **Coverage:** All 9 AP units · 67 topics · Periods 1–4 · c. 1200 CE to present
+> **Coverage:** All 9 AP units · 71 topics · Periods 1–4 · c. 1200 CE to present
 > **Built for:** [Obsidian](https://obsidian.md) — works with any Markdown editor
 
 ---
@@ -15,7 +15,7 @@ An exam-focused Obsidian knowledge vault for **AP World History: Modern**, built
 2. [Who This Is For](#who-this-is-for)
 3. [Getting Started](#getting-started)
 4. [How the Vault Is Organized](#how-the-vault-is-organized)
-5. [All 9 Units and 67 Topics](#all-9-units-and-67-topics)
+5. [All 9 Units and 71 Topics](#all-9-units-and-71-topics)
 6. [AP Themes and Historical Reasoning Skills](#ap-themes-and-historical-reasoning-skills)
 7. [Note Types — What Each File Contains](#note-types--what-each-file-contains)
 8. [Concept Notes — Cross-Topic Hubs](#concept-notes--cross-topic-hubs)
@@ -87,7 +87,7 @@ AP World History Study/
 
 ---
 
-## All 9 Units and 67 Topics
+## All 9 Units and 71 Topics
 
 ### Unit 1 — The Global Tapestry (Period 1: c. 1200–c. 1450)
 
@@ -288,9 +288,11 @@ A dedicated note mapping this topic's connections to the rest of AP World Histor
 
 The `Concept Notes/` folder holds hub notes for major concepts, institutions, religions, trade networks, and empires that span multiple AP topics. These are not duplicates of topic notes — they synthesize information from across the vault into one place, with links back to every relevant topic.
 
-**Currently built concept notes:**
+**Currently built concept notes (83 total):**
 
+*Units 1–2 (c. 1200–c. 1450)*
 - **Bhakti Movement** — Hindu devotional tradition, caste, social hierarchy, South Asian religion
+- **Black Death / Bubonic Plague** — Mongol trade routes, demographic collapse, long-term social effects
 - **Buddhism** — Origins, spread along trade routes, Theravada / Mahayana / Vajrayana, East and Southeast Asian influence
 - **Civil Service Examination** — Chinese meritocracy, Song Dynasty governance, Tang–Song transition
 - **Crusades** — European–Islamic interaction, trade consequences, religious justification for violence
@@ -306,6 +308,81 @@ The `Concept Notes/` folder holds hub notes for major concepts, institutions, re
 - **Syncretism** — Religious and cultural blending across traditions; central to the CDI theme
 - **Trans-Saharan Trade** — Gold–salt exchange, Mali and Songhai empires, Islam in West Africa
 - **Tribute System** — Chinese-centered hierarchy, neighboring states' relationships with the Middle Kingdom
+
+*Units 3–4 (c. 1450–c. 1750)*
+- **Atlantic Slave Trade** — Transatlantic forced migration, Middle Passage, plantation economies
+- **Conquistadores** — Spanish conquest of the Americas, indigenous collapse, colonial extraction
+- **Dutch East India Company (VOC)** — Joint-stock company, maritime empire, Indian Ocean dominance
+- **East India Company** — British imperial commerce, India, colonial administration
+- **Encomienda** — Spanish labor system, indigenous exploitation, Americas
+- **Gunpowder Empires** — Ottoman, Safavid, Mughal, Ming/Qing — common patterns of imperial expansion
+- **Joint-Stock Companies** — Financing exploration and empire, shared risk, early capitalism
+- **Manchu** — Qing Dynasty origins, conquest of Ming China, ethnic governance
+- **Mercantilism** — Colonial economic theory, bullion, trade surpluses, metropole–colony relationships
+- **Mestizos** — Mixed-race identity in colonial Latin America, social hierarchy, casta system
+- **Ming Dynasty** — Confucian governance, tribute system, Zheng He, decline and Qing succession
+- **Nonaggression Pact** — Nazi-Soviet agreement, WWII context (also relevant Unit 7)
+- **Peninsulares** — Spanish-born colonial elite, social hierarchy, Latin American independence pressure
+- **Price Revolution** — Inflation from New World silver, European economic disruption
+- **Proclamation of 1763** — British colonial policy, indigenous land rights, settler conflict
+- **Protestant Reformation** — Religious fracture in Europe, state power, Wars of Religion
+- **Qing Dynasty** — Manchu rule of China, Confucian governance, decline under imperialism
+- **Smallpox** — Columbian Exchange disease, indigenous population collapse, biological imperialism
+- **Túpac Amaru II** — Indigenous resistance, Andean uprising, late colonial Latin America
+
+*Units 5–6 (c. 1750–c. 1900)*
+- **Berlin Conference** — Partition of Africa, European imperialism, arbitrary borders
+- **Bourgeoisie** — Industrial middle class, capitalism, Marxist class analysis
+- **Capitalism** — Market economics, industrial production, labor, global trade systems
+- **Imperialism** — European expansion, colonialism, Social Darwinism, resistance
+- **Industrialization** — Factory system, urbanization, labor conditions, global spread
+- **Keynesian Economics** — Government intervention, demand management, Depression-era response
+- **Labor Unions** — Worker organization, collective bargaining, industrial labor relations
+- **Meiji Restoration** — Japanese modernization, industrialization, resistance to imperialism
+- **Opium Trade** — British-Chinese trade imbalance, Opium Wars, unequal treaties
+- **Philosophes** — Enlightenment thinkers, natural rights, political revolution
+- **Quinine** — European imperialism in tropical Africa, medical technology and conquest
+- **Socialism** — Collective ownership, Marx, utopian and scientific socialism, labor movements
+- **Spanish-American War** — US imperialism, Cuba, Philippines, 1898
+- **Spheres of Influence** — Economic imperialism in China, informal empire, unequal treaties
+- **Taiping Rebellion** — Chinese internal crisis, Christian millenarianism, Qing weakness
+
+*Units 7–9 (c. 1900–present)*
+- **All Quiet on the Western Front** — WWI primary source, trench warfare, Lost Generation
+- **Anti-Semitism** — European Jewish persecution, roots of the Holocaust
+- **Atlantic Charter** — WWII Allied war aims, self-determination, post-war order
+- **Balkan Nationalism** — WWI cause, ethnic nationalism, Austro-Hungarian collapse
+- **Black Hand** — Serbian nationalist organization, assassination of Franz Ferdinand
+- **Bolsheviks** — Russian Revolution, Lenin, communist state formation
+- **Dutch East India Company** — (see Units 3–4 above; also relevant for imperialism comparisons)
+- **Fascism** — Authoritarian nationalism, Italy and Germany, WWII causes
+- **Genocide** — Mass atrocities, legal definition, 20th-century cases
+- **Great Depression** — Global economic collapse, political radicalization, Keynesian response
+- **Green Belt Movement** — Wangari Maathai, environmental activism, women's empowerment
+- **Green Revolution** — Agricultural technology, food security, development paradoxes
+- **Holocaust** — Nazi genocide, antisemitism, WWII atrocity, Nuremberg trials
+- **Holodomor** — Soviet famine in Ukraine, Stalinist collectivization, genocide debate
+- **Human Rights** — Universal Declaration, global norms, Cold War and post-Cold War advocacy
+- **Indian National Congress** — Indian independence movement, Gandhi, nationalist politics
+- **International Court of Justice** — UN judicial body, international law, global governance
+- **International Criminal Court** — War crimes prosecution, post-Cold War justice
+- **Internet** — Globalization of communication, digital economy, cultural exchange
+- **Liberation Theology** — Latin American Catholicism, social justice, Cold War context
+- **Lost Generation** — WWI disillusionment, modernist literature, cultural trauma
+- **Mandate System** — Post-WWI colonial administration, League of Nations, Middle East
+- **Mohandas Gandhi** — Nonviolent resistance, Indian independence, global influence
+- **NATO** — Cold War alliance, collective security, US-European relations
+- **Nationalism** — 19th–20th century political force, self-determination, anti-imperialism
+- **Nazism** — German fascism, racial ideology, Holocaust, WWII
+- **Nuremberg Laws** — Anti-Jewish legislation, Nazi racial policy
+- **Pan-Africanism** — African unity movement, decolonization, cultural identity
+- **Self-Determination** — Wilsonian principle, decolonization, post-Cold War conflicts
+- **Total War** — WWI/WWII mobilization, civilian impact, industrial warfare
+- **United Nations** — Post-WWII international organization, peacekeeping, human rights
+- **Universal Declaration of Human Rights** — 1948 UN document, global human rights norms
+- **Weimar Republic** — Post-WWI Germany, democratic failure, Nazi rise
+- **Doctors Without Borders** — Humanitarian medicine, global health crises
+- **Conquistadores** — (see Units 3–4 above)
 
 ---
 
@@ -427,11 +504,13 @@ All of these topics have fully built note sets in this vault.
 
 ## Current Build Status
 
-**Topics fully built (13 of 67):** All of Unit 1 (Topics 1.1–1.7) and Unit 2 Topics 2.1–2.6.
-**Unit overviews built:** Unit 1.
-**Concept Notes built:** 16 (see list above).
+**All 71 topics fully built** across all 9 units (Topics 1.1–9.9). Every topic folder contains the complete set of seven note files.
 
-Topics 2.7 through 9.9 are in progress. All 67 topic reference files exist and are ready — remaining topics will be added in unit order.
+**All 9 unit overviews built** (Unit-1 Overview through Unit-9 Overview).
+
+**83 Concept Notes built** covering major cross-topic concepts, empires, movements, institutions, and ideas spanning all nine units (see list above).
+
+The vault is complete. All notes are verified and cross-linked.
 
 ---
 
